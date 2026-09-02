@@ -1,0 +1,71 @@
+name: Update v2rayN working subscription
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download latest Luxxuria speed_tested.txt
+        run: |
+          curl -fL --retry 3 \
+            "https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/speed_tested.txt" \
+            -o speed_tested.txt
+          test -s speed_tested.txt
+          echo "Downloaded $(wc -l < speed_tested.txt) upstream lines"
+
+      - name: Install Xray
+        run: |
+          XRAY_VERSION="v26.7.11"
+          curl -fL --retry 3 \
+            "https://github.com/XTLS/Xray-core/releases/download/${XRAY_VERSION}/Xray-linux-64.zip" \
+            -o /tmp/xray.zip
+          unzip -q /tmp/xray.zip xray -d /tmp/xray
+          chmod +x /tmp/xray/xray
+          /tmp/xray/xray version
+
+      - name: Validate VLESS + Gemini + ChatGPT
+        run: |
+          python3 scripts/validate_vless.py \
+            --input speed_tested.txt \
+            --xray /tmp/xray/xray \
+            --working working.txt \
+            --working-base64 working_base64.txt \
+            --report report.tsv \
+            --timeout 10 \
+            --workers 20
+
+      - name: Verify outputs
+        run: |
+          test -s working.txt
+          test -s working_base64.txt
+          python3 - <<'PY'
+          import base64
+          raw = open('working.txt','rb').read()
+          enc = open('working_base64.txt','rb').read().strip()
+          assert base64.b64decode(enc) == raw
+          print('Outputs verified')
+          PY
+
+      - name: Publish subscription files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add working.txt working_base64.txt report.tsv
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update working v2rayN subscription"
+            git push
+          fi
