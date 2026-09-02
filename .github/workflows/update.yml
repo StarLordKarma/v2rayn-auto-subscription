@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: v2rayn-hourly-update
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -15,7 +19,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Download latest Luxxuria speed_tested.txt
         run: |
@@ -35,7 +39,7 @@ jobs:
           chmod +x /tmp/xray/xray
           /tmp/xray/xray version
 
-      - name: Validate VLESS + Gemini + ChatGPT
+      - name: Validate, geolocate and rank VLESS servers
         run: |
           python3 scripts/validate_vless.py \
             --input speed_tested.txt \
@@ -50,12 +54,14 @@ jobs:
         run: |
           test -s working.txt
           test -s working_base64.txt
+          test -s report.tsv
           python3 - <<'PY'
           import base64
           raw = open('working.txt','rb').read()
           enc = open('working_base64.txt','rb').read().strip()
           assert base64.b64decode(enc) == raw
-          print('Outputs verified')
+          assert raw.startswith(b'vless://')
+          print(f'Outputs verified: {raw.count(chr(10).encode())} servers')
           PY
 
       - name: Publish subscription files
@@ -64,8 +70,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add working.txt working_base64.txt report.tsv
           if git diff --cached --quiet; then
-            echo "No changes"
+            echo "No subscription changes"
           else
-            git commit -m "Update working v2rayN subscription"
+            git commit -m "Update ranked v2rayN subscription"
             git push
           fi
