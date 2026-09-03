@@ -1,54 +1,54 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	NO			1979	587		🇳🇱587Mb | Servers Tech Fzco	89.124.115.125	443
-WORKS	YES	NO			590	468		🇷🇺468Mb | Domain names registrar REGRU	31.31.201.19	443
-FAIL	NO	NO			919	368		🇩🇪368Mb | AWS	front.onlydreams.ir	8443
-FAIL	NO	NO			486	344		🌐344Mb | v2go  🇺🇸 US  VLESS  813	45.74.159.28	40924
-FAIL	NO	NO			3218	335		🇷🇺335Mb | New Hosting Technologies	194.55.239.164	443
-FAIL	NO	NO			358	223		🇫🇮223Mb | Hetzner	146.75.119.82	80
-FAIL	NO	NO			327	209		🇬🇧209Mb | WEYRO LTD	public-auth.savesafe.cc	443
-FAIL	NO	NO			4003	205		🇫🇮205Mb | Snowd Security OU	78.17.116.201	443
-FAIL	NO	NO			4002	181		🇧🇬181Mb | ALINDA	prep.wwwinternetvideo.click	443
-FAIL	NO	NO			519	180		🇳🇱180Mb | Netrouting BV	nl-xh01.tcp-reset-club.net	443
-WORKS	YES	YES	161.104.105.34	RU	387	173	7	🌐173Mb | 7469  🇳🇿 New Zealand  VLESS  📺	185.121.179.250	443
-FAIL	NO	NO			377	173		🇷🇺173Mb | JSC Selectel	178.72.167.151	443
+WORKS	YES	YES	89.124.115.125	NL	1397	587	6	🇳🇱587Mb | Servers Tech Fzco	89.124.115.125	443
+WORKS	YES	NO			588	468		🇷🇺468Mb | Domain names registrar REGRU	31.31.201.19	443
+FAIL	NO	NO			686	368		🇩🇪368Mb | AWS	front.onlydreams.ir	8443
+FAIL	NO	NO			502	344		🌐344Mb | v2go  🇺🇸 US  VLESS  813	45.74.159.28	40924
+FAIL	NO	NO			2556	335		🇷🇺335Mb | New Hosting Technologies	194.55.239.164	443
+FAIL	NO	NO			341	223		🇫🇮223Mb | Hetzner	146.75.119.82	80
+FAIL	NO	NO			322	209		🇬🇧209Mb | WEYRO LTD	public-auth.savesafe.cc	443
+FAIL	NO	NO			4002	205		🇫🇮205Mb | Snowd Security OU	78.17.116.201	443
+FAIL	NO	NO			4001	181		🇧🇬181Mb | ALINDA	prep.wwwinternetvideo.click	443
+FAIL	NO	NO			777	180		🇳🇱180Mb | Netrouting BV	nl-xh01.tcp-reset-club.net	443
+WORKS	YES	YES	161.104.105.34	RU	384	173	7	🌐173Mb | 7469  🇳🇿 New Zealand  VLESS  📺	185.121.179.250	443
+FAIL	NO	NO			370	173		🇷🇺173Mb | JSC Selectel	178.72.167.151	443
 FAIL	NO	NO			4002	164		🇧🇬164Mb | ALINDA	prep.wwwinternetvideo.click	443
-FAIL	NO	NO			322	158		🇫🇮158Mb | Web1 Oy	78.17.187.134	2027
-FAIL	NO	NO			491	148		🇳🇱148Mb | Netrouting BV	nl-xh01.tcp-reset-club.net	443
-FAIL	NO	NO			356	147		🇵🇱147Mb | MEVSPACE sp z oo	mov.trostshield.online	443
-WORKS	YES	YES	80.76.43.245	DE	1542	122	5	🇩🇪122Mb | Spacecore Solution	80.76.43.245	443
-FAIL	NO	NO			539	108		🇰🇿108Mb | PS Internet Company LLP	87.199.129.254	443
-WORKS	YES	YES	194.48.250.31	DE	403	108	1	🇩🇪108Mb | Oc Networks Limited	194.48.250.31	443
-FAIL	NO	NO			275	105		🇬🇧105Mb | WEYRO LTD	82.152.223.130	443
-WORKS	YES	YES	156.67.63.231	TR	2156	101	9	🇹🇷101Mb | Hostkey Bv	156.67.63.231	443
-FAIL	NO	NO			581	100		🇰🇿100Mb | PS Internet Company LLP	123.trostshield.online	443
-WORKS	YES	YES	194.48.250.31	DE	411	100		🇩🇪100Mb | Oc Networks Limited	194.48.250.31	443
-FAIL	NO	NO			556	97		🇰🇿97Mb | PS Internet Company LLP	123.trostshield.online	443
-WORKS	YES	YES	91.107.188.158	DE	429	96	3	🌐96Mb | 462ms Германия DE 🇩🇪 @vlesstro	91.107.188.158	8080
-WORKS	YES	YES	194.48.250.31	DE	418	95		🇩🇪95Mb | Oc Networks Limited	194.48.250.31	443
-FAIL	NO	NO			335	95		🇫🇮95Mb | Web1 Oy	78.17.187.134	2027
-WORKS	YES	YES	146.235.16.130	SG	1012	92	8	🇸🇬92Mb | Oracle Cloud	146.235.16.130	19825
-WORKS	YES	YES	194.48.250.31	DE	416	87		🇩🇪87Mb | Oc Networks Limited	194.48.250.31	443
-WORKS	YES	YES	156.67.63.231	TR	1902	87		🇹🇷87Mb | Hostkey Bv	156.67.63.231	443
-FAIL	NO	NO			280	84		🇩🇪84Mb | Dedik Services Limited	movie.trosty.online	443
-WORKS	NO	YES			2081	82		🇹🇷82Mb | Sunucun Bilgi Iletisim Teknolojileri ve Ticaret  Sti	y347t3784gfh478f4.tr.snapeurop.com	666
-WORKS	YES	YES	80.76.43.245	DE	1721	80		🇩🇪80Mb | Spacecore Solution	80.76.43.245	443
-WORKS	YES	YES	80.76.43.245	DE	1684	79		🇩🇪79Mb | Spacecore Solution	80.76.43.245	443
-FAIL	NO	NO			4003	77		🇧🇬77Mb | ALINDA	144.31.50.236	443
-FAIL	NO	NO			285	76		🇫🇷76Mb | WEYRO LTD	panel.freesavesafe.com	443
-FAIL	NO	NO			346	76		🇦🇶76Mb | H2nexus Cloud Services - Fzco	2.27.26.128	2027
-FAIL	NO	NO			4003	68		🇫🇮68Mb | Snowd Security OU	78.17.116.201	443
-WORKS	YES	YES	80.76.43.245	DE	738	67		🇩🇪67Mb | Spacecore Solution	80.76.43.245	443
-WORKS	YES	YES	194.58.41.39	DE	428	66		🇩🇪66Mb | Spacecore Solution	194.58.41.39	443
-FAIL	NO	NO			282	65		🇫🇷65Mb | WEYRO LTD	panel.freesavesafe.com	443
-WORKS	YES	YES	80.76.43.245	DE	1707	64		🇩🇪64Mb | Spacecore Solution	80.76.43.245	443
-FAIL	NO	NO			285	62		🇫🇷62Mb | WEYRO LTD	panel.freesavesafe.com	443
-FAIL	NO	NO			4003	61		🌐61Mb | @meliproxyy	78.17.116.201	443
-WORKS	YES	YES	194.58.41.39	DE	435	60	4	🇩🇪60Mb | Spacecore Solution	194.58.41.39	443
-WORKS	YES	YES	194.48.250.31	DE	409	59		🌐59Mb | @icv2ray	194.48.250.31	443
-WORKS	YES	YES	91.107.154.19	DE	413	58	2	🌐58Mb | 451ms Германия DE 🇩🇪 @vlesstro	91.107.154.19	8080
-FAIL	NO	NO			273	58		🇬🇧58Mb | WEYRO LTD	82.152.223.130	443
-FAIL	NO	NO			503	58		🇪🇪58Mb | Takehost Ou	me.trosty.online	443
-WORKS	YES	YES	80.76.43.245	DE	1369	58		🇩🇪58Mb | Spacecore Solution	80.76.43.245	443
-FAIL	NO	NO			2399	57		🇮🇪57Mb | AWS	18.132.102.151	22222
-WORKS	YES	YES	94.183.208.158	NL	369	57	6	🇳🇱57Mb | Eternity International Limited	94.183.208.158	443
-WORKS	YES	YES	91.107.154.19	DE	314	57		🌐57Mb | 449ms Германия DE 🇩🇪 @vlesstro	91.107.154.19	8080
+FAIL	NO	NO			346	158		🇫🇮158Mb | Web1 Oy	78.17.187.134	2027
+FAIL	NO	NO			749	148		🇳🇱148Mb | Netrouting BV	nl-xh01.tcp-reset-club.net	443
+FAIL	NO	NO			379	147		🇵🇱147Mb | MEVSPACE sp z oo	mov.trostshield.online	443
+FAIL	NO	NO			4002	122		🇩🇪122Mb | Spacecore Solution	80.76.43.245	443
+FAIL	NO	NO			527	108		🇰🇿108Mb | PS Internet Company LLP	87.199.129.254	443
+WORKS	YES	YES	194.48.250.31	DE	413	108	3	🇩🇪108Mb | Oc Networks Limited	194.48.250.31	443
+FAIL	NO	NO			274	105		🇬🇧105Mb | WEYRO LTD	82.152.223.130	443
+WORKS	YES	YES	156.67.63.231	TR	743	101	8	🇹🇷101Mb | Hostkey Bv	156.67.63.231	443
+FAIL	NO	NO			560	100		🇰🇿100Mb | PS Internet Company LLP	123.trostshield.online	443
+WORKS	YES	YES	194.48.250.31	DE	394	100		🇩🇪100Mb | Oc Networks Limited	194.48.250.31	443
+FAIL	NO	NO			548	97		🇰🇿97Mb | PS Internet Company LLP	123.trostshield.online	443
+WORKS	YES	YES	91.107.188.158	DE	409	96	2	🌐96Mb | 462ms Германия DE 🇩🇪 @vlesstro	91.107.188.158	8080
+WORKS	YES	YES	194.48.250.31	DE	400	95		🇩🇪95Mb | Oc Networks Limited	194.48.250.31	443
+FAIL	NO	NO			334	95		🇫🇮95Mb | Web1 Oy	78.17.187.134	2027
+FAIL	NO	NO			4001	92		🇸🇬92Mb | Oracle Cloud	146.235.16.130	19825
+WORKS	YES	YES	194.48.250.31	DE	405	87		🇩🇪87Mb | Oc Networks Limited	194.48.250.31	443
+WORKS	YES	YES	156.67.63.231	TR	662	87		🇹🇷87Mb | Hostkey Bv	156.67.63.231	443
+FAIL	NO	NO			362	84		🇩🇪84Mb | Dedik Services Limited	movie.trosty.online	443
+WORKS	NO	YES			1114	82		🇹🇷82Mb | Sunucun Bilgi Iletisim Teknolojileri ve Ticaret  Sti	y347t3784gfh478f4.tr.snapeurop.com	666
+FAIL	NO	NO			4002	80		🇩🇪80Mb | Spacecore Solution	80.76.43.245	443
+FAIL	NO	NO			4002	79		🇩🇪79Mb | Spacecore Solution	80.76.43.245	443
+FAIL	NO	NO			4002	77		🇧🇬77Mb | ALINDA	144.31.50.236	443
+FAIL	NO	NO			295	76		🇫🇷76Mb | WEYRO LTD	panel.freesavesafe.com	443
+FAIL	NO	NO			352	76		🇦🇶76Mb | H2nexus Cloud Services - Fzco	2.27.26.128	2027
+WORKS	NO	YES			1303	68		🇫🇮68Mb | Snowd Security OU	78.17.116.201	443
+FAIL	NO	NO			4003	67		🇩🇪67Mb | Spacecore Solution	80.76.43.245	443
+WORKS	YES	YES	194.58.41.39	DE	471	66	4	🇩🇪66Mb | Spacecore Solution	194.58.41.39	443
+FAIL	NO	NO			362	65		🇫🇷65Mb | WEYRO LTD	panel.freesavesafe.com	443
+FAIL	NO	NO			4003	64		🇩🇪64Mb | Spacecore Solution	80.76.43.245	443
+FAIL	NO	NO			368	62		🇫🇷62Mb | WEYRO LTD	panel.freesavesafe.com	443
+FAIL	NO	NO			4002	61		🌐61Mb | @meliproxyy	78.17.116.201	443
+WORKS	YES	YES	194.58.41.39	DE	402	60		🇩🇪60Mb | Spacecore Solution	194.58.41.39	443
+WORKS	YES	YES	194.48.250.31	DE	386	59		🌐59Mb | @icv2ray	194.48.250.31	443
+WORKS	YES	YES	91.107.154.19	DE	396	58	1	🌐58Mb | 451ms Германия DE 🇩🇪 @vlesstro	91.107.154.19	8080
+FAIL	NO	NO			272	58		🇬🇧58Mb | WEYRO LTD	82.152.223.130	443
+FAIL	NO	NO			507	58		🇪🇪58Mb | Takehost Ou	me.trosty.online	443
+FAIL	NO	NO			4003	58		🇩🇪58Mb | Spacecore Solution	80.76.43.245	443
+FAIL	NO	NO			2417	57		🇮🇪57Mb | AWS	18.132.102.151	22222
+WORKS	YES	YES	94.183.208.158	NL	392	57	5	🇳🇱57Mb | Eternity International Limited	94.183.208.158	443
+WORKS	YES	YES	91.107.154.19	DE	304	57		🌐57Mb | 449ms Германия DE 🇩🇪 @vlesstro	91.107.154.19	8080
