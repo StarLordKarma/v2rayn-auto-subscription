@@ -1,147 +1,147 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	NO	YES			705	706		🇳🇴706Mb | Sino Worldwide Trading Limited	87.120.104.138	443
-WORKS	NO	YES			626	582		🌐582Mb | v2go  🇦🇪 AE  VLESS  394	31.56.189.27	8765
-WORKS	YES	YES	176.65.144.178	CH	733	504	10	🌐504Mb | 0367  🇨🇭 Switzerland  VLESS  📺	176.65.144.178	443
-FAIL	NO	NO			507	502		🇵🇱502Mb | Mitelis Security Limited	2.26.5.75	443
-WORKS	NO	YES			625	475		🇦🇪475Mb | ExpressHost	31.56.189.27	8765
-FAIL	NO	NO			4003	440		🇷🇺440Mb | JSC Selectel	178.72.167.151	443
-WORKS	NO	YES			706	432		🇳🇴432Mb | Sino Worldwide Trading Limited	87.120.104.138	443
-WORKS	NO	YES			713	405		🇳🇴405Mb | Sino Worldwide Trading Limited	87.120.104.138	443
+WORKS	YES	YES	87.120.104.138	NO	552	706	10	🇳🇴706Mb | Sino Worldwide Trading Limited	87.120.104.138	443
+WORKS	NO	YES			450	582		🌐582Mb | v2go  🇦🇪 AE  VLESS  394	31.56.189.27	8765
+WORKS	YES	YES	176.65.144.178	CH	564	504	6	🌐504Mb | 0367  🇨🇭 Switzerland  VLESS  📺	176.65.144.178	443
+FAIL	NO	NO			353	502		🇵🇱502Mb | Mitelis Security Limited	2.26.5.75	443
+WORKS	NO	YES			436	475		🇦🇪475Mb | ExpressHost	31.56.189.27	8765
+FAIL	NO	NO			4002	440		🇷🇺440Mb | JSC Selectel	178.72.167.151	443
+WORKS	YES	YES	87.120.104.138	NO	565	432		🇳🇴432Mb | Sino Worldwide Trading Limited	87.120.104.138	443
+WORKS	YES	YES	87.120.104.138	NO	590	405		🇳🇴405Mb | Sino Worldwide Trading Limited	87.120.104.138	443
 FAIL	NO	NO			4001	399		🇷🇺399Mb | JSC Selectel	178.72.167.151	443
-WORKS	YES	YES	161.104.105.34	RU	1350	397	16	🇷🇺397Mb | VK	185.121.179.250	443
-FAIL	NO	NO			3519	365		🇩🇪365Mb | Dedik Services Limited	167.148.195.149	443
-WORKS	YES	YES	94.183.208.158	NL	2224	361	13	🇳🇱361Mb | Eternity International Limited	94.183.208.158	443
-FAIL	NO	NO			3660	353		🇩🇪353Mb | Dedik Services Limited	ded53.cloudvk.cc	443
-FAIL	NO	NO			4001	350		🇷🇺350Mb | JSC Selectel	178.72.167.151	443
-WORKS	YES	YES			418	347		🌐347Mb | 🇺🇸 United States, Los Angeles	2.27.160.58	443
-FAIL	NO	NO			4002	341		🌐341Mb | Channel id: @ConfigV2RayNG 🇩🇪	144.31.167.221	443
-WORKS	YES	YES	179.198.50.131	FI	900	339	15	🇫🇮339Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	YES	195.133.80.8	FR	1688	334	17	🌐334Mb | 7566  🇫🇷 France  VLESS  📺 YT	195.133.80.8	443
+WORKS	YES	YES	212.111.86.154	RU	816	397	12	🇷🇺397Mb | VK	185.121.179.250	443
+FAIL	NO	NO			4002	365		🇩🇪365Mb | Dedik Services Limited	167.148.195.149	443
+FAIL	NO	NO			4002	361		🇳🇱361Mb | Eternity International Limited	94.183.208.158	443
+FAIL	NO	NO			4003	353		🇩🇪353Mb | Dedik Services Limited	ded53.cloudvk.cc	443
+FAIL	NO	NO			4004	350		🇷🇺350Mb | JSC Selectel	178.72.167.151	443
+WORKS	YES	NO			223	347		🌐347Mb | 🇺🇸 United States, Los Angeles	2.27.160.58	443
+FAIL	NO	NO			4004	341		🌐341Mb | Channel id: @ConfigV2RayNG 🇩🇪	144.31.167.221	443
+WORKS	YES	YES	179.198.50.131	FI	713	339	11	🇫🇮339Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			3542	334		🌐334Mb | 7566  🇫🇷 France  VLESS  📺 YT	195.133.80.8	443
 FAIL	NO	NO			4002	303		🇷🇺303Mb | JSC Selectel	178.72.167.151	443
 FAIL	NO	NO			4002	303		🇷🇺303Mb | JSC Selectel	178.72.167.151	443
 FAIL	NO	NO			4003	303		🇷🇺303Mb | JSC Selectel	178.72.167.151	443
-FAIL	NO	NO			4003	301		🇷🇴301Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
-WORKS	YES	YES	213.176.73.201	FR	4586	291	18	🇫🇷291Mb | Servhost Group	213.176.73.201	443
-WORKS	NO	YES			608	284		🇩🇪284Mb | RMP Protection Limited	94.26.0.107	443
-FAIL	NO	NO			4002	284		🇷🇺284Mb | JSC Selectel	178.72.167.151	443
-FAIL	NO	NO			4003	277		🇷🇺277Mb | JSC Selectel	178.72.167.151	443
-WORKS	NO	YES			724	268		🇳🇱268Mb | Hostkey Bv	89.40.70.124	443
-FAIL	NO	NO			449	262		🌐262Mb | Channel id: @ConfigV2RayNG 🇳🇱	nl-4.kihsuyhf8jkiugsxb.cfd	443
-WORKS	NO	YES			630	262		🇩🇪262Mb | RMP Protection Limited	94.26.0.107	443
-FAIL	NO	NO			4003	261		🇷🇺261Mb | JSC Selectel	178.72.167.151	443
-FAIL	NO	NO			493	258		🌐258Mb | 🇩🇪 Germany, Frankfurt am Main	144.31.77.71	443
-FAIL	NO	NO			4002	241		🇸🇪241Mb | Aeza Group	89.22.235.173	443
-FAIL	NO	NO			2776	239		🇺🇸239Mb | Servhost Group	150.241.72.148	443
-WORKS	NO	YES			798	238		🇩🇪238Mb | DpkgSoft International Limited	144.31.141.134	7443
-WORKS	NO	YES			789	234		🇩🇪234Mb | DpkgSoft International Limited	144.31.141.134	7443
-WORKS	YES	YES	88.216.68.68	US	226	226	3	🇺🇸226Mb | UAB Cherry Servers	84.32.61.87	443
-WORKS	YES	YES	94.26.0.107	DE	613	223	6	🇩🇪223Mb | RMP Protection Limited	94.26.0.107	443
-FAIL	NO	NO			4002	220		🇳🇱220Mb | Hostkey Bv	89.40.70.124	443
-FAIL	NO	NO			590	218		🇱🇹218Mb | UAB Cherry Servers	188.225.84.42	443
-FAIL	NO	NO			4002	214		🇩🇪214Mb | Spacecore Solution	80.76.43.245	443
-WORKS	NO	YES			3666	212		🇳🇱212Mb | Dedik Services Limited	93.152.220.216	443
-WORKS	YES	YES	193.111.117.60	PL	718	210	14	🇵🇱210Mb | Dedik Services Limited	193.111.117.61	443
-FAIL	NO	NO			4003	210		🇫🇮210Mb | DpkgSoft International Limited	31.77.203.216	7443
-WORKS	YES	YES	88.216.68.68	US	221	206		🇺🇸206Mb | UAB Cherry Servers	84.32.61.87	443
-FAIL	NO	NO			4002	205		🇷🇴205Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
-FAIL	NO	NO			651	201		🇫🇷201Mb | Gabriele Sabatino	87.242.95.198	4443
-FAIL	NO	NO			956	200		🇸🇪200Mb | UAB Cherry Servers	87.242.127.240	443
-FAIL	NO	NO			253	199		🇺🇸199Mb | Unredacted	193.239.179.15	443
-WORKS	YES	YES	144.31.141.134	DE	3714	197	9	🇩🇪197Mb | DpkgSoft International Limited	144.31.141.134	7443
-FAIL	NO	NO			4002	196		🇵🇱196Mb | Korbank S A	185.32.6.75	443
-WORKS	YES	YES	23.94.252.144	US	3864	196	5	🇺🇸196Mb | Dedik Services Limited	23.94.252.141	443
-FAIL	NO	NO			241	194		🇺🇸194Mb | Unredacted	193.239.179.15	443
-FAIL	NO	NO			668	191		🇫🇷191Mb | Gabriele Sabatino	87.242.95.198	4443
-FAIL	NO	NO			4003	191		🇷🇴191Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
-FAIL	NO	NO			682	190		🇫🇷190Mb | Gabriele Sabatino	87.242.95.198	4443
+FAIL	NO	NO			740	301		🇷🇴301Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
+WORKS	YES	YES	213.176.73.201	FR	2919	291	13	🇫🇷291Mb | Servhost Group	213.176.73.201	443
+FAIL	NO	NO			4002	284		🇩🇪284Mb | RMP Protection Limited	94.26.0.107	443
+FAIL	NO	NO			4003	284		🇷🇺284Mb | JSC Selectel	178.72.167.151	443
+FAIL	NO	NO			4002	277		🇷🇺277Mb | JSC Selectel	178.72.167.151	443
+WORKS	YES	YES	89.40.70.124	NL	440	268	7	🇳🇱268Mb | Hostkey Bv	89.40.70.124	443
+FAIL	NO	NO			456	262		🌐262Mb | Channel id: @ConfigV2RayNG 🇳🇱	nl-4.kihsuyhf8jkiugsxb.cfd	443
+FAIL	NO	NO			4002	262		🇩🇪262Mb | RMP Protection Limited	94.26.0.107	443
+FAIL	NO	NO			4002	261		🇷🇺261Mb | JSC Selectel	178.72.167.151	443
+FAIL	NO	NO			2406	258		🌐258Mb | 🇩🇪 Germany, Frankfurt am Main	144.31.77.71	443
+FAIL	NO	NO			4003	241		🇸🇪241Mb | Aeza Group	89.22.235.173	443
+FAIL	NO	NO			2559	239		🇺🇸239Mb | Servhost Group	150.241.72.148	443
+FAIL	NO	NO			4003	238		🇩🇪238Mb | DpkgSoft International Limited	144.31.141.134	7443
+FAIL	NO	NO			4002	234		🇩🇪234Mb | DpkgSoft International Limited	144.31.141.134	7443
+WORKS	YES	YES	88.216.68.68	US	28	226	1	🇺🇸226Mb | UAB Cherry Servers	84.32.61.87	443
+FAIL	NO	NO			4002	223		🇩🇪223Mb | RMP Protection Limited	94.26.0.107	443
+WORKS	YES	YES	89.40.70.124	NL	426	220		🇳🇱220Mb | Hostkey Bv	89.40.70.124	443
+FAIL	NO	NO			548	218		🇱🇹218Mb | UAB Cherry Servers	188.225.84.42	443
+WORKS	YES	YES	80.76.43.245	DE	696	214	5	🇩🇪214Mb | Spacecore Solution	80.76.43.245	443
+FAIL	NO	NO			4003	212		🇳🇱212Mb | Dedik Services Limited	93.152.220.216	443
+FAIL	NO	NO			4002	210		🇵🇱210Mb | Dedik Services Limited	193.111.117.61	443
+WORKS	YES	YES			2487	210		🇫🇮210Mb | DpkgSoft International Limited	31.77.203.216	7443
+WORKS	YES	YES	88.216.68.68	US	30	206		🇺🇸206Mb | UAB Cherry Servers	84.32.61.87	443
+FAIL	NO	NO			639	205		🇷🇴205Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
+FAIL	NO	NO			614	201		🇫🇷201Mb | Gabriele Sabatino	87.242.95.198	4443
+FAIL	NO	NO			1218	200		🇸🇪200Mb | UAB Cherry Servers	87.242.127.240	443
+FAIL	NO	NO			248	199		🇺🇸199Mb | Unredacted	193.239.179.15	443
+FAIL	NO	NO			4003	197		🇩🇪197Mb | DpkgSoft International Limited	144.31.141.134	7443
+FAIL	NO	NO			2715	196		🇵🇱196Mb | Korbank S A	185.32.6.75	443
+FAIL	NO	NO			4003	196		🇺🇸196Mb | Dedik Services Limited	23.94.252.141	443
+FAIL	NO	NO			158	194		🇺🇸194Mb | Unredacted	193.239.179.15	443
+FAIL	NO	NO			560	191		🇫🇷191Mb | Gabriele Sabatino	87.242.95.198	4443
+FAIL	NO	NO			710	191		🇷🇴191Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
+FAIL	NO	NO			567	190		🇫🇷190Mb | Gabriele Sabatino	87.242.95.198	4443
 FAIL	NO	NO			4002	189		🇷🇺189Mb | JSC Selectel	178.72.167.151	443
-FAIL	NO	NO			152	189		🇺🇸189Mb | NetCrafters OU	77.110.123.230	443
+FAIL	NO	NO			82	189		🇺🇸189Mb | NetCrafters OU	77.110.123.230	443
 FAIL	NO	NO			4002	185		🇳🇱185Mb | Oracle Cloud	143.47.190.54	62145
-FAIL	NO	NO			515	185		🌐185Mb | Бесплатный VPN Tg:VlessForU 🇸🇪	2.27.23.245	443
-FAIL	NO	NO			4002	184		🇷🇴184Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
-FAIL	NO	NO			450	182		🇩🇪182Mb | dataforest GmbH	avczx.cloudvk.cc	443
-FAIL	NO	NO			4002	182		🇷🇴182Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
-FAIL	NO	NO			165	179		🇺🇸179Mb | NetCrafters OU	us-1.kihsuyhf8jkiugsxb.cfd	443
-FAIL	NO	NO			4002	177		🇷🇴177Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
-WORKS	YES	YES	2.27.160.53	US	67	175	1	🇺🇸175Mb | Dedik Services Limited	2.27.160.58	443
-FAIL	NO	NO			4002	173		🇷🇴173Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
-FAIL	NO	NO			4002	172		🇷🇺172Mb | JSC Selectel	178.72.167.151	443
-FAIL	NO	NO			663	168		🇫🇷168Mb | Gabriele Sabatino	87.242.95.198	4443
-FAIL	NO	NO			674	167		🇫🇷167Mb | Gabriele Sabatino	87.242.95.198	4443
-FAIL	NO	NO			417	163		🇩🇪163Mb | dataforest GmbH	45.145.42.43	443
-WORKS	YES	YES	23.94.252.144	US	409	158		🇺🇸158Mb | Dedik Services Limited	23.94.252.141	443
-FAIL	NO	NO			661	155		🇫🇷155Mb | Gabriele Sabatino	87.242.95.198	4443
-FAIL	NO	NO			1348	152		🇫🇷152Mb | Gabriele Sabatino	87.242.95.198	4443
-FAIL	NO	NO			672	150		🇫🇷150Mb | Gabriele Sabatino	87.242.95.198	4443
-FAIL	NO	NO			2315	150		🇸🇪150Mb | UAB Cherry Servers	87.242.127.240	443
-FAIL	NO	NO			4001	148		🇺🇸148Mb | Akamai Connected Cloud	t17.qifei.app	443
-FAIL	NO	NO			225	143		🇺🇸143Mb | Unredacted	193.239.179.15	443
+FAIL	NO	NO			438	185		🌐185Mb | Бесплатный VPN Tg:VlessForU 🇸🇪	2.27.23.245	443
+FAIL	NO	NO			772	184		🇷🇴184Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
+FAIL	NO	NO			367	182		🇩🇪182Mb | dataforest GmbH	avczx.cloudvk.cc	443
+FAIL	NO	NO			627	182		🇷🇴182Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
+FAIL	NO	NO			434	179		🇺🇸179Mb | NetCrafters OU	us-1.kihsuyhf8jkiugsxb.cfd	443
+FAIL	NO	NO			759	177		🇷🇴177Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
+WORKS	YES	YES	2.27.160.53	US	731	175	3	🇺🇸175Mb | Dedik Services Limited	2.27.160.58	443
+FAIL	NO	NO			754	173		🇷🇴173Mb | Netrouting BV	ro-xh01.tcp-reset-club.net	443
+FAIL	NO	NO			4003	172		🇷🇺172Mb | JSC Selectel	178.72.167.151	443
+FAIL	NO	NO			567	168		🇫🇷168Mb | Gabriele Sabatino	87.242.95.198	4443
+FAIL	NO	NO			574	167		🇫🇷167Mb | Gabriele Sabatino	87.242.95.198	4443
+FAIL	NO	NO			322	163		🇩🇪163Mb | dataforest GmbH	45.145.42.43	443
+FAIL	NO	NO			4002	158		🇺🇸158Mb | Dedik Services Limited	23.94.252.141	443
+FAIL	NO	NO			620	155		🇫🇷155Mb | Gabriele Sabatino	87.242.95.198	4443
+FAIL	NO	NO			567	152		🇫🇷152Mb | Gabriele Sabatino	87.242.95.198	4443
+FAIL	NO	NO			580	150		🇫🇷150Mb | Gabriele Sabatino	87.242.95.198	4443
+FAIL	NO	NO			947	150		🇸🇪150Mb | UAB Cherry Servers	87.242.127.240	443
+WORKS	YES	YES			235	148		🇺🇸148Mb | Akamai Connected Cloud	t17.qifei.app	443
+FAIL	NO	NO			166	143		🇺🇸143Mb | Unredacted	193.239.179.15	443
 FAIL	NO	NO			4002	142		🇩🇪142Mb | Spacecore Solution	80.76.43.245	443
-FAIL	NO	NO			532	141		🇫🇮141Mb | Hetzner	62.238.53.13	443
-FAIL	NO	NO			339	141		🇺🇸141Mb | Unredacted	193.239.179.15	443
-FAIL	NO	NO			2606	140		🇷🇺140Mb | JSC Selectel	178.72.167.151	443
-FAIL	NO	NO			662	139		🇫🇷139Mb | Gabriele Sabatino	87.242.95.198	4443
-FAIL	NO	NO			221	138		🇺🇸138Mb | Unredacted	193.239.179.15	443
-FAIL	NO	NO			159	133		🇺🇸133Mb | NetCrafters OU	us-1.kihsuyhf8jkiugsxb.cfd	443
-FAIL	NO	NO			3838	131		🌐131Mb | 🌐 Anycast-IP  🇦🇹 🇬🇧  BL	at-xh01.tcp-reset-club.net	443
-FAIL	NO	NO			4002	131		🇳🇱131Mb | Oracle Cloud	144.21.34.116	62145
-WORKS	NO	YES			413	130		🇺🇸130Mb | Dedik Services Limited	23.94.252.141	443
-WORKS	YES	YES			3230	129		🇺🇸129Mb | Akamai Connected Cloud	t17.qifei.app	443
-FAIL	NO	NO			262	126		🇺🇸126Mb | Unredacted	193.239.179.15	443
-FAIL	NO	NO			251	126		🇺🇸126Mb | Unredacted	193.239.179.15	443
-WORKS	YES	NO			384	124		🇺🇸124Mb | Dedik Services Limited	23.94.252.141	443
-WORKS	YES	YES	2.27.201.153	NL	1112	123	11	🇺🇸123Mb | Fzco	2.27.201.153	443
-WORKS	YES	YES	194.58.41.39	DE	1185	122		🇩🇪122Mb | Spacecore Solution	194.58.41.39	443
-WORKS	YES	YES	194.58.41.39	DE	1430	119	8	🇩🇪119Mb | Spacecore Solution	194.58.41.39	443
-FAIL	NO	NO			318	118		🇺🇸118Mb | Unredacted	193.239.179.15	443
-WORKS	YES	YES	138.124.126.142	DE	650	115	7	🇩🇪115Mb | Digital Hosting Provider	gevip.larpvpn.space	443
-WORKS	YES	YES	45.148.62.162	NL	1644	114	12	🇳🇱114Mb | Hizakura BV	45.148.62.162	443
-FAIL	NO	NO			136	114		🇺🇸114Mb | NetCrafters OU	77.110.123.230	443
-FAIL	NO	NO			538	114		🇫🇮114Mb | Hetzner	62.238.53.13	443
-WORKS	YES	YES	88.216.68.68	US	221	111		🇺🇸111Mb | UAB Cherry Servers	84.32.61.87	443
-FAIL	NO	NO			4002	109		🇺🇸109Mb | NTT America	216.167.21.32	40573
-WORKS	YES	NO			1111	109		🇺🇸109Mb | Akamai Connected Cloud	172.235.62.90	443
-WORKS	YES	YES	88.216.68.68	US	225	109		🇺🇸109Mb | UAB Cherry Servers	84.32.61.87	443
-FAIL	NO	NO			4002	103		🇯🇵103Mb | DMIT Cloud Services	191.222.212.130	37630
-FAIL	NO	NO			260	98		🇺🇸98Mb | Unredacted	193.239.179.15	443
-WORKS	YES	YES	88.216.68.68	US	219	96		🌐96Mb | 🇺🇸 United States, Chicago  BL	84.32.61.87	443
-WORKS	NO	YES			2129	95		🇺🇸95Mb | Akamai Connected Cloud	172.235.62.90	443
-WORKS	YES	YES	88.216.68.68	US	223	94		🇺🇸94Mb | UAB Cherry Servers	84.32.61.87	443
-FAIL	NO	NO			419	92		🇳🇱92Mb | Fornex Hosting SL	nl-4.kihsuyhf8jkiugsxb.cfd	443
-WORKS	YES	YES	2.27.160.53	US	54	91		🇺🇸91Mb | Dedik Services Limited	2.27.160.58	443
-FAIL	NO	NO			536	91		🇫🇮91Mb | Hetzner	62.238.53.13	443
-FAIL	NO	NO			424	88		🌐88Mb | EPODONIOS	nl-4.kihsuyhf8jkiugsxb.cfd	443
-WORKS	NO	YES			449	88		🇺🇸88Mb | NTT America	216.167.94.71	25711
-FAIL	NO	NO			659	88		🇨🇭88Mb | Private Layer INC	46.243.142.89	9443
-WORKS	NO	YES			95	87		🇺🇸87Mb | NTT America	216.167.94.71	25711
-FAIL	NO	NO			248	84		🇺🇸84Mb | Unredacted	193.239.179.15	443
-WORKS	YES	YES	88.216.68.68	US	396	82	4	🇺🇸82Mb | UAB Cherry Servers	sv10.jarvesitw.ru	443
-FAIL	NO	NO			536	81		🌐81Mb | 🇫🇮 Finland, Helsinki  🌐  BL	62.238.53.13	443
-FAIL	NO	NO			765	80		🇷🇺80Mb | Jsc timeweb	ruself.yandex-api.com	443
-FAIL	NO	NO			506	80		🇷🇺80Mb | Jsc timeweb	5.42.96.76	443
-WORKS	YES	YES	194.58.41.39	DE	1722	79		🇩🇪79Mb | Spacecore Solution	194.58.41.39	443
-WORKS	YES	YES	194.58.41.39	DE	1660	78		🇩🇪78Mb | Spacecore Solution	194.58.41.39	443
-WORKS	YES	YES	45.148.62.162	NL	757	78		🇳🇱78Mb | Hizakura BV	45.148.62.162	443
-FAIL	NO	NO			282	78		🇺🇸78Mb | Unredacted	193.239.179.15	443
-FAIL	NO	NO			2385	78		🌐78Mb | 4Jadi-4b43b4bf01	80.76.43.245	443
-FAIL	NO	NO			147	77		🇩🇪77Mb | Oc Networks Limited	194.48.250.31	443
-WORKS	YES	YES	194.58.41.39	DE	1591	77		🇩🇪77Mb | Spacecore Solution	194.58.41.39	443
-WORKS	YES	YES	45.148.62.162	NL	941	77		🇳🇱77Mb | Hizakura BV	45.148.62.162	443
-FAIL	NO	NO			257	76		🇺🇸76Mb | Unredacted	193.239.179.15	443
-FAIL	NO	NO			4003	73		🇳🇱73Mb | Aeza Group	178.236.246.69	443
-FAIL	NO	NO			482	71		🇺🇸71Mb | Servhost Group	at-1.kihsuyhf8jkiugsxb.cfd	443
-FAIL	NO	NO			461	70		🇬🇧70Mb | Servhost Group	31.76.60.110	443
-FAIL	NO	NO			4003	68		🌐68Mb | XHTTP, TCP Reset V.O.I.D	fi-xh01.tcp-reset-club.net	443
-WORKS	YES	YES			2763	67		🇳🇱67Mb | Hostkey Bv	89.40.70.124	443
-FAIL	NO	NO			4003	67		🇦🇪67Mb | HOSTES LTD	151.242.160.11	443
-WORKS	YES	YES	194.58.41.39	DE	1598	67		🇩🇪67Mb | Spacecore Solution	194.58.41.39	443
-WORKS	NO	YES			3330	66		🇺🇸66Mb | NTT America	216.167.94.71	25711
-WORKS	YES	YES	47.251.108.158	US	102	65	2	🌐65Mb | 🇺🇸🚀 США 🏴BL/SNI  🥭🔥	47.251.108.158	443
-WORKS	YES	NO			3334	65		🇪🇪65Mb | Server Farm	86.110.38.108	443
-WORKS	NO	YES			2920	62		🇺🇸62Mb | NTT America	216.167.94.71	25711
-WORKS	YES	YES			1038	61		🇳🇱61Mb | Hostkey Bv	89.40.70.124	443
-FAIL	NO	NO			3929	59		🇦🇹59Mb | Aeza Group	at-xh01.tcp-reset-club.net	443
-WORKS	YES	YES	161.104.105.34	RU	744	59		🇰🇿59Mb | VK	185.121.179.250	443
-FAIL	NO	NO			155	58		🇩🇪58Mb | Oc Networks Limited	194.48.250.31	443
-WORKS	YES	YES	194.58.41.39	DE	1355	57		🇩🇪57Mb | Spacecore Solution	194.58.41.39	443
-FAIL	NO	NO			4003	57		🇳🇱57Mb | Aeza Group	178.236.246.69	443
+FAIL	NO	NO			440	141		🇫🇮141Mb | Hetzner	62.238.53.13	443
+FAIL	NO	NO			176	141		🇺🇸141Mb | Unredacted	193.239.179.15	443
+FAIL	NO	NO			4003	140		🇷🇺140Mb | JSC Selectel	178.72.167.151	443
+FAIL	NO	NO			616	139		🇫🇷139Mb | Gabriele Sabatino	87.242.95.198	4443
+FAIL	NO	NO			188	138		🇺🇸138Mb | Unredacted	193.239.179.15	443
+FAIL	NO	NO			89	133		🇺🇸133Mb | NetCrafters OU	us-1.kihsuyhf8jkiugsxb.cfd	443
+FAIL	NO	NO			508	131		🌐131Mb | 🌐 Anycast-IP  🇦🇹 🇬🇧  BL	at-xh01.tcp-reset-club.net	443
+WORKS	YES	NO			2444	131		🇳🇱131Mb | Oracle Cloud	144.21.34.116	62145
+FAIL	NO	NO			4003	130		🇺🇸130Mb | Dedik Services Limited	23.94.252.141	443
+WORKS	NO	YES			2330	129		🇺🇸129Mb | Akamai Connected Cloud	t17.qifei.app	443
+FAIL	NO	NO			210	126		🇺🇸126Mb | Unredacted	193.239.179.15	443
+FAIL	NO	NO			185	126		🇺🇸126Mb | Unredacted	193.239.179.15	443
+FAIL	NO	NO			4003	124		🇺🇸124Mb | Dedik Services Limited	23.94.252.141	443
+WORKS	YES	YES	2.27.201.153	NL	481	123	8	🇺🇸123Mb | Fzco	2.27.201.153	443
+WORKS	YES	YES	194.58.41.39	DE	621	122	4	🇩🇪122Mb | Spacecore Solution	194.58.41.39	443
+WORKS	YES	YES	194.58.41.39	DE	965	119		🇩🇪119Mb | Spacecore Solution	194.58.41.39	443
+FAIL	NO	NO			181	118		🇺🇸118Mb | Unredacted	193.239.179.15	443
+FAIL	NO	NO			4003	115		🇩🇪115Mb | Digital Hosting Provider	gevip.larpvpn.space	443
+WORKS	YES	YES	45.148.62.162	NL	794	114	9	🇳🇱114Mb | Hizakura BV	45.148.62.162	443
+FAIL	NO	NO			83	114		🇺🇸114Mb | NetCrafters OU	77.110.123.230	443
+FAIL	NO	NO			442	114		🇫🇮114Mb | Hetzner	62.238.53.13	443
+WORKS	YES	YES	88.216.68.68	US	29	111		🇺🇸111Mb | UAB Cherry Servers	84.32.61.87	443
+FAIL	NO	NO			4003	109		🇺🇸109Mb | NTT America	216.167.21.32	40573
+FAIL	NO	NO			4002	109		🇺🇸109Mb | Akamai Connected Cloud	172.235.62.90	443
+WORKS	YES	YES	88.216.68.68	US	30	109		🇺🇸109Mb | UAB Cherry Servers	84.32.61.87	443
+WORKS	YES	NO			644	103		🇯🇵103Mb | DMIT Cloud Services	191.222.212.130	37630
+FAIL	NO	NO			147	98		🇺🇸98Mb | Unredacted	193.239.179.15	443
+WORKS	YES	YES	88.216.68.68	US	27	96		🌐96Mb | 🇺🇸 United States, Chicago  BL	84.32.61.87	443
+WORKS	NO	NO			210	95		🇺🇸95Mb | Akamai Connected Cloud	172.235.62.90	443
+WORKS	YES	YES	88.216.68.68	US	33	94		🇺🇸94Mb | UAB Cherry Servers	84.32.61.87	443
+FAIL	NO	NO			311	92		🇳🇱92Mb | Fornex Hosting SL	nl-4.kihsuyhf8jkiugsxb.cfd	443
+WORKS	YES	YES	2.27.160.53	US	309	91		🇺🇸91Mb | Dedik Services Limited	2.27.160.58	443
+FAIL	NO	NO			441	91		🇫🇮91Mb | Hetzner	62.238.53.13	443
+FAIL	NO	NO			305	88		🌐88Mb | EPODONIOS	nl-4.kihsuyhf8jkiugsxb.cfd	443
+WORKS	NO	YES			928	88		🇺🇸88Mb | NTT America	216.167.94.71	25711
+FAIL	NO	NO			636	88		🇨🇭88Mb | Private Layer INC	46.243.142.89	9443
+WORKS	NO	YES			603	87		🇺🇸87Mb | NTT America	216.167.94.71	25711
+FAIL	NO	NO			178	84		🇺🇸84Mb | Unredacted	193.239.179.15	443
+WORKS	YES	YES	88.216.68.68	US	375	82	2	🇺🇸82Mb | UAB Cherry Servers	sv10.jarvesitw.ru	443
+FAIL	NO	NO			446	81		🌐81Mb | 🇫🇮 Finland, Helsinki  🌐  BL	62.238.53.13	443
+FAIL	NO	NO			758	80		🇷🇺80Mb | Jsc timeweb	ruself.yandex-api.com	443
+FAIL	NO	NO			413	80		🇷🇺80Mb | Jsc timeweb	5.42.96.76	443
+WORKS	YES	YES	194.58.41.39	DE	1652	79		🇩🇪79Mb | Spacecore Solution	194.58.41.39	443
+WORKS	YES	YES	194.58.41.39	DE	1832	78		🇩🇪78Mb | Spacecore Solution	194.58.41.39	443
+WORKS	YES	YES	45.148.62.162	NL	2311	78		🇳🇱78Mb | Hizakura BV	45.148.62.162	443
+FAIL	NO	NO			180	78		🇺🇸78Mb | Unredacted	193.239.179.15	443
+FAIL	NO	NO			4002	78		🌐78Mb | 4Jadi-4b43b4bf01	80.76.43.245	443
+FAIL	NO	NO			104	77		🇩🇪77Mb | Oc Networks Limited	194.48.250.31	443
+WORKS	YES	YES	194.58.41.39	DE	1648	77		🇩🇪77Mb | Spacecore Solution	194.58.41.39	443
+WORKS	YES	YES	45.148.62.162	NL	2041	77		🇳🇱77Mb | Hizakura BV	45.148.62.162	443
+FAIL	NO	NO			233	76		🇺🇸76Mb | Unredacted	193.239.179.15	443
+FAIL	NO	NO			4002	73		🇳🇱73Mb | Aeza Group	178.236.246.69	443
+FAIL	NO	NO			557	71		🇺🇸71Mb | Servhost Group	at-1.kihsuyhf8jkiugsxb.cfd	443
+FAIL	NO	NO			339	70		🇬🇧70Mb | Servhost Group	31.76.60.110	443
+FAIL	NO	NO			1074	68		🌐68Mb | XHTTP, TCP Reset V.O.I.D	fi-xh01.tcp-reset-club.net	443
+WORKS	NO	NO			438	67		🇳🇱67Mb | Hostkey Bv	89.40.70.124	443
+WORKS	YES	NO			2214	67		🇦🇪67Mb | HOSTES LTD	151.242.160.11	443
+WORKS	YES	YES	194.58.41.39	DE	2045	67		🇩🇪67Mb | Spacecore Solution	194.58.41.39	443
+WORKS	NO	YES			534	66		🇺🇸66Mb | NTT America	216.167.94.71	25711
+WORKS	NO	YES			236	65		🌐65Mb | 🇺🇸🚀 США 🏴BL/SNI  🥭🔥	47.251.108.158	443
+FAIL	NO	NO			4002	65		🇪🇪65Mb | Server Farm	86.110.38.108	443
+WORKS	NO	YES			1237	62		🇺🇸62Mb | NTT America	216.167.94.71	25711
+FAIL	NO	NO			4002	61		🇳🇱61Mb | Hostkey Bv	89.40.70.124	443
+FAIL	NO	NO			695	59		🇦🇹59Mb | Aeza Group	at-xh01.tcp-reset-club.net	443
+WORKS	YES	YES	212.111.86.154	RU	430	59		🇰🇿59Mb | VK	185.121.179.250	443
+FAIL	NO	NO			113	58		🇩🇪58Mb | Oc Networks Limited	194.48.250.31	443
+WORKS	YES	YES	194.58.41.39	DE	919	57		🇩🇪57Mb | Spacecore Solution	194.58.41.39	443
+FAIL	NO	NO			4002	57		🇳🇱57Mb | Aeza Group	178.236.246.69	443
