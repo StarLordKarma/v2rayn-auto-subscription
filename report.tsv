@@ -1,54 +1,54 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	NO			2019	730		🌐730Mb | Reality, Яндекс Карты V.O.I.D	176.109.88.216	443
-WORKS	YES	YES	185.189.44.200	SE	1379	641	13	🌐641Mb | @DeltaKroneckerGithub	sv11.jarvesitw.ru	443
-FAIL	NO	NO			444	370		🇷🇺370Mb | VK	185.121.179.250	443
-FAIL	NO	NO			4002	360		🇫🇮360Mb | DpkgSoft International Limited	31.77.203.216	7443
-FAIL	NO	NO			4003	347		🇫🇮347Mb | DpkgSoft International Limited	31.77.203.216	7443
-FAIL	NO	NO			4003	342		🇫🇮342Mb | DpkgSoft International Limited	31.77.203.216	7443
-FAIL	NO	NO			4002	310		🇫🇮310Mb | DpkgSoft International Limited	31.77.203.216	7443
-FAIL	NO	NO			621	289		🇷🇺289Mb | JSC Selectel	178.72.167.151	443
-WORKS	YES	YES	185.189.44.200	SE	1022	282	12	🌐282Mb | filembad-392	84.32.154.51	443
-WORKS	YES	YES	64.188.119.205	DE	820	281	1	🇩🇪281Mb | DpkgSoft International Limited	64.188.119.205	443
-FAIL	NO	NO			4002	281		🇳🇱281Mb | Oracle Cloud	92.5.231.30	62145
-FAIL	NO	NO			895	280		🇸🇪280Mb | Aeza Group	eu-xh01.tcp-reset-club.net	443
-WORKS	YES	YES	81.168.62.160	FR	645	271	8	🇫🇷271Mb | 12651980 CANADA INC	81.168.62.160	2083
-FAIL	NO	NO			4002	261		🇳🇱261Mb | Oracle Cloud	92.5.231.30	62145
-FAIL	NO	NO			4003	260		🇫🇮260Mb | DpkgSoft International Limited	31.77.203.216	7443
-WORKS	YES	YES	195.133.80.8	FR	689	252	9	🇵🇱252Mb | Soulful Hosting	195.133.80.8	443
-FAIL	NO	NO			4002	249		🇳🇱249Mb | Oracle Cloud	193.123.59.111	62145
-WORKS	YES	YES	89.40.70.124	NL	602	244	4	🇳🇱244Mb | Hostkey Bv	89.40.70.124	443
+WORKS	YES	YES	217.179.220.226	GB	1768	730	1	🌐730Mb | Reality, Яндекс Карты V.O.I.D	176.109.88.216	443
+WORKS	YES	YES	185.189.44.200	SE	1167	641	14	🌐641Mb | @DeltaKroneckerGithub	sv11.jarvesitw.ru	443
+FAIL	NO	NO			334	370		🇷🇺370Mb | VK	185.121.179.250	443
+WORKS	YES	NO			2862	360		🇫🇮360Mb | DpkgSoft International Limited	31.77.203.216	7443
+WORKS	YES	NO			2816	347		🇫🇮347Mb | DpkgSoft International Limited	31.77.203.216	7443
+WORKS	YES	NO			2877	342		🇫🇮342Mb | DpkgSoft International Limited	31.77.203.216	7443
+WORKS	YES	NO			2925	310		🇫🇮310Mb | DpkgSoft International Limited	31.77.203.216	7443
+FAIL	NO	NO			4002	289		🇷🇺289Mb | JSC Selectel	178.72.167.151	443
+WORKS	YES	YES	185.189.44.200	SE	821	282	10	🌐282Mb | filembad-392	84.32.154.51	443
+WORKS	YES	YES	64.188.119.205	DE	3978	281	4	🇩🇪281Mb | DpkgSoft International Limited	64.188.119.205	443
+FAIL	NO	NO			4003	281		🇳🇱281Mb | Oracle Cloud	92.5.231.30	62145
+FAIL	NO	NO			2220	280		🇸🇪280Mb | Aeza Group	eu-xh01.tcp-reset-club.net	443
+WORKS	YES	YES	81.168.62.160	FR	1140	271	13	🇫🇷271Mb | 12651980 CANADA INC	81.168.62.160	2083
+FAIL	NO	NO			4003	261		🇳🇱261Mb | Oracle Cloud	92.5.231.30	62145
+WORKS	YES	NO			2820	260		🇫🇮260Mb | DpkgSoft International Limited	31.77.203.216	7443
+WORKS	NO	NO			519	252		🇵🇱252Mb | Soulful Hosting	195.133.80.8	443
+FAIL	NO	NO			4003	249		🇳🇱249Mb | Oracle Cloud	193.123.59.111	62145
+WORKS	YES	YES	89.40.70.124	NL	438	244	5	🇳🇱244Mb | Hostkey Bv	89.40.70.124	443
 FAIL	NO	NO			4002	243		🇳🇱243Mb | Hizakura BV	45.148.62.162	443
-FAIL	NO	NO			4004	234		🇳🇱234Mb | Oracle Cloud	152.70.53.161	62145
-WORKS	YES	NO			794	225		🇩🇪225Mb | DpkgSoft International Limited	144.31.141.134	7443
-WORKS	YES	YES			3298	183		🇮🇶183Mb | Node Host Limited	eu-central-de-1.hanvpn.biz	443
-WORKS	YES	YES	91.239.157.84	DE	871	177	2	🇩🇪177Mb | Clouvider Limited	82.39.171.12	443
-WORKS	YES	YES	206.206.78.36	SG	695	164	10	🌐164Mb | 🇸🇬 1971 - SG - VLESS/REALITY/P	206.206.78.36	443
-WORKS	YES	YES			961	152		🇳🇱152Mb | Hizakura BV	45.148.62.162	443
-FAIL	NO	NO			501	143		🌐143Mb | EPODONIOS	31.76.60.110	443
-WORKS	YES	YES	94.183.208.158	NL	777	130		🇳🇱130Mb | Eternity International Limited	94.183.208.158	443
-FAIL	NO	NO			4003	125		🇸🇪125Mb | Node Host Limited	eu-north-sw-1.hanvpn.biz	443
-WORKS	YES	YES	94.183.208.158	NL	763	122	5	🇳🇱122Mb | Eternity International Limited	94.183.208.158	443
-FAIL	NO	NO			4002	118		🇳🇱118Mb | Hizakura BV	45.148.62.162	443
-WORKS	YES	YES	2.27.12.175	NL	1450	115	6	🇳🇱115Mb | Node Host Limited	eu-west-nl-1.hanvpn.biz	443
-FAIL	NO	NO			593	114		🇷🇺114Mb | JSC Selectel	178.72.167.151	443
-WORKS	YES	NO			2507	112		🇳🇱112Mb | Oracle Cloud	193.123.36.106	62145
-FAIL	NO	NO			594	110		🇷🇺110Mb | JSC Selectel	178.72.167.151	443
-FAIL	NO	NO			482	98		🇩🇪98Mb | Spacecore Solution	194.58.41.39	443
-FAIL	NO	NO			474	94		🇩🇪94Mb | Spacecore Solution	194.58.41.39	443
-FAIL	NO	NO			488	86		🇩🇪86Mb | Spacecore Solution	194.58.41.39	443
-WORKS	YES	YES	31.76.120.96	FI	962	83	11	🇫🇮83Mb | Node Host Limited	eu-north-fi-1.hanvpn.biz	443
-FAIL	NO	NO			466	79		🇩🇪79Mb | Spacecore Solution	194.58.41.39	443
-FAIL	NO	NO			478	79		🇩🇪79Mb | Spacecore Solution	194.58.41.39	443
+FAIL	NO	NO			4002	234		🇳🇱234Mb | Oracle Cloud	152.70.53.161	62145
+WORKS	YES	YES	144.31.141.134	DE	614	225	2	🇩🇪225Mb | DpkgSoft International Limited	144.31.141.134	7443
+WORKS	YES	YES			781	183		🇮🇶183Mb | Node Host Limited	eu-central-de-1.hanvpn.biz	443
+WORKS	YES	YES	91.239.157.84	DE	1209	177	3	🇩🇪177Mb | Clouvider Limited	82.39.171.12	443
+WORKS	YES	YES	206.206.78.36	SG	850	164	11	🌐164Mb | 🇸🇬 1971 - SG - VLESS/REALITY/P	206.206.78.36	443
+WORKS	YES	YES	45.148.62.162	NL	855	152	6	🇳🇱152Mb | Hizakura BV	45.148.62.162	443
+FAIL	NO	NO			358	143		🌐143Mb | EPODONIOS	31.76.60.110	443
+WORKS	YES	YES	94.183.208.158	NL	869	130	7	🇳🇱130Mb | Eternity International Limited	94.183.208.158	443
+WORKS	YES	YES	81.90.21.255	SE	2758	125	15	🇸🇪125Mb | Node Host Limited	eu-north-sw-1.hanvpn.biz	443
+WORKS	YES	YES	94.183.208.158	NL	907	122		🇳🇱122Mb | Eternity International Limited	94.183.208.158	443
+WORKS	YES	YES	45.148.62.162	NL	547	118		🇳🇱118Mb | Hizakura BV	45.148.62.162	443
+WORKS	YES	YES	2.27.12.175	NL	3761	115	9	🇳🇱115Mb | Node Host Limited	eu-west-nl-1.hanvpn.biz	443
+FAIL	NO	NO			4002	114		🇷🇺114Mb | JSC Selectel	178.72.167.151	443
+WORKS	YES	YES	193.123.36.106	NL	2377	112	8	🇳🇱112Mb | Oracle Cloud	193.123.36.106	62145
+FAIL	NO	NO			4003	110		🇷🇺110Mb | JSC Selectel	178.72.167.151	443
+FAIL	NO	NO			346	98		🇩🇪98Mb | Spacecore Solution	194.58.41.39	443
+FAIL	NO	NO			336	94		🇩🇪94Mb | Spacecore Solution	194.58.41.39	443
+FAIL	NO	NO			320	86		🇩🇪86Mb | Spacecore Solution	194.58.41.39	443
+WORKS	YES	YES			1275	83		🇫🇮83Mb | Node Host Limited	eu-north-fi-1.hanvpn.biz	443
+FAIL	NO	NO			348	79		🇩🇪79Mb | Spacecore Solution	194.58.41.39	443
+FAIL	NO	NO			339	79		🇩🇪79Mb | Spacecore Solution	194.58.41.39	443
 FAIL	NO	NO			4002	76		🇨🇴76Mb | Oracle Cloud	149.130.190.95	62145
-WORKS	YES	YES	31.76.64.248	DE	3562	75	3	🇺🇸75Mb | Servhost Group	31.76.64.248	443
-FAIL	NO	NO			1532	75		🇩🇪75Mb | Spacecore Solution	80.76.43.245	443
-FAIL	NO	NO			462	73		🇩🇪73Mb | Spacecore Solution	194.58.41.39	443
-FAIL	NO	NO			4002	69		🇪🇪69Mb | Server Farm	86.110.38.108	443
-FAIL	NO	NO			4003	69		🇩🇪69Mb | Spacecore Solution	80.76.43.245	443
-FAIL	NO	NO			476	68		🇺🇸68Mb | Servhost Group	144.31.242.69	443
-FAIL	NO	NO			460	67		🇩🇪67Mb | Spacecore Solution	194.58.41.39	443
-FAIL	NO	NO			4002	65		🇳🇱65Mb | Oracle Cloud	141.148.238.119	62145
-WORKS	YES	YES	45.148.62.162	NL	1897	65	7	🇳🇱65Mb | Hizakura BV	45.148.62.162	443
-FAIL	NO	NO			4002	64		🇵🇱64Mb | Node Host Limited	eu-central-pl-1.hanvpn.biz	443
-FAIL	NO	NO			489	62		🇩🇪62Mb | Spacecore Solution	194.58.41.39	443
-WORKS	YES	YES	31.76.62.226	LV	1757	60	14	🇺🇸60Mb | Servhost Group	31.76.62.226	443
+FAIL	NO	NO			4002	75		🇺🇸75Mb | Servhost Group	31.76.64.248	443
+FAIL	NO	NO			1523	75		🇩🇪75Mb | Spacecore Solution	80.76.43.245	443
+FAIL	NO	NO			330	73		🇩🇪73Mb | Spacecore Solution	194.58.41.39	443
+FAIL	NO	NO			386	69		🇪🇪69Mb | Server Farm	86.110.38.108	443
+FAIL	NO	NO			1706	69		🇩🇪69Mb | Spacecore Solution	80.76.43.245	443
+FAIL	NO	NO			332	68		🇺🇸68Mb | Servhost Group	144.31.242.69	443
+FAIL	NO	NO			334	67		🇩🇪67Mb | Spacecore Solution	194.58.41.39	443
+FAIL	NO	NO			4003	65		🇳🇱65Mb | Oracle Cloud	141.148.238.119	62145
+WORKS	YES	YES	45.148.62.162	NL	2184	65		🇳🇱65Mb | Hizakura BV	45.148.62.162	443
+FAIL	NO	NO			4003	64		🇵🇱64Mb | Node Host Limited	eu-central-pl-1.hanvpn.biz	443
+FAIL	NO	NO			318	62		🇩🇪62Mb | Spacecore Solution	194.58.41.39	443
+WORKS	YES	YES	31.76.62.226	LV	1095	60	12	🇺🇸60Mb | Servhost Group	31.76.62.226	443
