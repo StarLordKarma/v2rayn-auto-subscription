@@ -1,249 +1,249 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	185.189.44.200	SE	1315	669	48	🇸🇪669Mb | UAB Cherry Servers	sv11.jarvesitw.ru	443
-FAIL	NO	NO			522	667		🇷🇺667Mb | VK	185.155.55.2	443
-WORKS	YES	YES	5.75.199.128	DE	789	614	7	🌐614Mb | 🏳️ ShatakVPN 297161	5.75.199.128	2083
-WORKS	YES	YES	185.189.44.200	SE	1014	574	45	🌐574Mb | EPODONIOS	84.32.154.51	443
-WORKS	YES	YES	5.75.199.128	DE	1172	525	9	🌐525Mb | EPODONIOS	filmak.dearhossein-taktaz.ir	2083
-WORKS	NO	NO			3229	489		🇫🇮489Mb | VPSPay Networks LTD	31.76.103.56	443
-FAIL	NO	NO			553	476		🇰🇿476Mb | VK	185.155.55.2	443
-FAIL	NO	NO			4001	462		🌐462Mb | EPODONIOS	31.76.89.110	8443
-FAIL	NO	NO			612	433		🇸🇪433Mb | UAB Cherry Servers	46.243.142.184	4443
-FAIL	NO	NO			518	428		🇰🇿428Mb | VK	185.155.55.2	443
-FAIL	NO	NO			4000	419		🌐419Mb | EPODONIOS	31.76.89.110	8443
-FAIL	NO	NO			4001	418		🇫🇮418Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			4002	416		🇫🇮416Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			4002	413		🇫🇮413Mb | VPSPay Networks LTD	31.76.103.56	443
-FAIL	NO	NO			4004	408		🇫🇮408Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			4003	381		🇫🇮381Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			4002	380		🇫🇮380Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			4002	366		🇫🇮366Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			540	359		🇰🇿359Mb | VK	185.155.55.2	443
-FAIL	NO	NO			528	355		🇳🇱355Mb | Netrouting BV	94.228.219.180	443
-FAIL	NO	NO			4002	355		🇫🇮355Mb | VPSPay Networks LTD	31.76.103.56	443
-FAIL	NO	NO			581	353		🇷🇺353Mb | JSC Selectel	178.72.167.151	443
-FAIL	NO	NO			532	352		🇳🇱352Mb | Netrouting BV	94.228.219.183	443
-FAIL	NO	NO			527	349		🇳🇱349Mb | Netrouting BV	94.228.219.183	443
-FAIL	NO	NO			1140	344		🇷🇺344Mb | VK	185.121.179.250	443
-FAIL	NO	NO			4002	342		🌐342Mb | EPODONIOS	31.76.89.110	8443
+WORKS	YES	YES	185.189.44.200	SE	1152	669	31	🇸🇪669Mb | UAB Cherry Servers	sv11.jarvesitw.ru	443
+FAIL	NO	NO			357	667		🇷🇺667Mb | VK	185.155.55.2	443
+WORKS	YES	YES	5.75.199.128	DE	541	614	5	🌐614Mb | 🏳️ ShatakVPN 297161	5.75.199.128	2083
+WORKS	YES	YES	185.189.44.200	SE	759	574	16	🌐574Mb | EPODONIOS	84.32.154.51	443
+WORKS	YES	YES	5.75.199.128	DE	750	525	7	🌐525Mb | EPODONIOS	filmak.dearhossein-taktaz.ir	2083
+FAIL	NO	NO			367	489		🇫🇮489Mb | VPSPay Networks LTD	31.76.103.56	443
+FAIL	NO	NO			339	476		🇰🇿476Mb | VK	185.155.55.2	443
+WORKS	NO	YES			710	462		🌐462Mb | EPODONIOS	31.76.89.110	8443
+FAIL	NO	NO			451	433		🇸🇪433Mb | UAB Cherry Servers	46.243.142.184	4443
+FAIL	NO	NO			353	428		🇰🇿428Mb | VK	185.155.55.2	443
+WORKS	NO	YES			1062	419		🌐419Mb | EPODONIOS	31.76.89.110	8443
+WORKS	NO	YES			1042	418		🇫🇮418Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			703	416		🇫🇮416Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			365	413		🇫🇮413Mb | VPSPay Networks LTD	31.76.103.56	443
+WORKS	NO	YES			816	408		🇫🇮408Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			1600	381		🇫🇮381Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			3820	380		🇫🇮380Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			844	366		🇫🇮366Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			351	359		🇰🇿359Mb | VK	185.155.55.2	443
+FAIL	NO	NO			1468	355		🇳🇱355Mb | Netrouting BV	94.228.219.180	443
+FAIL	NO	NO			359	355		🇫🇮355Mb | VPSPay Networks LTD	31.76.103.56	443
+FAIL	NO	NO			4003	353		🇷🇺353Mb | JSC Selectel	178.72.167.151	443
+FAIL	NO	NO			639	352		🇳🇱352Mb | Netrouting BV	94.228.219.183	443
+FAIL	NO	NO			403	349		🇳🇱349Mb | Netrouting BV	94.228.219.183	443
+FAIL	NO	NO			276	344		🇷🇺344Mb | VK	185.121.179.250	443
+WORKS	NO	YES			935	342		🌐342Mb | EPODONIOS	31.76.89.110	8443
 FAIL	NO	NO			4002	337		🇵🇱337Mb | Soulful Hosting	195.133.80.8	443
-WORKS	YES	YES	188.137.230.41	DE	612	330	6	🇩🇪330Mb | Podaon SIA	eu-central-de-1.hanvpn.biz	443
-FAIL	NO	NO			997	319		🇳🇱319Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-FAIL	NO	NO			538	319		🇳🇱319Mb | Netrouting BV	94.228.219.183	443
-FAIL	NO	NO			501	319		🇰🇿319Mb | VK	185.155.55.2	443
-FAIL	NO	NO			540	317		🇰🇿317Mb | VK	185.155.55.2	443
-FAIL	NO	NO			1033	312		🇳🇱312Mb | Netrouting BV	94.228.219.183	443
-WORKS	YES	YES	144.31.141.134	DE	1035	310	8	🇩🇪310Mb | DpkgSoft International Limited	144.31.141.134	7443
-FAIL	NO	NO			4002	309		🇳🇱309Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-FAIL	NO	NO			4002	308		🇳🇱308Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-WORKS	YES	YES	188.137.230.41	DE	662	307		🇩🇪307Mb | Podaon SIA	eu-central-de-1.hanvpn.biz	443
-FAIL	NO	NO			4002	306		🇳🇱306Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-FAIL	NO	NO			1325	306		🇳🇱306Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-FAIL	NO	NO			457	304		🇷🇺304Mb | VK	193.160.71.248	443
-FAIL	NO	NO			890	294		🇳🇱294Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-FAIL	NO	NO			623	293		🇷🇺293Mb | JSC Selectel	178.72.167.151	443
-FAIL	NO	NO			4003	292		🌐292Mb | .𖥔 ݁ ˖ִ🛸༄˖°.  BL	150.241.88.112	443
-WORKS	YES	YES	144.31.141.134	DE	983	290		🇩🇪290Mb | DpkgSoft International Limited	144.31.141.134	7443
-FAIL	NO	NO			4002	289		🇳🇱289Mb | Netrouting BV	94.228.219.180	443
-FAIL	NO	NO			607	289		🇷🇺289Mb | JSC Selectel	178.72.167.151	443
-WORKS	NO	YES			1174	283		🇫🇮283Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	YES	YES	188.137.230.41	DE	400	330	4	🇩🇪330Mb | Podaon SIA	eu-central-de-1.hanvpn.biz	443
+FAIL	NO	NO			1779	319		🇳🇱319Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+FAIL	NO	NO			652	319		🇳🇱319Mb | Netrouting BV	94.228.219.183	443
+FAIL	NO	NO			336	319		🇰🇿319Mb | VK	185.155.55.2	443
+FAIL	NO	NO			363	317		🇰🇿317Mb | VK	185.155.55.2	443
+FAIL	NO	NO			890	312		🇳🇱312Mb | Netrouting BV	94.228.219.183	443
+WORKS	YES	NO			808	310		🇩🇪310Mb | DpkgSoft International Limited	144.31.141.134	7443
+FAIL	NO	NO			2023	309		🇳🇱309Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+FAIL	NO	NO			1692	308		🇳🇱308Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+WORKS	YES	YES	188.137.230.41	DE	381	307		🇩🇪307Mb | Podaon SIA	eu-central-de-1.hanvpn.biz	443
+FAIL	NO	NO			1824	306		🇳🇱306Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+FAIL	NO	NO			971	306		🇳🇱306Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+FAIL	NO	NO			267	304		🇷🇺304Mb | VK	193.160.71.248	443
+FAIL	NO	NO			711	294		🇳🇱294Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+FAIL	NO	NO			4002	293		🇷🇺293Mb | JSC Selectel	178.72.167.151	443
+FAIL	NO	NO			416	292		🌐292Mb | .𖥔 ݁ ˖ִ🛸༄˖°.  BL	150.241.88.112	443
+WORKS	NO	YES			857	290		🇩🇪290Mb | DpkgSoft International Limited	144.31.141.134	7443
+FAIL	NO	NO			724	289		🇳🇱289Mb | Netrouting BV	94.228.219.180	443
+FAIL	NO	NO			4002	289		🇷🇺289Mb | JSC Selectel	178.72.167.151	443
+WORKS	NO	YES			1396	283		🇫🇮283Mb | U1 Digital Services	31.76.89.110	8443
 FAIL	NO	NO			4002	280		🇷🇺280Mb | Jsc timeweb	176.124.200.87	443
-FAIL	NO	NO			4002	276		🇫🇮276Mb | DpkgSoft International Limited	31.77.203.216	7443
-WORKS	NO	YES			850	275		🇫🇮275Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			4003	276		🇫🇮276Mb | DpkgSoft International Limited	31.77.203.216	7443
+WORKS	NO	YES			919	275		🇫🇮275Mb | U1 Digital Services	31.76.89.110	8443
 FAIL	NO	NO			4003	274		🇫🇮274Mb | DpkgSoft International Limited	31.77.203.216	7443
-FAIL	NO	NO			667	271		🇷🇺271Mb | JSC Selectel	178.72.167.151	443
-FAIL	NO	NO			4003	270		🇳🇱270Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-FAIL	NO	NO			619	257		🇷🇺257Mb | JSC Selectel	178.72.167.151	443
-FAIL	NO	NO			4002	256		🇳🇱256Mb | Netrouting BV	94.228.219.180	443
-FAIL	NO	NO			4003	254		🇳🇱254Mb | Netrouting BV	94.228.219.183	443
-FAIL	NO	NO			4002	254		🇫🇮254Mb | DpkgSoft International Limited	31.77.203.216	7443
-WORKS	NO	YES			591	250		🌐250Mb | NL   VLESS-XHTTP-RLT - UpCloud	94.237.4.82	443
-WORKS	YES	YES	144.31.141.134	DE	876	243		🇩🇪243Mb | DpkgSoft International Limited	144.31.141.134	7443
-FAIL	NO	NO			4003	234		🇫🇮234Mb | DpkgSoft International Limited	31.77.203.216	7443
-FAIL	NO	NO			3123	233		🇳🇱233Mb | Netrouting BV	94.228.219.180	443
-FAIL	NO	NO			3404	231		🇳🇱231Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-FAIL	NO	NO			850	226		🇳🇱226Mb | Netrouting BV	94.228.219.183	443
-FAIL	NO	NO			4002	225		🇳🇱225Mb | Netrouting BV	94.228.219.180	443
-FAIL	NO	NO			592	223		🇷🇺223Mb | JSC Selectel	178.72.167.151	443
-FAIL	NO	NO			2014	219		🇳🇱219Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+FAIL	NO	NO			4003	271		🇷🇺271Mb | JSC Selectel	178.72.167.151	443
+FAIL	NO	NO			1031	270		🇳🇱270Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+FAIL	NO	NO			4002	257		🇷🇺257Mb | JSC Selectel	178.72.167.151	443
+FAIL	NO	NO			1031	256		🇳🇱256Mb | Netrouting BV	94.228.219.180	443
+FAIL	NO	NO			365	254		🇳🇱254Mb | Netrouting BV	94.228.219.183	443
+WORKS	YES	YES	31.77.203.216	FI	680	254	15	🇫🇮254Mb | DpkgSoft International Limited	31.77.203.216	7443
+WORKS	NO	YES			399	250		🌐250Mb | NL   VLESS-XHTTP-RLT - UpCloud	94.237.4.82	443
+WORKS	YES	NO			1439	243		🇩🇪243Mb | DpkgSoft International Limited	144.31.141.134	7443
+WORKS	YES	YES	31.77.203.216	FI	1595	234		🇫🇮234Mb | DpkgSoft International Limited	31.77.203.216	7443
+FAIL	NO	NO			993	233		🇳🇱233Mb | Netrouting BV	94.228.219.180	443
+FAIL	NO	NO			1002	231		🇳🇱231Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+FAIL	NO	NO			991	226		🇳🇱226Mb | Netrouting BV	94.228.219.183	443
+FAIL	NO	NO			1169	225		🇳🇱225Mb | Netrouting BV	94.228.219.180	443
+FAIL	NO	NO			4001	223		🇷🇺223Mb | JSC Selectel	178.72.167.151	443
+FAIL	NO	NO			1654	219		🇳🇱219Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
 FAIL	NO	NO			4003	213		🇲🇩213Mb | Cloudflare	46.8.158.17	30039
-FAIL	NO	NO			575	206		🇷🇺206Mb | JSC Selectel	178.72.167.151	443
-WORKS	YES	YES	188.137.230.41	DE	643	196		🇩🇪196Mb | Podaon SIA	eu-central-de-1.hanvpn.biz	443
-FAIL	NO	NO			4003	196		🇵🇱196Mb | Korbank S A	185.32.6.75	443
-WORKS	YES	YES	188.137.182.36	NL	635	194	12	🇳🇱194Mb | Podaon SIA	eu-west-nl-1.hanvpn.biz	443
-FAIL	NO	NO			1478	193		🇳🇱193Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-WORKS	YES	YES	188.137.230.41	DE	643	189		🇩🇪189Mb | Podaon SIA	eu-central-de-1.hanvpn.biz	443
-FAIL	NO	NO			1274	185		🇳🇱185Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-WORKS	YES	YES	188.137.230.41	DE	606	185		🇩🇪185Mb | Podaon SIA	eu-central-de-1.hanvpn.biz	443
-WORKS	NO	YES			878	175		🇫🇮175Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			615	170		🇳🇱170Mb | UpCloud	94.237.4.82	443
-WORKS	YES	YES	206.206.78.36	SG	705	169	44	🌐169Mb | @DeltaKroneckerGithub	206.206.78.36	443
-WORKS	YES	YES	129.146.187.36	US	2156	169	4	🇺🇸169Mb | Oracle Cloud	129.146.187.36	50159
-FAIL	NO	NO			4003	165		🇳🇱165Mb | Netrouting BV	94.228.219.180	443
-FAIL	NO	NO			1042	161		🇸🇪161Mb | UAB Cherry Servers	87.242.127.240	443
-WORKS	NO	YES			627	159		🇳🇱159Mb | UpCloud	94.237.4.82	443
-WORKS	YES	YES	188.137.230.41	DE	604	159	5	🇩🇪159Mb | Podaon SIA	188.137.230.41	443
-WORKS	YES	YES	58.153.149.33	HK	664	158	34	🇭🇰158Mb | HKT Limited	564d4e56-tl4g00-tzh357-1tco3.hk3.hyhuawei.com	443
-FAIL	NO	NO			458	156		🇷🇺156Mb | VK	95.133.247.19	443
-WORKS	YES	YES	188.137.182.36	NL	611	156		🇳🇱156Mb | Podaon SIA	eu-west-nl-1.hanvpn.biz	443
-WORKS	YES	YES	81.90.21.40	SE	3791	150	54	🌐150Mb | EPODONIOS	eu-north-sw-1.hanvpn.biz	443
-WORKS	YES	YES	58.153.149.33	HK	634	148		🇭🇰148Mb | HKT Limited	ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com	443
-FAIL	NO	NO			463	146		🇷🇺146Mb | VK	95.133.247.19	443
-WORKS	NO	YES			614	144		🇳🇱144Mb | UpCloud	94.237.4.82	443
-WORKS	YES	YES	58.153.149.33	HK	641	143	24	🇭🇰143Mb | HKT Limited	ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com	443
-FAIL	NO	NO			446	143		🇭🇰143Mb | HKT Limited	c17a6c0c-tl4g00-tpaqgu-1smhu.hk3.hyhuawei.com	443
-FAIL	NO	NO			643	143		🇷🇺143Mb | VK	95.133.247.19	443
-WORKS	YES	YES	58.153.149.33	HK	622	143	18	🇭🇰143Mb | HKT Limited	58.153.149.33	443
-WORKS	NO	YES			1643	142		🇳🇱142Mb | Eternity International Limited	94.183.208.158	443
-WORKS	YES	YES	58.153.149.33	HK	630	141	20	🇭🇰141Mb | HKT Limited	1ba01fa4-tl4g00-tny186-4lg6.hk3.hyhuawei.com	443
+FAIL	NO	NO			4002	206		🇷🇺206Mb | JSC Selectel	178.72.167.151	443
+WORKS	YES	YES	188.137.230.41	DE	399	196		🇩🇪196Mb | Podaon SIA	eu-central-de-1.hanvpn.biz	443
+WORKS	YES	YES	185.32.6.75	PL	486	196	13	🇵🇱196Mb | Korbank S A	185.32.6.75	443
+WORKS	YES	YES	188.137.182.36	NL	406	194	9	🇳🇱194Mb | Podaon SIA	eu-west-nl-1.hanvpn.biz	443
+FAIL	NO	NO			1635	193		🇳🇱193Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+WORKS	YES	YES	188.137.230.41	DE	386	189		🇩🇪189Mb | Podaon SIA	eu-central-de-1.hanvpn.biz	443
+FAIL	NO	NO			4002	185		🇳🇱185Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+WORKS	YES	YES	188.137.230.41	DE	386	185		🇩🇪185Mb | Podaon SIA	eu-central-de-1.hanvpn.biz	443
+FAIL	NO	NO			4003	175		🇫🇮175Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			379	170		🇳🇱170Mb | UpCloud	94.237.4.82	443
+WORKS	YES	YES	206.206.78.36	SG	963	169	27	🌐169Mb | @DeltaKroneckerGithub	206.206.78.36	443
+WORKS	YES	NO			3371	169		🇺🇸169Mb | Oracle Cloud	129.146.187.36	50159
+FAIL	NO	NO			521	165		🇳🇱165Mb | Netrouting BV	94.228.219.180	443
+FAIL	NO	NO			834	161		🇸🇪161Mb | UAB Cherry Servers	87.242.127.240	443
+WORKS	NO	YES			369	159		🇳🇱159Mb | UpCloud	94.237.4.82	443
+WORKS	YES	YES	188.137.230.41	DE	604	159	6	🇩🇪159Mb | Podaon SIA	188.137.230.41	443
+WORKS	YES	YES	58.153.149.33	HK	3742	158	49	🇭🇰158Mb | HKT Limited	564d4e56-tl4g00-tzh357-1tco3.hk3.hyhuawei.com	443
+FAIL	NO	NO			292	156		🇷🇺156Mb | VK	95.133.247.19	443
+WORKS	YES	YES	188.137.182.36	NL	403	156		🇳🇱156Mb | Podaon SIA	eu-west-nl-1.hanvpn.biz	443
+WORKS	YES	YES	81.90.21.40	SE	763	150	17	🌐150Mb | EPODONIOS	eu-north-sw-1.hanvpn.biz	443
+WORKS	YES	YES	58.153.149.33	HK	1917	148		🇭🇰148Mb | HKT Limited	ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com	443
+FAIL	NO	NO			322	146		🇷🇺146Mb | VK	95.133.247.19	443
+WORKS	NO	YES			369	144		🇳🇱144Mb | UpCloud	94.237.4.82	443
+WORKS	YES	YES	58.153.149.33	HK	1113	143	30	🇭🇰143Mb | HKT Limited	ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com	443
+FAIL	NO	NO			1656	143		🇭🇰143Mb | HKT Limited	c17a6c0c-tl4g00-tpaqgu-1smhu.hk3.hyhuawei.com	443
+FAIL	NO	NO			321	143		🇷🇺143Mb | VK	95.133.247.19	443
+WORKS	YES	YES	58.153.149.33	HK	883	143	18	🇭🇰143Mb | HKT Limited	58.153.149.33	443
+WORKS	YES	YES	94.183.208.158	NL	773	142	11	🇳🇱142Mb | Eternity International Limited	94.183.208.158	443
+WORKS	YES	YES	58.153.149.33	HK	1964	141	40	🇭🇰141Mb | HKT Limited	1ba01fa4-tl4g00-tny186-4lg6.hk3.hyhuawei.com	443
 FAIL	NO	NO			4002	139		🇷🇺139Mb | NetCrafters OU	46.8.158.17	30046
-WORKS	YES	YES	58.153.149.33	HK	639	139	23	🇭🇰139Mb | HKT Limited	d1ffd3e0-tl4g00-ts9zoa-1slop.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	654	138	29	🇭🇰138Mb | HKT Limited	6fa50db8-tl4g00-ts40sw-14g76.hk3.hyhuawei.com	443
-WORKS	YES	YES	2.27.201.153	NL	1951	138	15	🇺🇸138Mb | Fzco	2.27.201.153	443
-WORKS	NO	NO			2157	136		🇮🇳136Mb | Cloudflare	46.8.158.17	30027
-FAIL	NO	NO			469	135		🇷🇺135Mb | VK	95.133.247.19	443
-FAIL	NO	NO			4003	134		🇫🇮134Mb | DpkgSoft International Limited	150.241.88.112	443
-FAIL	NO	NO			4002	133		🇬🇧133Mb | B2 Net Solutions	46.8.158.15	31009
-WORKS	YES	YES	146.235.16.130	SG	704	131	43	🌐131Mb | 4Sarina-0ac681fa4d	146.235.16.130	19825
-WORKS	YES	YES	58.153.149.33	HK	659	129	31	🇭🇰129Mb | HKT Limited	b83dbba5-tl4g00-txfm0f-1qxa1.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	644	128		🇭🇰128Mb | HKT Limited	6fa50db8-tl4g00-ts40sw-14g76.hk3.hyhuawei.com	443
-FAIL	NO	NO			4003	127		🇬🇪127Mb | Cloudflare	46.8.158.17	30024
-FAIL	NO	NO			4003	127		🇲🇾127Mb | Cloudflare	46.8.158.17	30038
-WORKS	YES	YES	188.137.242.143	US	286	127	2	🇺🇸127Mb | Podaon SIA	188.137.242.143	443
-WORKS	NO	YES			600	125		🇳🇱125Mb | UpCloud	94.237.4.82	443
-FAIL	NO	NO			4002	125		🇷🇺125Mb | JSC Selectel	178.72.167.151	443
-WORKS	YES	YES	58.153.149.33	HK	659	125	32	🇭🇰125Mb | HKT Limited	f19ad17e-tl4g00-u1dafb-1ro8s.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	635	124		🇭🇰124Mb | HKT Limited	1ba01fa4-tl4g00-tny186-4lg6.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	661	123	33	🇭🇰123Mb | HKT Limited	04a12bf4-tl4g00-ttxkqc-e06r.hk3.hyhuawei.com	443
-FAIL	NO	NO			456	122		🇭🇰122Mb | HKT Limited	0c50eab9-tl4g00-tla4gi-1m0fq.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	651	119	27	🇭🇰119Mb | HKT Limited	f46e6d70-tl4g00-u2e9xs-2b2n.hk3.hyhuawei.com	443
-FAIL	NO	NO			546	118		🇹🇷118Mb | Global Connectivity Solutions Llp	62.133.63.253	443
-WORKS	YES	YES	58.153.149.33	HK	678	118	39	🇭🇰118Mb | HKT Limited	beda7e37-tl4g00-tphxte-1h5u7.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	652	118	28	🇭🇰118Mb | HKT Limited	547c2c7e-tl4g00-tqruo0-1pqhp.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	673	116	38	🇭🇰116Mb | HKT Limited	555ceb14-tl4g00-tv7zgh-1ijh5.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	663	115		🇭🇰115Mb | HKT Limited	04a12bf4-tl4g00-ttxkqc-e06r.hk3.hyhuawei.com	443
-WORKS	YES	YES	188.137.182.36	NL	646	114	13	🇳🇱114Mb | Podaon SIA	188.137.182.36	443
-WORKS	YES	YES	58.153.149.33	HK	648	113	26	🇭🇰113Mb | HKT Limited	6ff2cd34-tl4g00-tr9h64-1f1f1.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	656	113		🇭🇰113Mb | HKT Limited	58.153.149.33	443
-WORKS	NO	YES			598	112		🇳🇱112Mb | UpCloud	94.237.4.82	443
-WORKS	YES	YES	58.153.149.33	HK	641	112		🇭🇰112Mb | HKT Limited	58.153.149.33	443
-WORKS	NO	NO			3069	112		🇰🇿112Mb | Cloudflare	46.8.158.17	30037
-WORKS	YES	YES	58.153.149.33	HK	650	111		🇭🇰111Mb | HKT Limited	58.153.149.33	443
-WORKS	YES	YES	58.153.149.33	HK	706	110		🇭🇰110Mb | HKT Limited	beda7e37-tl4g00-tphxte-1h5u7.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	707	110		🇭🇰110Mb | HKT Limited	564d4e56-tl4g00-tzh357-1tco3.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	2014	139	43	🇭🇰139Mb | HKT Limited	d1ffd3e0-tl4g00-ts9zoa-1slop.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	2024	138	44	🇭🇰138Mb | HKT Limited	6fa50db8-tl4g00-ts40sw-14g76.hk3.hyhuawei.com	443
+WORKS	YES	YES	2.27.201.153	NL	439	138	10	🇺🇸138Mb | Fzco	2.27.201.153	443
+FAIL	NO	NO			4002	136		🇮🇳136Mb | Cloudflare	46.8.158.17	30027
+FAIL	NO	NO			285	135		🇷🇺135Mb | VK	95.133.247.19	443
+FAIL	NO	NO			429	134		🇫🇮134Mb | DpkgSoft International Limited	150.241.88.112	443
+FAIL	NO	NO			4003	133		🇬🇧133Mb | B2 Net Solutions	46.8.158.15	31009
+WORKS	YES	YES	146.235.16.130	SG	1884	131	37	🌐131Mb | 4Sarina-0ac681fa4d	146.235.16.130	19825
+WORKS	YES	YES	58.153.149.33	HK	950	129	24	🇭🇰129Mb | HKT Limited	b83dbba5-tl4g00-txfm0f-1qxa1.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	942	128		🇭🇰128Mb | HKT Limited	6fa50db8-tl4g00-ts40sw-14g76.hk3.hyhuawei.com	443
+FAIL	NO	NO			4002	127		🇬🇪127Mb | Cloudflare	46.8.158.17	30024
+FAIL	NO	NO			4002	127		🇲🇾127Mb | Cloudflare	46.8.158.17	30038
+WORKS	YES	YES	188.137.242.143	US	66	127	1	🇺🇸127Mb | Podaon SIA	188.137.242.143	443
+WORKS	NO	YES			410	125		🇳🇱125Mb | UpCloud	94.237.4.82	443
+FAIL	NO	NO			251	125		🇷🇺125Mb | JSC Selectel	178.72.167.151	443
+WORKS	YES	YES	58.153.149.33	HK	2071	125	45	🇭🇰125Mb | HKT Limited	f19ad17e-tl4g00-u1dafb-1ro8s.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	969	124		🇭🇰124Mb | HKT Limited	1ba01fa4-tl4g00-tny186-4lg6.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	927	123	20	🇭🇰123Mb | HKT Limited	04a12bf4-tl4g00-ttxkqc-e06r.hk3.hyhuawei.com	443
+FAIL	NO	NO			820	122		🇭🇰122Mb | HKT Limited	0c50eab9-tl4g00-tla4gi-1m0fq.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	1186	119	32	🇭🇰119Mb | HKT Limited	f46e6d70-tl4g00-u2e9xs-2b2n.hk3.hyhuawei.com	443
+FAIL	NO	NO			387	118		🇹🇷118Mb | Global Connectivity Solutions Llp	62.133.63.253	443
+WORKS	YES	YES	58.153.149.33	HK	947	118	23	🇭🇰118Mb | HKT Limited	beda7e37-tl4g00-tphxte-1h5u7.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	1202	118	33	🇭🇰118Mb | HKT Limited	547c2c7e-tl4g00-tqruo0-1pqhp.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	1972	116	41	🇭🇰116Mb | HKT Limited	555ceb14-tl4g00-tv7zgh-1ijh5.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	2196	115		🇭🇰115Mb | HKT Limited	04a12bf4-tl4g00-ttxkqc-e06r.hk3.hyhuawei.com	443
+WORKS	YES	YES	188.137.182.36	NL	794	114	12	🇳🇱114Mb | Podaon SIA	188.137.182.36	443
+WORKS	YES	YES	58.153.149.33	HK	1415	113	34	🇭🇰113Mb | HKT Limited	6ff2cd34-tl4g00-tr9h64-1f1f1.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	1168	113		🇭🇰113Mb | HKT Limited	58.153.149.33	443
+WORKS	NO	YES			397	112		🇳🇱112Mb | UpCloud	94.237.4.82	443
+WORKS	YES	YES	58.153.149.33	HK	952	112		🇭🇰112Mb | HKT Limited	58.153.149.33	443
+FAIL	NO	NO			4002	112		🇰🇿112Mb | Cloudflare	46.8.158.17	30037
+WORKS	YES	YES	58.153.149.33	HK	969	111		🇭🇰111Mb | HKT Limited	58.153.149.33	443
+WORKS	YES	YES	58.153.149.33	HK	961	110		🇭🇰110Mb | HKT Limited	beda7e37-tl4g00-tphxte-1h5u7.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	1519	110		🇭🇰110Mb | HKT Limited	564d4e56-tl4g00-tzh357-1tco3.hk3.hyhuawei.com	443
 FAIL	NO	NO			4003	110		🇮🇪110Mb | Cloudflare	46.8.158.17	30028
-WORKS	YES	YES	58.153.149.33	HK	646	109		🇭🇰109Mb | HKT Limited	1ba01fa4-tl4g00-tny186-4lg6.hk3.hyhuawei.com	443
-WORKS	YES	YES	50.7.4.142	IE	1372	109	49	🇮🇪109Mb | FDCserversnet	46.8.158.15	2053
-WORKS	YES	YES	94.183.208.158	NL	716	108	14	🇳🇱108Mb | Eternity International Limited	94.183.208.158	443
-WORKS	YES	YES	203.23.179.170	DE	1848	106	10	🇩🇪106Mb | GSL Networks Pty LTD	46.8.158.15	8443
-WORKS	YES	YES	188.137.242.143	US	304	104	3	🇺🇸104Mb | Podaon SIA	us-main-1.hanvpn.biz	443
-FAIL	NO	NO			479	104		🇺🇸104Mb | Servhost Group	144.31.242.69	443
-FAIL	NO	NO			4003	102		🇯🇵102Mb | Cloudflare	46.8.158.17	30036
-WORKS	YES	YES	58.153.149.33	HK	670	102	36	🇭🇰102Mb | HKT Limited	6b6badbf-tl4g00-tu0ezx-1m7l4.hk3.hyhuawei.com	443
-FAIL	NO	NO			460	101		🇭🇰101Mb | HKT Limited	49c3de25-tl4g00-tvgkxc-hrtf.hk3.hyhuawei.com	443
-FAIL	NO	NO			467	100		🇭🇰100Mb | HKT Limited	f070a8ea-tl4g00-u5ip77-duku.hk3.hyhuawei.com	443
-WORKS	YES	YES			2568	98		🇺🇸98Mb | NovoServe BV	46.8.158.15	31008
-WORKS	YES	YES	58.153.149.33	HK	631	97	21	🇭🇰97Mb | HKT Limited	3d71be18-tl4g00-twnp5a-ahsb.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	630	97	19	🇭🇰97Mb | HKT Limited	b67bcceb-tl4g00-tpftcp-13x18.hk3.hyhuawei.com	443
-WORKS	YES	YES	213.21.237.10	LV	1042	96	46	🇱🇻96Mb | Baykov Ilya Sergeevich	213.21.237.10	443
-FAIL	NO	NO			4003	96		🇲🇩96Mb | Cloudflare	46.8.158.17	30040
-WORKS	YES	YES	58.153.149.33	HK	620	95	17	🇭🇰95Mb | HKT Limited	5fca3221-tl4g00-tpkh0c-1r7od.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	627	95		🇭🇰95Mb | HKT Limited	6b6badbf-tl4g00-tu0ezx-1m7l4.hk3.hyhuawei.com	443
-WORKS	YES	YES	213.21.237.10	LV	1310	95	47	🇱🇻95Mb | Baykov Ilya Sergeevich	eu-east-lv-1.hanvpn.biz	443
+WORKS	YES	YES	58.153.149.33	HK	1238	109		🇭🇰109Mb | HKT Limited	1ba01fa4-tl4g00-tny186-4lg6.hk3.hyhuawei.com	443
+FAIL	NO	NO			4002	109		🇮🇪109Mb | FDCserversnet	46.8.158.15	2053
+WORKS	YES	YES	94.183.208.158	NL	460	108		🇳🇱108Mb | Eternity International Limited	94.183.208.158	443
+FAIL	NO	NO			4003	106		🇩🇪106Mb | GSL Networks Pty LTD	46.8.158.15	8443
+WORKS	YES	YES	188.137.242.143	US	80	104	2	🇺🇸104Mb | Podaon SIA	us-main-1.hanvpn.biz	443
+FAIL	NO	NO			492	104		🇺🇸104Mb | Servhost Group	144.31.242.69	443
+FAIL	NO	NO			4002	102		🇯🇵102Mb | Cloudflare	46.8.158.17	30036
+WORKS	YES	YES	58.153.149.33	HK	2032	102		🇭🇰102Mb | HKT Limited	6b6badbf-tl4g00-tu0ezx-1m7l4.hk3.hyhuawei.com	443
+FAIL	NO	NO			646	101		🇭🇰101Mb | HKT Limited	49c3de25-tl4g00-tvgkxc-hrtf.hk3.hyhuawei.com	443
+FAIL	NO	NO			645	100		🇭🇰100Mb | HKT Limited	f070a8ea-tl4g00-u5ip77-duku.hk3.hyhuawei.com	443
+FAIL	NO	NO			4003	98		🇺🇸98Mb | NovoServe BV	46.8.158.15	31008
+WORKS	YES	YES	58.153.149.33	HK	1486	97	35	🇭🇰97Mb | HKT Limited	3d71be18-tl4g00-twnp5a-ahsb.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	955	97	26	🇭🇰97Mb | HKT Limited	b67bcceb-tl4g00-tpftcp-13x18.hk3.hyhuawei.com	443
+WORKS	YES	YES	213.21.237.10	LV	1794	96	36	🇱🇻96Mb | Baykov Ilya Sergeevich	213.21.237.10	443
+FAIL	NO	NO			4002	96		🇲🇩96Mb | Cloudflare	46.8.158.17	30040
+WORKS	YES	YES	58.153.149.33	HK	1939	95	38	🇭🇰95Mb | HKT Limited	5fca3221-tl4g00-tpkh0c-1r7od.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	2760	95	47	🇭🇰95Mb | HKT Limited	6b6badbf-tl4g00-tu0ezx-1m7l4.hk3.hyhuawei.com	443
+WORKS	YES	YES	213.21.237.10	LV	1986	95	42	🇱🇻95Mb | Baykov Ilya Sergeevich	eu-east-lv-1.hanvpn.biz	443
 FAIL	NO	NO			4002	94		🇨🇦94Mb | Cloudflare	46.8.158.17	30016
 FAIL	NO	NO			4003	93		🌐93Mb | 🇸🇬 Сингапур	46.8.158.17	30050
-WORKS	YES	NO			893	93		🇷🇺93Mb | Kviktel	185.147.26.175	443
+WORKS	YES	NO			610	93		🇷🇺93Mb | Kviktel	185.147.26.175	443
 FAIL	NO	NO			4003	92		🇨🇭92Mb | Cloudflare	46.8.158.17	30054
 FAIL	NO	NO			4003	91		🇷🇺91Mb | Jsc timeweb	176.124.200.87	443
-FAIL	NO	NO			310	90		🌐90Mb | 🌐 Anycast-IP  🇯🇵 🇷🇺  BL	50.7.159.123	443
-WORKS	YES	YES	58.153.149.33	HK	627	90		🇭🇰90Mb | HKT Limited	3d71be18-tl4g00-twnp5a-ahsb.hk3.hyhuawei.com	443
-FAIL	NO	NO			4001	89		🇳🇱89Mb | Servers Tech Fzco	195.63.169.66	443
-WORKS	YES	YES	81.90.21.40	SE	789	89		🇸🇪89Mb | Node Host Limited	eu-north-sw-1.hanvpn.biz	443
-FAIL	NO	NO			4003	89		🇷🇺89Mb | Sysect Doo	46.8.158.17	2053
-WORKS	NO	NO			3387	89		🇷🇺89Mb | Sysect Doo	46.8.158.17	30006
-WORKS	YES	YES	213.21.237.10	LV	872	88		🇱🇻88Mb | Baykov Ilya Sergeevich	eu-east-lv-1.hanvpn.biz	443
-WORKS	YES	YES	23.236.186.50	NL	2985	87	16	🇳🇱87Mb | B2 Net Solutions	46.8.158.15	2083
-WORKS	YES	YES	58.153.149.33	HK	689	87		🇭🇰87Mb | HKT Limited	f46e6d70-tl4g00-u2e9xs-2b2n.hk3.hyhuawei.com	443
-FAIL	NO	NO			4002	87		🇯🇵87Mb | Cloudflare	46.8.158.17	30033
-FAIL	NO	NO			36	87		🇺🇸87Mb | ReliableSiteNet	172.96.141.210	8443
-WORKS	YES	YES	198.44.36.41	US	57	87	1	🇺🇸87Mb | HostPapa	198.44.36.41	443
-WORKS	YES	YES	58.153.149.33	HK	1646	86		🇭🇰86Mb | HKT Limited	6ff2cd34-tl4g00-tr9h64-1f1f1.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	651	86		🇭🇰86Mb | HKT Limited	3d71be18-tl4g00-twnp5a-ahsb.hk3.hyhuawei.com	443
-WORKS	YES	YES	188.137.242.143	US	299	86		🇺🇸86Mb | Podaon SIA	us-main-1.hanvpn.biz	443
-WORKS	NO	YES			1762	85		🇩🇪85Mb | FDCserversnet	46.8.158.15	443
-FAIL	NO	NO			43	85		🇺🇸85Mb | ReliableSiteNet	172.96.141.210	8443
-WORKS	NO	YES			5244	83		🇩🇪83Mb | Cloudflare	46.8.158.17	30025
-WORKS	YES	YES	104.28.197.190	ES	3463	83	53	🇪🇸83Mb | Cloudflare	46.8.158.17	30052
-WORKS	YES	YES	58.153.149.33	HK	646	82	25	🇭🇰82Mb | HKT Limited	d38422b4-tl4g00-ts3rye-mrtr.hk3.hyhuawei.com	443
-WORKS	YES	YES	89.19.220.64	RU	2404	82	51	🇷🇺82Mb | Sysect Doo	46.8.21.191	8443
+FAIL	NO	NO			502	90		🌐90Mb | 🌐 Anycast-IP  🇯🇵 🇷🇺  BL	50.7.159.123	443
+WORKS	YES	YES	58.153.149.33	HK	1973	90		🇭🇰90Mb | HKT Limited	3d71be18-tl4g00-twnp5a-ahsb.hk3.hyhuawei.com	443
+FAIL	NO	NO			4003	89		🇳🇱89Mb | Servers Tech Fzco	195.63.169.66	443
+FAIL	NO	NO			4003	89		🇸🇪89Mb | Node Host Limited	eu-north-sw-1.hanvpn.biz	443
+FAIL	NO	NO			4002	89		🇷🇺89Mb | Sysect Doo	46.8.158.17	2053
+FAIL	NO	NO			4002	89		🇷🇺89Mb | Sysect Doo	46.8.158.17	30006
+WORKS	YES	YES	213.21.237.10	LV	1109	88		🇱🇻88Mb | Baykov Ilya Sergeevich	eu-east-lv-1.hanvpn.biz	443
+FAIL	NO	NO			4002	87		🇳🇱87Mb | B2 Net Solutions	46.8.158.15	2083
+WORKS	YES	YES	58.153.149.33	HK	958	87		🇭🇰87Mb | HKT Limited	f46e6d70-tl4g00-u2e9xs-2b2n.hk3.hyhuawei.com	443
+WORKS	NO	NO			1707	87		🇯🇵87Mb | Cloudflare	46.8.158.17	30033
+FAIL	NO	NO			216	87		🇺🇸87Mb | ReliableSiteNet	172.96.141.210	8443
+WORKS	YES	YES	198.44.36.41	US	253	87	3	🇺🇸87Mb | HostPapa	198.44.36.41	443
+WORKS	YES	YES	58.153.149.33	HK	1003	86		🇭🇰86Mb | HKT Limited	6ff2cd34-tl4g00-tr9h64-1f1f1.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	2581	86		🇭🇰86Mb | HKT Limited	3d71be18-tl4g00-twnp5a-ahsb.hk3.hyhuawei.com	443
+WORKS	YES	YES	188.137.242.143	US	73	86		🇺🇸86Mb | Podaon SIA	us-main-1.hanvpn.biz	443
+FAIL	NO	NO			4003	85		🇩🇪85Mb | FDCserversnet	46.8.158.15	443
+FAIL	NO	NO			236	85		🇺🇸85Mb | ReliableSiteNet	172.96.141.210	8443
+FAIL	NO	NO			4002	83		🇩🇪83Mb | Cloudflare	46.8.158.17	30025
+FAIL	NO	NO			4002	83		🇪🇸83Mb | Cloudflare	46.8.158.17	30052
+WORKS	YES	YES	58.153.149.33	HK	2945	82	48	🇭🇰82Mb | HKT Limited	d38422b4-tl4g00-ts3rye-mrtr.hk3.hyhuawei.com	443
+FAIL	NO	NO			4002	82		🇷🇺82Mb | Sysect Doo	46.8.21.191	8443
 FAIL	NO	NO			4002	82		🇷🇺82Mb | Sysect Doo	46.8.158.17	443
-WORKS	YES	YES	58.153.149.33	HK	631	82	22	🇭🇰82Mb | HKT Limited	ed49f9f4-tl4g00-tl54l3-luwe.hk3.hyhuawei.com	443
-WORKS	YES	YES	89.40.70.124	NL	624	81	11	🇳🇱81Mb | Hostkey Bv	89.40.70.124	443
-FAIL	NO	NO			4003	81		🇷🇺81Mb | Sysect Doo	46.8.158.17	30004
-WORKS	YES	YES			3109	80		🇯🇵80Mb | Cloudflare	46.8.158.17	30031
+WORKS	YES	YES	58.153.149.33	HK	940	82	22	🇭🇰82Mb | HKT Limited	ed49f9f4-tl4g00-tl54l3-luwe.hk3.hyhuawei.com	443
+WORKS	YES	YES	89.40.70.124	NL	382	81	8	🇳🇱81Mb | Hostkey Bv	89.40.70.124	443
+FAIL	NO	NO			4001	81		🇷🇺81Mb | Sysect Doo	46.8.158.17	30004
+FAIL	NO	NO			4002	80		🇯🇵80Mb | Cloudflare	46.8.158.17	30031
 FAIL	NO	NO			4003	80		🇫🇮80Mb | Cloudflare	46.8.158.17	30020
-WORKS	YES	YES	58.153.149.33	HK	657	80		🇭🇰80Mb | HKT Limited	6b6badbf-tl4g00-tu0ezx-1m7l4.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	658	79	30	🇭🇰79Mb | HKT Limited	8e799f0d-tl4g00-truoje-1uni.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	670	79	37	🇭🇰79Mb | HKT Limited	0d0fc751-tl4g00-tm23vf-1jk6u.hk3.hyhuawei.com	443
-WORKS	YES	YES			1913	79		🇸🇪79Mb | Node Host Limited	eu-north-sw-1.hanvpn.biz	443
-WORKS	YES	YES	206.206.78.36	SG	697	78		🌐78Mb | 🏳️ ShatakVPN 887277	206.206.78.36	443
-FAIL	NO	NO			4003	78		🇺🇸78Mb | Servhost Group	31.76.62.226	443
-FAIL	NO	NO			319	77		🌐77Mb | 🇯🇵 Japan, Shibuya City  🌐  BL	156.246.94.133	443
-WORKS	YES	YES			878	77		🇸🇪77Mb | Node Host Limited	eu-north-sw-1.hanvpn.biz	443
-FAIL	NO	NO			4002	76		🇫🇮76Mb | Cloudflare	46.8.158.17	30022
-FAIL	NO	NO			491	76		🇭🇰76Mb | HKT Limited	49c3de25-tl4g00-tvgkxc-hrtf.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	1727	80		🇭🇰80Mb | HKT Limited	6b6badbf-tl4g00-tu0ezx-1m7l4.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	917	79	19	🇭🇰79Mb | HKT Limited	8e799f0d-tl4g00-truoje-1uni.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	1957	79	39	🇭🇰79Mb | HKT Limited	0d0fc751-tl4g00-tm23vf-1jk6u.hk3.hyhuawei.com	443
+WORKS	YES	YES	81.90.21.40	SE	572	79		🇸🇪79Mb | Node Host Limited	eu-north-sw-1.hanvpn.biz	443
+WORKS	YES	YES	206.206.78.36	SG	920	78		🌐78Mb | 🏳️ ShatakVPN 887277	206.206.78.36	443
+WORKS	YES	YES	31.76.62.226	LV	1098	78	29	🇺🇸78Mb | Servhost Group	31.76.62.226	443
+FAIL	NO	NO			502	77		🌐77Mb | 🇯🇵 Japan, Shibuya City  🌐  BL	156.246.94.133	443
+WORKS	YES	YES	81.90.21.40	SE	906	77		🇸🇪77Mb | Node Host Limited	eu-north-sw-1.hanvpn.biz	443
+FAIL	NO	NO			4003	76		🇫🇮76Mb | Cloudflare	46.8.158.17	30022
+FAIL	NO	NO			652	76		🇭🇰76Mb | HKT Limited	49c3de25-tl4g00-tvgkxc-hrtf.hk3.hyhuawei.com	443
 FAIL	NO	NO			4002	76		🇮🇹76Mb | Cloudflare	46.8.158.17	30030
-FAIL	NO	NO			1258	75		🇭🇰75Mb | HKT Limited	f070a8ea-tl4g00-u5ip77-duku.hk3.hyhuawei.com	443
-FAIL	NO	NO			445	75		🇭🇰75Mb | HKT Limited	58.153.149.33	443
-WORKS	YES	YES	58.153.149.33	HK	682	75		🇭🇰75Mb | HKT Limited	5fca3221-tl4g00-tpkh0c-1r7od.hk3.hyhuawei.com	443
+FAIL	NO	NO			658	75		🇭🇰75Mb | HKT Limited	f070a8ea-tl4g00-u5ip77-duku.hk3.hyhuawei.com	443
+FAIL	NO	NO			654	75		🇭🇰75Mb | HKT Limited	58.153.149.33	443
+WORKS	YES	NO			2002	75		🇭🇰75Mb | HKT Limited	5fca3221-tl4g00-tpkh0c-1r7od.hk3.hyhuawei.com	443
 FAIL	NO	NO			4003	75		🇷🇺75Mb | Gilmutdinov Ildar Aydarovich	yt3.fi1-cosmostechnology.ru	443
-WORKS	YES	YES	58.153.149.33	HK	707	75		🇭🇰75Mb | HKT Limited	ed49f9f4-tl4g00-tl54l3-luwe.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	732	74		🇭🇰74Mb | HKT Limited	0d0fc751-tl4g00-tm23vf-1jk6u.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	954	75		🇭🇰75Mb | HKT Limited	ed49f9f4-tl4g00-tl54l3-luwe.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	948	74		🇭🇰74Mb | HKT Limited	0d0fc751-tl4g00-tm23vf-1jk6u.hk3.hyhuawei.com	443
 FAIL	NO	NO			4002	74		🇵🇹74Mb | Cloudflare	46.8.158.17	30045
-WORKS	YES	YES	58.153.149.33	HK	687	73		🇭🇰73Mb | HKT Limited	58.153.149.33	443
+WORKS	YES	YES			1572	73		🇭🇰73Mb | HKT Limited	58.153.149.33	443
 FAIL	NO	NO			4003	73		🇷🇺73Mb | Sysect Doo	46.8.158.17	2083
-WORKS	YES	YES	58.153.149.33	HK	712	72		🇭🇰72Mb | HKT Limited	58.153.149.33	443
-WORKS	NO	YES			2124	71		🌐71Mb | 🇸🇪 Швеция #2	46.8.158.17	30053
-WORKS	NO	NO			3213	70		🇩🇪70Mb | Akenai Products LTD	31.76.119.117	443
-FAIL	NO	NO			4003	70		🇺🇸70Mb | Servhost Group	31.76.62.226	443
-WORKS	YES	YES	58.153.149.33	HK	668	69	35	🇭🇰69Mb | HKT Limited	b1bf7334-tl4g00-tv7dx2-py5w.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	645	69		🇭🇰69Mb | HKT Limited	1ba01fa4-tl4g00-tny186-4lg6.hk3.hyhuawei.com	443
-FAIL	NO	NO			4003	68		🌐68Mb | 🇳🇱 The Netherlands, Amsterdam	195.63.169.66	443
-FAIL	NO	NO			4002	68		🇺🇸68Mb | FDCserversnet	46.8.158.15	31007
-FAIL	NO	NO			473	68		🇬🇧68Mb | Servhost Group	31.76.60.110	443
-WORKS	YES	YES	58.153.149.33	HK	702	68	42	🇭🇰68Mb | HKT Limited	afe9ba9d-tl4g00-to0mym-z93q.hk3.hyhuawei.com	443
-WORKS	YES	NO			3895	67		🌐67Mb | 🇭🇰 Гонконг	46.8.158.17	30026
-WORKS	YES	YES	104.28.254.16	FI	1458	67	50	🇫🇮67Mb | Cloudflare	46.8.21.191	30021
-WORKS	YES	YES	58.153.149.33	HK	684	67	40	🇭🇰67Mb | HKT Limited	d77faecf-tl4g00-tnsc3a-1f0gu.hk3.hyhuawei.com	443
-FAIL	NO	NO			35	67		🇺🇸67Mb | ReliableSiteNet	172.96.141.210	8443
-FAIL	NO	NO			4002	66		🇸🇪66Mb | Node Host Limited	81.90.21.40	443
-WORKS	YES	YES	58.153.149.33	HK	645	66		🇭🇰66Mb | HKT Limited	58.153.149.33	443
-WORKS	YES	YES	58.153.149.33	HK	643	65		🇭🇰65Mb | HKT Limited	b83dbba5-tl4g00-txfm0f-1qxa1.hk3.hyhuawei.com	443
-WORKS	YES	YES			4152	64		🇵🇱64Mb | Cloudflare	46.8.158.17	30044
+WORKS	YES	YES	58.153.149.33	HK	1703	72		🇭🇰72Mb | HKT Limited	58.153.149.33	443
+FAIL	NO	NO			4002	71		🌐71Mb | 🇸🇪 Швеция #2	46.8.158.17	30053
+WORKS	NO	NO			2199	70		🇩🇪70Mb | Akenai Products LTD	31.76.119.117	443
+WORKS	YES	YES	31.76.62.226	LV	2688	70		🇺🇸70Mb | Servhost Group	31.76.62.226	443
+WORKS	YES	YES	58.153.149.33	HK	964	69	28	🇭🇰69Mb | HKT Limited	b1bf7334-tl4g00-tv7dx2-py5w.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	988	69		🇭🇰69Mb | HKT Limited	1ba01fa4-tl4g00-tny186-4lg6.hk3.hyhuawei.com	443
+FAIL	NO	NO			4002	68		🌐68Mb | 🇳🇱 The Netherlands, Amsterdam	195.63.169.66	443
+FAIL	NO	NO			4003	68		🇺🇸68Mb | FDCserversnet	46.8.158.15	31007
+FAIL	NO	NO			428	68		🇬🇧68Mb | Servhost Group	31.76.60.110	443
+WORKS	YES	YES	58.153.149.33	HK	2467	68	46	🇭🇰68Mb | HKT Limited	afe9ba9d-tl4g00-to0mym-z93q.hk3.hyhuawei.com	443
+FAIL	NO	NO			4002	67		🌐67Mb | 🇭🇰 Гонконг	46.8.158.17	30026
+FAIL	NO	NO			4003	67		🇫🇮67Mb | Cloudflare	46.8.21.191	30021
+WORKS	YES	YES	58.153.149.33	HK	951	67	25	🇭🇰67Mb | HKT Limited	d77faecf-tl4g00-tnsc3a-1f0gu.hk3.hyhuawei.com	443
+FAIL	NO	NO			216	67		🇺🇸67Mb | ReliableSiteNet	172.96.141.210	8443
+WORKS	YES	YES	81.90.21.40	SE	650	66	14	🇸🇪66Mb | Node Host Limited	81.90.21.40	443
+WORKS	YES	YES	58.153.149.33	HK	915	66		🇭🇰66Mb | HKT Limited	58.153.149.33	443
+WORKS	YES	YES	58.153.149.33	HK	1703	65		🇭🇰65Mb | HKT Limited	b83dbba5-tl4g00-txfm0f-1qxa1.hk3.hyhuawei.com	443
+FAIL	NO	NO			4003	64		🇵🇱64Mb | Cloudflare	46.8.158.17	30044
 FAIL	NO	NO			4003	64		🇷🇺64Mb | Sysect Doo	46.8.158.17	30008
-FAIL	NO	NO			476	64		🇭🇰64Mb | HKT Limited	f070a8ea-tl4g00-u5ip77-duku.hk3.hyhuawei.com	443
-FAIL	NO	NO			479	64		🇭🇰64Mb | HKT Limited	c17a6c0c-tl4g00-tpaqgu-1smhu.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	629	64		🇭🇰64Mb | HKT Limited	beda7e37-tl4g00-tphxte-1h5u7.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	653	63		🇭🇰63Mb | HKT Limited	58.153.149.33	443
+FAIL	NO	NO			650	64		🇭🇰64Mb | HKT Limited	f070a8ea-tl4g00-u5ip77-duku.hk3.hyhuawei.com	443
+FAIL	NO	NO			655	64		🇭🇰64Mb | HKT Limited	c17a6c0c-tl4g00-tpaqgu-1smhu.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	1956	64		🇭🇰64Mb | HKT Limited	beda7e37-tl4g00-tphxte-1h5u7.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	921	63		🇭🇰63Mb | HKT Limited	58.153.149.33	443
 FAIL	NO	NO			4002	63		🇷🇺63Mb | Sysect Doo	46.8.21.191	2087
-WORKS	NO	NO			3816	62		🌐62Mb | 🇹🇼 Тайвань	46.8.158.17	30055
-WORKS	YES	YES	206.206.78.36	SG	694	62		🇸🇬62Mb | Regxa Company for Information Technology	206.206.78.36	443
-WORKS	YES	YES	58.153.149.33	HK	669	62		🇭🇰62Mb | HKT Limited	555ceb14-tl4g00-tv7zgh-1ijh5.hk3.hyhuawei.com	443
-FAIL	NO	NO			480	62		🇭🇰62Mb | HKT Limited	c17a6c0c-tl4g00-tpaqgu-1smhu.hk3.hyhuawei.com	443
-WORKS	YES	YES	58.153.149.33	HK	657	62		🇭🇰62Mb | HKT Limited	58.153.149.33	443
-WORKS	YES	YES	58.153.149.33	HK	655	62		🇭🇰62Mb | HKT Limited	f46e6d70-tl4g00-u2e9xs-2b2n.hk3.hyhuawei.com	443
-FAIL	NO	NO			36	62		🇺🇸62Mb | ReliableSiteNet	172.96.141.210	8443
-WORKS	YES	YES	58.153.149.33	HK	665	60		🇭🇰60Mb | HKT Limited	8e799f0d-tl4g00-truoje-1uni.hk3.hyhuawei.com	443
-FAIL	NO	NO			4002	60		🇷🇺60Mb | Gilmutdinov Ildar Aydarovich	yt4.fi1-cosmostechnology.ru	443
-WORKS	YES	YES	87.228.56.39	RU	3151	60	52	🇷🇺60Mb | JSC Selectel	46.8.21.191	30049
-WORKS	YES	YES	58.153.149.33	HK	680	59		🇭🇰59Mb | HKT Limited	ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com	443
-WORKS	YES	NO			1106	59		🇱🇻59Mb | SIA GOOD	46.8.158.15	31005
-WORKS	YES	YES	58.153.149.33	HK	695	59	41	🇭🇰59Mb | HKT Limited	7c11e626-tl4g00-tubliy-1la7v.hk3.hyhuawei.com	443
-FAIL	NO	NO			43	59		🇺🇸59Mb | ReliableSiteNet	172.96.141.210	8443
+FAIL	NO	NO			4003	62		🌐62Mb | 🇹🇼 Тайвань	46.8.158.17	30055
+WORKS	YES	YES	206.206.78.36	SG	927	62		🇸🇬62Mb | Regxa Company for Information Technology	206.206.78.36	443
+WORKS	YES	YES	58.153.149.33	HK	1400	62		🇭🇰62Mb | HKT Limited	555ceb14-tl4g00-tv7zgh-1ijh5.hk3.hyhuawei.com	443
+FAIL	NO	NO			655	62		🇭🇰62Mb | HKT Limited	c17a6c0c-tl4g00-tpaqgu-1smhu.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	911	62		🇭🇰62Mb | HKT Limited	58.153.149.33	443
+WORKS	YES	YES	58.153.149.33	HK	1957	62		🇭🇰62Mb | HKT Limited	f46e6d70-tl4g00-u2e9xs-2b2n.hk3.hyhuawei.com	443
+FAIL	NO	NO			213	62		🇺🇸62Mb | ReliableSiteNet	172.96.141.210	8443
+WORKS	YES	YES	58.153.149.33	HK	972	60		🇭🇰60Mb | HKT Limited	8e799f0d-tl4g00-truoje-1uni.hk3.hyhuawei.com	443
+WORKS	NO	NO			757	60		🇷🇺60Mb | Gilmutdinov Ildar Aydarovich	yt4.fi1-cosmostechnology.ru	443
+FAIL	NO	NO			4003	60		🇷🇺60Mb | JSC Selectel	46.8.21.191	30049
+WORKS	YES	YES	58.153.149.33	HK	967	59		🇭🇰59Mb | HKT Limited	ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com	443
+FAIL	NO	NO			4002	59		🇱🇻59Mb | SIA GOOD	46.8.158.15	31005
+WORKS	YES	YES	58.153.149.33	HK	940	59	21	🇭🇰59Mb | HKT Limited	7c11e626-tl4g00-tubliy-1la7v.hk3.hyhuawei.com	443
+FAIL	NO	NO			207	59		🇺🇸59Mb | ReliableSiteNet	172.96.141.210	8443
 FAIL	NO	NO			4002	59		🇹🇭59Mb | Cloudflare	46.8.158.17	30056
 FAIL	NO	NO			4002	58		🇯🇵58Mb | Cloudflare	46.8.158.17	30034
-WORKS	YES	YES	58.153.149.33	HK	660	58		🇭🇰58Mb | HKT Limited	04a12bf4-tl4g00-ttxkqc-e06r.hk3.hyhuawei.com	443
-FAIL	NO	NO			4002	58		🇫🇷58Mb | AWS	15.224.126.219	22224
-FAIL	NO	NO			448	57		🇭🇰57Mb | HKT Limited	49c3de25-tl4g00-tvgkxc-hrtf.hk3.hyhuawei.com	443
-WORKS	YES	NO			600	57		🇳🇱57Mb | Hostkey Bv	89.40.70.124	443
-WORKS	YES	YES	58.153.149.33	HK	632	57		🇭🇰57Mb | HKT Limited	58.153.149.33	443
-WORKS	YES	YES	58.153.149.33	HK	665	57		🇭🇰57Mb | HKT Limited	f19ad17e-tl4g00-u1dafb-1ro8s.hk3.hyhuawei.com	443
+WORKS	YES	YES	58.153.149.33	HK	1956	58		🇭🇰58Mb | HKT Limited	04a12bf4-tl4g00-ttxkqc-e06r.hk3.hyhuawei.com	443
+FAIL	NO	NO			4001	58		🇫🇷58Mb | AWS	15.224.126.219	22224
+FAIL	NO	NO			653	57		🇭🇰57Mb | HKT Limited	49c3de25-tl4g00-tvgkxc-hrtf.hk3.hyhuawei.com	443
+WORKS	NO	NO			381	57		🇳🇱57Mb | Hostkey Bv	89.40.70.124	443
+WORKS	YES	YES	58.153.149.33	HK	2251	57		🇭🇰57Mb | HKT Limited	58.153.149.33	443
+WORKS	YES	YES	58.153.149.33	HK	1964	57		🇭🇰57Mb | HKT Limited	f19ad17e-tl4g00-u1dafb-1ro8s.hk3.hyhuawei.com	443
