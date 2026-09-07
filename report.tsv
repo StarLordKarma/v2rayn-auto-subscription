@@ -1,58 +1,58 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	NO	YES			3752	572		🇵🇱572Mb | Soulful Hosting	195.133.80.8	443
-WORKS	NO	YES			745	457		🇫🇮457Mb | Lagom Products	brightharbor.download	443
-WORKS	NO	YES			753	455		🇫🇮455Mb | Lagom Products	brightharbor.download	443
-WORKS	NO	YES			995	450		🇫🇮450Mb | Lagom Products	brightharbor.download	443
-WORKS	NO	YES			1000	446		🇫🇮446Mb | Lagom Products	brightharbor.download	443
-WORKS	NO	YES			728	437		🇫🇮437Mb | Lagom Products	brightharbor.download	443
-FAIL	NO	NO			4002	412		🇵🇱412Mb | Soulful Hosting	195.133.80.8	443
-FAIL	NO	NO			4002	380		🇺🇸380Mb | Node Host Limited	144.31.28.104	8443
-FAIL	NO	NO			1512	378		🇵🇱378Mb | Soulful Hosting	195.133.80.8	443
-WORKS	YES	YES	194.26.141.203	EE	1160	361	17	🇪🇪361Mb | BlueVPS OU	194.26.141.220	443
-FAIL	NO	NO			2308	351		🇺🇸351Mb | Azure	www.csgo.net	2095
-WORKS	YES	YES	31.77.203.216	FI	817	335		🇫🇮335Mb | DpkgSoft International Limited	31.77.203.216	7443
-WORKS	YES	YES	151.240.151.94	DE	612	335	3	🇩🇪335Mb | Dedik Services Limited	151.240.151.94	443
+FAIL	NO	NO			4002	572		🇵🇱572Mb | Soulful Hosting	195.133.80.8	443
+WORKS	NO	YES			732	457		🇫🇮457Mb | Lagom Products	brightharbor.download	443
+WORKS	NO	YES			741	455		🇫🇮455Mb | Lagom Products	brightharbor.download	443
+WORKS	NO	YES			734	450		🇫🇮450Mb | Lagom Products	brightharbor.download	443
+WORKS	NO	YES			752	446		🇫🇮446Mb | Lagom Products	brightharbor.download	443
+WORKS	NO	YES			723	437		🇫🇮437Mb | Lagom Products	brightharbor.download	443
+WORKS	YES	NO			3763	412		🇵🇱412Mb | Soulful Hosting	195.133.80.8	443
+WORKS	NO	YES			928	380		🇺🇸380Mb | Node Host Limited	144.31.28.104	8443
+FAIL	NO	NO			4003	378		🇵🇱378Mb | Soulful Hosting	195.133.80.8	443
+WORKS	YES	YES	194.26.141.203	EE	822	361	10	🇪🇪361Mb | BlueVPS OU	194.26.141.220	443
+FAIL	NO	NO			2271	351		🇺🇸351Mb | Azure	www.csgo.net	2095
+WORKS	YES	YES	31.77.203.216	FI	842	335		🇫🇮335Mb | DpkgSoft International Limited	31.77.203.216	7443
+WORKS	YES	YES	151.240.151.94	DE	628	335	3	🇩🇪335Mb | Dedik Services Limited	151.240.151.94	443
 FAIL	NO	NO			4002	312		🇳🇱312Mb | Oracle Cloud	152.70.56.139	62145
-WORKS	YES	YES	31.77.203.216	FI	792	280	13	🇫🇮280Mb | DpkgSoft International Limited	31.77.203.216	7443
+WORKS	YES	YES	31.77.203.216	FI	837	280	13	🇫🇮280Mb | DpkgSoft International Limited	31.77.203.216	7443
 FAIL	NO	NO			4002	279		🇩🇪279Mb | DpkgSoft International Limited	64.188.119.205	443
-WORKS	YES	YES	193.123.57.174	NL	443	267	8	🇳🇱267Mb | Oracle Cloud	193.123.57.174	62145
-FAIL	NO	NO			4002	258		🇳🇱258Mb | Oracle Cloud	141.144.198.50	62145
-WORKS	NO	YES			3681	244		🇳🇱244Mb | Oracle Cloud	141.144.198.50	62145
-WORKS	YES	YES	151.244.30.176	CA	634	238	9	🇨🇦238Mb | 12651980 CANADA INC	151.244.30.176	443
-WORKS	YES	YES	194.48.217.18	DE	602	236	2	🇩🇪236Mb | dataforest GmbH	194.48.217.18	443
-WORKS	NO	NO			441	233		🇳🇱233Mb | Oracle Cloud	141.148.241.72	62145
-WORKS	YES	YES	206.206.78.36	SG	778	227	12	🌐227Mb | 455ms SG SG  @vlesstrojan	206.206.78.36	443
-WORKS	YES	NO			477	201		🇳🇱201Mb | Oracle Cloud	193.123.36.228	62145
-WORKS	YES	YES	45.145.42.41	DE	600	193	1	🇩🇪193Mb | dataforest GmbH	45.145.42.43	443
-FAIL	NO	NO			4003	187		🇸🇪187Mb | Play2go International Limited	185.200.241.35	8443
-FAIL	NO	NO			4003	182		🇳🇱182Mb | Oracle Cloud	134.98.128.201	62145
-WORKS	YES	YES	45.145.42.41	DE	674	176	5	🇩🇪176Mb | dataforest GmbH	avczx.cloudvk.cc	443
-WORKS	NO	YES			621	171		🇩🇪171Mb | dataforest GmbH	104.167.24.174	443
-WORKS	NO	YES			2049	167		🇫🇮167Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			566	167		🇹🇷167Mb | Global Connectivity Solutions Llp	62.133.63.253	443
-WORKS	YES	YES	146.235.16.130	SG	856	150	15	🌐150Mb | 0332  🇸🇬 Singapore  VLESS  📺 Y	146.235.16.130	19825
-WORKS	NO	YES			1073	148		🌐148Mb | 🏳️ ShatakVPN 624963	31.76.89.110	8443
-WORKS	NO	YES			1409	146		🌐146Mb | 🇫🇮 vl-re-xh 260907-083835.317	meow-fin.nethcloud.top	8443
-WORKS	YES	YES	2.26.255.99	PL	998	140	16	🇵🇱140Mb | Node Host Limited	hyjik.mervi.icu	443
+FAIL	NO	NO			4002	267		🇳🇱267Mb | Oracle Cloud	193.123.57.174	62145
+FAIL	NO	NO			4001	258		🇳🇱258Mb | Oracle Cloud	141.144.198.50	62145
+FAIL	NO	NO			4001	244		🇳🇱244Mb | Oracle Cloud	141.144.198.50	62145
+WORKS	YES	YES	151.244.30.176	CA	625	238	6	🇨🇦238Mb | 12651980 CANADA INC	151.244.30.176	443
+WORKS	YES	YES	194.48.217.18	DE	604	236	1	🇩🇪236Mb | dataforest GmbH	194.48.217.18	443
+WORKS	YES	NO			2519	233		🇳🇱233Mb | Oracle Cloud	141.148.241.72	62145
+WORKS	YES	YES	206.206.78.36	SG	734	227	9	🌐227Mb | 455ms SG SG  @vlesstrojan	206.206.78.36	443
+WORKS	YES	YES	193.123.36.228	NL	479	201	5	🇳🇱201Mb | Oracle Cloud	193.123.36.228	62145
+WORKS	YES	YES	45.145.42.41	DE	610	193	2	🇩🇪193Mb | dataforest GmbH	45.145.42.43	443
+FAIL	NO	NO			4002	187		🇸🇪187Mb | Play2go International Limited	185.200.241.35	8443
+WORKS	YES	NO			1510	182		🇳🇱182Mb | Oracle Cloud	134.98.128.201	62145
+WORKS	NO	YES			674	176		🇩🇪176Mb | dataforest GmbH	avczx.cloudvk.cc	443
+FAIL	NO	NO			4002	171		🇩🇪171Mb | dataforest GmbH	104.167.24.174	443
+FAIL	NO	NO			4002	167		🇫🇮167Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			552	167		🇹🇷167Mb | Global Connectivity Solutions Llp	62.133.63.253	443
+WORKS	YES	YES	146.235.16.130	SG	696	150	7	🌐150Mb | 0332  🇸🇬 Singapore  VLESS  📺 Y	146.235.16.130	19825
+WORKS	NO	YES			4009	148		🌐148Mb | 🏳️ ShatakVPN 624963	31.76.89.110	8443
+WORKS	NO	YES			3667	146		🌐146Mb | 🇫🇮 vl-re-xh 260907-083835.317	meow-fin.nethcloud.top	8443
+WORKS	YES	YES	2.26.255.99	PL	827	140	12	🇵🇱140Mb | Node Host Limited	hyjik.mervi.icu	443
 FAIL	NO	NO			4002	139		🇨🇿139Mb | Host-Telecomcom sro	194.87.52.142	443
-WORKS	YES	YES	2.26.255.99	PL	693	130	10	🇵🇱130Mb | Node Host Limited	2.26.255.99	443
+WORKS	YES	YES	2.26.255.99	PL	697	130	8	🇵🇱130Mb | Node Host Limited	2.26.255.99	443
 FAIL	NO	NO			4003	126		🇩🇪126Mb | DpkgSoft International Limited	64.188.119.205	443
-WORKS	NO	YES			2666	125		🇫🇮125Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			1289	120		🇫🇮120Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			1167	112		🇫🇮112Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	YES	151.243.150.155	DE	620	111	4	🇩🇪111Mb | Dedik Services Limited	ded1.cloudvk.cc	443
-WORKS	NO	YES			1171	110		🇫🇮110Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	YES	51.195.110.93	DE	1076	109	7	🇫🇷109Mb | OVH	flarora.ferreo.sbs	443
-WORKS	NO	YES			2002	104		🇫🇮104Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			4003	102		🇨🇴102Mb | Oracle Cloud	149.130.188.248	62145
-WORKS	YES	YES			610	97		🇳🇱97Mb | Hostkey Bv	89.40.70.124	443
-FAIL	NO	NO			4003	91		🇨🇴91Mb | Oracle Cloud	149.130.188.248	62145
-FAIL	NO	NO			4003	90		🇫🇮90Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			4003	78		🇫🇮78Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	YES	213.21.237.10	LV	851	77	14	🇱🇻77Mb | Baykov Ilya Sergeevich	213.21.237.10	443
-WORKS	NO	YES			4003	77		🇫🇮77Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	YES	65.109.176.188	FI	697	77	11	🇫🇮77Mb | Hetzner	146.75.119.82	80
-WORKS	NO	YES			3579	73		🇫🇮73Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			4003	69		🇦🇪69Mb | Globaltech	153.76.208.232	443
-WORKS	YES	YES	159.69.91.153	DE	1053	66	6	🇩🇪66Mb | Hetzner	185.200.241.35	443
-FAIL	NO	NO			480	63		🌐63Mb | 4Sarina-3bd0112ad4	144.31.242.69	443
+WORKS	NO	YES			2506	125		🇫🇮125Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			2408	120		🇫🇮120Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			2011	112		🇫🇮112Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			4003	111		🇩🇪111Mb | Dedik Services Limited	ded1.cloudvk.cc	443
+WORKS	NO	YES			1726	110		🇫🇮110Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			4003	109		🇫🇷109Mb | OVH	flarora.ferreo.sbs	443
+WORKS	NO	YES			1199	104		🇫🇮104Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			4002	102		🇨🇴102Mb | Oracle Cloud	149.130.188.248	62145
+WORKS	YES	NO			596	97		🇳🇱97Mb | Hostkey Bv	89.40.70.124	443
+FAIL	NO	NO			4002	91		🇨🇴91Mb | Oracle Cloud	149.130.188.248	62145
+WORKS	NO	YES			893	90		🇫🇮90Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			943	78		🇫🇮78Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	YES	YES	213.21.237.10	LV	826	77	11	🇱🇻77Mb | Baykov Ilya Sergeevich	213.21.237.10	443
+WORKS	NO	YES			1213	77		🇫🇮77Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			513	77		🇫🇮77Mb | Hetzner	146.75.119.82	80
+WORKS	NO	YES			1073	73		🇫🇮73Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			4002	69		🇦🇪69Mb | Globaltech	153.76.208.232	443
+WORKS	YES	YES	159.69.91.153	DE	1107	66	4	🇩🇪66Mb | Hetzner	185.200.241.35	443
+FAIL	NO	NO			473	63		🌐63Mb | 4Sarina-3bd0112ad4	144.31.242.69	443
