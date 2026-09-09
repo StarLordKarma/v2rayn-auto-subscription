@@ -1,97 +1,97 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES			429	661		🌐661Mb | Бесплатный VPN Tg:VlessForU 🇩🇪	95.133.247.18	8443
-WORKS	YES	YES			421	559		🌐559Mb | 6729  🇩🇪 Germany  VLESS  📺 YT	95.133.247.18	8443
-WORKS	NO	YES			517	555		🇫🇮555Mb | Lagom Products	brightharbor.download	443
-FAIL	NO	NO			4002	538		🇷🇺538Mb | VK	103.246.248.98	443
-WORKS	YES	YES	191.44.113.220	PL	463	498	11	🇵🇱498Mb | Node Host Limited	eu-central-pl-1.hanvpn.biz	443
-WORKS	YES	YES			459	483		🌐483Mb | filembad-174	95.133.247.18	8443
-FAIL	NO	NO			4002	468		🇷🇺468Mb | VK	103.246.248.98	443
-WORKS	NO	YES			502	465		🇫🇮465Mb | Lagom Products	brightharbor.download	443
-WORKS	NO	YES			471	386		🌐386Mb | 🇫🇷 1033 - FR - VLESS/XHTTP/REA	fr-1.starsping.com	443
-WORKS	YES	YES	89.185.81.200	NO	743	353	9	🌐353Mb | 3349  🌐 Unknown  VLESS  TG: @Y	oslomeow.nethcloud.top	8443
-WORKS	YES	NO			413	345		🌐345Mb | @DeltaKroneckerGithub	103.91.147.17	443
-WORKS	YES	YES	65.109.185.234	FI	643	344	15	🇫🇮344Mb | Hetzner	italic.dearhossein-taktaz.ir	8080
-WORKS	YES	YES	193.233.255.50	RU	868	333	17	🇷🇺333Mb | Neurosignal	193.233.255.50	443
-WORKS	YES	YES	65.109.185.234	FI	647	325		🇫🇮325Mb | Hetzner	italic.dearhossein-taktaz.ir	8080
-FAIL	NO	NO			729	307		🇸🇪307Mb | Aeza Group	138.124.29.78	443
-WORKS	YES	YES	31.76.62.226	LV	534	301	13	🇺🇸301Mb | Servhost Group	31.76.62.226	443
-WORKS	NO	YES			370	270		🇫🇷270Mb | REDHEBERG Association declaree	185.255.112.206	443
-WORKS	NO	YES			919	256		🇫🇮256Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	YES	31.76.55.181	EE	604	248	14	🇺🇸248Mb | Servhost Group	31.76.55.181	443
-WORKS	NO	YES			421	224		🇫🇷224Mb | REDHEBERG Association declaree	fr-1.starsping.com	443
-WORKS	NO	YES			1012	206		🇫🇮206Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			243	194		🇪🇸194Mb | ZhouyiSat Communications	45.150.195.113	2027
-WORKS	NO	YES			1343	189		🇫🇮189Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			1050	183		🇫🇮183Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			3609	176		🇷🇺176Mb | Jsc timeweb	tractormotivecost.latheanvil.info	443
-WORKS	YES	YES	151.244.30.176	CA	382	174	10	🇨🇦174Mb | 12651980 CANADA INC	151.244.30.176	443
-FAIL	NO	NO			803	167		🇪🇸167Mb | ZhouyiSat Communications	spash.skysafe.online	2027
-FAIL	NO	NO			611	166		🇫🇮166Mb | Web1 Oy	fn.skysafe.online	2027
-WORKS	NO	YES			829	165		🇵🇱165Mb | Datacamp Limited	188.130.209.185	443
-WORKS	YES	YES	109.196.103.203	RU	1580	162	19	🌐162Mb | 🇫🇷 France  🌐  *CIDR	refriedbuzzhasty.dailygazette.one	443
-WORKS	NO	YES			844	162		🇵🇱162Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			4003	160		🇩🇪160Mb | WAIcore	213.176.77.138	443
-FAIL	NO	NO			637	158		🇫🇮158Mb | Web1 Oy	fn.skysafe.online	2027
-FAIL	NO	NO			374	158		🇪🇸158Mb | ZhouyiSat Communications	spash.skysafe.online	2027
-WORKS	NO	YES			830	158		🇵🇱158Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			353	157		🇫🇮157Mb | Web1 Oy	78.17.187.134	2027
-WORKS	YES	YES	151.244.30.176	CA	390	155		🇨🇦155Mb | 12651980 CANADA INC	151.244.30.176	443
-WORKS	NO	YES			1515	154		🇫🇮154Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			787	152		🇵🇱152Mb | Datacamp Limited	188.130.209.185	443
-WORKS	NO	YES			803	152		🇵🇱152Mb | Datacamp Limited	188.130.209.185	443
-WORKS	NO	YES			795	152		🇵🇱152Mb | Datacamp Limited	188.130.209.185	443
-WORKS	NO	YES			802	151		🇵🇱151Mb | Datacamp Limited	188.130.209.185	443
-WORKS	NO	YES			751	151		🇵🇱151Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			585	150		🇫🇮150Mb | Web1 Oy	fn.skysafe.online	2027
-WORKS	NO	YES			791	149		🇵🇱149Mb | Datacamp Limited	188.130.209.185	443
-WORKS	NO	YES			793	149		🇵🇱149Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			293	147		🇪🇸147Mb | ZhouyiSat Communications	45.150.195.113	2027
-WORKS	NO	YES			935	146		🇵🇱146Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			4002	143		🌐143Mb | 🇩🇪 Germany  🌐  *CIDR	robaprik-vafloril.thicketpond.dev	443
-FAIL	NO	NO			356	137		🇫🇮137Mb | Web1 Oy	78.17.187.134	2027
-WORKS	YES	YES	94.183.208.158	NL	689	135	7	🇳🇱135Mb | Eternity International Limited	94.183.208.158	443
-WORKS	NO	YES			1058	135		🇫🇮135Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			378	134		🇪🇸134Mb | ZhouyiSat Communications	45.150.195.113	2027
-FAIL	NO	NO			4002	132		🇷🇺132Mb | VK	95.163.214.43	443
-WORKS	NO	YES			691	131		🇫🇮131Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			328	130		🇪🇸130Mb | ZhouyiSat Communications	45.150.195.113	2027
-FAIL	NO	NO			342	124		🇫🇮124Mb | Web1 Oy	78.17.187.134	2027
-WORKS	YES	YES	31.76.55.181	EE	2053	123		🇺🇸123Mb | Servhost Group	31.76.55.181	443
-FAIL	NO	NO			306	122		🇺🇸122Mb | Servhost Group	144.31.242.69	443
-FAIL	NO	NO			4002	121		🇺🇸121Mb | Node Host Limited	eu-north-fi-1.hanvpn.biz	443
-FAIL	NO	NO			4003	120		🌐120Mb | 🇳🇱 The Netherlands  *CIDR	applyjitteryspilt.orbitgazette.art	443
-FAIL	NO	NO			485	119		🇫🇮119Mb | Web1 Oy	fn.skysafe.online	2027
-WORKS	YES	YES	31.76.55.181	EE	2326	117		🇺🇸117Mb | Servhost Group	31.76.55.181	443
-WORKS	NO	YES			1038	112		🇫🇮112Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			4002	109		🌐109Mb | 🇷🇺 Russia  *CIDR VK	95.163.214.43	443
-WORKS	NO	YES			1165	109		🇫🇮109Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			1534	103		🇫🇮103Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			1544	103		🇫🇮103Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			2616	101		🌐101Mb | @ICV2RAY	31.76.89.110	8443
-FAIL	NO	NO			2753	94		🇫🇮94Mb | Web1 Oy	78.17.187.134	2027
-WORKS	NO	YES			900	90		🇯🇵90Mb | Lagom Products	freshjuniper.download	443
+WORKS	YES	YES			401	661		🌐661Mb | Бесплатный VPN Tg:VlessForU 🇩🇪	95.133.247.18	8443
+WORKS	YES	YES			411	559		🌐559Mb | 6729  🇩🇪 Germany  VLESS  📺 YT	95.133.247.18	8443
+WORKS	NO	YES			692	555		🇫🇮555Mb | Lagom Products	brightharbor.download	443
+WORKS	NO	YES			999	538		🇷🇺538Mb | VK	103.246.248.98	443
+WORKS	YES	YES	191.44.113.220	PL	462	498	10	🇵🇱498Mb | Node Host Limited	eu-central-pl-1.hanvpn.biz	443
+WORKS	YES	YES			422	483		🌐483Mb | filembad-174	95.133.247.18	8443
+WORKS	NO	YES			1027	468		🇷🇺468Mb | VK	103.246.248.98	443
+WORKS	NO	YES			697	465		🇫🇮465Mb | Lagom Products	brightharbor.download	443
+WORKS	NO	YES			449	386		🌐386Mb | 🇫🇷 1033 - FR - VLESS/XHTTP/REA	fr-1.starsping.com	443
+WORKS	YES	YES	89.185.81.200	NO	731	353	8	🌐353Mb | 3349  🌐 Unknown  VLESS  TG: @Y	oslomeow.nethcloud.top	8443
+WORKS	YES	NO			405	345		🌐345Mb | @DeltaKroneckerGithub	103.91.147.17	443
+WORKS	YES	YES	65.109.185.234	FI	648	344		🇫🇮344Mb | Hetzner	italic.dearhossein-taktaz.ir	8080
+WORKS	YES	YES	193.233.255.50	RU	1180	333	17	🇷🇺333Mb | Neurosignal	193.233.255.50	443
+WORKS	YES	YES	65.109.185.234	FI	639	325	14	🇫🇮325Mb | Hetzner	italic.dearhossein-taktaz.ir	8080
+FAIL	NO	NO			711	307		🇸🇪307Mb | Aeza Group	138.124.29.78	443
+WORKS	YES	YES	31.76.62.226	LV	518	301	12	🇺🇸301Mb | Servhost Group	31.76.62.226	443
+WORKS	NO	YES			374	270		🇫🇷270Mb | REDHEBERG Association declaree	185.255.112.206	443
+WORKS	NO	YES			1671	256		🇫🇮256Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	YES	YES	31.76.55.181	EE	551	248	13	🇺🇸248Mb | Servhost Group	31.76.55.181	443
+WORKS	NO	YES			414	224		🇫🇷224Mb | REDHEBERG Association declaree	fr-1.starsping.com	443
+WORKS	NO	YES			1375	206		🇫🇮206Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			241	194		🇪🇸194Mb | ZhouyiSat Communications	45.150.195.113	2027
+WORKS	NO	YES			1348	189		🇫🇮189Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			1525	183		🇫🇮183Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			3988	176		🇷🇺176Mb | Jsc timeweb	tractormotivecost.latheanvil.info	443
+WORKS	YES	YES	151.244.30.176	CA	400	174	9	🇨🇦174Mb | 12651980 CANADA INC	151.244.30.176	443
+FAIL	NO	NO			556	167		🇪🇸167Mb | ZhouyiSat Communications	spash.skysafe.online	2027
+FAIL	NO	NO			623	166		🇫🇮166Mb | Web1 Oy	fn.skysafe.online	2027
+WORKS	NO	YES			756	165		🇵🇱165Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			4003	162		🌐162Mb | 🇫🇷 France  🌐  *CIDR	refriedbuzzhasty.dailygazette.one	443
+WORKS	NO	YES			798	162		🇵🇱162Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			4002	160		🇩🇪160Mb | WAIcore	213.176.77.138	443
+FAIL	NO	NO			630	158		🇫🇮158Mb | Web1 Oy	fn.skysafe.online	2027
+FAIL	NO	NO			626	158		🇪🇸158Mb | ZhouyiSat Communications	spash.skysafe.online	2027
+WORKS	NO	YES			746	158		🇵🇱158Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			317	157		🇫🇮157Mb | Web1 Oy	78.17.187.134	2027
+WORKS	YES	YES	151.244.30.176	CA	395	155		🇨🇦155Mb | 12651980 CANADA INC	151.244.30.176	443
+FAIL	NO	NO			4003	154		🇫🇮154Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			1317	152		🇵🇱152Mb | Datacamp Limited	188.130.209.185	443
+WORKS	NO	YES			857	152		🇵🇱152Mb | Datacamp Limited	188.130.209.185	443
+WORKS	NO	YES			750	152		🇵🇱152Mb | Datacamp Limited	188.130.209.185	443
+WORKS	NO	YES			790	151		🇵🇱151Mb | Datacamp Limited	188.130.209.185	443
+WORKS	NO	YES			798	151		🇵🇱151Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			652	150		🇫🇮150Mb | Web1 Oy	fn.skysafe.online	2027
+WORKS	NO	YES			822	149		🇵🇱149Mb | Datacamp Limited	188.130.209.185	443
+WORKS	NO	YES			775	149		🇵🇱149Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			240	147		🇪🇸147Mb | ZhouyiSat Communications	45.150.195.113	2027
+WORKS	NO	YES			767	146		🇵🇱146Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			4003	143		🌐143Mb | 🇩🇪 Germany  🌐  *CIDR	robaprik-vafloril.thicketpond.dev	443
+FAIL	NO	NO			340	137		🇫🇮137Mb | Web1 Oy	78.17.187.134	2027
+WORKS	NO	YES			1405	135		🇳🇱135Mb | Eternity International Limited	94.183.208.158	443
+WORKS	NO	YES			3067	135		🇫🇮135Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			241	134		🇪🇸134Mb | ZhouyiSat Communications	45.150.195.113	2027
+FAIL	NO	NO			4003	132		🇷🇺132Mb | VK	95.163.214.43	443
+WORKS	NO	YES			2200	131		🇫🇮131Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			240	130		🇪🇸130Mb | ZhouyiSat Communications	45.150.195.113	2027
+FAIL	NO	NO			317	124		🇫🇮124Mb | Web1 Oy	78.17.187.134	2027
+WORKS	YES	YES	31.76.55.181	EE	955	123		🇺🇸123Mb | Servhost Group	31.76.55.181	443
+FAIL	NO	NO			300	122		🇺🇸122Mb | Servhost Group	144.31.242.69	443
+WORKS	YES	YES	31.76.240.172	FI	2131	121	18	🇺🇸121Mb | Node Host Limited	eu-north-fi-1.hanvpn.biz	443
+FAIL	NO	NO			4001	120		🌐120Mb | 🇳🇱 The Netherlands  *CIDR	applyjitteryspilt.orbitgazette.art	443
+FAIL	NO	NO			453	119		🇫🇮119Mb | Web1 Oy	fn.skysafe.online	2027
+WORKS	YES	YES	31.76.55.181	EE	733	117		🇺🇸117Mb | Servhost Group	31.76.55.181	443
+WORKS	NO	YES			3905	112		🇫🇮112Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			1205	109		🌐109Mb | 🇷🇺 Russia  *CIDR VK	95.163.214.43	443
+WORKS	NO	YES			2517	109		🇫🇮109Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			1793	103		🇫🇮103Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			2464	103		🇫🇮103Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			1478	101		🌐101Mb | @ICV2RAY	31.76.89.110	8443
+FAIL	NO	NO			328	94		🇫🇮94Mb | Web1 Oy	78.17.187.134	2027
+WORKS	NO	YES			772	90		🇯🇵90Mb | Lagom Products	freshjuniper.download	443
 FAIL	NO	NO			4002	88		🌐88Mb | 3024  🇨🇿 Czechia  🏳️ CIDR-OLD	78.159.247.213	443
-WORKS	YES	YES	91.107.179.8	DE	322	87	2	🇩🇪87Mb | Hetzner	91.107.179.8	15003
-WORKS	NO	YES			1530	87		🇫🇮87Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	YES	107.173.237.146	US	257	85	1	🇺🇸85Mb | HostPapa	107.173.237.146	8443
-WORKS	YES	YES	2.27.244.94	PL	468	84	12	🇺🇸84Mb | Oc Networks Limited	2.27.244.94	443
-WORKS	NO	YES			1557	83		🇫🇮83Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	YES	91.107.179.8	DE	324	82		🇩🇪82Mb | Hetzner	91.107.179.8	15003
-WORKS	YES	YES	94.183.208.158	NL	811	82		🇳🇱82Mb | Eternity International Limited	94.183.208.158	443
-WORKS	YES	YES	80.76.43.245	DE	422	81	3	🇩🇪81Mb | Spacecore Solution	80.76.43.245	443
-WORKS	NO	YES			2326	79		🇫🇮79Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	YES	161.104.105.34	RU	692	78	16	🇷🇺78Mb | VK	50.7.159.123	8443
-WORKS	YES	YES	5.129.208.137	NL	822	77	8	🇳🇱77Mb | Timeweb LLP	201.24.117.25	19210
-WORKS	YES	YES	91.107.179.8	DE	322	75		🇩🇪75Mb | Hetzner	91.107.179.8	15003
-WORKS	YES	YES	138.124.245.116	NL	499	74	6	🇨🇭74Mb | Oc Networks Limited	138.124.245.116	443
-WORKS	YES	YES	95.85.253.208	PL	935	71	18	🇵🇱71Mb | Oc Networks Limited	95.85.253.208	443
-WORKS	YES	YES	91.107.179.8	DE	325	69		🇩🇪69Mb | Hetzner	91.107.179.8	15003
+WORKS	YES	YES	91.107.179.8	DE	323	87	2	🇩🇪87Mb | Hetzner	91.107.179.8	15003
+WORKS	NO	YES			1951	87		🇫🇮87Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	YES	YES	107.173.237.146	US	272	85	1	🇺🇸85Mb | HostPapa	107.173.237.146	8443
+WORKS	YES	YES	2.27.244.94	PL	469	84	11	🇺🇸84Mb | Oc Networks Limited	2.27.244.94	443
+WORKS	NO	YES			3757	83		🇫🇮83Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	YES	YES	91.107.179.8	DE	330	82		🇩🇪82Mb | Hetzner	91.107.179.8	15003
+WORKS	NO	YES			3809	82		🇳🇱82Mb | Eternity International Limited	94.183.208.158	443
+WORKS	YES	YES	80.76.43.245	DE	1039	81	5	🇩🇪81Mb | Spacecore Solution	80.76.43.245	443
+WORKS	NO	YES			850	79		🇫🇮79Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	YES	YES	161.104.105.34	RU	684	78	15	🇷🇺78Mb | VK	50.7.159.123	8443
+WORKS	YES	YES	5.129.208.137	NL	1031	77	6	🇳🇱77Mb | Timeweb LLP	201.24.117.25	19210
+WORKS	YES	YES	91.107.179.8	DE	323	75		🇩🇪75Mb | Hetzner	91.107.179.8	15003
+WORKS	YES	YES	138.124.245.116	NL	2250	74	7	🇨🇭74Mb | Oc Networks Limited	138.124.245.116	443
+WORKS	YES	YES	95.85.253.208	PL	1016	71	16	🇵🇱71Mb | Oc Networks Limited	95.85.253.208	443
+WORKS	YES	YES	91.107.179.8	DE	319	69		🇩🇪69Mb | Hetzner	91.107.179.8	15003
 WORKS	YES	YES	107.173.237.146	US	259	69		🇺🇸69Mb | HostPapa	107.173.237.146	8443
-FAIL	NO	NO			4003	67		🇷🇺67Mb | VK	95.163.214.43	443
-WORKS	YES	YES	194.58.41.39	DE	572	66	4	🇩🇪66Mb | Spacecore Solution	194.58.41.39	443
-WORKS	NO	YES			4340	65		🇫🇮65Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	NO			918	62		🇳🇱62Mb | Timeweb LLP	201.24.117.25	19210
-FAIL	NO	NO			4003	59		🇩🇪59Mb | WAIcore	213.176.77.138	443
-FAIL	NO	NO			3472	58		🇷🇺58Mb | Jsc timeweb	tractormotivecost.latheanvil.info	443
-WORKS	YES	NO			1724	57		🇫🇷57Mb | OVH	refriedbuzzhasty.dailygazette.one	443
-WORKS	YES	YES	172.236.207.245	DE	587	57	5	🇩🇪57Mb | Akamai Connected Cloud	spser1.mechanicir.ir	53719
+FAIL	NO	NO			4002	67		🇷🇺67Mb | VK	95.163.214.43	443
+WORKS	YES	YES	194.58.41.39	DE	446	66	3	🇩🇪66Mb | Spacecore Solution	194.58.41.39	443
+FAIL	NO	NO			4001	65		🇫🇮65Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	YES	YES	5.129.208.137	NL	851	62		🇳🇱62Mb | Timeweb LLP	201.24.117.25	19210
+FAIL	NO	NO			4001	59		🇩🇪59Mb | WAIcore	213.176.77.138	443
+FAIL	NO	NO			4002	58		🇷🇺58Mb | Jsc timeweb	tractormotivecost.latheanvil.info	443
+FAIL	NO	NO			4002	57		🇫🇷57Mb | OVH	refriedbuzzhasty.dailygazette.one	443
+WORKS	YES	YES	172.236.207.245	DE	494	57	4	🇩🇪57Mb | Akamai Connected Cloud	spser1.mechanicir.ir	53719
