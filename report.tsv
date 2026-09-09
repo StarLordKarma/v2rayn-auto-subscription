@@ -1,266 +1,266 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	NO	YES			887	584		🌐584Mb | REALITYUS🇺🇸	meow-fin.nethcloud.top	8443
-WORKS	NO	YES			646	565		🇫🇮565Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			3155	533		🇫🇷533Mb | OVH	188.114.97.6	8080
-WORKS	NO	YES			600	522		🇫🇮522Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	NO			2852	495		🌐495Mb | 🇳🇱 The Netherlands, Amsterdam	178.236.255.9	443
-FAIL	NO	NO			607	491		🇳🇱491Mb | GSL Networks Pty LTD	217.16.27.113	443
-WORKS	NO	YES			766	482		🇫🇮482Mb | Lagom Products	brightharbor.download	443
-WORKS	NO	YES			593	476		🌐476Mb | 🇺🇸 3756 - US - VLESS/XHTTP/REA	31.76.89.110	8443
-WORKS	NO	YES			594	475		🇫🇮475Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			731	471		🇫🇮471Mb | Lagom Products	brightharbor.download	443
-FAIL	NO	NO			563	470		🇨🇭470Mb | Private Layer INC	46.243.142.42	8443
-WORKS	NO	YES			740	470		🇫🇮470Mb | Lagom Products	brightharbor.download	443
-WORKS	NO	YES			738	467		🇫🇮467Mb | Lagom Products	brightharbor.download	443
-WORKS	NO	YES			597	460		🇫🇮460Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			703	451		🇫🇮451Mb | Lagom Products	brightharbor.download	443
-WORKS	NO	YES			720	451		🇫🇮451Mb | Lagom Products	brightharbor.download	443
-WORKS	NO	YES			577	447		🇫🇮447Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			531	446		🇨🇭446Mb | Private Layer INC	46.243.142.184	4443
-WORKS	YES	YES	81.90.25.158	DE	432	428	6	🌐428Mb | 🇩🇪 Germany, Frankfurt am Main	eu-central-de-3.hanvpn.biz	443
-FAIL	NO	NO			675	425		🇳🇱425Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-WORKS	NO	YES			507	424		🇫🇮424Mb | Lagom Products	brightharbor.download	443
-WORKS	NO	YES			549	420		🇫🇮420Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			325	420		🇨🇭420Mb | Global Connectivity Solutions Llp	138.124.244.240	443
-FAIL	NO	NO			4002	417		🇦🇹417Mb | netcup GmbH	159.195.242.180	443
-WORKS	NO	YES			488	404		🇫🇮404Mb | Lagom Products	brightharbor.download	443
-FAIL	NO	NO			694	391		🌐391Mb | 3385  🌐 Unknown  VLESS  🔐 Stab	sg.monkeyvillage.pro	443
-WORKS	YES	YES	57.131.141.252	DE	941	388	10	🇫🇷388Mb | OVH	104.21.70.21	8080
-WORKS	NO	YES			605	380		🇫🇮380Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			594	375		🇫🇮375Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			566	369		🇨🇭369Mb | Private Layer INC	46.243.142.89	9443
-FAIL	NO	NO			302	360		🇨🇦360Mb | BrainStorm Network	ca.monkeyvillage.pro	443
-FAIL	NO	NO			4002	360		🇺🇸360Mb | Interkvm Host Srl	103.246.248.98	443
-WORKS	YES	NO			571	356		🇹🇷356Mb | Global Connectivity Solutions Llp	62.133.63.253	443
-WORKS	NO	YES			611	344		🇫🇮344Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	YES	5.39.202.102	CZ	417	338	23	🇨🇿338Mb | GamerHost sro	5.39.202.102	443
-FAIL	NO	NO			665	338		🇳🇱338Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-WORKS	YES	YES	161.104.105.34	RU	447	328	29	🇷🇺328Mb | VK	95.133.247.18	8443
-FAIL	NO	NO			339	327		🇨🇭327Mb | Global Connectivity Solutions Llp	fi.monkeyvillage.pro	443
-WORKS	YES	YES	177.3.215.41	SE	448	317	30	🇸🇪317Mb | Fzco	177.3.215.41	443
-WORKS	YES	YES	31.56.187.193	EE	478	315	33	🇪🇪315Mb | ExpressHost	mg-42.whit3.net	443
-WORKS	YES	YES	65.109.185.234	FI	563	313	42	🇫🇮313Mb | Hetzner	italic.dearhossein-taktaz.ir	8080
-WORKS	NO	YES			664	312		🇫🇮312Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			282	312		🇩🇪312Mb | Servhost Group	be.monkeyvillage.pro	443
-WORKS	YES	YES	57.131.141.252	DE	971	307	11	🇫🇷307Mb | OVH	188.114.97.6	8080
-WORKS	NO	YES			561	306		🇫🇮306Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			432	302		🌐302Mb | 🇩🇪 Germany, Frankfurt am Main	eu-central-de2.hanvpn.biz	443
-FAIL	NO	NO			547	300		🇳🇱300Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-FAIL	NO	NO			301	297		🇵🇱297Mb | Global Connectivity Solutions Llp	77.83.246.74	443
-FAIL	NO	NO			584	292		🇳🇱292Mb | GSL Networks Pty LTD	217.16.27.113	443
-FAIL	NO	NO			308	291		🇦🇹291Mb | Global Connectivity Solutions Llp	at.monkeyvillage.pro	443
-WORKS	YES	YES	191.44.113.220	PL	437	290	28	🇵🇱290Mb | Node Host Limited	eu-central-pl-1.hanvpn.biz	443
-FAIL	NO	NO			290	290		🇩🇪290Mb | Servhost Group	144.31.219.105	443
-FAIL	NO	NO			317	288		🇦🇹288Mb | Global Connectivity Solutions Llp	87.251.69.160	443
-FAIL	NO	NO			308	288		🇵🇱288Mb | Global Connectivity Solutions Llp	pl.monkeyvillage.pro	443
-WORKS	YES	YES	185.32.6.80	PL	505	283	37	🇵🇱283Mb | Korbank S A	185.32.6.80	443
-WORKS	YES	YES	195.133.80.8	FR	425	283	25	🇵🇱283Mb | Soulful Hosting	195.133.80.8	443
-WORKS	NO	YES			597	281		🇫🇮281Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			539	280		🇨🇭280Mb | Private Layer INC	46.243.142.89	9443
-WORKS	YES	YES	213.176.77.138	DE	427	275	5	🇩🇪275Mb | WAIcore	213.176.77.138	443
-WORKS	YES	YES	5.39.202.70	CZ	419	274	24	🇨🇿274Mb | GamerHost sro	5.39.202.70	443
-FAIL	NO	NO			288	273		🇩🇪273Mb | HOSTES LTD	151.242.160.51	443
-WORKS	YES	YES	185.32.6.75	PL	535	273	40	🇵🇱273Mb | Korbank S A	185.32.6.75	443
-WORKS	NO	YES			1003	271		🌐271Mb | 🇬🇹GT_3409KB/sA004-260618 01	185.47.254.251	443
-FAIL	NO	NO			550	271		🇨🇭271Mb | Private Layer INC	46.243.142.42	8443
-WORKS	NO	YES			378	267		🇩🇪267Mb | Paul Sagov	179.254.115.116	443
-FAIL	NO	NO			649	257		🇳🇱257Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-FAIL	NO	NO			4001	256		🇳🇱256Mb | Aeza Group	178.236.255.9	443
-FAIL	NO	NO			4002	253		🇳🇱253Mb | Oracle Cloud	84.235.161.95	62145
-FAIL	NO	NO			556	251		🇳🇱251Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-FAIL	NO	NO			4003	249		🇳🇱249Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+WORKS	NO	YES			631	584		🌐584Mb | REALITYUS🇺🇸	meow-fin.nethcloud.top	8443
+WORKS	NO	YES			590	565		🇫🇮565Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			2166	533		🇫🇷533Mb | OVH	188.114.97.6	8080
+WORKS	NO	YES			628	522		🇫🇮522Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			2176	495		🌐495Mb | 🇳🇱 The Netherlands, Amsterdam	178.236.255.9	443
+FAIL	NO	NO			4002	491		🇳🇱491Mb | GSL Networks Pty LTD	217.16.27.113	443
+WORKS	NO	YES			783	482		🇫🇮482Mb | Lagom Products	brightharbor.download	443
+WORKS	NO	YES			653	476		🌐476Mb | 🇺🇸 3756 - US - VLESS/XHTTP/REA	31.76.89.110	8443
+WORKS	NO	YES			623	475		🇫🇮475Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			784	471		🇫🇮471Mb | Lagom Products	brightharbor.download	443
+FAIL	NO	NO			543	470		🇨🇭470Mb | Private Layer INC	46.243.142.42	8443
+WORKS	NO	YES			760	470		🇫🇮470Mb | Lagom Products	brightharbor.download	443
+WORKS	NO	YES			760	467		🇫🇮467Mb | Lagom Products	brightharbor.download	443
+WORKS	NO	YES			577	460		🇫🇮460Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			741	451		🇫🇮451Mb | Lagom Products	brightharbor.download	443
+WORKS	NO	YES			762	451		🇫🇮451Mb | Lagom Products	brightharbor.download	443
+WORKS	NO	YES			603	447		🇫🇮447Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			581	446		🇨🇭446Mb | Private Layer INC	46.243.142.184	4443
+WORKS	YES	YES	81.90.25.158	DE	483	428	5	🌐428Mb | 🇩🇪 Germany, Frankfurt am Main	eu-central-de-3.hanvpn.biz	443
+FAIL	NO	NO			681	425		🇳🇱425Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+WORKS	NO	YES			484	424		🇫🇮424Mb | Lagom Products	brightharbor.download	443
+WORKS	NO	YES			588	420		🇫🇮420Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			348	420		🇨🇭420Mb | Global Connectivity Solutions Llp	138.124.244.240	443
+FAIL	NO	NO			4003	417		🇦🇹417Mb | netcup GmbH	159.195.242.180	443
+WORKS	NO	YES			477	404		🇫🇮404Mb | Lagom Products	brightharbor.download	443
+FAIL	NO	NO			4002	391		🌐391Mb | 3385  🌐 Unknown  VLESS  🔐 Stab	sg.monkeyvillage.pro	443
+WORKS	YES	YES	207.241.172.215	DE	991	388	7	🇫🇷388Mb | OVH	104.21.70.21	8080
+WORKS	NO	YES			569	380		🇫🇮380Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			605	375		🇫🇮375Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			563	369		🇨🇭369Mb | Private Layer INC	46.243.142.89	9443
+FAIL	NO	NO			188	360		🇨🇦360Mb | BrainStorm Network	ca.monkeyvillage.pro	443
+WORKS	NO	YES			637	360		🇺🇸360Mb | Interkvm Host Srl	103.246.248.98	443
+FAIL	NO	NO			361	356		🇹🇷356Mb | Global Connectivity Solutions Llp	62.133.63.253	443
+WORKS	NO	YES			573	344		🇫🇮344Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	YES	YES	5.39.202.102	CZ	417	338	16	🇨🇿338Mb | GamerHost sro	5.39.202.102	443
+FAIL	NO	NO			689	338		🇳🇱338Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+WORKS	YES	YES	161.104.105.34	RU	405	328	13	🇷🇺328Mb | VK	95.133.247.18	8443
+FAIL	NO	NO			366	327		🇨🇭327Mb | Global Connectivity Solutions Llp	fi.monkeyvillage.pro	443
+FAIL	NO	NO			339	317		🇸🇪317Mb | Fzco	177.3.215.41	443
+FAIL	NO	NO			374	315		🇪🇪315Mb | ExpressHost	mg-42.whit3.net	443
+WORKS	YES	YES	65.109.185.234	FI	659	313	28	🇫🇮313Mb | Hetzner	italic.dearhossein-taktaz.ir	8080
+WORKS	NO	YES			574	312		🇫🇮312Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			391	312		🇩🇪312Mb | Servhost Group	be.monkeyvillage.pro	443
+WORKS	NO	YES			951	307		🇫🇷307Mb | OVH	188.114.97.6	8080
+WORKS	NO	YES			600	306		🇫🇮306Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			468	302		🌐302Mb | 🇩🇪 Germany, Frankfurt am Main	eu-central-de2.hanvpn.biz	443
+FAIL	NO	NO			4002	300		🇳🇱300Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+FAIL	NO	NO			315	297		🇵🇱297Mb | Global Connectivity Solutions Llp	77.83.246.74	443
+FAIL	NO	NO			640	292		🇳🇱292Mb | GSL Networks Pty LTD	217.16.27.113	443
+FAIL	NO	NO			323	291		🇦🇹291Mb | Global Connectivity Solutions Llp	at.monkeyvillage.pro	443
+WORKS	YES	YES	191.44.113.220	PL	496	290	22	🇵🇱290Mb | Node Host Limited	eu-central-pl-1.hanvpn.biz	443
+FAIL	NO	NO			270	290		🇩🇪290Mb | Servhost Group	144.31.219.105	443
+FAIL	NO	NO			311	288		🇦🇹288Mb | Global Connectivity Solutions Llp	87.251.69.160	443
+FAIL	NO	NO			334	288		🇵🇱288Mb | Global Connectivity Solutions Llp	pl.monkeyvillage.pro	443
+WORKS	YES	YES	185.32.6.80	PL	524	283	24	🇵🇱283Mb | Korbank S A	185.32.6.80	443
+WORKS	YES	YES	195.133.80.8	FR	468	283	17	🇵🇱283Mb | Soulful Hosting	195.133.80.8	443
+WORKS	NO	YES			620	281		🇫🇮281Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			555	280		🇨🇭280Mb | Private Layer INC	46.243.142.89	9443
+WORKS	YES	YES	213.176.77.138	DE	423	275	4	🇩🇪275Mb | WAIcore	213.176.77.138	443
+WORKS	YES	YES	5.39.202.70	CZ	417	274	15	🇨🇿274Mb | GamerHost sro	5.39.202.70	443
+FAIL	NO	NO			305	273		🇩🇪273Mb | HOSTES LTD	151.242.160.51	443
+WORKS	YES	YES	185.32.6.75	PL	538	273	25	🇵🇱273Mb | Korbank S A	185.32.6.75	443
+WORKS	NO	YES			344	271		🌐271Mb | 🇬🇹GT_3409KB/sA004-260618 01	185.47.254.251	443
+FAIL	NO	NO			551	271		🇨🇭271Mb | Private Layer INC	46.243.142.42	8443
+FAIL	NO	NO			270	267		🇩🇪267Mb | Paul Sagov	179.254.115.116	443
+FAIL	NO	NO			701	257		🇳🇱257Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+FAIL	NO	NO			4002	256		🇳🇱256Mb | Aeza Group	178.236.255.9	443
+FAIL	NO	NO			4003	253		🇳🇱253Mb | Oracle Cloud	84.235.161.95	62145
+FAIL	NO	NO			4002	251		🇳🇱251Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+FAIL	NO	NO			596	249		🇳🇱249Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
 FAIL	NO	NO			4002	249		🇮🇳249Mb | 12651980 CANADA INC	179.61.227.145	2083
-WORKS	YES	YES	185.32.6.75	PL	556	249		🇵🇱249Mb | Korbank S A	185.32.6.75	443
-WORKS	YES	YES	31.56.187.193	EE	461	247	31	🇪🇪247Mb | ExpressHost	31.56.187.193	443
-FAIL	NO	NO			2112	247		🇫🇷247Mb | OVH	188.114.97.6	8080
-FAIL	NO	NO			333	244		🇵🇹244Mb | BrainStorm Network	pt.monkeyvillage.pro	443
-FAIL	NO	NO			366	244		🇫🇷244Mb | Cgi Global Limited	95.182.98.234	443
-WORKS	YES	YES	185.32.6.80	PL	490	241		🇵🇱241Mb | Korbank S A	185.32.6.80	443
-WORKS	YES	YES	195.133.80.8	FR	433	241		🇵🇱241Mb | Soulful Hosting	195.133.80.8	443
-FAIL	NO	NO			372	241		🇮🇪241Mb | BrainStorm Network	ie.monkeyvillage.pro	443
-WORKS	NO	YES			496	239		🇫🇮239Mb | Lagom Products	brightharbor.download	443
-WORKS	YES	YES	195.133.80.8	FR	426	236		🇵🇱236Mb | Soulful Hosting	195.133.80.8	443
-FAIL	NO	NO			714	235		🇸🇪235Mb | Aeza Group	138.124.29.78	443
-WORKS	YES	YES	185.32.6.81	PL	475	233	32	🇵🇱233Mb | Korbank S A	185.32.6.81	443
-WORKS	YES	YES	195.123.213.28	LV	571	233	43	🇱🇻233Mb | Route 95	195.123.213.28	443
-WORKS	YES	YES	185.32.6.80	PL	506	233		🇵🇱233Mb | Korbank S A	185.32.6.80	443
-FAIL	NO	NO			346	232		🇳🇱232Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-WORKS	YES	YES	45.129.186.205	BY	540	231	41	🇧🇾231Mb | Yedinyye Resheniya	45.129.186.205	443
-WORKS	NO	YES			432	229		🌐229Mb | 🇩🇪 Germany, Frankfurt am Main	eu-central-de2.hanvpn.biz	443
-WORKS	YES	YES	31.76.55.181	EE	488	227	34	🇺🇸227Mb | Servhost Group	31.76.55.181	443
-WORKS	NO	YES			495	221		🇫🇮221Mb | Lagom Products	brightharbor.download	443
-WORKS	YES	YES	31.56.189.135	DE	779	217	9	🇦🇪217Mb | ExpressHost	159.194.241.4	443
-WORKS	YES	YES	185.32.6.71	PL	494	217	35	🇵🇱217Mb | Korbank S A	185.32.6.71	443
-WORKS	YES	YES	185.32.6.70	PL	495	214	36	🇵🇱214Mb | Korbank S A	185.32.6.70	443
-FAIL	NO	NO			312	213		🇫🇮213Mb | Web1 Oy	78.17.187.134	2027
-FAIL	NO	NO			356	213		🇳🇱213Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-WORKS	NO	YES			373	210		🇫🇷210Mb | REDHEBERG Association declaree	fr-1.starsping.com	443
-WORKS	YES	YES	185.32.6.81	PL	481	209		🇵🇱209Mb | Korbank S A	185.32.6.81	443
-WORKS	YES	YES	45.90.59.15	CH	453	208	12	🇨🇭208Mb | Route 95	45.90.59.15	443
-WORKS	YES	YES	5.39.202.70	CZ	419	207		🇨🇿207Mb | GamerHost sro	5.39.202.70	443
-WORKS	YES	YES	161.104.105.34	RU	448	204		🇷🇺204Mb | VK	95.133.247.18	8443
-WORKS	NO	YES			395	204		🇩🇪204Mb | Paul Sagov	pets.whit3.net	443
-FAIL	NO	NO			240	200		🇪🇸200Mb | ZhouyiSat Communications	45.150.195.113	2027
-FAIL	NO	NO			4002	199		🇮🇳199Mb | 12651980 CANADA INC	179.61.227.145	2083
-WORKS	YES	YES	5.39.202.70	CZ	435	198		🇨🇿198Mb | GamerHost sro	5.39.202.70	443
-WORKS	YES	YES	206.206.78.36	SG	916	197	47	🌐197Mb | @DeltaKroneckerGithub	206.206.78.36	443
-WORKS	YES	YES	185.32.6.75	PL	537	197		🇵🇱197Mb | Korbank S A	185.32.6.75	443
-FAIL	NO	NO			665	195		🇳🇱195Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
-WORKS	YES	YES	185.32.6.80	PL	494	194		🇵🇱194Mb | Korbank S A	185.32.6.80	443
-WORKS	YES	YES	177.3.215.41	SE	643	194		🇸🇪194Mb | Fzco	idontknow.whit3.net	443
-WORKS	YES	YES	185.32.6.81	PL	488	192		🇵🇱192Mb | Korbank S A	185.32.6.81	443
-WORKS	YES	YES	177.3.215.41	SE	509	189	38	🇸🇪189Mb | Fzco	idontknow.whit3.net	443
-FAIL	NO	NO			244	188		🇮🇪188Mb | BrainStorm Network	86.54.83.26	443
-WORKS	YES	YES	77.67.89.180	NL	383	188	16	🇳🇱188Mb | Hostkey Bv	77.67.89.180	443
-WORKS	YES	YES	185.32.6.70	PL	499	183		🇵🇱183Mb | Korbank S A	185.32.6.70	443
-WORKS	YES	YES	31.56.187.193	EE	518	183		🇪🇪183Mb | ExpressHost	mg-42.whit3.net	443
-FAIL	NO	NO			314	181		🇫🇮181Mb | Web1 Oy	78.17.187.134	2027
-FAIL	NO	NO			686	176		🇫🇮176Mb | Web1 Oy	fn.skysafe.online	2027
-WORKS	YES	YES	185.32.6.70	PL	486	175		🇵🇱175Mb | Korbank S A	185.32.6.70	443
-FAIL	NO	NO			702	175		🇫🇮175Mb | Web1 Oy	fn.skysafe.online	2027
-FAIL	NO	NO			4002	174		🇬🇧174Mb | GLB Bulut Teknolojisi Limited Sirketi	185.39.19.25	443
-FAIL	NO	NO			272	174		🇳🇱174Mb | Fornex Hosting SL	103.75.125.162	443
-WORKS	YES	YES	195.133.80.8	FR	427	169		🇵🇱169Mb | Soulful Hosting	195.133.80.8	443
-WORKS	NO	YES			449	168		🇫🇷168Mb | REDHEBERG Association declaree	fr-1.starsping.com	443
-WORKS	NO	YES			743	165		🇵🇱165Mb | Datacamp Limited	188.130.209.185	443
-WORKS	YES	YES	151.244.30.176	CA	377	165	22	🇨🇦165Mb | 12651980 CANADA INC	151.244.30.176	443
-WORKS	YES	YES	151.244.30.176	CA	380	164		🇨🇦164Mb | 12651980 CANADA INC	151.244.30.176	443
-WORKS	NO	YES			725	163		🇵🇱163Mb | Datacamp Limited	188.130.209.185	443
-WORKS	NO	YES			768	162		🇵🇱162Mb | Datacamp Limited	188.130.209.185	443
-WORKS	NO	YES			746	161		🇵🇱161Mb | Datacamp Limited	188.130.209.185	443
+WORKS	YES	YES	185.32.6.75	PL	588	249		🇵🇱249Mb | Korbank S A	185.32.6.75	443
+FAIL	NO	NO			339	247		🇪🇪247Mb | ExpressHost	31.56.187.193	443
+FAIL	NO	NO			2152	247		🇫🇷247Mb | OVH	188.114.97.6	8080
+FAIL	NO	NO			334	244		🇵🇹244Mb | BrainStorm Network	pt.monkeyvillage.pro	443
+FAIL	NO	NO			357	244		🇫🇷244Mb | Cgi Global Limited	95.182.98.234	443
+WORKS	YES	YES	185.32.6.80	PL	483	241		🇵🇱241Mb | Korbank S A	185.32.6.80	443
+WORKS	YES	YES			450	241		🇵🇱241Mb | Soulful Hosting	195.133.80.8	443
+FAIL	NO	NO			391	241		🇮🇪241Mb | BrainStorm Network	ie.monkeyvillage.pro	443
+WORKS	NO	YES			488	239		🇫🇮239Mb | Lagom Products	brightharbor.download	443
+WORKS	YES	YES	195.133.80.8	FR	466	236		🇵🇱236Mb | Soulful Hosting	195.133.80.8	443
+FAIL	NO	NO			784	235		🇸🇪235Mb | Aeza Group	138.124.29.78	443
+WORKS	YES	YES	185.32.6.81	PL	483	233	21	🇵🇱233Mb | Korbank S A	185.32.6.81	443
+WORKS	YES	YES	195.123.213.28	LV	562	233	26	🇱🇻233Mb | Route 95	195.123.213.28	443
+WORKS	YES	YES	185.32.6.80	PL	499	233		🇵🇱233Mb | Korbank S A	185.32.6.80	443
+FAIL	NO	NO			381	232		🇳🇱232Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+WORKS	YES	YES	45.129.186.205	BY	580	231	27	🇧🇾231Mb | Yedinyye Resheniya	45.129.186.205	443
+WORKS	NO	YES			462	229		🌐229Mb | 🇩🇪 Germany, Frankfurt am Main	eu-central-de2.hanvpn.biz	443
+WORKS	YES	YES	31.76.55.181	EE	482	227	20	🇺🇸227Mb | Servhost Group	31.76.55.181	443
+WORKS	NO	YES			483	221		🇫🇮221Mb | Lagom Products	brightharbor.download	443
+WORKS	YES	YES	31.56.189.135	DE	813	217	6	🇦🇪217Mb | ExpressHost	159.194.241.4	443
+WORKS	YES	YES	185.32.6.71	PL	481	217	18	🇵🇱217Mb | Korbank S A	185.32.6.71	443
+WORKS	YES	YES	185.32.6.70	PL	482	214	19	🇵🇱214Mb | Korbank S A	185.32.6.70	443
+FAIL	NO	NO			365	213		🇫🇮213Mb | Web1 Oy	78.17.187.134	2027
+FAIL	NO	NO			686	213		🇳🇱213Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+WORKS	NO	YES			368	210		🇫🇷210Mb | REDHEBERG Association declaree	fr-1.starsping.com	443
+WORKS	YES	YES	185.32.6.81	PL	521	209		🇵🇱209Mb | Korbank S A	185.32.6.81	443
+WORKS	YES	YES	45.90.59.15	CH	464	208	8	🇨🇭208Mb | Route 95	45.90.59.15	443
+WORKS	YES	YES	5.39.202.70	CZ	417	207		🇨🇿207Mb | GamerHost sro	5.39.202.70	443
+WORKS	YES	YES	161.104.105.34	RU	406	204		🇷🇺204Mb | VK	95.133.247.18	8443
+FAIL	NO	NO			281	204		🇩🇪204Mb | Paul Sagov	pets.whit3.net	443
+FAIL	NO	NO			230	200		🇪🇸200Mb | ZhouyiSat Communications	45.150.195.113	2027
+FAIL	NO	NO			4003	199		🇮🇳199Mb | 12651980 CANADA INC	179.61.227.145	2083
+WORKS	YES	YES	5.39.202.70	CZ	410	198		🇨🇿198Mb | GamerHost sro	5.39.202.70	443
+WORKS	YES	YES	206.206.78.36	SG	931	197	30	🌐197Mb | @DeltaKroneckerGithub	206.206.78.36	443
+WORKS	YES	YES	185.32.6.75	PL	539	197		🇵🇱197Mb | Korbank S A	185.32.6.75	443
+FAIL	NO	NO			377	195		🇳🇱195Mb | Netrouting BV	nld-0001.api.packet-drop-society.net	443
+WORKS	YES	YES	185.32.6.80	PL	539	194		🇵🇱194Mb | Korbank S A	185.32.6.80	443
+FAIL	NO	NO			396	194		🇸🇪194Mb | Fzco	idontknow.whit3.net	443
+WORKS	YES	YES	185.32.6.81	PL	474	192		🇵🇱192Mb | Korbank S A	185.32.6.81	443
+FAIL	NO	NO			441	189		🇸🇪189Mb | Fzco	idontknow.whit3.net	443
+FAIL	NO	NO			265	188		🇮🇪188Mb | BrainStorm Network	86.54.83.26	443
+FAIL	NO	NO			289	188		🇳🇱188Mb | Hostkey Bv	77.67.89.180	443
+WORKS	YES	YES	185.32.6.70	PL	2997	183		🇵🇱183Mb | Korbank S A	185.32.6.70	443
+FAIL	NO	NO			374	183		🇪🇪183Mb | ExpressHost	mg-42.whit3.net	443
+FAIL	NO	NO			330	181		🇫🇮181Mb | Web1 Oy	78.17.187.134	2027
+FAIL	NO	NO			866	176		🇫🇮176Mb | Web1 Oy	fn.skysafe.online	2027
+WORKS	YES	YES	185.32.6.70	PL	2363	175		🇵🇱175Mb | Korbank S A	185.32.6.70	443
+FAIL	NO	NO			693	175		🇫🇮175Mb | Web1 Oy	fn.skysafe.online	2027
+FAIL	NO	NO			4003	174		🇬🇧174Mb | GLB Bulut Teknolojisi Limited Sirketi	185.39.19.25	443
+FAIL	NO	NO			282	174		🇳🇱174Mb | Fornex Hosting SL	103.75.125.162	443
+WORKS	YES	YES	195.133.80.8	FR	452	169		🇵🇱169Mb | Soulful Hosting	195.133.80.8	443
+WORKS	NO	YES			403	168		🇫🇷168Mb | REDHEBERG Association declaree	fr-1.starsping.com	443
+WORKS	NO	YES			741	165		🇵🇱165Mb | Datacamp Limited	188.130.209.185	443
+WORKS	YES	YES	151.244.30.176	CA	406	165	14	🇨🇦165Mb | 12651980 CANADA INC	151.244.30.176	443
+WORKS	YES	YES	151.244.30.176	CA	405	164		🇨🇦164Mb | 12651980 CANADA INC	151.244.30.176	443
+WORKS	NO	YES			776	163		🇵🇱163Mb | Datacamp Limited	188.130.209.185	443
+WORKS	NO	YES			717	162		🇵🇱162Mb | Datacamp Limited	188.130.209.185	443
+WORKS	NO	YES			748	161		🇵🇱161Mb | Datacamp Limited	188.130.209.185	443
 FAIL	NO	NO			4002	161		🇷🇺161Mb | VK	95.163.214.43	443
-FAIL	NO	NO			4003	159		🇷🇺159Mb | VK	95.163.214.43	443
-WORKS	NO	YES			713	159		🇵🇱159Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			2034	157		🇳🇱157Mb | ClearStack BV	188.114.97.6	8080
-WORKS	YES	YES	31.77.59.135	PL	425	157	26	🇵🇱157Mb | Paul Sagov	31.77.59.135	443
-WORKS	YES	YES	5.39.202.70	CZ	422	157		🇨🇿157Mb | GamerHost sro	5.39.202.70	443
-FAIL	NO	NO			239	156		🇪🇸156Mb | ZhouyiSat Communications	45.150.195.113	2027
-WORKS	NO	YES			783	156		🇵🇱156Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			240	155		🇪🇸155Mb | ZhouyiSat Communications	45.150.195.113	2027
-FAIL	NO	NO			739	155		🇪🇸155Mb | ZhouyiSat Communications	spash.skysafe.online	2027
-WORKS	NO	NO			604	154		🇷🇴154Mb | Route 95	46.28.67.55	443
+FAIL	NO	NO			4002	159		🇷🇺159Mb | VK	95.163.214.43	443
+WORKS	NO	YES			759	159		🇵🇱159Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			2120	157		🇳🇱157Mb | ClearStack BV	188.114.97.6	8080
+FAIL	NO	NO			332	157		🇵🇱157Mb | Paul Sagov	31.77.59.135	443
+WORKS	YES	YES	5.39.202.70	CZ	411	157		🇨🇿157Mb | GamerHost sro	5.39.202.70	443
+FAIL	NO	NO			227	156		🇪🇸156Mb | ZhouyiSat Communications	45.150.195.113	2027
+WORKS	NO	YES			724	156		🇵🇱156Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			226	155		🇪🇸155Mb | ZhouyiSat Communications	45.150.195.113	2027
+FAIL	NO	NO			537	155		🇪🇸155Mb | ZhouyiSat Communications	spash.skysafe.online	2027
+WORKS	NO	YES			550	154		🇷🇴154Mb | Route 95	46.28.67.55	443
 FAIL	NO	NO			4002	152		🇷🇺152Mb | VK	95.163.214.43	443
-WORKS	YES	YES	185.32.6.80	PL	515	152		🇵🇱152Mb | Korbank S A	185.32.6.80	443
-WORKS	NO	YES			773	151		🇵🇱151Mb | Datacamp Limited	188.130.209.185	443
-WORKS	YES	YES	185.32.6.75	PL	533	150		🇵🇱150Mb | Korbank S A	185.32.6.75	443
-WORKS	NO	YES			3996	150		🇩🇪150Mb | Node Host Limited	eu-central-de2.hanvpn.biz	443
-WORKS	NO	YES			736	150		🇵🇱150Mb | Datacamp Limited	188.130.209.185	443
-WORKS	NO	YES			3044	149		🇺🇸149Mb | Interkvm Host Srl	103.246.248.98	443
-WORKS	YES	YES	31.77.59.135	PL	434	148	27	🇵🇱148Mb | Paul Sagov	good-route.whit3.net	443
-WORKS	YES	YES	94.183.208.158	NL	408	148	18	🇳🇱148Mb | Eternity International Limited	94.183.208.158	443
-FAIL	NO	NO			496	148		🇩🇪148Mb | HOSTES LTD	de.coffeconsulting.uk	443
-WORKS	YES	YES	87.121.105.108	SE	637	148	44	🇸🇪148Mb | Play2go International Limited	109.68.213.79	2083
+FAIL	NO	NO			4003	152		🇵🇱152Mb | Korbank S A	185.32.6.80	443
+WORKS	NO	YES			750	151		🇵🇱151Mb | Datacamp Limited	188.130.209.185	443
+WORKS	YES	YES	185.32.6.75	PL	3736	150		🇵🇱150Mb | Korbank S A	185.32.6.75	443
+WORKS	NO	YES			448	150		🇩🇪150Mb | Node Host Limited	eu-central-de2.hanvpn.biz	443
+WORKS	NO	YES			741	150		🇵🇱150Mb | Datacamp Limited	188.130.209.185	443
+WORKS	YES	YES	103.246.248.98	US	690	149	2	🇺🇸149Mb | Interkvm Host Srl	103.246.248.98	443
+FAIL	NO	NO			333	148		🇵🇱148Mb | Paul Sagov	good-route.whit3.net	443
+WORKS	YES	YES	94.183.208.158	NL	403	148	11	🇳🇱148Mb | Eternity International Limited	94.183.208.158	443
+FAIL	NO	NO			406	148		🇩🇪148Mb | HOSTES LTD	de.coffeconsulting.uk	443
+FAIL	NO	NO			4003	148		🇸🇪148Mb | Play2go International Limited	109.68.213.79	2083
 WORKS	NO	YES			768	146		🇵🇱146Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			329	146		🇫🇮146Mb | Web1 Oy	78.17.187.134	2027
-WORKS	NO	YES			758	146		🇵🇱146Mb | Datacamp Limited	188.130.209.185	443
-WORKS	NO	YES			736	146		🇵🇱146Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			3149	146		🇷🇺146Mb | VK	95.163.214.43	443
-WORKS	NO	YES			395	145		🇩🇪145Mb | Paul Sagov	pets.whit3.net	443
-FAIL	NO	NO			2184	144		🇷🇺144Mb | VK	95.163.214.43	443
-WORKS	YES	YES	185.32.6.81	PL	470	142		🇵🇱142Mb | Korbank S A	185.32.6.81	443
-FAIL	NO	NO			4002	142		🇩🇪142Mb | Eternity International Limited	213.226.112.254	443
-FAIL	NO	NO			782	141		🇫🇮141Mb | Web1 Oy	fn.skysafe.online	2027
-WORKS	YES	YES	185.32.6.71	PL	484	139		🇵🇱139Mb | Korbank S A	185.32.6.71	443
-FAIL	NO	NO			4003	138		🇷🇺138Mb | VK	95.163.214.43	443
-FAIL	NO	NO			4002	137		🇷🇺137Mb | VK	95.163.214.43	443
-WORKS	YES	YES	31.77.59.135	PL	439	137		🇵🇱137Mb | Paul Sagov	good-route.whit3.net	443
-WORKS	YES	YES	94.183.208.158	NL	383	136		🇳🇱136Mb | Eternity International Limited	94.183.208.158	443
-FAIL	NO	NO			2011	136		🇷🇺136Mb | VK	95.163.214.43	443
-FAIL	NO	NO			614	135		🇪🇸135Mb | ZhouyiSat Communications	spash.skysafe.online	2027
-FAIL	NO	NO			348	135		🇵🇱135Mb | HOSTES LTD	31.59.124.211	443
-FAIL	NO	NO			810	134		🇷🇺134Mb | VK	95.163.214.43	443
-WORKS	YES	YES	191.44.113.220	PL	458	131		🇵🇱131Mb | Node Host Limited	eu-central-pl-1.hanvpn.biz	443
-FAIL	NO	NO			239	131		🇪🇸131Mb | ZhouyiSat Communications	45.150.195.113	2027
-FAIL	NO	NO			324	130		🇵🇱130Mb | HOSTES LTD	31.59.124.232	443
-WORKS	YES	YES	89.185.81.200	NO	467	129	21	🇳🇴129Mb | Global Connectivity Solutions Llp	oslomeow.nethcloud.top	8443
-WORKS	YES	YES	177.3.212.189	NL	487	127	20	🇳🇱127Mb | Fzco	177.3.212.189	443
-FAIL	NO	NO			734	126		🇬🇧126Mb | WEYRO LTD	109.107.189.46	443
-FAIL	NO	NO			238	126		🇬🇧126Mb | BrainStorm Network	uk.monkeyvillage.pro	443
-FAIL	NO	NO			528	126		🇪🇸126Mb | ZhouyiSat Communications	spash.skysafe.online	2027
-FAIL	NO	NO			376	125		🇪🇸125Mb | BrainStorm Network	es.monkeyvillage.pro	443
-FAIL	NO	NO			311	125		🇫🇮125Mb | Web1 Oy	78.17.187.134	2027
-WORKS	YES	YES	176.65.144.24	CH	463	124	14	🇨🇭124Mb | Dedik Services Limited	176.65.144.24	443
-WORKS	YES	YES	45.67.139.204	FR	1128	122	48	🌐122Mb | 🌐سرور 52  Sha-18 MTSRVRS	fristoofarfromyou.arakphone.ir	29188
+FAIL	NO	NO			337	146		🇫🇮146Mb | Web1 Oy	78.17.187.134	2027
+WORKS	NO	YES			762	146		🇵🇱146Mb | Datacamp Limited	188.130.209.185	443
+WORKS	NO	YES			748	146		🇵🇱146Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			4003	146		🇷🇺146Mb | VK	95.163.214.43	443
+FAIL	NO	NO			277	145		🇩🇪145Mb | Paul Sagov	pets.whit3.net	443
+FAIL	NO	NO			4001	144		🇷🇺144Mb | VK	95.163.214.43	443
+WORKS	YES	YES	185.32.6.81	PL	482	142		🇵🇱142Mb | Korbank S A	185.32.6.81	443
+FAIL	NO	NO			4003	142		🇩🇪142Mb | Eternity International Limited	213.226.112.254	443
+FAIL	NO	NO			335	141		🇫🇮141Mb | Web1 Oy	fn.skysafe.online	2027
+WORKS	YES	YES	185.32.6.71	PL	481	139		🇵🇱139Mb | Korbank S A	185.32.6.71	443
+FAIL	NO	NO			4002	138		🇷🇺138Mb | VK	95.163.214.43	443
+FAIL	NO	NO			2702	137		🇷🇺137Mb | VK	95.163.214.43	443
+FAIL	NO	NO			339	137		🇵🇱137Mb | Paul Sagov	good-route.whit3.net	443
+WORKS	YES	YES	94.183.208.158	NL	721	136		🇳🇱136Mb | Eternity International Limited	94.183.208.158	443
+FAIL	NO	NO			1268	136		🇷🇺136Mb | VK	95.163.214.43	443
+FAIL	NO	NO			528	135		🇪🇸135Mb | ZhouyiSat Communications	spash.skysafe.online	2027
+FAIL	NO	NO			369	135		🇵🇱135Mb | HOSTES LTD	31.59.124.211	443
+FAIL	NO	NO			557	134		🇷🇺134Mb | VK	95.163.214.43	443
+WORKS	YES	YES	191.44.113.220	PL	475	131		🇵🇱131Mb | Node Host Limited	eu-central-pl-1.hanvpn.biz	443
+FAIL	NO	NO			227	131		🇪🇸131Mb | ZhouyiSat Communications	45.150.195.113	2027
+FAIL	NO	NO			4003	130		🇵🇱130Mb | HOSTES LTD	31.59.124.232	443
+WORKS	YES	YES	89.185.81.200	NO	486	129	12	🇳🇴129Mb | Global Connectivity Solutions Llp	oslomeow.nethcloud.top	8443
+FAIL	NO	NO			325	127		🇳🇱127Mb | Fzco	177.3.212.189	443
+FAIL	NO	NO			719	126		🇬🇧126Mb | WEYRO LTD	109.107.189.46	443
+FAIL	NO	NO			259	126		🇬🇧126Mb | BrainStorm Network	uk.monkeyvillage.pro	443
+FAIL	NO	NO			480	126		🇪🇸126Mb | ZhouyiSat Communications	spash.skysafe.online	2027
+FAIL	NO	NO			373	125		🇪🇸125Mb | BrainStorm Network	es.monkeyvillage.pro	443
+FAIL	NO	NO			342	125		🇫🇮125Mb | Web1 Oy	78.17.187.134	2027
+FAIL	NO	NO			300	124		🇨🇭124Mb | Dedik Services Limited	176.65.144.24	443
+FAIL	NO	NO			4002	122		🌐122Mb | 🌐سرور 52  Sha-18 MTSRVRS	fristoofarfromyou.arakphone.ir	29188
 FAIL	NO	NO			4002	118		🇦🇹118Mb | netcup GmbH	159.195.240.82	443
-FAIL	NO	NO			4003	115		🇷🇺115Mb | VK	95.163.214.43	443
-FAIL	NO	NO			4003	114		🇷🇺114Mb | VK	95.163.214.43	443
-WORKS	YES	YES	177.3.212.189	NL	482	113	19	🇳🇱113Mb | Fzco	gd-0z.whit3.net	443
-WORKS	YES	YES	94.183.208.158	NL	453	113		🇳🇱113Mb | Eternity International Limited	94.183.208.158	443
-FAIL	NO	NO			501	112		🇮🇹112Mb | BrainStorm Network	it.monkeyvillage.pro	443
-FAIL	NO	NO			609	111		🇳🇱111Mb | GSL Networks Pty LTD	217.16.27.113	443
-FAIL	NO	NO			4003	110		🇷🇺110Mb | VK	95.163.214.43	443
-WORKS	YES	YES	152.69.195.67	JP	519	110	39	🇯🇵110Mb | Oracle Cloud	152.69.195.67	47878
+FAIL	NO	NO			4002	115		🇷🇺115Mb | VK	95.163.214.43	443
+FAIL	NO	NO			3475	114		🇷🇺114Mb | VK	95.163.214.43	443
+FAIL	NO	NO			422	113		🇳🇱113Mb | Fzco	gd-0z.whit3.net	443
+WORKS	YES	YES	94.183.208.158	NL	429	113		🇳🇱113Mb | Eternity International Limited	94.183.208.158	443
+FAIL	NO	NO			328	112		🇮🇹112Mb | BrainStorm Network	it.monkeyvillage.pro	443
+FAIL	NO	NO			3802	111		🇳🇱111Mb | GSL Networks Pty LTD	217.16.27.113	443
+FAIL	NO	NO			4002	110		🇷🇺110Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4003	110		🇯🇵110Mb | Oracle Cloud	152.69.195.67	47878
 FAIL	NO	NO			4002	109		🇪🇪109Mb | Eternity International Limited	94.241.142.180	8443
-FAIL	NO	NO			3881	108		🇷🇺108Mb | VK	95.163.214.43	443
-WORKS	YES	YES	177.3.212.189	NL	497	106		🇳🇱106Mb | Fzco	gd-0z.whit3.net	443
-FAIL	NO	NO			3293	106		🇷🇺106Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4003	108		🇷🇺108Mb | VK	95.163.214.43	443
+FAIL	NO	NO			328	106		🇳🇱106Mb | Fzco	gd-0z.whit3.net	443
+FAIL	NO	NO			1902	106		🇷🇺106Mb | VK	95.163.214.43	443
 FAIL	NO	NO			4002	106		🇷🇺106Mb | VK	95.163.214.43	443
-FAIL	NO	NO			492	104		🇸🇪104Mb | Fzco	177.3.215.149	443
-FAIL	NO	NO			4003	103		🇷🇺103Mb | VK	95.163.214.43	443
-FAIL	NO	NO			4002	101		🇷🇺101Mb | VK	95.163.214.43	443
-WORKS	YES	YES	161.104.105.34	RU	684	100	45	🇷🇺100Mb | VK	50.7.159.123	8443
-WORKS	YES	YES	91.107.179.8	DE	318	98	4	🇩🇪98Mb | Hetzner	91.107.179.8	15003
-FAIL	NO	NO			1081	93		🇷🇺93Mb | VK	95.163.214.43	443
-WORKS	YES	YES	138.124.245.116	NL	375	91	15	🇨🇭91Mb | Oc Networks Limited	138.124.245.116	443
-FAIL	NO	NO			966	91		🇷🇺91Mb | VK	95.163.214.43	443
-FAIL	NO	NO			842	90		🇷🇺90Mb | VK	95.163.214.43	443
+FAIL	NO	NO			473	104		🇸🇪104Mb | Fzco	177.3.215.149	443
+FAIL	NO	NO			1009	103		🇷🇺103Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4003	101		🇷🇺101Mb | VK	95.163.214.43	443
+WORKS	YES	YES	161.104.105.34	RU	690	100	29	🇷🇺100Mb | VK	50.7.159.123	8443
+WORKS	YES	YES	91.107.179.8	DE	306	98	3	🇩🇪98Mb | Hetzner	91.107.179.8	15003
+FAIL	NO	NO			4003	93		🇷🇺93Mb | VK	95.163.214.43	443
+WORKS	YES	YES	138.124.245.116	NL	391	91	9	🇨🇭91Mb | Oc Networks Limited	138.124.245.116	443
+FAIL	NO	NO			4003	91		🇷🇺91Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4002	90		🇷🇺90Mb | VK	95.163.214.43	443
 FAIL	NO	NO			4003	90		🇷🇺90Mb | VK	95.163.214.43	443
-WORKS	YES	YES	84.32.49.84	SE	856	89	46	🇸🇪89Mb | UAB Cherry Servers	176.109.69.127	443
+FAIL	NO	NO			680	89		🇸🇪89Mb | UAB Cherry Servers	176.109.69.127	443
 FAIL	NO	NO			4002	89		🇷🇺89Mb | VK	95.163.214.43	443
-FAIL	NO	NO			417	88		🇷🇺88Mb | VK	95.163.214.43	443
-FAIL	NO	NO			1893	87		🇭🇰87Mb | LEASEWEB HONG KONG LIMITED	hk.monkeyvillage.pro	443
+FAIL	NO	NO			4003	88		🇷🇺88Mb | VK	95.163.214.43	443
+FAIL	NO	NO			3818	87		🇭🇰87Mb | LEASEWEB HONG KONG LIMITED	hk.monkeyvillage.pro	443
 FAIL	NO	NO			4002	86		🇷🇺86Mb | VK	95.163.214.43	443
-FAIL	NO	NO			4002	86		🇷🇺86Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4003	86		🇷🇺86Mb | VK	95.163.214.43	443
 FAIL	NO	NO			4002	85		🇷🇺85Mb | VK	95.163.214.43	443
-FAIL	NO	NO			4002	85		🇷🇺85Mb | VK	95.163.214.43	443
-FAIL	NO	NO			4002	85		🇷🇺85Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4003	85		🇷🇺85Mb | VK	95.163.214.43	443
+FAIL	NO	NO			3218	85		🇷🇺85Mb | VK	95.163.214.43	443
 FAIL	NO	NO			4002	83		🇷🇺83Mb | VK	95.163.214.43	443
 FAIL	NO	NO			4002	83		🇷🇺83Mb | VK	95.163.214.43	443
 FAIL	NO	NO			4002	83		🇷🇺83Mb | VK	95.163.214.43	443
-FAIL	NO	NO			409	83		🇳🇱83Mb | Fornex Hosting SL	nl.coffeconsulting.uk	443
-FAIL	NO	NO			398	82		🇨🇭82Mb | WAIcore	185.86.144.101	443
-WORKS	NO	YES			495	81		🇫🇮81Mb | Lagom Products	brightharbor.download	443
-FAIL	NO	NO			3532	81		🇷🇺81Mb | VK	95.163.214.43	443
-FAIL	NO	NO			3620	80		🇷🇺80Mb | VK	95.163.214.43	443
-WORKS	YES	YES	176.65.144.24	CH	458	80	13	🇨🇭80Mb | Dedik Services Limited	dump.whit3.net	443
-FAIL	NO	NO			4003	79		🇷🇺79Mb | VK	95.163.214.43	443
-WORKS	YES	YES	185.206.168.105	NL	402	79	17	🇳🇱79Mb | YottaSrc	salavati.shompolexy.shop	2053
+FAIL	NO	NO			407	83		🇳🇱83Mb | Fornex Hosting SL	nl.coffeconsulting.uk	443
+FAIL	NO	NO			392	82		🇨🇭82Mb | WAIcore	185.86.144.101	443
+WORKS	NO	YES			487	81		🇫🇮81Mb | Lagom Products	brightharbor.download	443
+FAIL	NO	NO			4003	81		🇷🇺81Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4003	80		🇷🇺80Mb | VK	95.163.214.43	443
+FAIL	NO	NO			316	80		🇨🇭80Mb | Dedik Services Limited	dump.whit3.net	443
 FAIL	NO	NO			4002	79		🇷🇺79Mb | VK	95.163.214.43	443
-FAIL	NO	NO			2071	78		🇷🇺78Mb | VK	95.163.214.43	443
-FAIL	NO	NO			1858	77		🇷🇺77Mb | VK	95.163.214.43	443
-FAIL	NO	NO			706	77		🇷🇺77Mb | VK	95.163.214.43	443
-FAIL	NO	NO			725	76		🇷🇺76Mb | VK	95.163.214.43	443
-WORKS	YES	YES	217.177.75.93	US	1816	76		🇺🇸76Mb | Cloudflare	159.194.241.4	443
+WORKS	YES	YES	185.206.168.105	NL	395	79	10	🇳🇱79Mb | YottaSrc	salavati.shompolexy.shop	2053
+FAIL	NO	NO			4002	79		🇷🇺79Mb | VK	95.163.214.43	443
+FAIL	NO	NO			412	78		🇷🇺78Mb | VK	95.163.214.43	443
+FAIL	NO	NO			404	77		🇷🇺77Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4003	77		🇷🇺77Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4003	76		🇷🇺76Mb | VK	95.163.214.43	443
+WORKS	YES	YES	217.177.75.93	US	1298	76		🇺🇸76Mb | Cloudflare	159.194.241.4	443
 FAIL	NO	NO			4002	75		🇬🇧75Mb | GLB Bulut Teknolojisi Limited Sirketi	185.39.19.25	443
-FAIL	NO	NO			4003	75		🇪🇪75Mb | Eternity International Limited	94.241.142.180	13443
-WORKS	YES	YES			1566	75		🇯🇵75Mb | Oracle Cloud	152.69.195.67	47878
-WORKS	NO	YES			650	74		🇩🇪74Mb | Play2go International Limited	109.68.213.79	8443
-WORKS	YES	YES	167.148.170.181	US	67	73	1	🇺🇸73Mb | HOSTKEY	167.148.170.181	443
+FAIL	NO	NO			4002	75		🇪🇪75Mb | Eternity International Limited	94.241.142.180	13443
+WORKS	YES	YES	152.69.195.67	JP	514	75	23	🇯🇵75Mb | Oracle Cloud	152.69.195.67	47878
+FAIL	NO	NO			4003	74		🇩🇪74Mb | Play2go International Limited	109.68.213.79	8443
+FAIL	NO	NO			44	73		🇺🇸73Mb | HOSTKEY	167.148.170.181	443
 FAIL	NO	NO			4002	73		🇷🇺73Mb | VK	95.163.214.43	443
-WORKS	YES	YES	5.34.178.120	US	144	72	3	🇺🇸72Mb | Green Floid	5.34.178.120	443
-WORKS	YES	YES	91.108.242.77	DE	666	70	7	🇩🇪70Mb | Aeza Group	5.23.48.174	31443
-WORKS	YES	YES	167.148.170.181	US	104	69	2	🇺🇸69Mb | HOSTKEY	nice-route-us.whit3.net	443
+WORKS	YES	YES	5.34.178.120	US	150	72	1	🇺🇸72Mb | Green Floid	5.34.178.120	443
+FAIL	NO	NO			4002	70		🇩🇪70Mb | Aeza Group	5.23.48.174	31443
+FAIL	NO	NO			90	69		🇺🇸69Mb | HOSTKEY	nice-route-us.whit3.net	443
 FAIL	NO	NO			4002	69		🇷🇺69Mb | VK	95.163.214.43	443
-FAIL	NO	NO			4003	68		🇷🇺68Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4002	68		🇷🇺68Mb | VK	95.163.214.43	443
 FAIL	NO	NO			4002	67		🇷🇺67Mb | VK	95.163.214.43	443
-FAIL	NO	NO			4002	67		🇺🇸67Mb | Global Cloud Network	78.159.247.213	443
-FAIL	NO	NO			4003	66		🇷🇺66Mb | VK	95.163.214.43	443
-WORKS	YES	YES			657	66		🇪🇪66Mb | Eternity International Limited	94.241.142.180	4443
-WORKS	YES	YES	31.77.199.182	FI	1192	65	49	🇫🇮65Mb | DpkgSoft International Limited	31.77.199.182	443
+WORKS	NO	NO			3037	67		🇺🇸67Mb | Global Cloud Network	78.159.247.213	443
+FAIL	NO	NO			2977	66		🇷🇺66Mb | VK	95.163.214.43	443
+WORKS	NO	NO			989	66		🇪🇪66Mb | Eternity International Limited	94.241.142.180	4443
+WORKS	YES	YES	31.77.199.182	FI	958	65	31	🇫🇮65Mb | DpkgSoft International Limited	31.77.199.182	443
+FAIL	NO	NO			4002	64		🇷🇺64Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4002	64		🇺🇸64Mb | Global Cloud Network	78.159.247.153	443
+FAIL	NO	NO			4002	64		🇷🇺64Mb | VK	95.163.214.43	443
 FAIL	NO	NO			4003	64		🇷🇺64Mb | VK	95.163.214.43	443
-WORKS	YES	YES	78.159.247.153	CZ	3459	64	50	🇺🇸64Mb | Global Cloud Network	78.159.247.153	443
-FAIL	NO	NO			3588	64		🇷🇺64Mb | VK	95.163.214.43	443
-FAIL	NO	NO			3376	64		🇷🇺64Mb | VK	95.163.214.43	443
-WORKS	YES	YES	91.107.179.8	DE	317	63		🇩🇪63Mb | Hetzner	91.107.179.8	15003
-WORKS	NO	YES			369	63		🇫🇷63Mb | REDHEBERG Association declaree	185.255.112.206	443
-FAIL	NO	NO			4003	61		🇪🇪61Mb | Eternity International Limited	83.147.245.109	13443
-FAIL	NO	NO			1511	61		🇷🇺61Mb | VK	95.163.214.43	443
-WORKS	YES	NO			690	60		🇪🇪60Mb | Eternity International Limited	94.241.142.180	8443
-WORKS	YES	YES	144.31.166.91	DE	690	59	8	🇩🇪59Mb | Play2go International Limited	109.68.213.79	8443
-WORKS	NO	YES			753	59		🌐59Mb | 1108  🇷🇺 Russia  VLESS  TG: @Y	94.241.142.180	33443
-FAIL	NO	NO			431	58		🇺🇸58Mb | Chsl One	213.219.214.33	443
+WORKS	YES	YES	91.107.179.8	DE	306	63		🇩🇪63Mb | Hetzner	91.107.179.8	15003
+WORKS	NO	YES			350	63		🇫🇷63Mb | REDHEBERG Association declaree	185.255.112.206	443
+FAIL	NO	NO			1139	61		🇪🇪61Mb | Eternity International Limited	83.147.245.109	13443
+FAIL	NO	NO			4002	61		🇷🇺61Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4002	60		🇪🇪60Mb | Eternity International Limited	94.241.142.180	8443
+FAIL	NO	NO			4002	59		🇩🇪59Mb | Play2go International Limited	109.68.213.79	8443
+WORKS	NO	NO			1431	59		🌐59Mb | 1108  🇷🇺 Russia  VLESS  TG: @Y	94.241.142.180	33443
+FAIL	NO	NO			430	58		🇺🇸58Mb | Chsl One	213.219.214.33	443
 FAIL	NO	NO			4002	58		🇷🇺58Mb | VK	95.163.214.43	443
 FAIL	NO	NO			4003	57		🇷🇺57Mb | VK	95.163.214.43	443
-WORKS	YES	YES	152.69.195.67	JP	2593	57		🇯🇵57Mb | Oracle Cloud	152.69.195.67	47878
-FAIL	NO	NO			4003	56		🇷🇺56Mb | VK	95.163.214.43	443
+WORKS	YES	YES	152.69.195.67	JP	493	57		🇯🇵57Mb | Oracle Cloud	152.69.195.67	47878
 FAIL	NO	NO			4002	56		🇷🇺56Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4003	56		🇷🇺56Mb | VK	95.163.214.43	443
