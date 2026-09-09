@@ -1,63 +1,63 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			602	572		🌐572Mb | 🆔ar14n24b 🔒 VL-TCP- ❔ XX 158ms	core.music4you.ir	8443
-WORKS	YES	YES	191.44.113.220	PL	542	504	7	🌐504Mb | 🔥Join+Telegram:@Farah_VPN🟣	eu-central-pl-1.hanvpn.biz	443
-FAIL	NO	NO			4002	471		🇵🇱471Mb | Soulful Hosting	195.133.80.8	443
-FAIL	NO	NO			2880	421		🇸🇪421Mb | Aeza Group	138.124.29.78	443
-WORKS	YES	YES	81.90.25.158	DE	652	365	2	🌐365Mb | IQ   VLESS-TCP-RLT - AMAZON-02	eu-central-de-3.hanvpn.biz	443
-WORKS	YES	YES	65.109.185.234	FI	790	347		🇫🇮347Mb | Hetzner	italic.dearhossein-taktaz.ir	8080
-WORKS	YES	NO			491	327		🌐327Mb | 🏳openproxylist.com vless-	103.91.147.17	443
-WORKS	YES	YES	31.76.62.226	LV	653	309	8	🇺🇸309Mb | Servhost Group	31.76.62.226	443
-WORKS	YES	YES	65.109.185.234	FI	766	294	9	🇫🇮294Mb | Hetzner	italic.dearhossein-taktaz.ir	8080
-WORKS	YES	YES	150.241.65.204	DE	741	285	3	🇩🇪285Mb | Node Host Limited	eu-north-sw-1.hanvpn.biz	443
-WORKS	YES	YES	150.241.65.204	DE	603	274		🇩🇪274Mb | Node Host Limited	eu-north-sw-1.hanvpn.biz	443
-WORKS	YES	YES	151.244.30.176	CA	483	246	6	🇨🇦246Mb | 12651980 CANADA INC	151.244.30.176	443
-WORKS	YES	YES	31.76.55.181	EE	1580	237	11	🌐237Mb | Бесплатный VPN Tg:VlessForU 🇪🇪	31.76.55.181	443
-FAIL	NO	NO			4003	234		🇫🇮234Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	NO			1559	219		🇵🇱219Mb | Soulful Hosting	195.133.80.8	443
-WORKS	NO	YES			626	218		🌐218Mb | 🇫🇷 1015 - FR - VLESS/XHTTP/REA	fr-1.starsping.com	443
-WORKS	NO	YES			461	213		🇫🇷213Mb | REDHEBERG Association declaree	185.255.112.206	443
-WORKS	NO	YES			1698	192		🇫🇮192Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	YES	151.244.30.176	CA	487	188		🇨🇦188Mb | 12651980 CANADA INC	151.244.30.176	443
-WORKS	NO	YES			575	185		🇫🇷185Mb | REDHEBERG Association declaree	fr-1.starsping.com	443
-FAIL	NO	NO			894	182		🇺🇸182Mb | Servhost Group	cze-02.node.lumixnet.com	443
-FAIL	NO	NO			4003	178		🇩🇪178Mb | WAIcore	213.176.77.138	443
-WORKS	YES	YES	31.76.55.181	EE	1647	178		🇺🇸178Mb | Servhost Group	31.76.55.181	443
-FAIL	NO	NO			479	169		🇵🇱169Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			491	167		🇵🇱167Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			488	166		🇵🇱166Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			2892	161		🌐161Mb | 🇳🇱 NL  94.228.214.88	nl-xh02.tcp-reset-club.net	8443
-FAIL	NO	NO			4003	160		🇫🇮160Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			496	157		🇵🇱157Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			496	155		🇵🇱155Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			488	153		🇵🇱153Mb | Datacamp Limited	188.130.209.185	443
-WORKS	YES	YES	146.235.16.130	SG	881	153	10	🌐153Mb | 🇸🇬 @MrMeshkyChannel 533330	146.235.16.130	19825
-FAIL	NO	NO			483	151		🇵🇱151Mb | Datacamp Limited	188.130.209.185	443
-FAIL	NO	NO			493	148		🇵🇱148Mb | Datacamp Limited	188.130.209.185	443
-WORKS	YES	YES	89.185.81.200	NO	746	144	5	🇳🇴144Mb | Global Connectivity Solutions Llp	oslomeow.nethcloud.top	8443
+FAIL	NO	NO			505	572		🌐572Mb | 🆔ar14n24b 🔒 VL-TCP- ❔ XX 158ms	core.music4you.ir	8443
+WORKS	YES	YES	191.44.113.220	PL	512	504	6	🌐504Mb | 🔥Join+Telegram:@Farah_VPN🟣	eu-central-pl-1.hanvpn.biz	443
+FAIL	NO	NO			3588	471		🇵🇱471Mb | Soulful Hosting	195.133.80.8	443
+FAIL	NO	NO			1327	421		🇸🇪421Mb | Aeza Group	138.124.29.78	443
+WORKS	YES	YES	81.90.25.158	DE	540	365	2	🌐365Mb | IQ   VLESS-TCP-RLT - AMAZON-02	eu-central-de-3.hanvpn.biz	443
+WORKS	YES	YES	65.109.185.234	FI	638	347	8	🇫🇮347Mb | Hetzner	italic.dearhossein-taktaz.ir	8080
+WORKS	YES	NO			427	327		🌐327Mb | 🏳openproxylist.com vless-	103.91.147.17	443
+WORKS	YES	YES	31.76.62.226	LV	619	309	7	🇺🇸309Mb | Servhost Group	31.76.62.226	443
+WORKS	YES	YES	65.109.185.234	FI	612	294		🇫🇮294Mb | Hetzner	italic.dearhossein-taktaz.ir	8080
+WORKS	YES	YES	150.241.65.204	DE	2005	285		🇩🇪285Mb | Node Host Limited	eu-north-sw-1.hanvpn.biz	443
+WORKS	YES	YES	150.241.65.204	DE	569	274	3	🇩🇪274Mb | Node Host Limited	eu-north-sw-1.hanvpn.biz	443
+WORKS	YES	YES	151.244.30.176	CA	397	246	5	🇨🇦246Mb | 12651980 CANADA INC	151.244.30.176	443
+WORKS	YES	YES	31.76.55.181	EE	1456	237	10	🌐237Mb | Бесплатный VPN Tg:VlessForU 🇪🇪	31.76.55.181	443
+WORKS	NO	YES			1078	234		🇫🇮234Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			372	219		🇵🇱219Mb | Soulful Hosting	195.133.80.8	443
+WORKS	NO	YES			3488	218		🌐218Mb | 🇫🇷 1015 - FR - VLESS/XHTTP/REA	fr-1.starsping.com	443
+WORKS	NO	YES			3455	213		🇫🇷213Mb | REDHEBERG Association declaree	185.255.112.206	443
+WORKS	NO	YES			808	192		🇫🇮192Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	YES	YES	151.244.30.176	CA	407	188		🇨🇦188Mb | 12651980 CANADA INC	151.244.30.176	443
+WORKS	NO	YES			3498	185		🇫🇷185Mb | REDHEBERG Association declaree	fr-1.starsping.com	443
+FAIL	NO	NO			556	182		🇺🇸182Mb | Servhost Group	cze-02.node.lumixnet.com	443
+FAIL	NO	NO			4002	178		🇩🇪178Mb | WAIcore	213.176.77.138	443
+WORKS	YES	YES	31.76.55.181	EE	673	178		🇺🇸178Mb | Servhost Group	31.76.55.181	443
+FAIL	NO	NO			427	169		🇵🇱169Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			451	167		🇵🇱167Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			454	166		🇵🇱166Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			4003	161		🌐161Mb | 🇳🇱 NL  94.228.214.88	nl-xh02.tcp-reset-club.net	8443
+WORKS	NO	YES			1640	160		🇫🇮160Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			423	157		🇵🇱157Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			421	155		🇵🇱155Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			445	153		🇵🇱153Mb | Datacamp Limited	188.130.209.185	443
+WORKS	YES	YES	146.235.16.130	SG	872	153	9	🌐153Mb | 🇸🇬 @MrMeshkyChannel 533330	146.235.16.130	19825
+FAIL	NO	NO			428	151		🇵🇱151Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			431	148		🇵🇱148Mb | Datacamp Limited	188.130.209.185	443
+WORKS	YES	YES	89.185.81.200	NO	629	144		🇳🇴144Mb | Global Connectivity Solutions Llp	oslomeow.nethcloud.top	8443
 FAIL	NO	NO			4003	144		🇫🇮144Mb | U1 Digital Services	31.76.89.110	8443
 FAIL	NO	NO			4003	137		🇫🇮137Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			467	115		🇷🇺115Mb | VK	95.163.214.43	443
-FAIL	NO	NO			4002	108		🇫🇮108Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	YES	89.185.81.200	NO	608	102		🇳🇴102Mb | Global Connectivity Solutions Llp	oslomeow.nethcloud.top	8443
-WORKS	YES	YES	194.58.41.39	DE	625	101	1	🇩🇪101Mb | Spacecore Solution	194.58.41.39	443
-FAIL	NO	NO			478	96		🇵🇱96Mb | Datacamp Limited	188.130.209.185	443
+FAIL	NO	NO			4002	115		🇷🇺115Mb | VK	95.163.214.43	443
+FAIL	NO	NO			4001	108		🇫🇮108Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	YES	YES	89.185.81.200	NO	547	102	4	🇳🇴102Mb | Global Connectivity Solutions Llp	oslomeow.nethcloud.top	8443
+WORKS	YES	YES	194.58.41.39	DE	449	101	1	🇩🇪101Mb | Spacecore Solution	194.58.41.39	443
+FAIL	NO	NO			445	96		🇵🇱96Mb | Datacamp Limited	188.130.209.185	443
 FAIL	NO	NO			4003	94		🇫🇮94Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			4047	94		🇫🇮94Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	YES	YES	193.148.253.186	DE	950	93	4	🇩🇪93Mb | dataforest GmbH	193.148.253.186	49188
-WORKS	NO	YES			3294	86		🇫🇮86Mb | U1 Digital Services	31.76.89.110	8443
-WORKS	NO	YES			3113	82		🌐82Mb | 4Sarina-87aca8228e	31.76.89.110	8443
-WORKS	YES	YES	146.235.16.130	SG	842	77		🌐77Mb | 3947  🇸🇬 Singapore  VLESS  📺 Y	146.235.16.130	19825
+FAIL	NO	NO			4003	94		🇫🇮94Mb | U1 Digital Services	31.76.89.110	8443
+FAIL	NO	NO			4002	93		🇩🇪93Mb | dataforest GmbH	193.148.253.186	49188
+WORKS	NO	YES			3948	86		🇫🇮86Mb | U1 Digital Services	31.76.89.110	8443
+WORKS	NO	YES			3846	82		🌐82Mb | 4Sarina-87aca8228e	31.76.89.110	8443
+WORKS	YES	YES	146.235.16.130	SG	1016	77		🌐77Mb | 3947  🇸🇬 Singapore  VLESS  📺 Y	146.235.16.130	19825
 FAIL	NO	NO			4002	74		🇩🇪74Mb | Hetzner	91.107.179.8	15003
 FAIL	NO	NO			4002	74		🇩🇪74Mb | Hetzner	91.107.179.8	15003
-WORKS	NO	YES			1883	74		🇫🇮74Mb | U1 Digital Services	31.76.89.110	8443
-FAIL	NO	NO			4003	72		🇩🇪72Mb | Hetzner	91.107.179.8	15003
+FAIL	NO	NO			4003	74		🇫🇮74Mb | U1 Digital Services	31.76.89.110	8443
 FAIL	NO	NO			4002	72		🇩🇪72Mb | Hetzner	91.107.179.8	15003
-FAIL	NO	NO			4003	72		🇩🇪72Mb | Akenai Products LTD	mine-host.mcufa.pro	443
-FAIL	NO	NO			4002	70		🇩🇪70Mb | Hetzner	91.107.179.8	15003
+FAIL	NO	NO			4003	72		🇩🇪72Mb | Hetzner	91.107.179.8	15003
+FAIL	NO	NO			4002	72		🇩🇪72Mb | Akenai Products LTD	mine-host.mcufa.pro	443
+FAIL	NO	NO			4003	70		🇩🇪70Mb | Hetzner	91.107.179.8	15003
 FAIL	NO	NO			4002	67		🇩🇪67Mb | Hetzner	91.107.179.8	15003
 FAIL	NO	NO			4003	67		🇩🇪67Mb | Hetzner	91.107.179.8	15003
 FAIL	NO	NO			4003	66		🇩🇪66Mb | Hetzner	91.107.179.8	15003
 FAIL	NO	NO			4003	64		🇩🇪64Mb | Hetzner	91.107.179.8	15003
-FAIL	NO	NO			4002	61		🇵🇱61Mb | Oc Networks Limited	95.85.253.208	443
-FAIL	NO	NO			4003	60		🇩🇪60Mb | Hetzner	91.107.179.8	15003
-FAIL	NO	NO			4003	59		🌐59Mb | 1395  🇨🇿 Czechia  🏳️ CIDR-OLD	78.159.247.153	443
+FAIL	NO	NO			4003	61		🇵🇱61Mb | Oc Networks Limited	95.85.253.208	443
+FAIL	NO	NO			4001	60		🇩🇪60Mb | Hetzner	91.107.179.8	15003
+FAIL	NO	NO			4002	59		🌐59Mb | 1395  🇨🇿 Czechia  🏳️ CIDR-OLD	78.159.247.153	443
