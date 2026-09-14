@@ -1,327 +1,327 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			550	748		🇨🇾748Mb | NetCrafters OU	185.154.193.137	443
-FAIL	NO	NO			589	693		🌐693Mb | 🇷🇺 50 - RU - VLESS/REALITY/PBK	109.68.212.173	443
-FAIL	NO	NO			570	687		🇨🇾687Mb | NetCrafters OU	185.154.193.137	443
-WORKS	NO	YES			844	669		🌐669Mb | 4Jadi-25cdaabfbf	185.154.193.137	443
-FAIL	NO	NO			2602	669		🌐669Mb | 🇷🇴RO-🚀@VPNine1	162.249.126.228	443
-FAIL	NO	NO			618	645		🌐645Mb | REALITYRU🇷🇺  200.165.235.78-44	200.165.235.78	443
-WORKS	NO	NO			873	640		🌐640Mb | 4Jadi-bef3c4a31c	109.68.212.173	443
-WORKS	NO	NO			963	599		🇺🇸599Mb | PowerRDP Network LTD	31.76.101.16	443
-WORKS	NO	NO			3651	586		🌐586Mb | 🔥Join+Telegram:@Farah_VPN🟣	31.76.101.16	443
-FAIL	NO	NO			593	500		🌐500Mb | v2rayNplus	185.154.193.137	443
-WORKS	NO	NO			824	468		🇷🇺468Mb | Beget	31.128.36.48	443
+FAIL	NO	NO			639	748		🇨🇾748Mb | NetCrafters OU	185.154.193.137	443
+FAIL	NO	NO			633	693		🌐693Mb | 🇷🇺 50 - RU - VLESS/REALITY/PBK	109.68.212.173	443
+WORKS	YES	NO			924	687		🇨🇾687Mb | NetCrafters OU	185.154.193.137	443
+FAIL	NO	NO			609	669		🌐669Mb | 4Jadi-25cdaabfbf	185.154.193.137	443
+FAIL	NO	NO			2754	669		🌐669Mb | 🇷🇴RO-🚀@VPNine1	162.249.126.228	443
+FAIL	NO	NO			669	645		🌐645Mb | REALITYRU🇷🇺  200.165.235.78-44	200.165.235.78	443
+FAIL	NO	NO			629	640		🌐640Mb | 4Jadi-bef3c4a31c	109.68.212.173	443
+WORKS	NO	NO			2724	599		🇺🇸599Mb | PowerRDP Network LTD	31.76.101.16	443
+FAIL	NO	NO			4008	586		🌐586Mb | 🔥Join+Telegram:@Farah_VPN🟣	31.76.101.16	443
+FAIL	NO	NO			616	500		🌐500Mb | v2rayNplus	185.154.193.137	443
+WORKS	NO	YES			910	468		🇷🇺468Mb | Beget	31.128.36.48	443
 FAIL	NO	NO			4002	467		🇷🇺467Mb | Jsc timeweb	46.19.66.164	443
-FAIL	NO	NO			2183	433		🇩🇪433Mb | Advin Services	188.114.97.6	8080
-WORKS	NO	YES			551	426		🇪🇪426Mb | Oc Networks Limited	185.252.177.180	443
-FAIL	NO	NO			749	419		🌐419Mb | 4Kian-def9e860c1	188.225.45.152	443
-FAIL	NO	NO			2597	410		🌐410Mb | q_161	162.249.126.228	443
-FAIL	NO	NO			576	394		🌐394Mb | 4Jadi-a1f4e9e5c8	109.68.212.173	443
-WORKS	NO	YES			3650	389		🇫🇮389Mb | Oc Networks Limited	64.188.80.82	443
-WORKS	YES	YES	185.23.19.188	NL	922	377	7	🇳🇱377Mb | Node Host Limited	efmir.inrouge.today	443
-WORKS	YES	YES	138.124.245.191	NL	624	374	5	🌐374Mb | 🔥Join+Telegram:@Farah_VPN🟣	138.124.245.191	443
-FAIL	NO	NO			559	364		🇩🇪364Mb | RJ Network OU	ee.cdn-update.rutube.info	20443
-FAIL	NO	NO			2153	351		🌐351Mb | 英国+威尔士阿伯斯威大学	144.124.252.13	443
-FAIL	NO	NO			4002	347		🇫🇮347Mb | H2nexus Cloud Services - Fzco	144.31.90.226	443
-WORKS	YES	YES	185.23.19.188	NL	1036	339	8	🇳🇱339Mb | Node Host Limited	139.100.204.24	443
-FAIL	NO	NO			533	331		🇫🇮331Mb | Global Connectivity Solutions Llp	213.176.17.50	443
-FAIL	NO	NO			2172	328		🇩🇪328Mb | Advin Services	188.114.97.6	8080
-WORKS	NO	YES			3002	312		🇺🇸312Mb | Servhost Group	2.26.93.130	443
-FAIL	NO	NO			455	303		🇫🇮303Mb | Global Connectivity Solutions Llp	138.124.80.245	443
-FAIL	NO	NO			4003	298		🌐298Mb | 🏳️ ShatakVPN 545232	80.91.79.136	443
-FAIL	NO	NO			622	297		🇨🇾297Mb | NetCrafters OU	200.165.235.78	443
-WORKS	YES	YES	144.31.243.247	LT	772	297	18	🇺🇸297Mb | Servhost Group	144.31.243.247	443
-WORKS	NO	YES			534	296		🇪🇪296Mb | Oc Networks Limited	185.252.177.180	443
-WORKS	NO	YES			1197	293		🇺🇸293Mb | Servhost Group	2.26.93.130	443
-WORKS	YES	YES	193.23.201.172	FI	855	290	20	🌐290Mb | OpenRay 🇫🇮 FI-5547	193.23.201.172	443
-WORKS	NO	YES			673	287		🇺🇸287Mb | Servhost Group	2.26.93.130	443
-FAIL	NO	NO			801	286		🇨🇭286Mb | Private Layer INC	45.9.24.125	8443
-WORKS	YES	YES	196.240.109.114	PL	630	281	15	🇵🇱281Mb | Orion Network Limited	196.240.109.117	443
-FAIL	NO	NO			450	280		🇫🇮280Mb | Global Connectivity Solutions Llp	213.176.17.50	443
-FAIL	NO	NO			4002	276		🇳🇱276Mb | The Constant Company	78.141.221.126	25585
-FAIL	NO	NO			831	275		🇨🇭275Mb | Private Layer INC	94.139.255.254	5443
-WORKS	NO	YES			2362	274		🇫🇮274Mb | Oc Networks Limited	64.188.80.82	443
-FAIL	NO	NO			4002	274		🇳🇱274Mb | The Constant Company	78.141.221.126	25585
-WORKS	YES	YES	196.240.109.114	PL	918	271	21	🇵🇱271Mb | Orion Network Limited	arturito.nxxzxaw.beer	443
-WORKS	NO	YES			490	270		🇳🇱270Mb | Oc Networks Limited	64.188.77.219	443
-FAIL	NO	NO			4002	268		🇺🇸268Mb | Servhost Group	150.241.75.198	443
-FAIL	NO	NO			539	266		🇵🇱266Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
-FAIL	NO	NO			1375	265		🇳🇱265Mb | Servers Tech Fzco	89.124.85.87	443
-FAIL	NO	NO			4003	262		🇵🇱262Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
-FAIL	NO	NO			4003	259		🌐259Mb | 🔥Join+Telegram:@Farah_VPN🟣	95.85.228.65	443
-FAIL	NO	NO			435	258		🌐258Mb | 🌐 Anycast-IP  🇺🇦  BL	170.168.97.8	443
-FAIL	NO	NO			4002	254		🇷🇺254Mb | Global Connectivity Solutions Llp	131.123.25.3	443
+FAIL	NO	NO			2204	433		🇩🇪433Mb | Advin Services	188.114.97.6	8080
+WORKS	NO	YES			686	426		🇪🇪426Mb | Oc Networks Limited	185.252.177.180	443
+FAIL	NO	NO			631	419		🌐419Mb | 4Kian-def9e860c1	188.225.45.152	443
+FAIL	NO	NO			2758	410		🌐410Mb | q_161	162.249.126.228	443
+WORKS	YES	NO			934	394		🌐394Mb | 4Jadi-a1f4e9e5c8	109.68.212.173	443
+WORKS	NO	YES			3720	389		🇫🇮389Mb | Oc Networks Limited	64.188.80.82	443
+WORKS	YES	NO			1190	377		🇳🇱377Mb | Node Host Limited	efmir.inrouge.today	443
+FAIL	NO	NO			4002	374		🌐374Mb | 🔥Join+Telegram:@Farah_VPN🟣	138.124.245.191	443
+FAIL	NO	NO			652	364		🇩🇪364Mb | RJ Network OU	ee.cdn-update.rutube.info	20443
+FAIL	NO	NO			1417	351		🌐351Mb | 英国+威尔士阿伯斯威大学	144.124.252.13	443
+FAIL	NO	NO			4003	347		🇫🇮347Mb | H2nexus Cloud Services - Fzco	144.31.90.226	443
+WORKS	YES	NO			1041	339		🇳🇱339Mb | Node Host Limited	139.100.204.24	443
+FAIL	NO	NO			3194	331		🇫🇮331Mb | Global Connectivity Solutions Llp	213.176.17.50	443
+FAIL	NO	NO			2178	328		🇩🇪328Mb | Advin Services	188.114.97.6	8080
+FAIL	NO	NO			4002	312		🇺🇸312Mb | Servhost Group	2.26.93.130	443
+FAIL	NO	NO			2094	303		🇫🇮303Mb | Global Connectivity Solutions Llp	138.124.80.245	443
+FAIL	NO	NO			4002	298		🌐298Mb | 🏳️ ShatakVPN 545232	80.91.79.136	443
+WORKS	YES	NO			973	297		🇨🇾297Mb | NetCrafters OU	200.165.235.78	443
+WORKS	YES	YES	144.31.243.247	LT	749	297	16	🇺🇸297Mb | Servhost Group	144.31.243.247	443
+WORKS	NO	YES			673	296		🇪🇪296Mb | Oc Networks Limited	185.252.177.180	443
+FAIL	NO	NO			4002	293		🇺🇸293Mb | Servhost Group	2.26.93.130	443
+WORKS	NO	YES			1047	290		🌐290Mb | OpenRay 🇫🇮 FI-5547	193.23.201.172	443
+FAIL	NO	NO			4002	287		🇺🇸287Mb | Servhost Group	2.26.93.130	443
+FAIL	NO	NO			894	286		🇨🇭286Mb | Private Layer INC	45.9.24.125	8443
+WORKS	YES	YES	196.240.109.114	PL	720	281	15	🇵🇱281Mb | Orion Network Limited	196.240.109.117	443
+FAIL	NO	NO			4003	280		🇫🇮280Mb | Global Connectivity Solutions Llp	213.176.17.50	443
+FAIL	NO	NO			4003	276		🇳🇱276Mb | The Constant Company	78.141.221.126	25585
+FAIL	NO	NO			829	275		🇨🇭275Mb | Private Layer INC	94.139.255.254	5443
+FAIL	NO	NO			4002	274		🇫🇮274Mb | Oc Networks Limited	64.188.80.82	443
+FAIL	NO	NO			4003	274		🇳🇱274Mb | The Constant Company	78.141.221.126	25585
+WORKS	YES	YES	196.240.109.114	PL	814	271	18	🇵🇱271Mb | Orion Network Limited	arturito.nxxzxaw.beer	443
+WORKS	NO	YES			817	270		🇳🇱270Mb | Oc Networks Limited	64.188.77.219	443
+WORKS	NO	YES			683	268		🇺🇸268Mb | Servhost Group	150.241.75.198	443
+FAIL	NO	NO			504	266		🇵🇱266Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
+FAIL	NO	NO			1396	265		🇳🇱265Mb | Servers Tech Fzco	89.124.85.87	443
+FAIL	NO	NO			4002	262		🇵🇱262Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
+FAIL	NO	NO			4002	259		🌐259Mb | 🔥Join+Telegram:@Farah_VPN🟣	95.85.228.65	443
+FAIL	NO	NO			465	258		🌐258Mb | 🌐 Anycast-IP  🇺🇦  BL	170.168.97.8	443
+FAIL	NO	NO			4003	254		🇷🇺254Mb | Global Connectivity Solutions Llp	131.123.25.3	443
 FAIL	NO	NO			4003	253		🇳🇱253Mb | The Constant Company	78.141.221.126	25585
-WORKS	YES	YES	196.240.109.114	PL	599	253		🇵🇱253Mb | Orion Network Limited	196.240.109.117	443
-FAIL	NO	NO			427	251		🇦🇪251Mb | Fast Servers Pty	89.47.55.8	443
-FAIL	NO	NO			402	250		🇩🇪250Mb | GHOSTnet GmbH	w7tjfftjdt.vk-maps.net	52006
-WORKS	YES	YES	196.240.109.114	PL	953	250		🇵🇱250Mb | Orion Network Limited	arturito.nxxzxaw.beer	443
-FAIL	NO	NO			4003	249		🇲🇩249Mb | FDCserversnet	131.123.25.3	443
-WORKS	YES	YES	130.78.191.25	NL	2458	249	9	🇳🇱249Mb | Datagio Systems	130.78.191.25	443
-FAIL	NO	NO			649	248		🇷🇺248Mb | Alex Largman	170.168.99.8	443
-WORKS	NO	YES			489	247		🇳🇱247Mb | Oc Networks Limited	64.188.77.219	443
-FAIL	NO	NO			454	247		🇦🇪247Mb | Fast Servers Pty	89.47.55.8	443
-FAIL	NO	NO			1332	244		🇳🇱244Mb | Servers Tech Fzco	89.124.73.6	443
-FAIL	NO	NO			4003	242		🇨🇾242Mb | Edge Core FZE	131.123.25.3	443
-WORKS	NO	NO			819	241		🌐241Mb | RU   VLESS-TCP-RLT - Jsc timew	185.154.193.137	443
-WORKS	NO	NO			613	241		🇵🇱241Mb | Datacamp Limited	5.252.102.64	2063
-WORKS	NO	NO			797	241		🇵🇱241Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
-FAIL	NO	NO			4002	241		🇦🇹241Mb | netcup GmbH	159.195.242.180	443
-FAIL	NO	NO			4003	238		🇳🇱238Mb | The Constant Company	78.141.221.126	25585
+WORKS	YES	YES	196.240.109.114	PL	721	253		🇵🇱253Mb | Orion Network Limited	196.240.109.117	443
+FAIL	NO	NO			478	251		🇦🇪251Mb | Fast Servers Pty	89.47.55.8	443
+FAIL	NO	NO			458	250		🇩🇪250Mb | GHOSTnet GmbH	w7tjfftjdt.vk-maps.net	52006
+WORKS	YES	YES	196.240.109.114	PL	707	250		🇵🇱250Mb | Orion Network Limited	arturito.nxxzxaw.beer	443
+FAIL	NO	NO			4002	249		🇲🇩249Mb | FDCserversnet	131.123.25.3	443
+WORKS	YES	YES			898	249		🇳🇱249Mb | Datagio Systems	130.78.191.25	443
+FAIL	NO	NO			698	248		🇷🇺248Mb | Alex Largman	170.168.99.8	443
+WORKS	NO	YES			600	247		🇳🇱247Mb | Oc Networks Limited	64.188.77.219	443
+FAIL	NO	NO			476	247		🇦🇪247Mb | Fast Servers Pty	89.47.55.8	443
+FAIL	NO	NO			1411	244		🇳🇱244Mb | Servers Tech Fzco	89.124.73.6	443
+FAIL	NO	NO			4002	242		🇨🇾242Mb | Edge Core FZE	131.123.25.3	443
+WORKS	YES	YES	2.56.172.234	RS	930	241	19	🌐241Mb | RU   VLESS-TCP-RLT - Jsc timew	185.154.193.137	443
+FAIL	NO	NO			1473	241		🇵🇱241Mb | Datacamp Limited	5.252.102.64	2063
+WORKS	NO	NO			1227	241		🇵🇱241Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
+FAIL	NO	NO			4003	241		🇦🇹241Mb | netcup GmbH	159.195.242.180	443
+FAIL	NO	NO			4002	238		🇳🇱238Mb | The Constant Company	78.141.221.126	25585
 FAIL	NO	NO			4002	235		🇳🇱235Mb | The Constant Company	78.141.221.126	25585
-FAIL	NO	NO			433	233		🇺🇸233Mb | Global Transit Systems	170.168.97.8	443
-FAIL	NO	NO			648	230		🇷🇺230Mb | Alex Largman	170.168.99.8	443
-FAIL	NO	NO			434	230		🇸🇪230Mb | Global Transit Systems	89.47.55.9	443
-FAIL	NO	NO			4003	228		🇳🇱228Mb | The Constant Company	78.141.221.126	25585
-FAIL	NO	NO			4003	226		🇨🇾226Mb | Edge Core FZE	131.123.25.3	443
-FAIL	NO	NO			4003	224		🇷🇺224Mb | Global Connectivity Solutions Llp	131.123.25.3	443
-FAIL	NO	NO			2588	223		🇷🇴223Mb | Interkvm Host Srl	162.249.126.228	443
+FAIL	NO	NO			503	233		🇺🇸233Mb | Global Transit Systems	170.168.97.8	443
+FAIL	NO	NO			708	230		🇷🇺230Mb | Alex Largman	170.168.99.8	443
+FAIL	NO	NO			518	230		🇸🇪230Mb | Global Transit Systems	89.47.55.9	443
+FAIL	NO	NO			4002	228		🇳🇱228Mb | The Constant Company	78.141.221.126	25585
+FAIL	NO	NO			4002	226		🇨🇾226Mb | Edge Core FZE	131.123.25.3	443
+FAIL	NO	NO			4002	224		🇷🇺224Mb | Global Connectivity Solutions Llp	131.123.25.3	443
+FAIL	NO	NO			2758	223		🇷🇴223Mb | Interkvm Host Srl	162.249.126.228	443
 FAIL	NO	NO			4002	223		🇳🇱223Mb | The Constant Company	78.141.221.126	25585
 FAIL	NO	NO			4003	223		🇷🇺223Mb | Global Connectivity Solutions Llp	131.123.25.3	443
 FAIL	NO	NO			4002	223		🇩🇪223Mb | Paul Sagov	179.254.115.225	443
-FAIL	NO	NO			546	222		🌐222Mb | v2rayNplus	185.154.193.137	443
-FAIL	NO	NO			401	221		🇩🇪221Mb | Alex Largman	89.47.55.8	443
-FAIL	NO	NO			633	221		🇷🇺221Mb | Alex Largman	170.168.99.8	443
-FAIL	NO	NO			426	221		🇺🇸221Mb | Global Transit Systems	170.168.97.8	443
-FAIL	NO	NO			4003	218		🇳🇱218Mb | The Constant Company	78.141.221.126	25585
-WORKS	NO	YES			667	217		🇹🇷217Mb | Global Connectivity Solutions Llp	62.133.63.253	443
-WORKS	YES	YES			630	216		🇵🇱216Mb | Korbank S A	185.32.6.61	443
-FAIL	NO	NO			4002	214		🇵🇱214Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
-FAIL	NO	NO			4002	214		🇺🇸214Mb | Lumadock	80.91.79.136	443
-WORKS	NO	YES			621	214		🇺🇸214Mb | Servhost Group	31.76.5.107	443
-FAIL	NO	NO			644	213		🇷🇺213Mb | Alex Largman	170.168.99.8	443
-FAIL	NO	NO			636	213		🇷🇺213Mb | Alex Largman	170.168.99.8	443
-FAIL	NO	NO			405	213		🇺🇦213Mb | Fast Servers Pty	89.47.55.9	443
-WORKS	YES	YES	151.242.160.90	DE	565	212	2	🇦🇪212Mb | HOSTES LTD	151.242.160.90	443
-WORKS	YES	YES	194.146.223.231	NL	2668	207	10	🇪🇸207Mb | Anton Levin	194.146.223.231	443
+WORKS	NO	NO			941	222		🌐222Mb | v2rayNplus	185.154.193.137	443
+FAIL	NO	NO			502	221		🇩🇪221Mb | Alex Largman	89.47.55.8	443
+FAIL	NO	NO			716	221		🇷🇺221Mb | Alex Largman	170.168.99.8	443
+FAIL	NO	NO			487	221		🇺🇸221Mb | Global Transit Systems	170.168.97.8	443
+FAIL	NO	NO			4002	218		🇳🇱218Mb | The Constant Company	78.141.221.126	25585
+WORKS	NO	NO			746	217		🇹🇷217Mb | Global Connectivity Solutions Llp	62.133.63.253	443
+WORKS	YES	YES	185.32.6.61	PL	659	216	9	🇵🇱216Mb | Korbank S A	185.32.6.61	443
+WORKS	NO	NO			802	214		🇵🇱214Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
+FAIL	NO	NO			4003	214		🇺🇸214Mb | Lumadock	80.91.79.136	443
+FAIL	NO	NO			4002	214		🇺🇸214Mb | Servhost Group	31.76.5.107	443
+FAIL	NO	NO			681	213		🇷🇺213Mb | Alex Largman	170.168.99.8	443
+FAIL	NO	NO			697	213		🇷🇺213Mb | Alex Largman	170.168.99.8	443
+FAIL	NO	NO			496	213		🇺🇦213Mb | Fast Servers Pty	89.47.55.9	443
+WORKS	YES	YES	151.242.160.90	DE	663	212	3	🇦🇪212Mb | HOSTES LTD	151.242.160.90	443
+WORKS	YES	YES	194.146.223.231	NL	572	207	5	🇪🇸207Mb | Anton Levin	194.146.223.231	443
 FAIL	NO	NO			4002	205		🇳🇱205Mb | The Constant Company	78.141.221.126	25585
-FAIL	NO	NO			440	204		🇺🇦204Mb | Fast Servers Pty	89.47.55.9	443
+FAIL	NO	NO			501	204		🇺🇦204Mb | Fast Servers Pty	89.47.55.9	443
 FAIL	NO	NO			4002	203		🇳🇱203Mb | The Constant Company	78.141.221.126	25585
-WORKS	YES	YES	144.31.243.247	LT	661	201		🇺🇸201Mb | Servhost Group	144.31.243.247	443
-FAIL	NO	NO			456	201		🇺🇸201Mb | Global Transit Systems	170.168.97.8	443
-WORKS	YES	YES	196.240.109.114	PL	640	200		🇵🇱200Mb | Orion Network Limited	196.240.109.117	443
+WORKS	YES	YES	144.31.243.247	LT	718	201		🇺🇸201Mb | Servhost Group	144.31.243.247	443
+FAIL	NO	NO			479	201		🇺🇸201Mb | Global Transit Systems	170.168.97.8	443
+WORKS	YES	YES	196.240.109.114	PL	700	200		🇵🇱200Mb | Orion Network Limited	196.240.109.117	443
 FAIL	NO	NO			4003	199		🇳🇱199Mb | The Constant Company	78.141.221.126	25585
-WORKS	YES	YES	45.86.60.133	EE	647	198	17	🇨🇾198Mb | Edge Core FZE	89.105.206.123	443
-WORKS	NO	YES			592	197		🇧🇬197Mb | Route 95	195.123.226.22	443
-FAIL	NO	NO			415	196		🇳🇱196Mb | Moskalev Georgiy	nl2.yabloko.top	443
+WORKS	YES	YES	45.86.60.133	EE	716	198	14	🇨🇾198Mb | Edge Core FZE	89.105.206.123	443
+FAIL	NO	NO			4002	197		🇧🇬197Mb | Route 95	195.123.226.22	443
+FAIL	NO	NO			430	196		🇳🇱196Mb | Moskalev Georgiy	nl2.yabloko.top	443
 FAIL	NO	NO			4002	196		🇷🇺196Mb | Global Connectivity Solutions Llp	131.123.25.3	443
-WORKS	YES	YES	130.49.219.67	AT	588	196		🇷🇺196Mb | Global Connectivity Solutions Llp	89.105.206.123	443
-FAIL	NO	NO			523	196		🌐196Mb | 🇦🇪AE_381.3MB/sB007-260618	89.47.55.8	443
-WORKS	YES	YES	138.124.250.40	SE	570	195		🇨🇭195Mb | Global Connectivity Solutions Llp	89.105.206.123	443
-FAIL	NO	NO			4003	194		🇷🇺194Mb | Global Connectivity Solutions Llp	131.123.25.3	443
-FAIL	NO	NO			1351	194		🇳🇱194Mb | Intezio Worldwide Limited	138.124.98.170	443
-WORKS	YES	YES	89.105.206.123	NL	465	193		🇳🇱193Mb | NovoServe BV	89.105.206.123	443
-FAIL	NO	NO			4003	193		🇷🇺193Mb | Global Connectivity Solutions Llp	131.123.25.3	443
-WORKS	NO	YES			579	192		🇳🇱192Mb | Datagio Systems	130.78.191.25	443
+WORKS	YES	YES	130.49.219.67	AT	644	196		🇷🇺196Mb | Global Connectivity Solutions Llp	89.105.206.123	443
+FAIL	NO	NO			588	196		🌐196Mb | 🇦🇪AE_381.3MB/sB007-260618	89.47.55.8	443
+WORKS	YES	YES	138.124.250.40	SE	666	195		🇨🇭195Mb | Global Connectivity Solutions Llp	89.105.206.123	443
+FAIL	NO	NO			4002	194		🇷🇺194Mb | Global Connectivity Solutions Llp	131.123.25.3	443
+FAIL	NO	NO			1407	194		🇳🇱194Mb | Intezio Worldwide Limited	138.124.98.170	443
+WORKS	YES	YES	89.105.206.123	NL	557	193		🇳🇱193Mb | NovoServe BV	89.105.206.123	443
+FAIL	NO	NO			4001	193		🇷🇺193Mb | Global Connectivity Solutions Llp	131.123.25.3	443
+WORKS	YES	YES	130.78.191.25	NL	3181	192	7	🇳🇱192Mb | Datagio Systems	130.78.191.25	443
 FAIL	NO	NO			4002	192		🇳🇱192Mb | The Constant Company	78.141.221.126	25585
 FAIL	NO	NO			4002	190		🇳🇱190Mb | The Constant Company	78.141.221.126	25585
-FAIL	NO	NO			4003	185		🇨🇭185Mb | Global Connectivity Solutions Llp	131.123.25.3	443
-WORKS	YES	YES	89.105.206.123	NL	423	185		🇳🇱185Mb | NovoServe BV	89.105.206.123	443
-FAIL	NO	NO			455	184		🇦🇪184Mb | Fast Servers Pty	89.47.55.8	443
-FAIL	NO	NO			4002	181		🇳🇱181Mb | The Constant Company	78.141.221.126	25585
+FAIL	NO	NO			4002	185		🇨🇭185Mb | Global Connectivity Solutions Llp	131.123.25.3	443
+WORKS	YES	YES	89.105.206.123	NL	534	185		🇳🇱185Mb | NovoServe BV	89.105.206.123	443
+FAIL	NO	NO			480	184		🇦🇪184Mb | Fast Servers Pty	89.47.55.8	443
+FAIL	NO	NO			4001	181		🇳🇱181Mb | The Constant Company	78.141.221.126	25585
 FAIL	NO	NO			4002	181		🇨🇭181Mb | Global Connectivity Solutions Llp	131.123.25.3	443
-FAIL	NO	NO			417	180		🇦🇪180Mb | Fast Servers Pty	89.47.55.8	443
-WORKS	YES	YES	45.86.60.133	EE	635	178		🇨🇾178Mb | Edge Core FZE	89.105.206.123	443
-WORKS	YES	YES	89.105.206.123	NL	454	178		🇳🇱178Mb | NovoServe BV	89.105.206.123	443
-WORKS	YES	YES	89.105.206.123	NL	465	177		🇳🇱177Mb | NovoServe BV	89.105.206.123	443
+FAIL	NO	NO			497	180		🇦🇪180Mb | Fast Servers Pty	89.47.55.8	443
+WORKS	YES	YES	45.86.60.133	EE	696	178		🇨🇾178Mb | Edge Core FZE	89.105.206.123	443
+WORKS	YES	YES	89.105.206.123	NL	562	178		🇳🇱178Mb | NovoServe BV	89.105.206.123	443
+WORKS	YES	YES	89.105.206.123	NL	539	177		🇳🇱177Mb | NovoServe BV	89.105.206.123	443
 FAIL	NO	NO			4002	177		🇳🇱177Mb | The Constant Company	78.141.221.126	25585
-FAIL	NO	NO			437	176		🇸🇪176Mb | Global Transit Systems	89.47.55.9	443
-FAIL	NO	NO			342	176		🇳🇱176Mb | Moskalev Georgiy	89.125.100.29	443
-FAIL	NO	NO			1332	175		🇳🇱175Mb | Servers Tech Fzco	89.124.120.136	443
-FAIL	NO	NO			765	174		🇨🇭174Mb | Private Layer INC	45.9.24.125	8443
-FAIL	NO	NO			4002	173		🇳🇱173Mb | Datagio Systems	130.78.191.25	443
-WORKS	YES	NO			604	173		🇪🇸173Mb | Anton Levin	194.146.223.231	443
-WORKS	NO	YES			662	172		🇷🇴172Mb | Route 95	85.90.196.203	443
-FAIL	NO	NO			441	172		🇺🇸172Mb | Global Transit Systems	170.168.97.8	443
-WORKS	YES	YES	130.49.219.67	AT	552	171		🇷🇺171Mb | Global Connectivity Solutions Llp	89.105.206.123	443
-FAIL	NO	NO			1346	170		🇳🇱170Mb | Intezio Worldwide Limited	138.124.98.173	443
-WORKS	YES	YES	94.183.255.101	NL	511	169	4	🇳🇱169Mb | HOSTES LTD	94.183.255.101	443
-FAIL	NO	NO			641	168		🇷🇺168Mb | Alex Largman	170.168.99.8	443
-WORKS	YES	YES	138.124.250.40	SE	738	167		🇨🇭167Mb | Global Connectivity Solutions Llp	89.105.206.123	443
-FAIL	NO	NO			420	167		🇺🇦167Mb | Fast Servers Pty	89.47.55.9	443
+FAIL	NO	NO			488	176		🇸🇪176Mb | Global Transit Systems	89.47.55.9	443
+FAIL	NO	NO			400	176		🇳🇱176Mb | Moskalev Georgiy	89.125.100.29	443
+FAIL	NO	NO			1419	175		🇳🇱175Mb | Servers Tech Fzco	89.124.120.136	443
+FAIL	NO	NO			790	174		🇨🇭174Mb | Private Layer INC	45.9.24.125	8443
+WORKS	YES	YES	130.78.191.25	NL	1643	173		🇳🇱173Mb | Datagio Systems	130.78.191.25	443
+WORKS	YES	YES	194.146.223.231	NL	568	173		🇪🇸173Mb | Anton Levin	194.146.223.231	443
+WORKS	NO	YES			743	172		🇷🇴172Mb | Route 95	85.90.196.203	443
+FAIL	NO	NO			501	172		🇺🇸172Mb | Global Transit Systems	170.168.97.8	443
+WORKS	YES	YES	130.49.219.67	AT	680	171		🇷🇺171Mb | Global Connectivity Solutions Llp	89.105.206.123	443
+FAIL	NO	NO			1409	170		🇳🇱170Mb | Intezio Worldwide Limited	138.124.98.173	443
+WORKS	YES	YES	94.183.255.101	NL	572	169	4	🇳🇱169Mb | HOSTES LTD	94.183.255.101	443
+FAIL	NO	NO			685	168		🇷🇺168Mb | Alex Largman	170.168.99.8	443
+WORKS	YES	YES	138.124.250.40	SE	657	167		🇨🇭167Mb | Global Connectivity Solutions Llp	89.105.206.123	443
+FAIL	NO	NO			491	167		🇺🇦167Mb | Fast Servers Pty	89.47.55.9	443
 FAIL	NO	NO			4003	167		🇲🇩167Mb | FDCserversnet	131.123.25.3	443
-FAIL	NO	NO			4003	166		🇳🇱166Mb | Oc Networks Limited	95.85.228.65	443
-FAIL	NO	NO			470	166		🇳🇱166Mb | Moskalev Georgiy	nl2.yabloko.top	443
-FAIL	NO	NO			1348	165		🇳🇱165Mb | Servers Tech Fzco	144.124.252.13	443
-FAIL	NO	NO			608	165		🇷🇺165Mb | Alex Largman	170.168.99.8	443
-FAIL	NO	NO			1333	164		🇳🇱164Mb | Servers Tech Fzco	89.124.120.136	443
-WORKS	NO	YES			521	163		🇳🇱163Mb | Datagio Systems	130.78.191.25	443
-WORKS	YES	YES	138.124.245.191	NL	1131	162		🇨🇭162Mb | Oc Networks Limited	138.124.245.191	443
-WORKS	YES	YES			2927	162		🇺🇸162Mb | U1 Digital Services	144.31.76.178	443
+FAIL	NO	NO			4002	166		🇳🇱166Mb | Oc Networks Limited	95.85.228.65	443
+FAIL	NO	NO			442	166		🇳🇱166Mb | Moskalev Georgiy	nl2.yabloko.top	443
+FAIL	NO	NO			1395	165		🇳🇱165Mb | Servers Tech Fzco	144.124.252.13	443
+FAIL	NO	NO			693	165		🇷🇺165Mb | Alex Largman	170.168.99.8	443
+FAIL	NO	NO			1395	164		🇳🇱164Mb | Servers Tech Fzco	89.124.120.136	443
+FAIL	NO	NO			3999	163		🇳🇱163Mb | Datagio Systems	130.78.191.25	443
+FAIL	NO	NO			4002	162		🇨🇭162Mb | Oc Networks Limited	138.124.245.191	443
+FAIL	NO	NO			4002	162		🇺🇸162Mb | U1 Digital Services	144.31.76.178	443
 FAIL	NO	NO			4002	162		🇳🇱162Mb | Oc Networks Limited	95.85.228.65	443
-WORKS	NO	YES			2341	161		🇺🇸161Mb | Servhost Group	150.241.75.198	443
-FAIL	NO	NO			4002	161		🇪🇸161Mb | Anton Levin	194.146.223.231	443
-FAIL	NO	NO			4002	160		🇪🇸160Mb | Anton Levin	194.146.223.231	443
+WORKS	NO	YES			706	161		🇺🇸161Mb | Servhost Group	150.241.75.198	443
+WORKS	YES	YES	194.146.223.231	NL	609	161		🇪🇸161Mb | Anton Levin	194.146.223.231	443
+WORKS	YES	YES	194.146.223.231	NL	587	160		🇪🇸160Mb | Anton Levin	194.146.223.231	443
 FAIL	NO	NO			4002	160		🇵🇱160Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
-WORKS	NO	YES			544	160		🇵🇱160Mb | Oc Networks Limited	2.27.244.155	443
-FAIL	NO	NO			458	159		🇹🇷159Mb | Fast Servers Pty	170.168.97.8	443
+WORKS	NO	YES			654	160		🇵🇱160Mb | Oc Networks Limited	2.27.244.155	443
+FAIL	NO	NO			545	159		🇹🇷159Mb | Fast Servers Pty	170.168.97.8	443
 FAIL	NO	NO			4002	159		🇵🇱159Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
-FAIL	NO	NO			4003	157		🇨🇾157Mb | Edge Core FZE	131.123.25.3	443
-WORKS	YES	YES	217.60.33.10	PL	2011	157	23	🇵🇱157Mb | ExpressHost	217.60.33.10	2083
-WORKS	NO	NO			553	157		🇩🇪157Mb | Hetzner	178.105.61.61	2083
-FAIL	NO	NO			436	156		🇺🇸156Mb | Global Transit Systems	170.168.97.8	443
-FAIL	NO	NO			454	156		🇺🇸156Mb | Global Transit Systems	170.168.97.8	443
-FAIL	NO	NO			4003	155		🇲🇩155Mb | FDCserversnet	131.123.25.3	443
-FAIL	NO	NO			440	154		🇹🇷154Mb | Fast Servers Pty	170.168.97.8	443
-FAIL	NO	NO			4003	154		🇫🇷154Mb | Wedeploy SAS	31.185.105.168	443
-FAIL	NO	NO			287	153		🇷🇺153Mb | PureVoltage Hosting	147.78.182.3	443
-FAIL	NO	NO			645	153		🇷🇺153Mb | Alex Largman	170.168.99.8	443
-WORKS	NO	NO			2895	152		🇫🇮152Mb | Oc Networks Limited	64.188.80.82	443
-FAIL	NO	NO			1351	152		🇳🇱152Mb | Intezio Worldwide Limited	138.124.98.172	443
-FAIL	NO	NO			4003	152		🇮🇶152Mb | Node Host Limited	81.90.25.123	46908
-FAIL	NO	NO			1349	151		🇳🇱151Mb | Intezio Worldwide Limited	138.124.98.172	443
-FAIL	NO	NO			4002	151		🇳🇱151Mb | The Constant Company	78.141.221.126	25585
-WORKS	NO	YES			1949	150		🇺🇸150Mb | Servhost Group	150.241.75.198	443
-FAIL	NO	NO			744	150		🇨🇭150Mb | Private Layer INC	94.139.255.254	5443
-FAIL	NO	NO			420	148		🇦🇪148Mb | Fast Servers Pty	89.47.55.8	443
-FAIL	NO	NO			457	148		🇦🇪148Mb | Fast Servers Pty	89.47.55.8	443
-FAIL	NO	NO			654	148		🇷🇺148Mb | Alex Largman	170.168.99.8	443
-WORKS	YES	YES	138.124.250.40	SE	613	147		🇨🇭147Mb | Global Connectivity Solutions Llp	89.105.206.123	443
-FAIL	NO	NO			448	147		🇸🇪147Mb | Global Transit Systems	89.47.55.9	443
-WORKS	NO	YES			2018	147		🇺🇸147Mb | PowerRDP Network LTD	31.76.101.16	443
-WORKS	NO	YES			515	146		🇵🇱146Mb | Oc Networks Limited	2.27.244.155	443
-FAIL	NO	NO			1325	146		🇳🇱146Mb | Servers Tech Fzco	89.124.92.66	443
-FAIL	NO	NO			1353	145		🇳🇱145Mb | Intezio Worldwide Limited	138.124.98.170	443
-FAIL	NO	NO			1331	145		🇳🇱145Mb | Servers Tech Fzco	89.124.73.6	443
-FAIL	NO	NO			1357	144		🇳🇱144Mb | Intezio Worldwide Limited	138.124.98.173	443
-FAIL	NO	NO			392	141		🇬🇧141Mb | Global Transit Systems	62.233.39.9	443
-FAIL	NO	NO			391	140		🇦🇪140Mb | Fast Servers Pty	89.47.55.8	443
-FAIL	NO	NO			407	140		🇩🇪140Mb | Alex Largman	89.47.55.8	443
-FAIL	NO	NO			4002	139		🇪🇸139Mb | Anton Levin	194.146.223.231	443
-FAIL	NO	NO			402	137		🇸🇪137Mb | Global Transit Systems	89.47.55.9	443
-FAIL	NO	NO			1361	137		🇳🇱137Mb | Intezio Worldwide Limited	138.124.98.170	443
+FAIL	NO	NO			4002	157		🇨🇾157Mb | Edge Core FZE	131.123.25.3	443
+WORKS	YES	NO			1817	157		🇵🇱157Mb | ExpressHost	217.60.33.10	2083
+WORKS	NO	NO			599	157		🇩🇪157Mb | Hetzner	178.105.61.61	2083
+FAIL	NO	NO			479	156		🇺🇸156Mb | Global Transit Systems	170.168.97.8	443
+FAIL	NO	NO			477	156		🇺🇸156Mb | Global Transit Systems	170.168.97.8	443
+FAIL	NO	NO			4002	155		🇲🇩155Mb | FDCserversnet	131.123.25.3	443
+FAIL	NO	NO			521	154		🇹🇷154Mb | Fast Servers Pty	170.168.97.8	443
+WORKS	YES	YES	31.185.105.168	FR	962	154	20	🇫🇷154Mb | Wedeploy SAS	31.185.105.168	443
+FAIL	NO	NO			1585	153		🇷🇺153Mb | PureVoltage Hosting	147.78.182.3	443
+FAIL	NO	NO			702	153		🇷🇺153Mb | Alex Largman	170.168.99.8	443
+WORKS	NO	YES			4629	152		🇫🇮152Mb | Oc Networks Limited	64.188.80.82	443
+FAIL	NO	NO			1411	152		🇳🇱152Mb | Intezio Worldwide Limited	138.124.98.172	443
+FAIL	NO	NO			2156	152		🇮🇶152Mb | Node Host Limited	81.90.25.123	46908
+FAIL	NO	NO			1408	151		🇳🇱151Mb | Intezio Worldwide Limited	138.124.98.172	443
+FAIL	NO	NO			4003	151		🇳🇱151Mb | The Constant Company	78.141.221.126	25585
+WORKS	NO	YES			696	150		🇺🇸150Mb | Servhost Group	150.241.75.198	443
+FAIL	NO	NO			849	150		🇨🇭150Mb | Private Layer INC	94.139.255.254	5443
+FAIL	NO	NO			480	148		🇦🇪148Mb | Fast Servers Pty	89.47.55.8	443
+FAIL	NO	NO			476	148		🇦🇪148Mb | Fast Servers Pty	89.47.55.8	443
+FAIL	NO	NO			693	148		🇷🇺148Mb | Alex Largman	170.168.99.8	443
+WORKS	YES	YES	138.124.250.40	SE	656	147		🇨🇭147Mb | Global Connectivity Solutions Llp	89.105.206.123	443
+FAIL	NO	NO			503	147		🇸🇪147Mb | Global Transit Systems	89.47.55.9	443
+FAIL	NO	NO			4000	147		🇺🇸147Mb | PowerRDP Network LTD	31.76.101.16	443
+WORKS	NO	YES			637	146		🇵🇱146Mb | Oc Networks Limited	2.27.244.155	443
+FAIL	NO	NO			1414	146		🇳🇱146Mb | Servers Tech Fzco	89.124.92.66	443
+FAIL	NO	NO			1409	145		🇳🇱145Mb | Intezio Worldwide Limited	138.124.98.170	443
+FAIL	NO	NO			1411	145		🇳🇱145Mb | Servers Tech Fzco	89.124.73.6	443
+FAIL	NO	NO			1438	144		🇳🇱144Mb | Intezio Worldwide Limited	138.124.98.173	443
+FAIL	NO	NO			502	141		🇬🇧141Mb | Global Transit Systems	62.233.39.9	443
+FAIL	NO	NO			501	140		🇦🇪140Mb | Fast Servers Pty	89.47.55.8	443
+FAIL	NO	NO			711	140		🇩🇪140Mb | Alex Largman	89.47.55.8	443
+WORKS	YES	YES	194.146.223.231	NL	649	139		🇪🇸139Mb | Anton Levin	194.146.223.231	443
+FAIL	NO	NO			483	137		🇸🇪137Mb | Global Transit Systems	89.47.55.9	443
+FAIL	NO	NO			1416	137		🇳🇱137Mb | Intezio Worldwide Limited	138.124.98.170	443
 FAIL	NO	NO			4003	137		🇩🇪137Mb | Hetzner	vip.superturk.ir	2087
-FAIL	NO	NO			1589	136		🇳🇱136Mb | Intezio Worldwide Limited	nid3.pinkmoon.pro	443
-WORKS	NO	YES			526	135		🇨🇭135Mb | Servhost Group	31.76.4.75	443
-FAIL	NO	NO			422	134		🇬🇧134Mb | Global Transit Systems	62.233.39.9	443
-WORKS	YES	YES	217.60.33.10	PL	618	133		🇵🇱133Mb | ExpressHost	217.60.33.10	2083
-WORKS	YES	YES	94.183.255.101	NL	483	133		🇳🇱133Mb | HOSTES LTD	94.183.255.101	443
-FAIL	NO	NO			4003	132		🇪🇸132Mb | Anton Levin	194.146.223.231	443
-WORKS	NO	NO			3062	131		🇵🇱131Mb | Datacamp Limited	5.252.102.64	2063
-FAIL	NO	NO			426	130		🇺🇸130Mb | Global Transit Systems	170.168.97.8	443
-FAIL	NO	NO			449	129		🌐129Mb | 🌐 Anycast-IP  🇹🇷  BL	170.168.97.8	443
-FAIL	NO	NO			139	128		🇳🇱128Mb | PureVoltage Hosting	147.78.182.4	443
-FAIL	NO	NO			4003	128		🇨🇾128Mb | Edge Core FZE	131.123.25.3	443
-FAIL	NO	NO			413	128		🇦🇪128Mb | Fast Servers Pty	89.47.55.8	443
+FAIL	NO	NO			1429	136		🇳🇱136Mb | Intezio Worldwide Limited	nid3.pinkmoon.pro	443
+WORKS	NO	YES			661	135		🇨🇭135Mb | Servhost Group	31.76.4.75	443
+FAIL	NO	NO			482	134		🇬🇧134Mb | Global Transit Systems	62.233.39.9	443
+WORKS	YES	YES	217.60.33.10	PL	2751	133	21	🇵🇱133Mb | ExpressHost	217.60.33.10	2083
+WORKS	YES	YES	94.183.255.101	NL	558	133		🇳🇱133Mb | HOSTES LTD	94.183.255.101	443
+WORKS	YES	YES	194.146.223.231	NL	606	132		🇪🇸132Mb | Anton Levin	194.146.223.231	443
+FAIL	NO	NO			4002	131		🇵🇱131Mb | Datacamp Limited	5.252.102.64	2063
+FAIL	NO	NO			478	130		🇺🇸130Mb | Global Transit Systems	170.168.97.8	443
+FAIL	NO	NO			1187	129		🌐129Mb | 🌐 Anycast-IP  🇹🇷  BL	170.168.97.8	443
+FAIL	NO	NO			180	128		🇳🇱128Mb | PureVoltage Hosting	147.78.182.4	443
+FAIL	NO	NO			4002	128		🇨🇾128Mb | Edge Core FZE	131.123.25.3	443
+FAIL	NO	NO			498	128		🇦🇪128Mb | Fast Servers Pty	89.47.55.8	443
 FAIL	NO	NO			4003	127		🇫🇮127Mb | H2nexus Cloud Services - Fzco	144.31.90.226	443
-WORKS	NO	YES			529	127		🇨🇭127Mb | Servhost Group	31.76.4.75	443
-WORKS	YES	NO			1547	122		🇪🇸122Mb | Anton Levin	194.146.223.231	443
+WORKS	NO	YES			642	127		🇨🇭127Mb | Servhost Group	31.76.4.75	443
+WORKS	YES	YES	194.146.223.231	NL	590	122		🇪🇸122Mb | Anton Levin	194.146.223.231	443
 FAIL	NO	NO			4003	122		🇺🇸122Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			4003	121		🇺🇸121Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			127	120		🇳🇱120Mb | PureVoltage Hosting	147.78.182.3	443
-FAIL	NO	NO			439	119		🇬🇧119Mb | Global Transit Systems	62.233.39.9	443
-WORKS	NO	YES			504	118		🇳🇱118Mb | Datagio Systems	130.78.191.25	443
-FAIL	NO	NO			4002	118		🇺🇸118Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			4002	118		🇮🇶118Mb | Node Host Limited	81.90.25.123	46908
-FAIL	NO	NO			1361	117		🇳🇱117Mb | Intezio Worldwide Limited	138.124.98.173	443
+WORKS	YES	YES	172.235.38.85	US	70	121	1	🇺🇸121Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			186	120		🇳🇱120Mb | PureVoltage Hosting	147.78.182.3	443
+FAIL	NO	NO			499	119		🇬🇧119Mb | Global Transit Systems	62.233.39.9	443
+WORKS	YES	YES	130.78.191.25	NL	595	118		🇳🇱118Mb | Datagio Systems	130.78.191.25	443
+WORKS	YES	YES	172.235.38.85	US	108	118		🇺🇸118Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			2154	118		🇮🇶118Mb | Node Host Limited	81.90.25.123	46908
+FAIL	NO	NO			1417	117		🇳🇱117Mb | Intezio Worldwide Limited	138.124.98.173	443
 FAIL	NO	NO			4002	117		🇨🇭117Mb | Global Connectivity Solutions Llp	131.123.25.3	443
-FAIL	NO	NO			4002	117		🇺🇸117Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			763	116		🇰🇿116Mb | Alex Largman	62.233.39.9	443
-FAIL	NO	NO			284	116		🇷🇺116Mb | PureVoltage Hosting	147.78.182.3	443
-FAIL	NO	NO			4002	115		🇫🇷115Mb | Wedeploy SAS	31.185.105.168	443
-FAIL	NO	NO			456	114		🇸🇪114Mb | Global Transit Systems	89.47.55.9	443
-FAIL	NO	NO			401	113		🇦🇪113Mb | Fast Servers Pty	89.47.55.8	443
+WORKS	YES	YES	172.235.38.85	US	58	117		🇺🇸117Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			505	116		🇰🇿116Mb | Alex Largman	62.233.39.9	443
+FAIL	NO	NO			358	116		🇷🇺116Mb | PureVoltage Hosting	147.78.182.3	443
+WORKS	NO	YES			1492	115		🇫🇷115Mb | Wedeploy SAS	31.185.105.168	443
+FAIL	NO	NO			504	114		🇸🇪114Mb | Global Transit Systems	89.47.55.9	443
+FAIL	NO	NO			479	113		🇦🇪113Mb | Fast Servers Pty	89.47.55.8	443
 FAIL	NO	NO			4003	113		🇩🇪113Mb | Hetzner	vip.superturk.ir	2087
-FAIL	NO	NO			390	113		🇬🇧113Mb | Global Transit Systems	62.233.39.9	443
+FAIL	NO	NO			497	113		🇬🇧113Mb | Global Transit Systems	62.233.39.9	443
 FAIL	NO	NO			4003	113		🇺🇸113Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			1358	112		🇳🇱112Mb | Intezio Worldwide Limited	138.124.98.170	443
-FAIL	NO	NO			411	112		🇬🇧112Mb | Global Transit Systems	62.233.39.9	443
-FAIL	NO	NO			4002	112		🇮🇶112Mb | Node Host Limited	81.90.25.123	46908
-FAIL	NO	NO			138	111		🇷🇺111Mb | PureVoltage Hosting	147.78.182.3	443
-WORKS	YES	YES	85.159.228.248	LV	685	109		🇱🇻109Mb | Global Connectivity Solutions Llp	89.105.206.123	443
-WORKS	NO	YES			1215	107		🇹🇷107Mb | Hostkey Bv	13.143.137.164	9443
-FAIL	NO	NO			4003	107		🇺🇸107Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			4003	106		🇺🇸106Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	YES			498	105		🇳🇱105Mb | Datagio Systems	130.78.191.25	443
-FAIL	NO	NO			142	105		🇷🇺105Mb | PureVoltage Hosting	147.78.182.3	443
-FAIL	NO	NO			438	103		🇩🇪103Mb | Alex Largman	89.47.55.8	443
-FAIL	NO	NO			415	103		🇸🇪103Mb | Global Transit Systems	89.47.55.9	443
-FAIL	NO	NO			159	103		🇮🇱103Mb | PureVoltage Hosting	140.235.168.2	443
-WORKS	YES	YES			959	102		🇺🇸102Mb | U1 Digital Services	work.kadamilab.ru	443
-FAIL	NO	NO			120	101		🇳🇱101Mb | PureVoltage Hosting	147.78.182.4	443
-WORKS	NO	YES			1570	100		🇪🇸100Mb | Anton Levin	194.146.223.231	443
-FAIL	NO	NO			296	100		🇷🇺100Mb | PureVoltage Hosting	147.78.182.3	443
-FAIL	NO	NO			440	100		🇺🇸100Mb | Global Transit Systems	170.168.97.8	443
-FAIL	NO	NO			142	99		🇷🇺99Mb | PureVoltage Hosting	147.78.182.3	443
-FAIL	NO	NO			138	99		🇷🇺99Mb | PureVoltage Hosting	147.78.182.3	443
-FAIL	NO	NO			4003	98		🇩🇪98Mb | Spacecore Solution	80.76.43.245	443
-WORKS	YES	YES	31.76.55.14	EE	631	98	16	🇺🇸98Mb | Servhost Group	31.76.55.14	443
-FAIL	NO	NO			127	97		🇳🇱97Mb | PureVoltage Hosting	147.78.182.3	443
-FAIL	NO	NO			4002	97		🇺🇸97Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			125	97		🇳🇱97Mb | PureVoltage Hosting	147.78.182.3	443
-FAIL	NO	NO			125	96		🇳🇱96Mb | PureVoltage Hosting	147.78.182.4	443
+FAIL	NO	NO			1418	112		🇳🇱112Mb | Intezio Worldwide Limited	138.124.98.170	443
+FAIL	NO	NO			500	112		🇬🇧112Mb | Global Transit Systems	62.233.39.9	443
+FAIL	NO	NO			2155	112		🇮🇶112Mb | Node Host Limited	81.90.25.123	46908
+FAIL	NO	NO			233	111		🇷🇺111Mb | PureVoltage Hosting	147.78.182.3	443
+WORKS	YES	YES	85.159.228.248	LV	723	109		🇱🇻109Mb | Global Connectivity Solutions Llp	89.105.206.123	443
+WORKS	NO	YES			1333	107		🇹🇷107Mb | Hostkey Bv	13.143.137.164	9443
+FAIL	NO	NO			4002	107		🇺🇸107Mb | Akamai Connected Cloud	172.233.139.46	53734
+FAIL	NO	NO			4002	106		🇺🇸106Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	YES	YES	130.78.191.25	NL	3266	105		🇳🇱105Mb | Datagio Systems	130.78.191.25	443
+FAIL	NO	NO			216	105		🇷🇺105Mb | PureVoltage Hosting	147.78.182.3	443
+FAIL	NO	NO			501	103		🇩🇪103Mb | Alex Largman	89.47.55.8	443
+FAIL	NO	NO			472	103		🇸🇪103Mb | Global Transit Systems	89.47.55.9	443
+FAIL	NO	NO			121	103		🇮🇱103Mb | PureVoltage Hosting	140.235.168.2	443
+FAIL	NO	NO			4003	102		🇺🇸102Mb | U1 Digital Services	work.kadamilab.ru	443
+FAIL	NO	NO			214	101		🇳🇱101Mb | PureVoltage Hosting	147.78.182.4	443
+WORKS	YES	YES	194.146.223.231	NL	594	100		🇪🇸100Mb | Anton Levin	194.146.223.231	443
+FAIL	NO	NO			369	100		🇷🇺100Mb | PureVoltage Hosting	147.78.182.3	443
+FAIL	NO	NO			505	100		🇺🇸100Mb | Global Transit Systems	170.168.97.8	443
+FAIL	NO	NO			195	99		🇷🇺99Mb | PureVoltage Hosting	147.78.182.3	443
+FAIL	NO	NO			227	99		🇷🇺99Mb | PureVoltage Hosting	147.78.182.3	443
+FAIL	NO	NO			4002	98		🇩🇪98Mb | Spacecore Solution	80.76.43.245	443
+WORKS	YES	YES	31.76.55.14	EE	709	98	13	🇺🇸98Mb | Servhost Group	31.76.55.14	443
+FAIL	NO	NO			185	97		🇳🇱97Mb | PureVoltage Hosting	147.78.182.3	443
+WORKS	YES	YES	172.235.38.85	US	150	97		🇺🇸97Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			204	97		🇳🇱97Mb | PureVoltage Hosting	147.78.182.3	443
+FAIL	NO	NO			205	96		🇳🇱96Mb | PureVoltage Hosting	147.78.182.4	443
 FAIL	NO	NO			4002	96		🇺🇸96Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			433	95		🇺🇸95Mb | Global Transit Systems	170.168.97.8	443
-FAIL	NO	NO			123	95		🇳🇱95Mb | PureVoltage Hosting	147.78.182.3	443
-WORKS	YES	YES	144.31.229.83	NL	671	94	6	🇳🇱94Mb | U1 Digital Services	144.31.229.83	443
+FAIL	NO	NO			507	95		🇺🇸95Mb | Global Transit Systems	170.168.97.8	443
+FAIL	NO	NO			189	95		🇳🇱95Mb | PureVoltage Hosting	147.78.182.3	443
+WORKS	YES	YES	144.31.229.83	NL	688	94	6	🇳🇱94Mb | U1 Digital Services	144.31.229.83	443
 FAIL	NO	NO			4002	94		🇩🇪94Mb | Hetzner	vip.superturk.ir	2087
-FAIL	NO	NO			862	93		🇸🇬93Mb | Contabo Asia Private Limited	45.80.111.45	8880
-FAIL	NO	NO			4002	93		🇺🇸93Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			124	93		🇳🇱93Mb | PureVoltage Hosting	147.78.182.4	443
-WORKS	YES	YES	2.27.105.49	BG	1643	92	22	🇧🇬92Mb | Netgrid Host	2.27.105.49	443
-FAIL	NO	NO			4003	92		🇺🇸92Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			4002	92		🇵🇱92Mb | Netgrid Host	188.255.163.64	443
-WORKS	YES	YES	144.31.229.83	NL	945	91		🇳🇱91Mb | U1 Digital Services	144.31.229.83	443
+FAIL	NO	NO			1038	93		🇸🇬93Mb | Contabo Asia Private Limited	45.80.111.45	8880
+WORKS	YES	YES	172.235.38.85	US	70	93		🇺🇸93Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			186	93		🇳🇱93Mb | PureVoltage Hosting	147.78.182.4	443
+WORKS	YES	NO			911	92		🇧🇬92Mb | Netgrid Host	2.27.105.49	443
+FAIL	NO	NO			4002	92		🇺🇸92Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	YES	YES	188.255.163.64	PL	667	92	10	🇵🇱92Mb | Netgrid Host	188.255.163.64	443
+WORKS	YES	YES	144.31.229.83	NL	727	91		🇳🇱91Mb | U1 Digital Services	144.31.229.83	443
 FAIL	NO	NO			4002	91		🇳🇱91Mb | The Constant Company	78.141.221.126	25585
 FAIL	NO	NO			4002	90		🇮🇹90Mb | Akamai Connected Cloud	172.238.232.239	32833
-FAIL	NO	NO			4002	89		🇺🇸89Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			4002	88		🇺🇸88Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			121	88		🇷🇺88Mb | PureVoltage Hosting	147.78.182.3	443
-FAIL	NO	NO			4002	86		🇱🇻86Mb | Global Connectivity Solutions Llp	131.123.25.3	443
-WORKS	YES	YES	194.146.223.231	NL	542	84		🇪🇸84Mb | Anton Levin	194.146.223.231	443
-FAIL	NO	NO			4003	84		🇺🇸84Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	YES	YES	107.175.82.213	US	327	82	1	🇺🇸82Mb | BrainStorm Network	107.175.82.213	443
-WORKS	YES	YES	188.130.208.210	CZ	811	82	19	🇨🇿82Mb | Mastersoft SRL	edge-cz1.lovely.ceo	443
-FAIL	NO	NO			433	81		🇬🇧81Mb | Global Transit Systems	62.233.39.9	443
-WORKS	YES	YES	31.76.55.14	EE	650	81		🇺🇸81Mb | Servhost Group	31.76.55.14	443
+WORKS	YES	YES	172.235.38.85	US	63	89		🇺🇸89Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	YES	YES	172.235.38.85	US	66	88		🇺🇸88Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			200	88		🇷🇺88Mb | PureVoltage Hosting	147.78.182.3	443
+FAIL	NO	NO			4001	86		🇱🇻86Mb | Global Connectivity Solutions Llp	131.123.25.3	443
+WORKS	YES	YES	194.146.223.231	NL	1680	84		🇪🇸84Mb | Anton Levin	194.146.223.231	443
+WORKS	YES	YES	172.235.38.85	US	58	84		🇺🇸84Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	YES	YES	107.175.82.213	US	277	82	2	🇺🇸82Mb | BrainStorm Network	107.175.82.213	443
+WORKS	YES	YES	188.130.208.210	CZ	787	82	17	🇨🇿82Mb | Mastersoft SRL	edge-cz1.lovely.ceo	443
+FAIL	NO	NO			479	81		🇬🇧81Mb | Global Transit Systems	62.233.39.9	443
+WORKS	YES	YES	31.76.55.14	EE	738	81		🇺🇸81Mb | Servhost Group	31.76.55.14	443
 FAIL	NO	NO			4002	81		🇺🇸81Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			540	81		🇩🇪81Mb | UAB Cherry Servers	91.240.86.12	443
-WORKS	NO	YES			323	81		🇺🇸81Mb | Servhost Group	150.241.82.47	443
-FAIL	NO	NO			688	80		🇰🇿80Mb | Alex Largman	62.233.39.9	443
+FAIL	NO	NO			701	81		🇩🇪81Mb | UAB Cherry Servers	91.240.86.12	443
+WORKS	NO	YES			316	81		🇺🇸81Mb | Servhost Group	150.241.82.47	443
+FAIL	NO	NO			795	80		🇰🇿80Mb | Alex Largman	62.233.39.9	443
 FAIL	NO	NO			4003	80		🌐80Mb | 🇰🇷 South Korea, Yongsan-dong	47.80.14.8	443
 FAIL	NO	NO			4002	79		🇱🇻79Mb | Global Connectivity Solutions Llp	131.123.25.3	443
-FAIL	NO	NO			461	79		🇬🇧79Mb | Global Transit Systems	62.233.39.9	443
-FAIL	NO	NO			356	79		🇷🇺79Mb | PureVoltage Hosting	147.78.182.3	443
-FAIL	NO	NO			209	79		🇷🇺79Mb | PureVoltage Hosting	147.78.182.3	443
-FAIL	NO	NO			160	78		🇮🇱78Mb | PureVoltage Hosting	140.235.168.2	443
-FAIL	NO	NO			4002	78		🇳🇱78Mb | The Constant Company	78.141.221.126	25585
-FAIL	NO	NO			4002	77		🇱🇻77Mb | Global Connectivity Solutions Llp	131.123.25.3	443
-FAIL	NO	NO			4002	76		🇺🇸76Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			4002	76		🇺🇸76Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			4002	75		🇳🇱75Mb | Oc Networks Limited	95.85.228.65	443
-WORKS	NO	NO			3572	74		🇺🇸74Mb | U1 Digital Services	work22.kadamilab.ru	443
-FAIL	NO	NO			4003	74		🇺🇸74Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	YES	YES	31.76.91.202	JP	559	74	12	🇯🇵74Mb | Akenai Products LTD	31.76.91.202	443
+FAIL	NO	NO			476	79		🇬🇧79Mb | Global Transit Systems	62.233.39.9	443
+FAIL	NO	NO			383	79		🇷🇺79Mb | PureVoltage Hosting	147.78.182.3	443
+FAIL	NO	NO			225	79		🇷🇺79Mb | PureVoltage Hosting	147.78.182.3	443
+FAIL	NO	NO			119	78		🇮🇱78Mb | PureVoltage Hosting	140.235.168.2	443
+FAIL	NO	NO			4003	78		🇳🇱78Mb | The Constant Company	78.141.221.126	25585
+FAIL	NO	NO			4003	77		🇱🇻77Mb | Global Connectivity Solutions Llp	131.123.25.3	443
+FAIL	NO	NO			4003	76		🇺🇸76Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	YES	YES	172.235.38.85	US	64	76		🇺🇸76Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			4003	75		🇳🇱75Mb | Oc Networks Limited	95.85.228.65	443
+FAIL	NO	NO			4003	74		🇺🇸74Mb | U1 Digital Services	work22.kadamilab.ru	443
+WORKS	YES	YES	172.235.38.85	US	64	74		🇺🇸74Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	YES	YES	31.76.91.202	JP	472	74	8	🇯🇵74Mb | Akenai Products LTD	31.76.91.202	443
 FAIL	NO	NO			4002	74		🇳🇱74Mb | 3nt solutions LLP	185.192.22.160	443
-FAIL	NO	NO			4002	73		🇺🇸73Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			4002	72		🇮🇶72Mb | Node Host Limited	81.90.25.123	46908
-FAIL	NO	NO			125	72		🇷🇺72Mb | PureVoltage Hosting	147.78.182.3	443
+WORKS	YES	YES	172.235.38.85	US	87	73		🇺🇸73Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			2160	72		🇮🇶72Mb | Node Host Limited	81.90.25.123	46908
+FAIL	NO	NO			195	72		🇷🇺72Mb | PureVoltage Hosting	147.78.182.3	443
 FAIL	NO	NO			4003	71		🇺🇸71Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	YES	15.236.13.100	FR	358	71	11	🇫🇷71Mb | AWS	15.236.13.100	22223
-FAIL	NO	NO			138	70		🇳🇱70Mb | PureVoltage Hosting	147.78.182.3	443
-FAIL	NO	NO			160	69		🇮🇱69Mb | PureVoltage Hosting	140.235.168.2	443
-FAIL	NO	NO			4003	68		🇺🇸68Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			4003	68		🇺🇸68Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	YES	YES			975	67		🇺🇸67Mb | U1 Digital Services	201.10.74.79	443
-WORKS	NO	NO			187	67		🇺🇸67Mb | Akamai Connected Cloud	172.236.233.59	443
-WORKS	NO	YES			2613	67		🇪🇸67Mb | Anton Levin	194.146.223.231	443
-FAIL	NO	NO			415	67		🇦🇪67Mb | Fast Servers Pty	89.47.55.8	443
-WORKS	YES	YES	144.31.90.65	FI	627	67	14	🇫🇮67Mb | H2nexus Cloud Services - Fzco	144.31.90.65	443
-FAIL	NO	NO			392	65		🇬🇧65Mb | Global Transit Systems	62.233.39.9	443
-WORKS	YES	YES	201.10.74.79	DE	1862	65	3	🇺🇸65Mb | U1 Digital Services	201.10.74.79	443
-WORKS	YES	YES	144.31.90.72	FI	609	64	13	🇫🇮64Mb | H2nexus Cloud Services - Fzco	144.31.90.72	443
-FAIL	NO	NO			4003	64		🇮🇶64Mb | Node Host Limited	81.90.25.123	46908
-WORKS	NO	NO			2503	64		🌐64Mb | 🇵🇱🚀 Польша 🔐 🏴BL/SNI  🥭🔥	178.248.236.209	10443
-FAIL	NO	NO			4003	63		🇱🇻63Mb | Global Connectivity Solutions Llp	131.123.25.3	443
-WORKS	YES	YES	196.240.109.114	PL	637	62		🇵🇱62Mb | Orion Network Limited	196.240.109.117	443
-FAIL	NO	NO			158	61		🇮🇱61Mb | PureVoltage Hosting	140.235.168.2	443
+FAIL	NO	NO			4002	71		🇫🇷71Mb | AWS	15.236.13.100	22223
+FAIL	NO	NO			192	70		🇳🇱70Mb | PureVoltage Hosting	147.78.182.3	443
+FAIL	NO	NO			116	69		🇮🇱69Mb | PureVoltage Hosting	140.235.168.2	443
+FAIL	NO	NO			4002	68		🇺🇸68Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	YES	YES	172.235.38.85	US	63	68		🇺🇸68Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			4002	67		🇺🇸67Mb | U1 Digital Services	201.10.74.79	443
+WORKS	NO	NO			1078	67		🇺🇸67Mb | Akamai Connected Cloud	172.236.233.59	443
+WORKS	YES	YES	194.146.223.231	NL	611	67		🇪🇸67Mb | Anton Levin	194.146.223.231	443
+FAIL	NO	NO			1133	67		🇦🇪67Mb | Fast Servers Pty	89.47.55.8	443
+WORKS	YES	YES	144.31.90.65	FI	673	67	11	🇫🇮67Mb | H2nexus Cloud Services - Fzco	144.31.90.65	443
+FAIL	NO	NO			495	65		🇬🇧65Mb | Global Transit Systems	62.233.39.9	443
+FAIL	NO	NO			4003	65		🇺🇸65Mb | U1 Digital Services	201.10.74.79	443
+WORKS	YES	YES	144.31.90.72	FI	691	64	12	🇫🇮64Mb | H2nexus Cloud Services - Fzco	144.31.90.72	443
+FAIL	NO	NO			2154	64		🇮🇶64Mb | Node Host Limited	81.90.25.123	46908
+WORKS	YES	NO			1014	64		🌐64Mb | 🇵🇱🚀 Польша 🔐 🏴BL/SNI  🥭🔥	178.248.236.209	10443
+FAIL	NO	NO			4001	63		🇱🇻63Mb | Global Connectivity Solutions Llp	131.123.25.3	443
+WORKS	YES	YES	196.240.109.114	PL	727	62		🇵🇱62Mb | Orion Network Limited	196.240.109.117	443
+FAIL	NO	NO			117	61		🇮🇱61Mb | PureVoltage Hosting	140.235.168.2	443
 FAIL	NO	NO			4002	61		🇫🇮61Mb | H2nexus Cloud Services - Fzco	144.31.90.226	443
-WORKS	NO	NO			3397	60		🇵🇱60Mb | Datacamp Limited	5.252.102.64	2063
-FAIL	NO	NO			4002	60		🇮🇶60Mb | Node Host Limited	81.90.25.123	46908
+FAIL	NO	NO			4003	60		🇵🇱60Mb | Datacamp Limited	5.252.102.64	2063
+FAIL	NO	NO			2153	60		🇮🇶60Mb | Node Host Limited	81.90.25.123	46908
 FAIL	NO	NO			4003	59		🇩🇪59Mb | Hetzner	fosiil.lagbatirannn.online	2020
-FAIL	NO	NO			409	59		🇬🇧59Mb | Global Transit Systems	62.233.39.9	443
-FAIL	NO	NO			273	59		🇫🇮59Mb | Hetzner	2.29.22.151	443
-FAIL	NO	NO			443	58		🌐58Mb | 🇰🇿 Kazakhstan  *CIDR	62.233.39.9	443
-FAIL	NO	NO			420	58		🇩🇪58Mb | Hetzner	favmhd.deakhemashtiiirann.online	2020
-FAIL	NO	NO			451	58		🇬🇧58Mb | Global Transit Systems	62.233.39.9	443
+FAIL	NO	NO			481	59		🇬🇧59Mb | Global Transit Systems	62.233.39.9	443
+FAIL	NO	NO			356	59		🇫🇮59Mb | Hetzner	2.29.22.151	443
+FAIL	NO	NO			789	58		🌐58Mb | 🇰🇿 Kazakhstan  *CIDR	62.233.39.9	443
+FAIL	NO	NO			474	58		🇩🇪58Mb | Hetzner	favmhd.deakhemashtiiirann.online	2020
+FAIL	NO	NO			503	58		🇬🇧58Mb | Global Transit Systems	62.233.39.9	443
 FAIL	NO	NO			4003	57		🇺🇸57Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			439	56		🇬🇧56Mb | Global Transit Systems	62.233.39.9	443
+FAIL	NO	NO			493	56		🇬🇧56Mb | Global Transit Systems	62.233.39.9	443
