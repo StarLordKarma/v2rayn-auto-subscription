@@ -1,208 +1,208 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4002	715		🇺🇸715Mb | Jsc timeweb	ru.axolab.org	443
-FAIL	NO	NO			4002	648		🇺🇸648Mb | Jsc timeweb	ru.axolab.org	443
-WORKS	NO	NO			893	576		🇳🇱576Mb | UAB Cherry Servers	188.225.25.142	443
-FAIL	NO	NO			4002	523		🇦🇪523Mb | Baxet Group	cdn.snobvpn.online	80
-WORKS	YES	YES	93.152.220.23	NL	407	516	11	🌐516Mb | 4Nika-d3a1b39b9a	93.152.220.23	443
-WORKS	YES	NO			1462	503		🇳🇱503Mb | UAB Cherry Servers	api.betust.net	443
-FAIL	NO	NO			1805	479		🌐479Mb | OpenRay 🇷🇺 RU-35516	188.225.25.142	443
-FAIL	NO	NO			1993	448		🇳🇱448Mb | UAB Cherry Servers	api.betust.net	443
-WORKS	YES	YES	93.152.220.23	NL	398	430		🌐430Mb | EPODONIOS	93.152.220.23	443
-WORKS	NO	YES			1005	424		🌐424Mb | EPODONIOS	prime.betust.net	443
-WORKS	NO	YES			1601	420		🇳🇱420Mb | UAB Cherry Servers	prime.betust.net	443
-FAIL	NO	NO			386	418		🇨🇭418Mb | Baykov Ilya Sergeevich	5.129.198.223	443
-WORKS	YES	YES	201.51.10.240	NL	385	386	8	🌐386Mb | 🔥Join+Telegram:@Farah_VPN🟣	201.51.10.240	443
-WORKS	YES	YES	84.32.186.117	NL	962	342		🇳🇱342Mb | UAB Cherry Servers	188.225.77.241	443
-WORKS	NO	NO			2668	326		🇫🇮326Mb | Baxet Group	fi.snobvpn.online	80
-FAIL	NO	NO			392	319		🇩🇪319Mb | AWS	de1.miyazono-kaori.com	443
-WORKS	YES	YES	84.32.186.117	NL	781	317	17	🇳🇱317Mb | UAB Cherry Servers	188.225.77.241	443
-WORKS	YES	YES	5.157.10.250	SE	500	316	24	🇸🇪316Mb | Angelnet Limited	swebz.loozerp.wiki	443
-WORKS	NO	NO			840	311		🇳🇱311Mb | UAB Cherry Servers	188.225.25.142	443
-WORKS	YES	YES	50.7.95.245	NL	1043	304	21	🇺🇸304Mb | FDCserversnet	house.betust.net	443
-WORKS	YES	YES	93.152.220.23	NL	410	294		🇳🇱294Mb | Dedik Services Limited	93.152.220.23	443
-WORKS	YES	YES	93.152.220.23	NL	405	292		🇳🇱292Mb | Dedik Services Limited	93.152.220.23	443
-WORKS	NO	YES			276	289		🇳🇱289Mb | Oracle Cloud	92.5.225.103	62145
-FAIL	NO	NO			374	288		🇩🇪288Mb | AWS	de2.miyazono-kaori.com	443
-FAIL	NO	NO			331	285		🇩🇪285Mb | Tech Tide Portugal Unipessoal LDA	nl1.miyazono-kaori.com	443
-WORKS	YES	YES	93.152.220.23	NL	404	280		🇳🇱280Mb | Dedik Services Limited	93.152.220.23	443
-WORKS	YES	YES	84.32.186.117	NL	795	270	18	🇳🇱270Mb | UAB Cherry Servers	188.225.35.207	443
-FAIL	NO	NO			536	269		🇬🇧269Mb | Packet Star Networks Limited	uk2.miyazono-kaori.com	443
-FAIL	NO	NO			4003	268		🇩🇪268Mb | AWS	front.onlydreams.ir	8443
-WORKS	YES	YES	57.128.231.84	PL	570	261	27	🇵🇱261Mb | OVH	pl.bubahero.com	443
-FAIL	NO	NO			4003	257		🇩🇪257Mb | AWS	front.onlydreams.ir	8443
-WORKS	YES	YES	93.152.220.23	NL	398	250		🇳🇱250Mb | Dedik Services Limited	93.152.220.23	443
-WORKS	YES	YES	93.152.220.23	NL	415	243		🇳🇱243Mb | Dedik Services Limited	93.152.220.23	443
-WORKS	YES	YES	152.70.50.147	NL	277	240	6	🇳🇱240Mb | Oracle Cloud	152.70.50.147	62145
-WORKS	NO	YES			1441	226		🇸🇪226Mb | FDCserversnet	app1.betust.net	443
-WORKS	NO	YES			499	226		🇬🇧226Mb | FDCserversnet	os.betust.net	443
-WORKS	YES	YES	57.128.231.84	PL	557	216		🇵🇱216Mb | OVH	pl.bubahero.com	443
-WORKS	YES	YES	201.51.10.240	NL	383	213		🇸🇨213Mb | Timeweb LLP	201.51.10.240	443
-WORKS	YES	YES	185.32.6.63	PL	1560	206	32	🇵🇱206Mb | Korbank S A	185.32.6.63	443
-WORKS	YES	YES	57.128.231.84	PL	563	203		🇵🇱203Mb | OVH	pl.bubahero.com	443
-WORKS	YES	YES	84.32.186.117	NL	939	197	20	🇳🇱197Mb | UAB Cherry Servers	api.betust.net	443
-WORKS	YES	YES	201.51.10.240	NL	422	191	12	🇸🇨191Mb | Timeweb LLP	cdn6.goonars.com	443
-FAIL	NO	NO			1854	190		🇳🇱190Mb | UAB Cherry Servers	188.225.77.241	443
-FAIL	NO	NO			2503	190		🇵🇱190Mb | FDCserversnet	189.74.116.37	443
-WORKS	YES	YES	201.51.10.240	NL	374	189		🇸🇨189Mb | Timeweb LLP	201.51.10.240	443
-FAIL	NO	NO			714	187		🇭🇰187Mb | AWS	hk3.miyazono-kaori.com	443
-WORKS	YES	NO			673	184		🇵🇱184Mb | OVH	194.93.63.246	443
-WORKS	YES	YES	201.51.10.240	NL	414	183		🇸🇨183Mb | Timeweb LLP	cdn6.goonars.com	443
-WORKS	YES	YES			1440	182		🇦🇪182Mb | Baxet Group	cdn.snobvpn.online	80
-WORKS	YES	NO			3991	182		🇵🇱182Mb | OVH	194.93.63.246	443
-WORKS	YES	YES	130.78.191.25	NL	470	180	13	🇳🇱180Mb | Datagio Systems	130.78.191.25	443
-WORKS	YES	YES	84.32.177.74	NL	514	179	15	🇳🇱179Mb | UAB Cherry Servers	app.betust.net	443
-WORKS	YES	YES	201.51.10.240	NL	381	171		🇸🇨171Mb | Timeweb LLP	cdn6.goonars.com	443
-WORKS	YES	YES	84.32.186.117	NL	868	171	19	🇳🇱171Mb | UAB Cherry Servers	prime.betust.net	443
-WORKS	YES	YES	201.51.10.240	NL	375	171		🇸🇨171Mb | Timeweb LLP	cdn6.goonars.com	443
-WORKS	YES	YES	144.31.243.247	LT	1091	168	29	🇺🇸168Mb | Servhost Group	144.31.243.247	443
-WORKS	YES	YES	84.32.186.117	NL	964	163		🇳🇱163Mb | UAB Cherry Servers	188.225.35.207	443
-WORKS	YES	NO			1254	162		🇵🇱162Mb | OVH	194.93.63.246	443
-WORKS	YES	YES	84.32.186.117	NL	1838	161	23	🇳🇱161Mb | UAB Cherry Servers	188.225.25.142	443
-FAIL	NO	NO			437	161		🇺🇸161Mb | FDCserversnet	api.mediasvyaz.cc	443
-WORKS	YES	YES	84.32.177.74	NL	397	160	9	🇳🇱160Mb | UAB Cherry Servers	84.32.177.74	443
-FAIL	NO	NO			621	158		🇭🇰158Mb | AWS	hk4.miyazono-kaori.com	443
+FAIL	NO	NO			4001	715		🇺🇸715Mb | Jsc timeweb	ru.axolab.org	443
+FAIL	NO	NO			4003	648		🇺🇸648Mb | Jsc timeweb	ru.axolab.org	443
+FAIL	NO	NO			3677	576		🇳🇱576Mb | UAB Cherry Servers	188.225.25.142	443
+WORKS	NO	YES			1723	523		🇦🇪523Mb | Baxet Group	cdn.snobvpn.online	80
+WORKS	YES	YES	93.152.220.23	NL	626	516		🌐516Mb | 4Nika-d3a1b39b9a	93.152.220.23	443
+WORKS	YES	YES	84.32.186.117	NL	1555	503	16	🇳🇱503Mb | UAB Cherry Servers	api.betust.net	443
+WORKS	YES	YES	84.32.186.117	NL	2365	479		🌐479Mb | OpenRay 🇷🇺 RU-35516	188.225.25.142	443
+WORKS	NO	YES			1577	448		🇳🇱448Mb | UAB Cherry Servers	api.betust.net	443
+WORKS	YES	YES	93.152.220.23	NL	602	430	6	🌐430Mb | EPODONIOS	93.152.220.23	443
+WORKS	YES	NO			2272	424		🌐424Mb | EPODONIOS	prime.betust.net	443
+FAIL	NO	NO			3581	420		🇳🇱420Mb | UAB Cherry Servers	prime.betust.net	443
+FAIL	NO	NO			542	418		🇨🇭418Mb | Baykov Ilya Sergeevich	5.129.198.223	443
+WORKS	YES	YES	201.51.10.240	NL	612	386	7	🌐386Mb | 🔥Join+Telegram:@Farah_VPN🟣	201.51.10.240	443
+WORKS	YES	NO			2284	342		🇳🇱342Mb | UAB Cherry Servers	188.225.77.241	443
+FAIL	NO	NO			4002	326		🇫🇮326Mb | Baxet Group	fi.snobvpn.online	80
+FAIL	NO	NO			503	319		🇩🇪319Mb | AWS	de1.miyazono-kaori.com	443
+WORKS	YES	NO			1807	317		🇳🇱317Mb | UAB Cherry Servers	188.225.77.241	443
+WORKS	YES	YES			693	316		🇸🇪316Mb | Angelnet Limited	swebz.loozerp.wiki	443
+WORKS	YES	YES	84.32.186.117	NL	2125	311	19	🇳🇱311Mb | UAB Cherry Servers	188.225.25.142	443
+WORKS	YES	YES	50.7.95.245	NL	788	304	14	🇺🇸304Mb | FDCserversnet	house.betust.net	443
+WORKS	YES	YES	93.152.220.23	NL	587	294		🇳🇱294Mb | Dedik Services Limited	93.152.220.23	443
+WORKS	YES	YES	93.152.220.23	NL	637	292		🇳🇱292Mb | Dedik Services Limited	93.152.220.23	443
+WORKS	YES	NO			414	289		🇳🇱289Mb | Oracle Cloud	92.5.225.103	62145
+FAIL	NO	NO			449	288		🇩🇪288Mb | AWS	de2.miyazono-kaori.com	443
+FAIL	NO	NO			456	285		🇩🇪285Mb | Tech Tide Portugal Unipessoal LDA	nl1.miyazono-kaori.com	443
+WORKS	YES	YES	93.152.220.23	NL	618	280		🇳🇱280Mb | Dedik Services Limited	93.152.220.23	443
+FAIL	NO	NO			2876	270		🇳🇱270Mb | UAB Cherry Servers	188.225.35.207	443
+FAIL	NO	NO			4002	269		🇬🇧269Mb | Packet Star Networks Limited	uk2.miyazono-kaori.com	443
+FAIL	NO	NO			998	268		🇩🇪268Mb | AWS	front.onlydreams.ir	8443
+WORKS	YES	YES	57.128.231.84	PL	802	261	25	🇵🇱261Mb | OVH	pl.bubahero.com	443
+WORKS	YES	YES	54.93.222.111	DE	1050	257	3	🇩🇪257Mb | AWS	front.onlydreams.ir	8443
+WORKS	YES	YES	93.152.220.23	NL	609	250		🇳🇱250Mb | Dedik Services Limited	93.152.220.23	443
+WORKS	YES	YES	93.152.220.23	NL	594	243		🇳🇱243Mb | Dedik Services Limited	93.152.220.23	443
+WORKS	NO	YES			1484	240		🇳🇱240Mb | Oracle Cloud	152.70.50.147	62145
+WORKS	NO	YES			1781	226		🇸🇪226Mb | FDCserversnet	app1.betust.net	443
+WORKS	NO	YES			802	226		🇬🇧226Mb | FDCserversnet	os.betust.net	443
+WORKS	YES	YES	57.128.231.84	PL	827	216		🇵🇱216Mb | OVH	pl.bubahero.com	443
+WORKS	YES	YES	201.51.10.240	NL	595	213		🇸🇨213Mb | Timeweb LLP	201.51.10.240	443
+FAIL	NO	NO			4002	206		🇵🇱206Mb | Korbank S A	185.32.6.63	443
+FAIL	NO	NO			4003	203		🇵🇱203Mb | OVH	pl.bubahero.com	443
+FAIL	NO	NO			3888	197		🇳🇱197Mb | UAB Cherry Servers	api.betust.net	443
+WORKS	YES	YES	201.51.10.240	NL	659	191	10	🇸🇨191Mb | Timeweb LLP	cdn6.goonars.com	443
+FAIL	NO	NO			3918	190		🇳🇱190Mb | UAB Cherry Servers	188.225.77.241	443
+FAIL	NO	NO			510	190		🇵🇱190Mb | FDCserversnet	189.74.116.37	443
+WORKS	YES	YES	201.51.10.240	NL	616	189		🇸🇨189Mb | Timeweb LLP	201.51.10.240	443
+FAIL	NO	NO			470	187		🇭🇰187Mb | AWS	hk3.miyazono-kaori.com	443
+WORKS	YES	NO			4275	184		🇵🇱184Mb | OVH	194.93.63.246	443
+WORKS	YES	YES	201.51.10.240	NL	611	183		🇸🇨183Mb | Timeweb LLP	cdn6.goonars.com	443
+FAIL	NO	NO			4002	182		🇦🇪182Mb | Baxet Group	cdn.snobvpn.online	80
+WORKS	YES	NO			3391	182		🇵🇱182Mb | OVH	194.93.63.246	443
+WORKS	YES	YES	130.78.191.25	NL	730	180	11	🇳🇱180Mb | Datagio Systems	130.78.191.25	443
+WORKS	YES	YES	84.32.177.74	NL	792	179	15	🇳🇱179Mb | UAB Cherry Servers	app.betust.net	443
+WORKS	YES	YES	201.51.10.240	NL	732	171		🇸🇨171Mb | Timeweb LLP	cdn6.goonars.com	443
+WORKS	YES	YES	84.32.186.117	NL	1794	171	18	🇳🇱171Mb | UAB Cherry Servers	prime.betust.net	443
+WORKS	YES	YES	201.51.10.240	NL	700	171		🇸🇨171Mb | Timeweb LLP	cdn6.goonars.com	443
+WORKS	YES	YES	144.31.243.247	LT	890	168	26	🇺🇸168Mb | Servhost Group	144.31.243.247	443
+WORKS	YES	YES	84.32.186.117	NL	3281	163	20	🇳🇱163Mb | UAB Cherry Servers	188.225.35.207	443
+WORKS	YES	NO			1474	162		🇵🇱162Mb | OVH	194.93.63.246	443
+WORKS	YES	YES	84.32.186.117	NL	2032	161		🇳🇱161Mb | UAB Cherry Servers	188.225.25.142	443
+FAIL	NO	NO			525	161		🇺🇸161Mb | FDCserversnet	api.mediasvyaz.cc	443
+WORKS	YES	YES	84.32.177.74	NL	614	160	8	🇳🇱160Mb | UAB Cherry Servers	84.32.177.74	443
+FAIL	NO	NO			537	158		🇭🇰158Mb | AWS	hk4.miyazono-kaori.com	443
 FAIL	NO	NO			4002	158		🇦🇹158Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	YES	201.51.10.240	NL	392	157		🇸🇨157Mb | Timeweb LLP	cdn6.goonars.com	443
-WORKS	YES	YES	84.32.177.74	NL	374	153		🇳🇱153Mb | UAB Cherry Servers	app.betust.net	443
-FAIL	NO	NO			4003	152		🇩🇪152Mb | AWS	front.onlydreams.ir	8443
-WORKS	YES	YES	84.32.177.74	NL	385	149		🇳🇱149Mb | UAB Cherry Servers	84.32.177.74	443
-FAIL	NO	NO			4003	146		🇷🇺146Mb | Aeza Group	cdns9.ookcdn.ru	443
-WORKS	YES	YES	84.32.177.98	NL	400	146	10	🇳🇱146Mb | UAB Cherry Servers	84.32.177.98	443
-WORKS	NO	YES			526	145		🇺🇸145Mb | Node Host Limited	finland.biznes.lol	443
-WORKS	YES	YES	88.216.70.41	DE	511	145	5	🇩🇪145Mb | UAB Cherry Servers	check.betust.net	443
-WORKS	YES	YES	144.31.28.21	FI	547	143	26	🇺🇸143Mb | Node Host Limited	finland.biznes.lol	443
-WORKS	YES	YES	84.32.186.117	NL	844	142		🇳🇱142Mb | UAB Cherry Servers	prime.betust.net	443
-WORKS	YES	YES	84.32.186.117	NL	927	141		🇳🇱141Mb | UAB Cherry Servers	prime.betust.net	443
-WORKS	NO	YES			110	140		🌐140Mb | 4Nika-bb3886dd8f	88.216.57.221	443
-WORKS	NO	YES			459	140		🇳🇱140Mb | Datagio Systems	130.78.191.25	443
-FAIL	NO	NO			217	139		🇺🇸139Mb | BrainStorm Network	107.175.82.213	443
-WORKS	YES	YES	201.51.10.240	NL	407	139		🇸🇨139Mb | Timeweb LLP	cdn6.goonars.com	443
-WORKS	YES	YES	144.31.229.83	NL	1379	137	22	🇳🇱137Mb | U1 Digital Services	144.31.229.83	443
-FAIL	NO	NO			2251	137		🇳🇱137Mb | UAB Cherry Servers	api.betust.net	443
-WORKS	YES	YES	88.216.70.41	DE	375	136	3	🇩🇪136Mb | UAB Cherry Servers	88.216.70.41	443
-WORKS	YES	YES	84.32.177.98	NL	488	134	14	🇳🇱134Mb | UAB Cherry Servers	stream.betust.net	443
-FAIL	NO	NO			265	133		🇺🇸133Mb | FDCserversnet	50.7.154.75	443
-WORKS	YES	YES	84.32.177.98	NL	379	132		🇳🇱132Mb | UAB Cherry Servers	84.32.177.98	443
-FAIL	NO	NO			4003	132		🇳🇱132Mb | Datagio Systems	130.78.191.25	443
-WORKS	YES	YES	88.216.70.41	DE	509	132		🇩🇪132Mb | UAB Cherry Servers	check.betust.net	443
-FAIL	NO	NO			708	130		🇭🇰130Mb | AWS	hk6.miyazono-kaori.com	443
-FAIL	NO	NO			276	130		🇳🇱130Mb | HOSTES LTD	94.183.255.101	443
-WORKS	YES	YES	130.78.191.25	NL	2951	129		🇳🇱129Mb | Datagio Systems	130.78.191.25	443
-WORKS	YES	YES	57.128.231.84	PL	2931	129	34	🇵🇱129Mb | OVH	194.93.63.246	443
-FAIL	NO	NO			373	129		🇷🇸129Mb | Freakhosting	de1.cnyvpn.com	2096
-WORKS	YES	YES	57.128.231.84	PL	2291	127		🇵🇱127Mb | OVH	pl.bubahero.com	443
-FAIL	NO	NO			4003	126		🇵🇱126Mb | Korbank S A	185.32.6.63	443
-WORKS	YES	YES	217.60.37.56	FR	1278	126	30	🇫🇷126Mb | Cgi Global Limited	217.60.37.56	443
-WORKS	YES	YES	217.60.37.56	FR	1468	124	31	🇫🇷124Mb | Cgi Global Limited	fr-1.lunoa.ru	443
-FAIL	NO	NO			749	124		🇳🇱124Mb | BitCommand	45.195.200.4	8443
-WORKS	YES	YES	84.32.177.98	NL	399	124		🇳🇱124Mb | UAB Cherry Servers	84.32.177.98	443
-WORKS	YES	NO			690	124		🇺🇸124Mb | Node Host Limited	finland.biznes.lol	443
-WORKS	YES	YES	88.216.70.41	DE	381	123		🇩🇪123Mb | UAB Cherry Servers	88.216.70.41	443
-FAIL	NO	NO			757	122		🇳🇱122Mb | BitCommand	nl.armankhan.shop	8443
-WORKS	YES	YES	88.216.70.41	DE	374	121		🇩🇪121Mb | UAB Cherry Servers	88.216.70.41	443
-FAIL	NO	NO			4003	120		🌐120Mb | 2272  🇫🇮 Finland  VLESS  📺 YT	37.143.129.244	443
-WORKS	YES	YES	144.31.229.83	NL	562	120		🇳🇱120Mb | U1 Digital Services	144.31.229.83	443
-FAIL	NO	NO			765	119		🇳🇱119Mb | BitCommand	nl.armankhan.shop	8443
-WORKS	YES	YES	88.216.70.41	DE	508	119		🇩🇪119Mb | UAB Cherry Servers	check.betust.net	443
-WORKS	YES	YES	84.32.177.98	NL	493	119		🇳🇱119Mb | UAB Cherry Servers	stream.betust.net	443
-WORKS	YES	YES	57.128.231.84	PL	483	118		🇵🇱118Mb | OVH	pl.bubahero.com	443
-WORKS	YES	YES	84.32.177.7	NL	521	118	16	🇳🇱118Mb | UAB Cherry Servers	team.betust.net	443
-WORKS	YES	YES	84.32.177.74	NL	410	118		🇳🇱118Mb | UAB Cherry Servers	84.32.177.74	443
-WORKS	YES	YES			1714	118		🇳🇱118Mb | UAB Cherry Servers	demo.betust.net	443
+WORKS	YES	YES	201.51.10.240	NL	664	157		🇸🇨157Mb | Timeweb LLP	cdn6.goonars.com	443
+WORKS	YES	YES	84.32.177.74	NL	806	153		🇳🇱153Mb | UAB Cherry Servers	app.betust.net	443
+FAIL	NO	NO			845	152		🇩🇪152Mb | AWS	front.onlydreams.ir	8443
+WORKS	YES	YES	84.32.177.74	NL	617	149		🇳🇱149Mb | UAB Cherry Servers	84.32.177.74	443
+FAIL	NO	NO			869	146		🇷🇺146Mb | Aeza Group	cdns9.ookcdn.ru	443
+WORKS	YES	YES	84.32.177.98	NL	568	146	5	🇳🇱146Mb | UAB Cherry Servers	84.32.177.98	443
+WORKS	YES	YES	144.31.28.21	FI	1211	145	27	🇺🇸145Mb | Node Host Limited	finland.biznes.lol	443
+WORKS	YES	YES	88.216.70.41	DE	1780	145	4	🇩🇪145Mb | UAB Cherry Servers	check.betust.net	443
+FAIL	NO	NO			4002	143		🇺🇸143Mb | Node Host Limited	finland.biznes.lol	443
+WORKS	YES	NO			1901	142		🇳🇱142Mb | UAB Cherry Servers	prime.betust.net	443
+WORKS	YES	YES	84.32.186.117	NL	1406	141		🇳🇱141Mb | UAB Cherry Servers	prime.betust.net	443
+WORKS	NO	YES			228	140		🌐140Mb | 4Nika-bb3886dd8f	88.216.57.221	443
+FAIL	NO	NO			4003	140		🇳🇱140Mb | Datagio Systems	130.78.191.25	443
+FAIL	NO	NO			25	139		🇺🇸139Mb | BrainStorm Network	107.175.82.213	443
+WORKS	YES	YES	201.51.10.240	NL	634	139		🇸🇨139Mb | Timeweb LLP	cdn6.goonars.com	443
+WORKS	YES	YES	144.31.229.83	NL	1755	137	17	🇳🇱137Mb | U1 Digital Services	144.31.229.83	443
+WORKS	NO	YES			2313	137		🇳🇱137Mb | UAB Cherry Servers	api.betust.net	443
+WORKS	YES	YES	88.216.70.41	DE	605	136	2	🇩🇪136Mb | UAB Cherry Servers	88.216.70.41	443
+WORKS	YES	YES	84.32.177.98	NL	777	134	13	🇳🇱134Mb | UAB Cherry Servers	stream.betust.net	443
+FAIL	NO	NO			463	133		🇺🇸133Mb | FDCserversnet	50.7.154.75	443
+WORKS	YES	YES	84.32.177.98	NL	578	132		🇳🇱132Mb | UAB Cherry Servers	84.32.177.98	443
+FAIL	NO	NO			4002	132		🇳🇱132Mb | Datagio Systems	130.78.191.25	443
+WORKS	YES	YES	88.216.70.41	DE	808	132		🇩🇪132Mb | UAB Cherry Servers	check.betust.net	443
+FAIL	NO	NO			523	130		🇭🇰130Mb | AWS	hk6.miyazono-kaori.com	443
+FAIL	NO	NO			434	130		🇳🇱130Mb | HOSTES LTD	94.183.255.101	443
+FAIL	NO	NO			4003	129		🇳🇱129Mb | Datagio Systems	130.78.191.25	443
+FAIL	NO	NO			4002	129		🇵🇱129Mb | OVH	194.93.63.246	443
+FAIL	NO	NO			944	129		🇷🇸129Mb | Freakhosting	de1.cnyvpn.com	2096
+WORKS	YES	YES	57.128.231.84	PL	4070	127		🇵🇱127Mb | OVH	pl.bubahero.com	443
+WORKS	NO	YES			2270	126		🇵🇱126Mb | Korbank S A	185.32.6.63	443
+WORKS	YES	YES	217.60.37.56	FR	723	126	23	🇫🇷126Mb | Cgi Global Limited	217.60.37.56	443
+WORKS	YES	YES	217.60.37.56	FR	1360	124	28	🇫🇷124Mb | Cgi Global Limited	fr-1.lunoa.ru	443
+FAIL	NO	NO			1011	124		🇳🇱124Mb | BitCommand	45.195.200.4	8443
+WORKS	YES	YES	84.32.177.98	NL	591	124		🇳🇱124Mb | UAB Cherry Servers	84.32.177.98	443
+WORKS	YES	YES	144.31.28.21	FI	683	124		🇺🇸124Mb | Node Host Limited	finland.biznes.lol	443
+WORKS	YES	YES	88.216.70.41	DE	599	123		🇩🇪123Mb | UAB Cherry Servers	88.216.70.41	443
+FAIL	NO	NO			961	122		🇳🇱122Mb | BitCommand	nl.armankhan.shop	8443
+WORKS	YES	YES	88.216.70.41	DE	605	121		🇩🇪121Mb | UAB Cherry Servers	88.216.70.41	443
+WORKS	NO	YES			737	120		🌐120Mb | 2272  🇫🇮 Finland  VLESS  📺 YT	37.143.129.244	443
+WORKS	YES	YES	144.31.229.83	NL	747	120		🇳🇱120Mb | U1 Digital Services	144.31.229.83	443
+FAIL	NO	NO			1049	119		🇳🇱119Mb | BitCommand	nl.armankhan.shop	8443
+WORKS	YES	YES	88.216.70.41	DE	612	119		🇩🇪119Mb | UAB Cherry Servers	check.betust.net	443
+WORKS	YES	YES	84.32.177.98	NL	603	119		🇳🇱119Mb | UAB Cherry Servers	stream.betust.net	443
+WORKS	YES	YES	57.128.231.84	PL	713	118		🇵🇱118Mb | OVH	pl.bubahero.com	443
+WORKS	YES	YES	84.32.177.7	NL	767	118	12	🇳🇱118Mb | UAB Cherry Servers	team.betust.net	443
+WORKS	YES	YES	84.32.177.74	NL	600	118		🇳🇱118Mb | UAB Cherry Servers	84.32.177.74	443
+FAIL	NO	NO			2939	118		🇳🇱118Mb | UAB Cherry Servers	demo.betust.net	443
 FAIL	NO	NO			4002	117		🇮🇹117Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
-FAIL	NO	NO			4002	117		🇺🇸117Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	NO			552	116		🇺🇸116Mb | Node Host Limited	finland.biznes.lol	443
-WORKS	YES	YES	84.32.177.98	NL	541	115		🇳🇱115Mb | UAB Cherry Servers	stream.betust.net	443
-WORKS	YES	YES	88.216.70.41	DE	502	115		🇩🇪115Mb | UAB Cherry Servers	check.betust.net	443
-WORKS	YES	YES	84.32.177.98	NL	384	114		🇳🇱114Mb | UAB Cherry Servers	84.32.177.98	443
-WORKS	YES	YES	88.216.70.41	DE	390	113		🇩🇪113Mb | UAB Cherry Servers	88.216.70.41	443
-WORKS	YES	YES	84.32.177.98	NL	405	113		🇳🇱113Mb | UAB Cherry Servers	stream.betust.net	443
-WORKS	YES	YES	84.32.177.98	NL	463	113		🇳🇱113Mb | UAB Cherry Servers	stream.betust.net	443
-FAIL	NO	NO			786	111		🇭🇰111Mb | AWS	hk5.miyazono-kaori.com	443
-WORKS	YES	YES	31.76.39.152	GB	599	111	2	🇬🇧111Mb | Akenai Products LTD	gb.superbuba.top	443
+FAIL	NO	NO			4003	117		🇺🇸117Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	NO	NO			781	116		🇺🇸116Mb | Node Host Limited	finland.biznes.lol	443
+WORKS	YES	YES	84.32.177.98	NL	583	115		🇳🇱115Mb | UAB Cherry Servers	stream.betust.net	443
+WORKS	YES	YES	88.216.70.41	DE	627	115		🇩🇪115Mb | UAB Cherry Servers	check.betust.net	443
+WORKS	YES	YES	84.32.177.98	NL	591	114		🇳🇱114Mb | UAB Cherry Servers	84.32.177.98	443
+WORKS	YES	YES	88.216.70.41	DE	577	113		🇩🇪113Mb | UAB Cherry Servers	88.216.70.41	443
+WORKS	YES	YES	84.32.177.98	NL	820	113		🇳🇱113Mb | UAB Cherry Servers	stream.betust.net	443
+WORKS	YES	YES	84.32.177.98	NL	757	113		🇳🇱113Mb | UAB Cherry Servers	stream.betust.net	443
+FAIL	NO	NO			665	111		🇭🇰111Mb | AWS	hk5.miyazono-kaori.com	443
+WORKS	YES	NO			2311	111		🇬🇧111Mb | Akenai Products LTD	gb.superbuba.top	443
 FAIL	NO	NO			4002	111		🇺🇸111Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	YES	YES	144.31.28.21	FI	2693	108		🇺🇸108Mb | Node Host Limited	finland.biznes.lol	443
-WORKS	NO	YES			110	106		🇺🇸106Mb | UAB Cherry Servers	88.216.57.221	443
-FAIL	NO	NO			218	106		🇺🇸106Mb | BrainStorm Network	107.175.82.213	443
-WORKS	NO	YES			105	105		🇺🇸105Mb | UAB Cherry Servers	88.216.57.221	443
-WORKS	YES	YES	185.32.6.63	PL	3957	105		🇵🇱105Mb | Korbank S A	185.32.6.63	443
-WORKS	YES	YES	84.32.186.117	NL	949	105		🇳🇱105Mb | UAB Cherry Servers	188.225.35.207	443
-WORKS	YES	YES	88.216.70.41	DE	383	104		🇩🇪104Mb | UAB Cherry Servers	88.216.70.41	443
+WORKS	YES	YES	144.31.28.21	FI	2831	108		🇺🇸108Mb | Node Host Limited	finland.biznes.lol	443
+WORKS	NO	YES			227	106		🇺🇸106Mb | UAB Cherry Servers	88.216.57.221	443
+FAIL	NO	NO			19	106		🇺🇸106Mb | BrainStorm Network	107.175.82.213	443
+WORKS	NO	YES			222	105		🇺🇸105Mb | UAB Cherry Servers	88.216.57.221	443
+WORKS	NO	YES			2771	105		🇵🇱105Mb | Korbank S A	185.32.6.63	443
+WORKS	YES	YES			3271	105		🇳🇱105Mb | UAB Cherry Servers	188.225.35.207	443
+WORKS	YES	YES	88.216.70.41	DE	590	104		🇩🇪104Mb | UAB Cherry Servers	88.216.70.41	443
 FAIL	NO	NO			4002	104		🇺🇸104Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	YES	YES	84.32.186.117	NL	1447	103		🇳🇱103Mb | UAB Cherry Servers	prime.betust.net	443
-WORKS	YES	YES	84.32.177.7	NL	367	103	7	🇳🇱103Mb | UAB Cherry Servers	84.32.177.7	443
-WORKS	NO	NO			1254	103		🌐103Mb | hamedp71::🇸🇬	sg2-8sb.6121999.dpdns.org	19825
-WORKS	YES	YES	84.32.177.98	NL	520	102		🇳🇱102Mb | UAB Cherry Servers	stream.betust.net	443
+WORKS	YES	YES	84.32.186.117	NL	2515	103		🇳🇱103Mb | UAB Cherry Servers	prime.betust.net	443
+WORKS	YES	YES	84.32.177.7	NL	637	103	9	🇳🇱103Mb | UAB Cherry Servers	84.32.177.7	443
+WORKS	YES	YES	146.235.16.130	SG	787	103	24	🌐103Mb | hamedp71::🇸🇬	sg2-8sb.6121999.dpdns.org	19825
+WORKS	YES	YES	84.32.177.98	NL	738	102		🇳🇱102Mb | UAB Cherry Servers	stream.betust.net	443
 FAIL	NO	NO			4002	102		🇺🇸102Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	YES	84.32.177.98	NL	406	102		🇳🇱102Mb | UAB Cherry Servers	stream.betust.net	443
-WORKS	NO	YES			112	101		🇺🇸101Mb | UAB Cherry Servers	88.216.57.221	443
-WORKS	YES	YES	84.32.177.7	NL	379	100		🇳🇱100Mb | UAB Cherry Servers	84.32.177.7	443
-FAIL	NO	NO			500	99		🇯🇵99Mb | AWS	jp2.miyazono-kaori.com	443
-WORKS	YES	YES	84.32.186.117	NL	1409	98		🇳🇱98Mb | UAB Cherry Servers	188.225.35.207	443
-WORKS	YES	YES	84.32.177.98	NL	376	98		🇳🇱98Mb | UAB Cherry Servers	stream.betust.net	443
-FAIL	NO	NO			435	96		🇷🇺96Mb | JSC Selectel	161.104.38.98	443
-WORKS	YES	YES	130.78.191.25	NL	1556	95		🇳🇱95Mb | Datagio Systems	130.78.191.25	443
-WORKS	YES	YES	84.32.177.7	NL	486	94		🇳🇱94Mb | UAB Cherry Servers	team.betust.net	443
-WORKS	NO	YES			383	93		🇺🇸93Mb | UAB Cherry Servers	publics.betust.net	443
-WORKS	NO	YES			226	92		🇺🇸92Mb | UAB Cherry Servers	publics.betust.net	443
-WORKS	YES	YES	84.32.177.98	NL	563	91		🇳🇱91Mb | UAB Cherry Servers	stream.betust.net	443
-WORKS	YES	YES	84.32.186.117	NL	3437	90		🌐90Mb | 🇳🇱 The Netherlands — #103	188.225.77.241	443
-FAIL	NO	NO			697	86		🇸🇬86Mb | AWS	sg4.miyazono-kaori.com	443
-FAIL	NO	NO			779	86		🇸🇪86Mb | UAB Cherry Servers	87.242.94.69	1443
-WORKS	YES	YES	144.31.28.21	FI	535	85	25	🇺🇸85Mb | Node Host Limited	144.31.28.21	443
-WORKS	YES	YES	84.32.177.7	NL	369	84		🇳🇱84Mb | UAB Cherry Servers	84.32.177.7	443
-WORKS	NO	YES			232	84		🇺🇸84Mb | UAB Cherry Servers	publics.betust.net	443
-WORKS	YES	NO			803	82		🇳🇱82Mb | UAB Cherry Servers	188.225.25.142	443
-FAIL	NO	NO			278	81		🇺🇸81Mb | AWS	us4.miyazono-kaori.com	443
-WORKS	NO	YES			104	81		🇺🇸81Mb | UAB Cherry Servers	88.216.57.221	443
-WORKS	YES	YES	84.32.186.117	NL	1430	80		🇳🇱80Mb | UAB Cherry Servers	api.betust.net	443
-WORKS	YES	YES	84.32.177.74	NL	399	77		🇳🇱77Mb | UAB Cherry Servers	84.32.177.74	443
-WORKS	NO	YES			112	76		🇺🇸76Mb | UAB Cherry Servers	publics.betust.net	443
-FAIL	NO	NO			4002	76		🇺🇸76Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	YES	YES			1148	74		🇳🇱74Mb | UAB Cherry Servers	api.betust.net	443
-FAIL	NO	NO			4003	73		🇵🇱73Mb | OVH	pl.bubahero.com	443
-WORKS	NO	YES			415	73		🌐73Mb | 🇬🇹openproxylist.com vless-GT	185.47.254.251	443
-FAIL	NO	NO			4002	73		🇪🇪73Mb | Aktsiaselts WaveCom	ee-node.usel.pro	443
-WORKS	NO	YES			107	72		🇺🇸72Mb | UAB Cherry Servers	publics.betust.net	443
-FAIL	NO	NO			593	71		🇯🇵71Mb | AWS	jp3.miyazono-kaori.com	443
-WORKS	YES	YES			1298	71		🇳🇱71Mb | UAB Cherry Servers	188.225.57.78	443
-FAIL	NO	NO			358	70		🇷🇺70Mb | Aeza Group	cdns9.ookcdn.ru	443
-FAIL	NO	NO			4002	70		🇺🇸70Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			203	69		🇺🇸69Mb | AWS	us3.miyazono-kaori.com	443
-WORKS	NO	YES			4208	69		🇺🇸69Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			4003	68		🇺🇸68Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	NO	YES			4275	68		🇺🇸68Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			206	66		🇺🇸66Mb | AWS	us2.miyazono-kaori.com	443
-FAIL	NO	NO			570	65		🇰🇷65Mb | AWS	kr2.miyazono-kaori.com	443
-WORKS	YES	YES	93.152.220.23	NL	408	65		🇳🇱65Mb | Dedik Services Limited	93.152.220.23	443
-FAIL	NO	NO			713	64		🇸🇬64Mb | AWS	sg2.miyazono-kaori.com	443
-FAIL	NO	NO			4002	64		🇺🇸64Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	YES			1393	64		🇳🇱64Mb | UAB Cherry Servers	app4.betust.net	443
-WORKS	NO	YES			3331	63		🇺🇸63Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	YES	YES	46.8.103.64	AE	2806	63	33	🇨🇿63Mb | Cloud Software - FZCO	reserve-1.lunoa.ru	443
-FAIL	NO	NO			4003	63		🇺🇸63Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	YES	YES	84.32.177.98	NL	580	102		🇳🇱102Mb | UAB Cherry Servers	stream.betust.net	443
+WORKS	NO	YES			223	101		🇺🇸101Mb | UAB Cherry Servers	88.216.57.221	443
+WORKS	YES	YES	84.32.177.7	NL	585	100		🇳🇱100Mb | UAB Cherry Servers	84.32.177.7	443
+FAIL	NO	NO			337	99		🇯🇵99Mb | AWS	jp2.miyazono-kaori.com	443
+WORKS	YES	YES			1367	98		🇳🇱98Mb | UAB Cherry Servers	188.225.35.207	443
+WORKS	YES	YES	84.32.177.98	NL	585	98		🇳🇱98Mb | UAB Cherry Servers	stream.betust.net	443
+FAIL	NO	NO			746	96		🇷🇺96Mb | JSC Selectel	161.104.38.98	443
+WORKS	YES	YES	130.78.191.25	NL	2976	95		🇳🇱95Mb | Datagio Systems	130.78.191.25	443
+WORKS	YES	YES	84.32.177.7	NL	738	94		🇳🇱94Mb | UAB Cherry Servers	team.betust.net	443
+WORKS	NO	YES			406	93		🇺🇸93Mb | UAB Cherry Servers	publics.betust.net	443
+WORKS	NO	YES			440	92		🇺🇸92Mb | UAB Cherry Servers	publics.betust.net	443
+WORKS	YES	YES	84.32.177.98	NL	711	91		🇳🇱91Mb | UAB Cherry Servers	stream.betust.net	443
+WORKS	NO	YES			1472	90		🌐90Mb | 🇳🇱 The Netherlands — #103	188.225.77.241	443
+FAIL	NO	NO			535	86		🇸🇬86Mb | AWS	sg4.miyazono-kaori.com	443
+FAIL	NO	NO			1030	86		🇸🇪86Mb | UAB Cherry Servers	87.242.94.69	1443
+FAIL	NO	NO			4003	85		🇺🇸85Mb | Node Host Limited	144.31.28.21	443
+WORKS	YES	YES	84.32.177.7	NL	631	84		🇳🇱84Mb | UAB Cherry Servers	84.32.177.7	443
+WORKS	NO	YES			399	84		🇺🇸84Mb | UAB Cherry Servers	publics.betust.net	443
+WORKS	YES	YES	84.32.186.117	NL	1203	82		🇳🇱82Mb | UAB Cherry Servers	188.225.25.142	443
+FAIL	NO	NO			104	81		🇺🇸81Mb | AWS	us4.miyazono-kaori.com	443
+WORKS	NO	YES			221	81		🇺🇸81Mb | UAB Cherry Servers	88.216.57.221	443
+WORKS	YES	YES	84.32.186.117	NL	2330	80		🇳🇱80Mb | UAB Cherry Servers	api.betust.net	443
+WORKS	YES	YES	84.32.177.74	NL	600	77		🇳🇱77Mb | UAB Cherry Servers	84.32.177.74	443
+WORKS	NO	YES			350	76		🇺🇸76Mb | UAB Cherry Servers	publics.betust.net	443
+FAIL	NO	NO			4003	76		🇺🇸76Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	YES	YES	84.32.186.117	NL	2345	74		🇳🇱74Mb | UAB Cherry Servers	api.betust.net	443
+WORKS	YES	YES	57.128.231.84	PL	749	73		🇵🇱73Mb | OVH	pl.bubahero.com	443
+WORKS	NO	YES			455	73		🌐73Mb | 🇬🇹openproxylist.com vless-GT	185.47.254.251	443
+WORKS	YES	YES	46.22.216.32	EE	719	73	22	🇪🇪73Mb | Aktsiaselts WaveCom	ee-node.usel.pro	443
+WORKS	NO	YES			420	72		🇺🇸72Mb | UAB Cherry Servers	publics.betust.net	443
+FAIL	NO	NO			363	71		🇯🇵71Mb | AWS	jp3.miyazono-kaori.com	443
+WORKS	YES	NO			1774	71		🇳🇱71Mb | UAB Cherry Servers	188.225.57.78	443
+FAIL	NO	NO			899	70		🇷🇺70Mb | Aeza Group	cdns9.ookcdn.ru	443
+FAIL	NO	NO			4003	70		🇺🇸70Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			118	69		🇺🇸69Mb | AWS	us3.miyazono-kaori.com	443
+FAIL	NO	NO			4002	69		🇺🇸69Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			4002	68		🇺🇸68Mb | Akamai Connected Cloud	172.233.139.46	53734
+FAIL	NO	NO			4002	68		🇺🇸68Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			105	66		🇺🇸66Mb | AWS	us2.miyazono-kaori.com	443
+FAIL	NO	NO			412	65		🇰🇷65Mb | AWS	kr2.miyazono-kaori.com	443
+WORKS	YES	YES	93.152.220.23	NL	636	65		🇳🇱65Mb | Dedik Services Limited	93.152.220.23	443
+FAIL	NO	NO			532	64		🇸🇬64Mb | AWS	sg2.miyazono-kaori.com	443
+FAIL	NO	NO			4001	64		🇺🇸64Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	YES	YES			2083	64		🇳🇱64Mb | UAB Cherry Servers	app4.betust.net	443
+FAIL	NO	NO			4003	63		🇺🇸63Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	NO	NO			4428	63		🇨🇿63Mb | Cloud Software - FZCO	reserve-1.lunoa.ru	443
+FAIL	NO	NO			4002	63		🇺🇸63Mb | Akamai Connected Cloud	172.233.139.46	53734
 FAIL	NO	NO			4003	62		🇺🇸62Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			560	62		🇯🇵62Mb | AWS	jp1.miyazono-kaori.com	443
+FAIL	NO	NO			324	62		🇯🇵62Mb | AWS	jp1.miyazono-kaori.com	443
 FAIL	NO	NO			4003	61		🇺🇸61Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	YES	154.31.114.248	JP	621	61	28	🇯🇵61Mb | DMIT Cloud Services	154.31.114.248	50159
-FAIL	NO	NO			2457	61		🇳🇱61Mb | UAB Cherry Servers	prime.betust.net	443
-WORKS	YES	YES	94.183.238.74	DE	481	61	4	🇩🇪61Mb | Eternity International Limited	94.183.238.74	443
-WORKS	NO	YES			1709	61		🇺🇸61Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	NO	YES			1352	60		🇺🇸60Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	YES	YES	154.31.114.248	JP	412	61	21	🇯🇵61Mb | DMIT Cloud Services	154.31.114.248	50159
+WORKS	YES	YES	84.32.186.117	NL	1205	61		🇳🇱61Mb | UAB Cherry Servers	prime.betust.net	443
+FAIL	NO	NO			4002	61		🇩🇪61Mb | Eternity International Limited	94.183.238.74	443
+FAIL	NO	NO			4002	61		🇺🇸61Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			4002	60		🇺🇸60Mb | Akamai Connected Cloud	172.235.38.85	42942
 FAIL	NO	NO			4003	60		🇺🇸60Mb | Akamai Connected Cloud	172.233.139.46	53734
 FAIL	NO	NO			4003	60		🇺🇸60Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			4002	60		🇺🇸60Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			486	60		🇯🇵60Mb | AWS	jp4.miyazono-kaori.com	443
+FAIL	NO	NO			4003	60		🇺🇸60Mb | Akamai Connected Cloud	172.233.139.46	53734
+FAIL	NO	NO			331	60		🇯🇵60Mb | AWS	jp4.miyazono-kaori.com	443
 FAIL	NO	NO			4002	59		🇺🇸59Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			571	59		🇰🇷59Mb | AWS	kr1.miyazono-kaori.com	443
-FAIL	NO	NO			434	59		🌐59Mb | 🔥Join+Telegram:@Farah_VPN🟣	81.18.48.97	2096
-WORKS	YES	YES	84.32.177.74	NL	397	59		🇳🇱59Mb | UAB Cherry Servers	84.32.177.74	443
-WORKS	YES	YES	45.149.172.74	US	257	58	1	🇺🇸58Mb | Clouvider Limited	45.149.172.74	443
-WORKS	NO	YES			445	58		🇺🇸58Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			433	59		🇰🇷59Mb | AWS	kr1.miyazono-kaori.com	443
+FAIL	NO	NO			459	59		🌐59Mb | 🔥Join+Telegram:@Farah_VPN🟣	81.18.48.97	2096
+WORKS	YES	YES	84.32.177.74	NL	584	59		🇳🇱59Mb | UAB Cherry Servers	84.32.177.74	443
+WORKS	YES	YES	45.149.172.74	US	141	58	1	🇺🇸58Mb | Clouvider Limited	45.149.172.74	443
+FAIL	NO	NO			4003	58		🇺🇸58Mb | Akamai Connected Cloud	172.235.38.85	42942
 FAIL	NO	NO			4002	58		🇺🇸58Mb | Akamai Connected Cloud	172.233.139.46	53734
 FAIL	NO	NO			4003	57		🇺🇸57Mb | Akamai Connected Cloud	172.233.139.46	53734
 FAIL	NO	NO			4003	57		🇺🇸57Mb | Akamai Connected Cloud	172.233.139.46	53734
 FAIL	NO	NO			4002	57		🇺🇸57Mb | Akamai Connected Cloud	172.233.139.46	53734
 FAIL	NO	NO			4003	57		🌐57Mb | 🇷🇺 Russia  🌐  *CIDR	193.233.221.96	443
-WORKS	NO	YES			325	57		🌐57Mb | OpenRay 🇺🇸 US-26804	45.149.172.80	443
-FAIL	NO	NO			692	56		🇸🇬56Mb | AWS	sg1.miyazono-kaori.com	443
+WORKS	NO	YES			178	57		🌐57Mb | OpenRay 🇺🇸 US-26804	45.149.172.80	443
+FAIL	NO	NO			542	56		🇸🇬56Mb | AWS	sg1.miyazono-kaori.com	443
