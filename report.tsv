@@ -1,79 +1,79 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
 FAIL	NO	NO			4002	667		🌐667Mb | 4636  🇳🇱 Netherlands  VLESS  📺	158.101.216.158	62145
-FAIL	NO	NO			382	544		🌐544Mb | 🌐 Anycast-IP  🇫🇮 🇷🇺  *CIDR	188.225.47.177	443
-WORKS	YES	NO			4075	480		🇵🇱480Mb | OVH	194.93.63.246	443
-WORKS	NO	YES			509	480		🇬🇧480Mb | FDCserversnet	os.betust.net	443
-WORKS	YES	NO			4063	451		🇵🇱451Mb | OVH	pl.bubahero.com	443
-WORKS	YES	NO			4089	438		🇵🇱438Mb | OVH	pl.bubahero.com	443
-WORKS	YES	NO			4631	414		🇵🇱414Mb | OVH	pl.bubahero.com	443
-WORKS	YES	NO			4083	383		🇵🇱383Mb | OVH	pl.bubahero.com	443
-WORKS	NO	YES			3529	378		🇳🇱378Mb | ESTOXY OU	78.159.245.51	6443
-FAIL	NO	NO			2974	346		🇩🇪346Mb | Hetzner	areweoutofthewoodsyet.itsnotfair.ir	1008
-FAIL	NO	NO			485	346		🇩🇪346Mb | Hetzner	dlv6.far30bazi.ir	443
-FAIL	NO	NO			2962	327		🇩🇪327Mb | Hetzner	areweoutofthewoodsyet.itsnotfair.ir	1008
-FAIL	NO	NO			4001	285		🇳🇱285Mb | ESTOXY OU	78.159.245.51	6443
-WORKS	YES	NO			3954	279		🇵🇱279Mb | OVH	pl.bubahero.com	443
-WORKS	YES	YES	201.51.10.240	NL	437	279	10	🇸🇨279Mb | Timeweb LLP	cdn6.goonars.com	443
-FAIL	NO	NO			4002	256		🌐256Mb | hamedp71::🏴‍☠️	157.137.226.173	62145
-WORKS	YES	YES	45.149.172.80	US	300	248	1	🌐248Mb | @DeltaKroneckerGithub	45.149.172.80	443
-WORKS	YES	NO			4057	245		🇵🇱245Mb | OVH	pl.bubahero.com	443
-WORKS	NO	YES			310	244		🇩🇪244Mb | The Constant Company	95.179.169.44	53224
-FAIL	NO	NO			4003	218		🇨🇴218Mb | Oracle Cloud	157.137.226.173	62145
-FAIL	NO	NO			3070	209		🇫🇷209Mb | Akamai Connected Cloud	talktothemanwiththereasonswhy.itsnotfair.ir	1008
-WORKS	YES	YES	201.51.10.240	NL	426	209		🇸🇨209Mb | Timeweb LLP	cdn6.goonars.com	443
-WORKS	YES	YES	31.77.154.24	IT	2979	208	18	🇮🇹208Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
-WORKS	YES	YES	31.76.39.152	GB	613	203	2	🇬🇧203Mb | Akenai Products LTD	31.76.39.153	443
-FAIL	NO	NO			366	202		🇷🇺202Mb | Jsc timeweb	188.225.47.177	443
-WORKS	YES	YES	5.157.10.250	SE	655	197	17	🇸🇪197Mb | Angelnet Limited	swebz.loozerp.wiki	443
-WORKS	YES	YES	94.26.0.129	DE	2182	192	8	🇩🇪192Mb | RMP Protection Limited	185.22.235.203	443
-FAIL	NO	NO			4001	190		🇨🇴190Mb | Oracle Cloud	157.137.226.173	62145
-WORKS	YES	YES	94.183.238.74	DE	485	185	5	🇩🇪185Mb | Eternity International Limited	94.183.238.74	443
-WORKS	NO	YES			312	185		🇩🇪185Mb | The Constant Company	95.179.169.44	53224
+FAIL	NO	NO			368	544		🌐544Mb | 🌐 Anycast-IP  🇫🇮 🇷🇺  *CIDR	188.225.47.177	443
+WORKS	NO	NO			3875	480		🇵🇱480Mb | OVH	194.93.63.246	443
+WORKS	NO	YES			548	480		🇬🇧480Mb | FDCserversnet	os.betust.net	443
+WORKS	NO	NO			3806	451		🇵🇱451Mb | OVH	pl.bubahero.com	443
+WORKS	NO	NO			3698	438		🇵🇱438Mb | OVH	pl.bubahero.com	443
+FAIL	NO	NO			4002	414		🇵🇱414Mb | OVH	pl.bubahero.com	443
+WORKS	NO	NO			3618	383		🇵🇱383Mb | OVH	pl.bubahero.com	443
+FAIL	NO	NO			4002	378		🇳🇱378Mb | ESTOXY OU	78.159.245.51	6443
+FAIL	NO	NO			2743	346		🇩🇪346Mb | Hetzner	areweoutofthewoodsyet.itsnotfair.ir	1008
+FAIL	NO	NO			479	346		🇩🇪346Mb | Hetzner	dlv6.far30bazi.ir	443
+FAIL	NO	NO			2722	327		🇩🇪327Mb | Hetzner	areweoutofthewoodsyet.itsnotfair.ir	1008
+FAIL	NO	NO			4002	285		🇳🇱285Mb | ESTOXY OU	78.159.245.51	6443
+WORKS	NO	NO			3692	279		🇵🇱279Mb | OVH	pl.bubahero.com	443
+WORKS	YES	YES	201.51.10.240	NL	449	279	13	🇸🇨279Mb | Timeweb LLP	cdn6.goonars.com	443
+FAIL	NO	NO			4001	256		🌐256Mb | hamedp71::🏴‍☠️	157.137.226.173	62145
+WORKS	YES	YES	45.149.172.80	US	1379	248	1	🌐248Mb | @DeltaKroneckerGithub	45.149.172.80	443
+WORKS	NO	NO			4085	245		🇵🇱245Mb | OVH	pl.bubahero.com	443
+WORKS	NO	YES			305	244		🇩🇪244Mb | The Constant Company	95.179.169.44	53224
+FAIL	NO	NO			4002	218		🇨🇴218Mb | Oracle Cloud	157.137.226.173	62145
+FAIL	NO	NO			2764	209		🇫🇷209Mb | Akamai Connected Cloud	talktothemanwiththereasonswhy.itsnotfair.ir	1008
+WORKS	YES	YES	201.51.10.240	NL	393	209		🇸🇨209Mb | Timeweb LLP	cdn6.goonars.com	443
+FAIL	NO	NO			4002	208		🇮🇹208Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
+WORKS	YES	YES	31.76.39.152	GB	1331	203	4	🇬🇧203Mb | Akenai Products LTD	31.76.39.153	443
+FAIL	NO	NO			357	202		🇷🇺202Mb | Jsc timeweb	188.225.47.177	443
+WORKS	YES	YES	5.157.10.250	SE	507	197	16	🇸🇪197Mb | Angelnet Limited	swebz.loozerp.wiki	443
+WORKS	YES	YES	94.26.0.129	DE	1147	192	8	🇩🇪192Mb | RMP Protection Limited	185.22.235.203	443
+FAIL	NO	NO			4003	190		🇨🇴190Mb | Oracle Cloud	157.137.226.173	62145
+WORKS	YES	YES	94.183.238.74	DE	604	185	7	🇩🇪185Mb | Eternity International Limited	94.183.238.74	443
+WORKS	NO	YES			306	185		🇩🇪185Mb | The Constant Company	95.179.169.44	53224
 FAIL	NO	NO			4002	182		🇵🇱182Mb | OVH	194.93.63.246	443
-FAIL	NO	NO			368	180		🇸🇪180Mb | Hostup AB	swnode.protectednetwork.shop	443
-WORKS	YES	YES	201.51.10.240	NL	476	179	11	🇸🇨179Mb | Timeweb LLP	201.51.10.240	443
-WORKS	YES	NO			1103	177		🇬🇧177Mb | Akenai Products LTD	gb.superbuba.top	443
-WORKS	YES	YES	5.157.10.250	SE	3439	174		🇸🇪174Mb | Angelnet Limited	swebz.loozerp.wiki	443
-FAIL	NO	NO			365	169		🇷🇺169Mb | Jsc timeweb	188.225.47.177	443
-WORKS	YES	YES	89.125.100.29	NL	504	168	14	🇳🇱168Mb | Moskalev Georgiy	nl2.yabloko.top	443
-WORKS	YES	YES	88.216.70.41	DE	589	163	6	🇩🇪163Mb | UAB Cherry Servers	check.betust.net	443
-WORKS	YES	YES			972	152		🇵🇱152Mb | OVH	194.93.63.246	443
-WORKS	NO	YES			302	148		🇩🇪148Mb | The Constant Company	95.179.169.44	53224
-WORKS	YES	YES	47.74.3.200	JP	642	148	16	🌐148Mb | 1738  🇯🇵 Japan  VLESS  📺 YT  T	47.74.3.200	443
-WORKS	YES	YES	94.26.0.129	DE	1189	142	7	🇩🇪142Mb | RMP Protection Limited	bv.cloudvk.cc	443
-FAIL	NO	NO			4003	132		🇩🇪132Mb | DpkgSoft International Limited	ger2.mguard-pro.com	443
-FAIL	NO	NO			4003	132		🇵🇱132Mb | OVH	194.93.63.246	443
-WORKS	YES	YES	201.51.10.240	NL	404	129		🇸🇨129Mb | Timeweb LLP	201.51.10.240	443
-FAIL	NO	NO			4003	125		🇵🇱125Mb | OVH	pl.bubahero.com	443
-WORKS	YES	YES	84.32.177.7	NL	396	121	9	🇳🇱121Mb | UAB Cherry Servers	84.32.177.7	443
-WORKS	YES	NO			1863	117		🇳🇱117Mb | ESTOXY OU	docs.helpscenter.xyz	6443
-FAIL	NO	NO			4002	117		🇵🇱117Mb | OVH	194.93.63.246	443
-WORKS	NO	YES			318	116		🇺🇸116Mb | UAB Cherry Servers	publics.betust.net	443
-WORKS	NO	YES			141	115		🇺🇸115Mb | UAB Cherry Servers	88.216.57.221	443
-FAIL	NO	NO			4002	112		🇵🇱112Mb | OVH	194.93.63.246	443
-WORKS	YES	YES	31.76.109.18	NL	478	110	12	🇺🇸110Mb | EdgeSec Technologies Limited	31.76.109.18	443
-FAIL	NO	NO			4003	100		🇳🇱100Mb | Datagio Systems	130.78.191.25	443
-WORKS	NO	YES			1039	97		🇺🇸97Mb | Clouvider Limited	45.149.172.74	443
-FAIL	NO	NO			4002	94		🇵🇱94Mb | OVH	194.93.63.246	443
-WORKS	YES	YES	31.76.109.18	NL	576	94		🇺🇸94Mb | EdgeSec Technologies Limited	31.76.109.18	443
-WORKS	YES	YES	88.216.70.41	DE	375	93	4	🇩🇪93Mb | UAB Cherry Servers	88.216.70.41	443
-WORKS	YES	YES	31.76.39.141	GB	1894	91	3	🇬🇧91Mb | Akenai Products LTD	31.76.39.141	443
-FAIL	NO	NO			4003	86		🇺🇸86Mb | Route 95	195.123.240.65	443
+FAIL	NO	NO			333	180		🇸🇪180Mb | Hostup AB	swnode.protectednetwork.shop	443
+WORKS	YES	YES	201.51.10.240	NL	784	179	15	🇸🇨179Mb | Timeweb LLP	201.51.10.240	443
+WORKS	YES	YES	31.76.39.141	GB	487	177	3	🇬🇧177Mb | Akenai Products LTD	gb.superbuba.top	443
+WORKS	YES	YES	5.157.10.250	SE	831	174		🇸🇪174Mb | Angelnet Limited	swebz.loozerp.wiki	443
+FAIL	NO	NO			475	169		🇷🇺169Mb | Jsc timeweb	188.225.47.177	443
+FAIL	NO	NO			4003	168		🇳🇱168Mb | Moskalev Georgiy	nl2.yabloko.top	443
+WORKS	YES	YES	88.216.70.41	DE	520	163	6	🇩🇪163Mb | UAB Cherry Servers	check.betust.net	443
+FAIL	NO	NO			4003	152		🇵🇱152Mb | OVH	194.93.63.246	443
+WORKS	NO	YES			298	148		🇩🇪148Mb | The Constant Company	95.179.169.44	53224
+WORKS	YES	YES	47.74.3.200	JP	671	148	17	🌐148Mb | 1738  🇯🇵 Japan  VLESS  📺 YT  T	47.74.3.200	443
+WORKS	YES	YES	94.26.0.129	DE	1199	142	9	🇩🇪142Mb | RMP Protection Limited	bv.cloudvk.cc	443
+WORKS	YES	YES	150.241.98.174	DE	2708	132	10	🇩🇪132Mb | DpkgSoft International Limited	ger2.mguard-pro.com	443
+FAIL	NO	NO			4002	132		🇵🇱132Mb | OVH	194.93.63.246	443
+WORKS	YES	YES	201.51.10.240	NL	1093	129		🇸🇨129Mb | Timeweb LLP	201.51.10.240	443
+WORKS	YES	YES	57.128.231.84	PL	3472	125	19	🇵🇱125Mb | OVH	pl.bubahero.com	443
+WORKS	YES	YES	84.32.177.7	NL	360	121	11	🇳🇱121Mb | UAB Cherry Servers	84.32.177.7	443
+FAIL	NO	NO			4001	117		🇳🇱117Mb | ESTOXY OU	docs.helpscenter.xyz	6443
+WORKS	NO	YES			4058	117		🇵🇱117Mb | OVH	194.93.63.246	443
+WORKS	NO	YES			299	116		🇺🇸116Mb | UAB Cherry Servers	publics.betust.net	443
+WORKS	NO	YES			86	115		🇺🇸115Mb | UAB Cherry Servers	88.216.57.221	443
+WORKS	YES	YES	57.128.231.84	PL	2302	112	18	🇵🇱112Mb | OVH	194.93.63.246	443
+WORKS	YES	YES	31.76.109.18	NL	389	110	12	🇺🇸110Mb | EdgeSec Technologies Limited	31.76.109.18	443
+FAIL	NO	NO			4002	100		🇳🇱100Mb | Datagio Systems	130.78.191.25	443
+FAIL	NO	NO			4003	97		🇺🇸97Mb | Clouvider Limited	45.149.172.74	443
+WORKS	NO	YES			1800	94		🇵🇱94Mb | OVH	194.93.63.246	443
+WORKS	YES	YES	31.76.109.18	NL	345	94		🇺🇸94Mb | EdgeSec Technologies Limited	31.76.109.18	443
+WORKS	YES	YES	88.216.70.41	DE	378	93	5	🇩🇪93Mb | UAB Cherry Servers	88.216.70.41	443
+WORKS	YES	YES	31.76.39.141	GB	477	91	2	🇬🇧91Mb | Akenai Products LTD	31.76.39.141	443
+WORKS	YES	NO			3554	86		🇺🇸86Mb | Route 95	195.123.240.65	443
 FAIL	NO	NO			4002	84		🇩🇪84Mb | DpkgSoft International Limited	ger2.mguard-pro.com	443
-WORKS	YES	YES	31.76.39.141	GB	552	81		🇬🇧81Mb | Akenai Products LTD	31.76.39.141	443
-WORKS	YES	YES	84.32.177.7	NL	489	79	13	🇳🇱79Mb | UAB Cherry Servers	team.betust.net	443
-WORKS	NO	YES			323	78		🇩🇪78Mb | The Constant Company	95.179.169.44	53224
-WORKS	NO	YES			3307	73		🇳🇱73Mb | ESTOXY OU	docs.helpscenter.xyz	6443
-WORKS	NO	NO			499	73		🇳🇱73Mb | Datagio Systems	130.78.191.25	443
-WORKS	NO	NO			3662	73		🇵🇱73Mb | OVH	pl.bubahero.com	443
-WORKS	YES	YES	31.76.109.18	NL	369	72		🇺🇸72Mb | EdgeSec Technologies Limited	31.76.109.18	443
-WORKS	YES	YES	84.32.177.7	NL	386	70		🇳🇱70Mb | UAB Cherry Servers	84.32.177.7	443
-WORKS	YES	YES	178.214.101.4	NL	2115	70	15	🇳🇱70Mb | ESTOXY OU	78.159.245.51	6443
-WORKS	NO	YES			2397	67		🇩🇪67Mb | DpkgSoft International Limited	ger2.mguard-pro.com	443
+WORKS	YES	YES	31.76.39.141	GB	401	81		🇬🇧81Mb | Akenai Products LTD	31.76.39.141	443
+WORKS	YES	YES	84.32.177.7	NL	555	79	14	🇳🇱79Mb | UAB Cherry Servers	team.betust.net	443
+WORKS	NO	YES			318	78		🇩🇪78Mb | The Constant Company	95.179.169.44	53224
+FAIL	NO	NO			4001	73		🇳🇱73Mb | ESTOXY OU	docs.helpscenter.xyz	6443
+FAIL	NO	NO			4003	73		🇳🇱73Mb | Datagio Systems	130.78.191.25	443
+FAIL	NO	NO			4002	73		🇵🇱73Mb | OVH	pl.bubahero.com	443
+WORKS	YES	YES	31.76.109.18	NL	358	72		🇺🇸72Mb | EdgeSec Technologies Limited	31.76.109.18	443
+WORKS	YES	YES	84.32.177.7	NL	349	70		🇳🇱70Mb | UAB Cherry Servers	84.32.177.7	443
+WORKS	NO	NO			2695	70		🇳🇱70Mb | ESTOXY OU	78.159.245.51	6443
+WORKS	YES	YES	150.241.98.174	DE	1964	67		🇩🇪67Mb | DpkgSoft International Limited	ger2.mguard-pro.com	443
 FAIL	NO	NO			4002	67		🌐67Mb | 332ms Германия DE 🇩🇪 @vlesstro	194.48.142.103	443
-WORKS	YES	YES	47.74.3.200	JP	639	67		🌐67Mb | EPODONIOS	47.74.3.200	443
-WORKS	YES	YES	31.76.39.141	GB	3348	64		🇬🇧64Mb | Akenai Products LTD	31.76.39.141	443
-WORKS	NO	YES			320	63		🇩🇪63Mb | The Constant Company	95.179.169.44	53224
-WORKS	NO	YES			256	62		🇨🇴62Mb | Oracle Cloud	157.137.226.173	62145
-WORKS	NO	NO			276	59		🇫🇷59Mb | AWS	15.224.160.193	22223
-WORKS	NO	YES			757	58		🇳🇱58Mb | ESTOXY OU	docs.helpscenter.xyz	6443
+WORKS	YES	YES	47.74.3.200	JP	688	67		🌐67Mb | EPODONIOS	47.74.3.200	443
+WORKS	YES	YES	31.76.39.141	GB	569	64		🇬🇧64Mb | Akenai Products LTD	31.76.39.141	443
+WORKS	NO	YES			319	63		🇩🇪63Mb | The Constant Company	95.179.169.44	53224
+WORKS	NO	YES			3377	62		🇨🇴62Mb | Oracle Cloud	157.137.226.173	62145
+FAIL	NO	NO			2434	59		🇫🇷59Mb | AWS	15.224.160.193	22223
+FAIL	NO	NO			4003	58		🇳🇱58Mb | ESTOXY OU	docs.helpscenter.xyz	6443
