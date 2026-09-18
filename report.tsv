@@ -1,149 +1,149 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	5.230.14.195	DE	650	669		🇩🇪669Mb | GHOSTnet GmbH	w7tjfftjdt.vk-maps.net	52006
-WORKS	YES	YES	135.232.216.70	US	363	561	4	🇺🇸561Mb | Azure	www.epicgames.com	2095
-FAIL	NO	NO			2150	559		🌐559Mb | @DeltaKroneckerGithub	188.114.97.6	8080
-WORKS	YES	YES	5.230.14.195	DE	681	495	11	🇩🇪495Mb | GHOSTnet GmbH	w7tjfftjdt.vk-maps.net	52006
-FAIL	NO	NO			4002	471		🌐471Mb | 🇺🇸 @MrMeshkyChannel 493660	80.91.79.136	443
-FAIL	NO	NO			2146	422		🇩🇪422Mb | OVH	188.114.97.6	8080
-WORKS	YES	YES			1319	407		🇵🇱407Mb | OVH	pl.bubahero.com	443
-WORKS	YES	YES	5.231.18.133	DE	650	370		🇩🇪370Mb | GHOSTnet GmbH	w7tjfftjdt.vk-maps.net	52006
-WORKS	YES	YES	144.31.5.6	PL	722	346		🇵🇱346Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
-WORKS	YES	YES	144.31.5.6	PL	718	340		🇵🇱340Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
-FAIL	NO	NO			4002	335		🇵🇱335Mb | OVH	194.93.63.246	443
-WORKS	YES	YES	94.183.238.74	DE	1055	324	13	🇩🇪324Mb | Eternity International Limited	94.183.238.74	443
-FAIL	NO	NO			3524	320		🇺🇸320Mb | EdgeSec Technologies Limited	31.76.109.18	443
-WORKS	YES	YES	144.31.5.6	PL	690	317		🇵🇱317Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
-FAIL	NO	NO			4002	308		🇦🇹308Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	YES	144.31.5.6	PL	688	305	23	🇵🇱305Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
-WORKS	YES	YES	31.76.109.18	NL	722	303	17	🇺🇸303Mb | EdgeSec Technologies Limited	31.76.109.18	443
-WORKS	YES	YES	5.230.14.195	DE	634	300	10	🇩🇪300Mb | GHOSTnet GmbH	5.230.13.223	52006
-WORKS	YES	YES	144.31.5.6	PL	678	300		🇵🇱300Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
-WORKS	YES	YES	5.230.14.195	DE	621	298		🇩🇪298Mb | GHOSTnet GmbH	5.230.13.223	52006
-FAIL	NO	NO			4002	288		🇳🇱288Mb | Akamai Connected Cloud	172.239.239.53	22746
-WORKS	YES	YES	31.76.39.152	GB	676	279	6	🇬🇧279Mb | Akenai Products LTD	gb.superbuba.top	443
-FAIL	NO	NO			2248	277		🇳🇱277Mb | Datagio Systems	nl.snappycore.com	443
-WORKS	NO	YES			633	276		🇬🇧276Mb | Akenai Products LTD	31.76.39.141	443
-FAIL	NO	NO			4002	267		🇵🇱267Mb | OVH	194.93.63.246	443
-WORKS	NO	YES			866	263		🇸🇪263Mb | FDCserversnet	app1.betust.net	443
-WORKS	NO	YES			625	256		🇬🇧256Mb | Akenai Products LTD	31.76.39.141	443
-FAIL	NO	NO			4002	255		🇵🇱255Mb | OVH	194.93.63.246	443
-WORKS	NO	NO			1821	248		🇳🇱248Mb | Datagio Systems	130.78.191.25	443
-WORKS	YES	YES	31.76.39.141	GB	1421	241		🇬🇧241Mb | Akenai Products LTD	31.76.39.141	443
-FAIL	NO	NO			496	240		🇺🇸240Mb | Global Transit Systems	104.245.240.6	443
-WORKS	YES	YES	84.32.101.85	NL	801	239	20	🇳🇱239Mb | UAB Cherry Servers	team.betust.net	443
-WORKS	YES	YES	31.76.39.141	GB	603	237	5	🇬🇧237Mb | Akenai Products LTD	31.76.39.141	443
-WORKS	YES	YES	84.32.101.85	NL	738	236		🇳🇱236Mb | UAB Cherry Servers	team.betust.net	443
-FAIL	NO	NO			513	227		🌐227Mb | 🌐سرور 46  Sha-27 MTSRVRS	104.245.240.6	443
-FAIL	NO	NO			513	225		🇺🇸225Mb | Global Transit Systems	104.245.240.6	443
-WORKS	YES	YES			333	223		🇺🇸223Mb | Global Connectivity Solutions Llp	92.118.112.73	443
-FAIL	NO	NO			4002	221		🇳🇱221Mb | Akamai Connected Cloud	172.239.239.53	22746
-WORKS	YES	YES	201.51.10.240	NL	641	221	15	🇸🇨221Mb | Timeweb LLP	201.51.10.240	443
-FAIL	NO	NO			4002	220		🇳🇱220Mb | Akamai Connected Cloud	172.239.239.53	22746
-WORKS	YES	YES	31.76.39.152	GB	1332	216	7	🇬🇧216Mb | Akenai Products LTD	31.76.39.153	443
-WORKS	YES	YES	95.179.169.44	DE	604	215	8	🇩🇪215Mb | The Constant Company	95.179.169.44	53224
-FAIL	NO	NO			517	212		🇺🇸212Mb | Global Transit Systems	104.245.240.6	443
-FAIL	NO	NO			4002	211		🇵🇱211Mb | OVH	pl.bubahero.com	443
-WORKS	YES	YES	201.51.10.240	NL	795	211	19	🇸🇨211Mb | Timeweb LLP	cdn6.goonars.com	443
-WORKS	YES	YES	84.32.101.85	NL	769	210		🇳🇱210Mb | UAB Cherry Servers	team.betust.net	443
-FAIL	NO	NO			501	206		🇺🇸206Mb | Global Transit Systems	104.245.240.6	443
-FAIL	NO	NO			4003	206		🇳🇱206Mb | Akamai Connected Cloud	172.239.239.53	22746
-WORKS	NO	YES			615	202		🇬🇧202Mb | FDCserversnet	50.7.193.140	443
-WORKS	YES	YES	88.216.70.41	DE	614	202	9	🇩🇪202Mb | UAB Cherry Servers	88.216.70.41	443
-WORKS	YES	YES	95.179.169.44	DE	474	200		🇩🇪200Mb | The Constant Company	95.179.169.44	53224
-FAIL	NO	NO			544	200		🇹🇷200Mb | Fast Servers Pty	104.245.240.6	443
-WORKS	YES	YES	89.125.100.29	NL	725	197	18	🇳🇱197Mb | Moskalev Georgiy	nl2.yabloko.top	443
-FAIL	NO	NO			545	194		🇪🇸194Mb | Alex Largman	130.49.77.6	443
-FAIL	NO	NO			555	190		🇪🇸190Mb | Alex Largman	130.49.77.6	443
-WORKS	YES	YES	95.179.169.44	DE	585	190		🇩🇪190Mb | The Constant Company	95.179.169.44	53224
-WORKS	YES	YES	84.32.101.85	NL	580	187	14	🇳🇱187Mb | UAB Cherry Servers	84.32.101.85	443
-WORKS	YES	YES	31.76.109.18	NL	920	186		🇺🇸186Mb | EdgeSec Technologies Limited	31.76.109.18	443
-WORKS	NO	YES			734	183		🇵🇱183Mb | FDCserversnet	189.74.116.37	443
-WORKS	YES	YES	88.216.70.41	DE	817	179	12	🇩🇪179Mb | UAB Cherry Servers	check.betust.net	443
-WORKS	YES	YES	95.179.169.44	DE	511	178		🇩🇪178Mb | The Constant Company	95.179.169.44	53224
-WORKS	YES	NO			3497	178		🇵🇱178Mb | OVH	pl.bubahero.com	443
-FAIL	NO	NO			549	174		🇪🇸174Mb | Alex Largman	130.49.77.6	443
-WORKS	YES	YES	31.76.109.18	NL	602	173		🇺🇸173Mb | EdgeSec Technologies Limited	31.76.109.18	443
-WORKS	YES	YES	95.179.169.44	DE	571	173		🇩🇪173Mb | The Constant Company	95.179.169.44	53224
-WORKS	YES	YES	95.179.169.44	DE	682	169		🇩🇪169Mb | The Constant Company	95.179.169.44	53224
-FAIL	NO	NO			4002	169		🇵🇱169Mb | OVH	pl.bubahero.com	443
-WORKS	YES	YES	89.125.100.29	NL	699	167		🇳🇱167Mb | Moskalev Georgiy	nl2.yabloko.top	443
-WORKS	YES	YES	95.179.169.44	DE	641	163		🇩🇪163Mb | The Constant Company	95.179.169.44	53224
-WORKS	YES	YES	95.179.169.44	DE	652	163		🇩🇪163Mb | The Constant Company	95.179.169.44	53224
-FAIL	NO	NO			547	161		🇪🇸161Mb | Alex Largman	130.49.77.6	443
-WORKS	YES	YES	201.51.10.240	NL	672	160		🇸🇨160Mb | Timeweb LLP	201.51.10.240	443
-WORKS	YES	YES	201.51.10.240	NL	1598	160		🇸🇨160Mb | Timeweb LLP	201.51.10.240	443
-WORKS	YES	YES	95.179.169.44	DE	572	160		🇩🇪160Mb | The Constant Company	95.179.169.44	53224
-WORKS	YES	YES	5.230.14.195	DE	608	158		🇩🇪158Mb | GHOSTnet GmbH	5.230.13.223	52006
-WORKS	NO	YES			668	157		🇬🇧157Mb | FDCserversnet	50.7.193.140	443
-FAIL	NO	NO			749	157		🇷🇺157Mb | Alex Largman	104.245.240.4	443
-FAIL	NO	NO			510	156		🇵🇱156Mb | Alex Largman	104.245.240.4	443
-FAIL	NO	NO			503	156		🌐156Mb | 🌐سرور 20  Sha-27 MTSRVRS	104.245.240.4	443
-WORKS	YES	YES	201.51.10.240	NL	762	155		🇸🇨155Mb | Timeweb LLP	cdn6.goonars.com	443
-WORKS	NO	YES			784	154		🇵🇱154Mb | FDCserversnet	api.oblachnyservis.cc	443
-WORKS	YES	NO			2184	154		🇵🇱154Mb | OVH	pl.bubahero.com	443
-FAIL	NO	NO			506	153		🇹🇷153Mb | Fast Servers Pty	104.245.240.6	443
-WORKS	YES	YES	89.125.100.29	NL	659	151	16	🇳🇱151Mb | Moskalev Georgiy	89.125.100.29	443
-FAIL	NO	NO			512	150		🇺🇸150Mb | Global Transit Systems	104.245.240.6	443
-FAIL	NO	NO			713	149		🇷🇺149Mb | Alex Largman	104.245.240.4	443
-FAIL	NO	NO			492	147		🇵🇱147Mb | HOSTES LTD	94.183.157.45	8443
-WORKS	YES	YES	146.235.16.130	SG	3726	147	26	🌐147Mb | 2270  🌐 Unknown  VLESS  TG: @Y	sg2-8sb.6121999.dpdns.org	19825
-WORKS	YES	NO			1194	145		🇵🇱145Mb | OVH	pl.bubahero.com	443
-FAIL	NO	NO			4003	145		🇵🇱145Mb | OVH	194.93.63.246	443
-FAIL	NO	NO			4003	142		🇵🇱142Mb | OVH	pl.bubahero.com	443
+FAIL	NO	NO			366	669		🇩🇪669Mb | GHOSTnet GmbH	w7tjfftjdt.vk-maps.net	52006
+WORKS	YES	YES	20.169.38.59	US	413	561	2	🇺🇸561Mb | Azure	www.epicgames.com	2095
+FAIL	NO	NO			2121	559		🌐559Mb | @DeltaKroneckerGithub	188.114.97.6	8080
+FAIL	NO	NO			369	495		🇩🇪495Mb | GHOSTnet GmbH	w7tjfftjdt.vk-maps.net	52006
+WORKS	NO	NO			2003	471		🌐471Mb | 🇺🇸 @MrMeshkyChannel 493660	80.91.79.136	443
+FAIL	NO	NO			2104	422		🇩🇪422Mb | OVH	188.114.97.6	8080
+WORKS	NO	YES			859	407		🇵🇱407Mb | OVH	pl.bubahero.com	443
+FAIL	NO	NO			331	370		🇩🇪370Mb | GHOSTnet GmbH	w7tjfftjdt.vk-maps.net	52006
+FAIL	NO	NO			414	346		🇵🇱346Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
+FAIL	NO	NO			373	340		🇵🇱340Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
+WORKS	NO	NO			1175	335		🇵🇱335Mb | OVH	194.93.63.246	443
+WORKS	YES	YES	94.183.238.74	DE	447	324	6	🇩🇪324Mb | Eternity International Limited	94.183.238.74	443
+WORKS	YES	YES	31.76.109.18	NL	979	320	14	🇺🇸320Mb | EdgeSec Technologies Limited	31.76.109.18	443
+FAIL	NO	NO			345	317		🇵🇱317Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
+FAIL	NO	NO			4001	308		🇦🇹308Mb | netcup GmbH	159.195.242.180	443
+FAIL	NO	NO			347	305		🇵🇱305Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
+WORKS	YES	YES	31.76.109.18	NL	922	303		🇺🇸303Mb | EdgeSec Technologies Limited	31.76.109.18	443
+FAIL	NO	NO			281	300		🇩🇪300Mb | GHOSTnet GmbH	5.230.13.223	52006
+FAIL	NO	NO			4002	300		🇵🇱300Mb | H2nexus Cloud Services - Fzco	api2.maxonelove.com	443
+FAIL	NO	NO			274	298		🇩🇪298Mb | GHOSTnet GmbH	5.230.13.223	52006
+FAIL	NO	NO			4003	288		🇳🇱288Mb | Akamai Connected Cloud	172.239.239.53	22746
+WORKS	YES	YES	31.76.39.141	GB	1949	279	4	🇬🇧279Mb | Akenai Products LTD	gb.superbuba.top	443
+FAIL	NO	NO			2252	277		🇳🇱277Mb | Datagio Systems	nl.snappycore.com	443
+WORKS	YES	YES	31.76.39.141	GB	373	276		🇬🇧276Mb | Akenai Products LTD	31.76.39.141	443
+WORKS	NO	NO			777	267		🇵🇱267Mb | OVH	194.93.63.246	443
+WORKS	NO	YES			494	263		🇸🇪263Mb | FDCserversnet	app1.betust.net	443
+WORKS	YES	YES	31.76.39.141	GB	845	256	3	🇬🇧256Mb | Akenai Products LTD	31.76.39.141	443
+WORKS	NO	NO			920	255		🇵🇱255Mb | OVH	194.93.63.246	443
+FAIL	NO	NO			4003	248		🇳🇱248Mb | Datagio Systems	130.78.191.25	443
+WORKS	YES	YES	31.76.39.141	GB	766	241		🇬🇧241Mb | Akenai Products LTD	31.76.39.141	443
+FAIL	NO	NO			355	240		🇺🇸240Mb | Global Transit Systems	104.245.240.6	443
+WORKS	YES	YES	84.32.101.85	NL	520	239	12	🇳🇱239Mb | UAB Cherry Servers	team.betust.net	443
+WORKS	YES	YES	31.76.39.141	GB	684	237		🇬🇧237Mb | Akenai Products LTD	31.76.39.141	443
+WORKS	YES	YES	84.32.101.85	NL	490	236		🇳🇱236Mb | UAB Cherry Servers	team.betust.net	443
+FAIL	NO	NO			365	227		🌐227Mb | 🌐سرور 46  Sha-27 MTSRVRS	104.245.240.6	443
+FAIL	NO	NO			350	225		🇺🇸225Mb | Global Transit Systems	104.245.240.6	443
+FAIL	NO	NO			4002	223		🇺🇸223Mb | Global Connectivity Solutions Llp	92.118.112.73	443
+FAIL	NO	NO			4003	221		🇳🇱221Mb | Akamai Connected Cloud	172.239.239.53	22746
+WORKS	YES	YES	201.51.10.240	NL	686	221	13	🇸🇨221Mb | Timeweb LLP	201.51.10.240	443
+FAIL	NO	NO			4003	220		🇳🇱220Mb | Akamai Connected Cloud	172.239.239.53	22746
+WORKS	NO	YES			4098	216		🇬🇧216Mb | Akenai Products LTD	31.76.39.153	443
+WORKS	NO	YES			299	215		🇩🇪215Mb | The Constant Company	95.179.169.44	53224
+FAIL	NO	NO			348	212		🇺🇸212Mb | Global Transit Systems	104.245.240.6	443
+WORKS	NO	NO			2506	211		🇵🇱211Mb | OVH	pl.bubahero.com	443
+WORKS	YES	YES	201.51.10.240	NL	446	211	10	🇸🇨211Mb | Timeweb LLP	cdn6.goonars.com	443
+WORKS	YES	YES	84.32.101.85	NL	571	210		🇳🇱210Mb | UAB Cherry Servers	team.betust.net	443
+FAIL	NO	NO			349	206		🇺🇸206Mb | Global Transit Systems	104.245.240.6	443
+FAIL	NO	NO			4002	206		🇳🇱206Mb | Akamai Connected Cloud	172.239.239.53	22746
+WORKS	NO	YES			349	202		🇬🇧202Mb | FDCserversnet	50.7.193.140	443
+WORKS	YES	YES	88.216.70.41	DE	396	202	5	🇩🇪202Mb | UAB Cherry Servers	88.216.70.41	443
+WORKS	NO	YES			287	200		🇩🇪200Mb | The Constant Company	95.179.169.44	53224
+FAIL	NO	NO			361	200		🇹🇷200Mb | Fast Servers Pty	104.245.240.6	443
+WORKS	YES	YES	89.125.100.29	NL	462	197	11	🇳🇱197Mb | Moskalev Georgiy	nl2.yabloko.top	443
+FAIL	NO	NO			1056	194		🇪🇸194Mb | Alex Largman	130.49.77.6	443
+FAIL	NO	NO			407	190		🇪🇸190Mb | Alex Largman	130.49.77.6	443
+WORKS	NO	YES			310	190		🇩🇪190Mb | The Constant Company	95.179.169.44	53224
+WORKS	YES	YES	84.32.101.85	NL	348	187	8	🇳🇱187Mb | UAB Cherry Servers	84.32.101.85	443
+WORKS	YES	YES	31.76.109.18	NL	359	186		🇺🇸186Mb | EdgeSec Technologies Limited	31.76.109.18	443
+FAIL	NO	NO			1309	183		🇵🇱183Mb | FDCserversnet	189.74.116.37	443
+WORKS	YES	YES	88.216.70.41	DE	585	179	7	🇩🇪179Mb | UAB Cherry Servers	check.betust.net	443
+WORKS	NO	YES			282	178		🇩🇪178Mb | The Constant Company	95.179.169.44	53224
+WORKS	YES	NO			3134	178		🇵🇱178Mb | OVH	pl.bubahero.com	443
+FAIL	NO	NO			460	174		🇪🇸174Mb | Alex Largman	130.49.77.6	443
+WORKS	YES	YES	31.76.109.18	NL	408	173		🇺🇸173Mb | EdgeSec Technologies Limited	31.76.109.18	443
+WORKS	NO	YES			303	173		🇩🇪173Mb | The Constant Company	95.179.169.44	53224
+WORKS	NO	YES			307	169		🇩🇪169Mb | The Constant Company	95.179.169.44	53224
+WORKS	YES	NO			3267	169		🇵🇱169Mb | OVH	pl.bubahero.com	443
+WORKS	YES	YES	89.125.100.29	NL	457	167		🇳🇱167Mb | Moskalev Georgiy	nl2.yabloko.top	443
+WORKS	NO	YES			285	163		🇩🇪163Mb | The Constant Company	95.179.169.44	53224
+WORKS	NO	YES			289	163		🇩🇪163Mb | The Constant Company	95.179.169.44	53224
+FAIL	NO	NO			418	161		🇪🇸161Mb | Alex Largman	130.49.77.6	443
+WORKS	YES	YES	201.51.10.240	NL	382	160		🇸🇨160Mb | Timeweb LLP	201.51.10.240	443
+WORKS	YES	YES	201.51.10.240	NL	397	160		🇸🇨160Mb | Timeweb LLP	201.51.10.240	443
+WORKS	NO	YES			303	160		🇩🇪160Mb | The Constant Company	95.179.169.44	53224
+FAIL	NO	NO			4001	158		🇩🇪158Mb | GHOSTnet GmbH	5.230.13.223	52006
+WORKS	NO	YES			341	157		🇬🇧157Mb | FDCserversnet	50.7.193.140	443
+FAIL	NO	NO			545	157		🇷🇺157Mb | Alex Largman	104.245.240.4	443
+FAIL	NO	NO			366	156		🇵🇱156Mb | Alex Largman	104.245.240.4	443
+FAIL	NO	NO			366	156		🌐156Mb | 🌐سرور 20  Sha-27 MTSRVRS	104.245.240.4	443
+WORKS	YES	YES	201.51.10.240	NL	461	155		🇸🇨155Mb | Timeweb LLP	cdn6.goonars.com	443
+FAIL	NO	NO			420	154		🇵🇱154Mb | FDCserversnet	api.oblachnyservis.cc	443
+WORKS	NO	NO			3127	154		🇵🇱154Mb | OVH	pl.bubahero.com	443
+FAIL	NO	NO			415	153		🇹🇷153Mb | Fast Servers Pty	104.245.240.6	443
+WORKS	YES	YES	89.125.100.29	NL	391	151	9	🇳🇱151Mb | Moskalev Georgiy	89.125.100.29	443
+FAIL	NO	NO			350	150		🇺🇸150Mb | Global Transit Systems	104.245.240.6	443
+FAIL	NO	NO			535	149		🇷🇺149Mb | Alex Largman	104.245.240.4	443
+FAIL	NO	NO			313	147		🇵🇱147Mb | HOSTES LTD	94.183.157.45	8443
+WORKS	YES	YES	146.235.16.130	SG	1193	147	17	🌐147Mb | 2270  🌐 Unknown  VLESS  TG: @Y	sg2-8sb.6121999.dpdns.org	19825
+WORKS	NO	NO			1279	145		🇵🇱145Mb | OVH	pl.bubahero.com	443
+WORKS	NO	NO			1336	145		🇵🇱145Mb | OVH	194.93.63.246	443
+FAIL	NO	NO			4002	142		🇵🇱142Mb | OVH	pl.bubahero.com	443
 FAIL	NO	NO			4003	141		🇵🇱141Mb | OVH	194.93.63.246	443
-FAIL	NO	NO			524	140		🇪🇸140Mb | Alex Largman	130.49.77.6	443
-WORKS	NO	YES			592	138		🇩🇪138Mb | The Constant Company	192.248.182.183	39244
-FAIL	NO	NO			693	138		🇷🇺138Mb | Alex Largman	104.245.240.4	443
-FAIL	NO	NO			519	135		🇵🇱135Mb | Alex Largman	104.245.240.4	443
-WORKS	YES	YES	95.179.169.44	DE	654	132		🇩🇪132Mb | The Constant Company	95.179.169.44	53224
-FAIL	NO	NO			2189	132		🇳🇱132Mb | Datagio Systems	nl.snappycore.com	443
-FAIL	NO	NO			4002	126		🇳🇱126Mb | Datagio Systems	130.78.191.25	443
-WORKS	YES	YES	185.218.17.127	ES	2348	126	25	🇪🇸126Mb | ZhouyiSat Communications	185.218.17.127	443
-FAIL	NO	NO			877	126		🇪🇪126Mb | Aktsiaselts WaveCom	ee-node.usel.pro	9443
-FAIL	NO	NO			1535	124		🇹🇷124Mb | Fast Servers Pty	104.245.240.6	443
-FAIL	NO	NO			1546	123		🇹🇷123Mb | Fast Servers Pty	104.245.240.6	443
-FAIL	NO	NO			513	120		🇵🇱120Mb | Alex Largman	104.245.240.4	443
-FAIL	NO	NO			4002	117		🇺🇸117Mb | Akamai Connected Cloud	172.233.139.46	53734
+FAIL	NO	NO			445	140		🇪🇸140Mb | Alex Largman	130.49.77.6	443
+WORKS	NO	YES			604	138		🇩🇪138Mb | The Constant Company	192.248.182.183	39244
+FAIL	NO	NO			559	138		🇷🇺138Mb | Alex Largman	104.245.240.4	443
+FAIL	NO	NO			366	135		🇵🇱135Mb | Alex Largman	104.245.240.4	443
+WORKS	NO	YES			298	132		🇩🇪132Mb | The Constant Company	95.179.169.44	53224
+FAIL	NO	NO			2229	132		🇳🇱132Mb | Datagio Systems	nl.snappycore.com	443
+FAIL	NO	NO			4003	126		🇳🇱126Mb | Datagio Systems	130.78.191.25	443
+WORKS	NO	YES			144	126		🇪🇸126Mb | ZhouyiSat Communications	185.218.17.127	443
+FAIL	NO	NO			377	126		🇪🇪126Mb | Aktsiaselts WaveCom	ee-node.usel.pro	9443
+FAIL	NO	NO			2136	124		🇹🇷124Mb | Fast Servers Pty	104.245.240.6	443
+FAIL	NO	NO			1928	123		🇹🇷123Mb | Fast Servers Pty	104.245.240.6	443
+FAIL	NO	NO			388	120		🇵🇱120Mb | Alex Largman	104.245.240.4	443
 FAIL	NO	NO			4003	117		🇺🇸117Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			506	116		🇵🇱116Mb | Alex Largman	104.245.240.4	443
-FAIL	NO	NO			508	115		🇵🇱115Mb | Alex Largman	104.245.240.4	443
-WORKS	NO	YES			223	115		🇺🇸115Mb | UAB Cherry Servers	88.216.57.221	443
-WORKS	NO	YES			1309	114		🌐114Mb | @Vip_Security join us - 183	37.143.129.244	443
-FAIL	NO	NO			506	106		🇵🇱106Mb | Alex Largman	104.245.240.4	443
-FAIL	NO	NO			4001	105		🇳🇱105Mb | Datagio Systems	130.78.191.25	443
-FAIL	NO	NO			706	104		🇷🇺104Mb | Alex Largman	104.245.240.4	443
-FAIL	NO	NO			4002	103		🇺🇸103Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			495	102		🌐102Mb | 4Nika-0f48d2a977	104.245.240.4	443
-FAIL	NO	NO			519	101		🌐101Mb | 🇹🇷 Turkey, Istanbul  BL	104.245.240.6	443
-FAIL	NO	NO			4003	100		🇵🇱100Mb | OVH	194.93.63.246	443
+FAIL	NO	NO			4003	117		🇺🇸117Mb | Akamai Connected Cloud	172.233.139.46	53734
+FAIL	NO	NO			393	116		🇵🇱116Mb | Alex Largman	104.245.240.4	443
+FAIL	NO	NO			382	115		🇵🇱115Mb | Alex Largman	104.245.240.4	443
+WORKS	NO	YES			88	115		🇺🇸115Mb | UAB Cherry Servers	88.216.57.221	443
+FAIL	NO	NO			4002	114		🌐114Mb | @Vip_Security join us - 183	37.143.129.244	443
+FAIL	NO	NO			367	106		🇵🇱106Mb | Alex Largman	104.245.240.4	443
+FAIL	NO	NO			4002	105		🇳🇱105Mb | Datagio Systems	130.78.191.25	443
+FAIL	NO	NO			537	104		🇷🇺104Mb | Alex Largman	104.245.240.4	443
+FAIL	NO	NO			4003	103		🇺🇸103Mb | Akamai Connected Cloud	172.233.139.46	53734
+FAIL	NO	NO			346	102		🌐102Mb | 4Nika-0f48d2a977	104.245.240.4	443
+FAIL	NO	NO			1008	101		🌐101Mb | 🇹🇷 Turkey, Istanbul  BL	104.245.240.6	443
+FAIL	NO	NO			4002	100		🇵🇱100Mb | OVH	194.93.63.246	443
 FAIL	NO	NO			4002	99		🇺🇸99Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			4002	95		🇺🇸95Mb | Global Connectivity Solutions Llp	92.118.112.73	443
-WORKS	NO	YES			4019	94		🇺🇸94Mb | Global Connectivity Solutions Llp	92.118.112.73	443
-FAIL	NO	NO			712	93		🇷🇺93Mb | Alex Largman	104.245.240.4	443
-WORKS	YES	YES	192.241.126.174	US	133	91	1	🇺🇸91Mb | B2 Net Solutions	152.232.55.106	443
-FAIL	NO	NO			560	89		🌐89Mb | 🇹🇷 Turkey, Istanbul  BL	104.245.240.6	443
-WORKS	NO	YES			705	88		🌐88Mb | 0036  🇫🇮 Finland  VLESS  📺 YT	37.143.129.244	443
-WORKS	YES	YES	46.22.216.32	EE	1245	88	24	🇪🇪88Mb | Aktsiaselts WaveCom	ee-node.usel.pro	443
-FAIL	NO	NO			499	86		🇪🇸86Mb | Alex Largman	130.49.77.6	443
-FAIL	NO	NO			4003	83		🇺🇸83Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			4002	82		🇸🇪82Mb | UAB Cherry Servers	185.241.195.121	443
-FAIL	NO	NO			569	82		🇸🇬82Mb | AWS	1-sg.ap.ku-ke.cc	443
-FAIL	NO	NO			501	81		🇸🇪81Mb | Global Transit Systems	104.245.240.4	443
+WORKS	YES	YES	92.118.112.73	US	72	95	1	🇺🇸95Mb | Global Connectivity Solutions Llp	92.118.112.73	443
+FAIL	NO	NO			4002	94		🇺🇸94Mb | Global Connectivity Solutions Llp	92.118.112.73	443
+FAIL	NO	NO			551	93		🇷🇺93Mb | Alex Largman	104.245.240.4	443
+FAIL	NO	NO			166	91		🇺🇸91Mb | B2 Net Solutions	152.232.55.106	443
+FAIL	NO	NO			385	89		🌐89Mb | 🇹🇷 Turkey, Istanbul  BL	104.245.240.6	443
+WORKS	NO	YES			2719	88		🌐88Mb | 0036  🇫🇮 Finland  VLESS  📺 YT	37.143.129.244	443
+WORKS	YES	YES			642	88		🇪🇪88Mb | Aktsiaselts WaveCom	ee-node.usel.pro	443
+FAIL	NO	NO			438	86		🇪🇸86Mb | Alex Largman	130.49.77.6	443
+FAIL	NO	NO			4002	83		🇺🇸83Mb | Akamai Connected Cloud	172.233.139.46	53734
+FAIL	NO	NO			1956	82		🇸🇪82Mb | UAB Cherry Servers	185.241.195.121	443
+FAIL	NO	NO			822	82		🇸🇬82Mb | AWS	1-sg.ap.ku-ke.cc	443
+FAIL	NO	NO			347	81		🇸🇪81Mb | Global Transit Systems	104.245.240.4	443
 FAIL	NO	NO			4002	79		🇺🇸79Mb | Akamai Connected Cloud	172.233.139.46	53734
-FAIL	NO	NO			366	76		🇯🇵76Mb | AWS	1-jp.ap.ku-ke.cc	443
-FAIL	NO	NO			346	74		🇯🇵74Mb | AWS	1-jp.ap.ku-ke.cc	443
+FAIL	NO	NO			550	76		🇯🇵76Mb | AWS	1-jp.ap.ku-ke.cc	443
+FAIL	NO	NO			487	74		🇯🇵74Mb | AWS	1-jp.ap.ku-ke.cc	443
 FAIL	NO	NO			4002	73		🇦🇹73Mb | netcup GmbH	159.195.240.82	443
-FAIL	NO	NO			4003	71		🌐71Mb | 🇳🇱 The Netherlands, Eygelshove	nl.cdn.snappycore.com	443
-FAIL	NO	NO			4001	69		🌐69Mb | 4Mohsen-998fd3e3e5	46.28.69.53	443
-FAIL	NO	NO			1592	68		🇱🇹68Mb | MB Redfox Cloud	45.81.254.142	443
-FAIL	NO	NO			509	67		🇸🇪67Mb | Global Transit Systems	104.245.240.4	443
-FAIL	NO	NO			2613	66		🇫🇷66Mb | AWS	15.224.171.138	22224
-FAIL	NO	NO			410	66		🇳🇱66Mb | Podaon SIA	188.137.251.183	51053
-FAIL	NO	NO			4002	63		🇳🇱63Mb | hostoff Csl	nl.cdn.snappycore.com	443
-WORKS	YES	YES	192.241.126.174	US	203	63	2	🇺🇸63Mb | B2 Net Solutions	api.videolenta.cc	443
-WORKS	YES	YES	92.118.112.73	US	270	63	3	🇺🇸63Mb | Global Connectivity Solutions Llp	92.118.112.73	443
-WORKS	YES	YES	46.22.216.32	EE	852	62		🇪🇪62Mb | Aktsiaselts WaveCom	ee-node.usel.pro	443
-WORKS	YES	YES	152.69.195.67	JP	343	60	21	🇯🇵60Mb | Oracle Cloud	152.69.195.67	47878
-WORKS	YES	YES	5.157.10.250	SE	663	59	22	🇸🇪59Mb | Angelnet Limited	swebz.loozerp.wiki	443
-FAIL	NO	NO			513	58		🇸🇪58Mb | Global Transit Systems	104.245.240.4	443
-FAIL	NO	NO			1514	56		🇫🇷56Mb | AWS	15.224.171.138	22224
+WORKS	NO	NO			1545	71		🌐71Mb | 🇳🇱 The Netherlands, Eygelshove	nl.cdn.snappycore.com	443
+WORKS	YES	YES			928	69		🌐69Mb | 4Mohsen-998fd3e3e5	46.28.69.53	443
+FAIL	NO	NO			396	68		🇱🇹68Mb | MB Redfox Cloud	45.81.254.142	443
+FAIL	NO	NO			361	67		🇸🇪67Mb | Global Transit Systems	104.245.240.4	443
+FAIL	NO	NO			4003	66		🇫🇷66Mb | AWS	15.224.171.138	22224
+FAIL	NO	NO			277	66		🇳🇱66Mb | Podaon SIA	188.137.251.183	51053
+WORKS	YES	NO			1068	63		🇳🇱63Mb | hostoff Csl	nl.cdn.snappycore.com	443
+FAIL	NO	NO			255	63		🇺🇸63Mb | B2 Net Solutions	api.videolenta.cc	443
+FAIL	NO	NO			4003	63		🇺🇸63Mb | Global Connectivity Solutions Llp	92.118.112.73	443
+FAIL	NO	NO			4003	62		🇪🇪62Mb | Aktsiaselts WaveCom	ee-node.usel.pro	443
+WORKS	YES	YES	152.69.195.67	JP	504	60	16	🇯🇵60Mb | Oracle Cloud	152.69.195.67	47878
+WORKS	YES	YES	5.157.10.250	SE	501	59	15	🇸🇪59Mb | Angelnet Limited	swebz.loozerp.wiki	443
+FAIL	NO	NO			344	58		🇸🇪58Mb | Global Transit Systems	104.245.240.4	443
+FAIL	NO	NO			4002	56		🇫🇷56Mb | AWS	15.224.171.138	22224
