@@ -1,266 +1,266 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4003	897		🇳🇱897Mb | Oracle Cloud	84.235.167.104	62145
-FAIL	NO	NO			4003	743		🇳🇱743Mb | Oracle Cloud	158.101.209.32	62145
-FAIL	NO	NO			4002	713		🌐713Mb | 🔥Join+Telegram:@Farah_VPN🟣	91.193.43.49	443
-FAIL	NO	NO			4003	699		🇳🇱699Mb | Oracle Cloud	134.98.133.200	62145
-FAIL	NO	NO			4002	575		🇳🇱575Mb | Oracle Cloud	84.235.167.104	62145
-FAIL	NO	NO			4002	572		🌐572Mb | OpenRay 🇳🇱 NL-12383	158.101.209.32	62145
-WORKS	YES	YES	94.183.157.8	PL	1461	554	70	🇵🇱554Mb | HOSTES LTD	94.183.157.8	443
+FAIL	NO	NO			4002	897		🇳🇱897Mb | Oracle Cloud	84.235.167.104	62145
+FAIL	NO	NO			4002	743		🇳🇱743Mb | Oracle Cloud	158.101.209.32	62145
+FAIL	NO	NO			4003	713		🌐713Mb | 🔥Join+Telegram:@Farah_VPN🟣	91.193.43.49	443
+FAIL	NO	NO			4005	699		🇳🇱699Mb | Oracle Cloud	134.98.133.200	62145
+FAIL	NO	NO			4004	575		🇳🇱575Mb | Oracle Cloud	84.235.167.104	62145
+FAIL	NO	NO			4003	572		🌐572Mb | OpenRay 🇳🇱 NL-12383	158.101.209.32	62145
+FAIL	NO	NO			4002	554		🇵🇱554Mb | HOSTES LTD	94.183.157.8	443
 FAIL	NO	NO			4002	532		🇳🇱532Mb | Oracle Cloud	158.101.213.194	62145
-FAIL	NO	NO			4002	522		🇳🇱522Mb | Oracle Cloud	158.101.211.111	62145
-FAIL	NO	NO			4008	521		🌐521Mb | 1786  🇩🇪 Germany  VLESS  📺 YT	62.60.216.76	443
+FAIL	NO	NO			4003	522		🇳🇱522Mb | Oracle Cloud	158.101.211.111	62145
+FAIL	NO	NO			4005	521		🌐521Mb | 1786  🇩🇪 Germany  VLESS  📺 YT	62.60.216.76	443
 FAIL	NO	NO			4002	515		🇳🇱515Mb | Oracle Cloud	84.235.175.116	62145
-WORKS	YES	NO			1046	499		🇫🇮499Mb | Google Cloud	34.88.172.76	443
-FAIL	NO	NO			4003	470		🌐470Mb | OpenRay 🇩🇪 DE-24331	eogxnoc3z1.tenzeuio.ir	11342
-WORKS	YES	NO			622	444		🇷🇺444Mb | Jsc timeweb	werwer.mervi.icu	443
+WORKS	NO	NO			1056	499		🇫🇮499Mb | Google Cloud	34.88.172.76	443
+FAIL	NO	NO			4004	470		🌐470Mb | OpenRay 🇩🇪 DE-24331	eogxnoc3z1.tenzeuio.ir	11342
+WORKS	YES	YES	87.249.49.87	RU	778	444	51	🇷🇺444Mb | Jsc timeweb	werwer.mervi.icu	443
 FAIL	NO	NO			4002	444		🌐444Mb | 4Sarina-270a15eec5	62.60.216.76	443
-WORKS	YES	YES	144.31.150.111	FI	723	435	60	🇫🇮435Mb | 'Ghita Telekom'	vera.kyras.pw	443
-FAIL	NO	NO			4005	425		🇨🇾425Mb | NetCrafters OU	2.56.121.43	443
-WORKS	YES	YES	45.134.212.101	PL	508	403	44	🇵🇱403Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
-FAIL	NO	NO			4007	400		🌐400Mb | @FREE2CONFIG - 12	158.101.209.32	62145
-FAIL	NO	NO			2107	391		🇩🇪391Mb | OVH	188.114.97.6	8080
-WORKS	YES	YES	5.181.201.31	EE	553	366	46	🇪🇪366Mb | Brainoza OU	estomin1.vodniki.monster	443
+WORKS	YES	YES	144.31.150.111	FI	882	435	56	🇫🇮435Mb | 'Ghita Telekom'	vera.kyras.pw	443
+WORKS	YES	YES	2.56.121.43	IT	1349	425	61	🇨🇾425Mb | NetCrafters OU	2.56.121.43	443
+WORKS	YES	YES	45.134.212.101	PL	799	403	52	🇵🇱403Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
+FAIL	NO	NO			4005	400		🌐400Mb | @FREE2CONFIG - 12	158.101.209.32	62145
+FAIL	NO	NO			2161	391		🇩🇪391Mb | OVH	188.114.97.6	8080
+WORKS	YES	YES	5.181.201.31	EE	625	366	42	🇪🇪366Mb | Brainoza OU	estomin1.vodniki.monster	443
 FAIL	NO	NO			4002	352		🇦🇹352Mb | Aeza Group	62.60.216.76	443
-WORKS	YES	YES	31.57.18.58	US	522	345		🇦🇪345Mb | HOSTES LTD	srv-waw.kintecolas.com	443
-WORKS	YES	YES	45.134.212.101	PL	535	336		🇵🇱336Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
-WORKS	YES	YES	31.57.18.62	US	524	332	9	🇦🇪332Mb | HOSTES LTD	srv-waw.kintecolas.com	443
-WORKS	YES	YES	196.244.191.178	FI	728	331	62	🇫🇮331Mb | Orion Network Limited	finkafsb.finiki.lol	443
-WORKS	YES	YES	94.183.157.8	PL	716	325	59	🇵🇱325Mb | HOSTES LTD	poland2.serverslocal.ru	443
-WORKS	YES	YES	31.57.16.28	US	538	323	10	🇦🇪323Mb | HOSTES LTD	core-data.gorekmas.online	443
-FAIL	NO	NO			4002	322		🇳🇱322Mb | Oracle Cloud	158.101.211.111	62145
-WORKS	YES	YES	88.119.176.131	LT	686	322	55	🇱🇹322Mb | Hostline Uab	litter.propper.beauty	443
-WORKS	YES	YES	130.78.191.25	NL	443	317	33	🇳🇱317Mb | Datagio Systems	130.78.191.25	443
-WORKS	YES	YES	31.57.20.49	US	427	312	7	🇦🇪312Mb | HOSTES LTD	edge6.multikons.shop	443
-WORKS	YES	YES	46.183.223.138	LV	586	312	51	🇱🇻312Mb | SIA RixHost	filetransver-pro.com	443
-WORKS	YES	YES	158.101.205.217	NL	267	310	27	🇳🇱310Mb | Oracle Cloud	158.101.205.217	62145
+WORKS	YES	YES	31.57.18.56	US	739	345		🇦🇪345Mb | HOSTES LTD	srv-waw.kintecolas.com	443
+WORKS	YES	YES	45.134.212.101	PL	959	336		🇵🇱336Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
+WORKS	YES	YES	31.57.18.56	US	744	332	8	🇦🇪332Mb | HOSTES LTD	srv-waw.kintecolas.com	443
+WORKS	YES	YES	196.244.191.178	FI	687	331	49	🇫🇮331Mb | Orion Network Limited	finkafsb.finiki.lol	443
+WORKS	YES	YES	94.183.157.8	PL	881	325	55	🇵🇱325Mb | HOSTES LTD	poland2.serverslocal.ru	443
+WORKS	YES	YES	31.57.16.28	US	617	323	6	🇦🇪323Mb | HOSTES LTD	core-data.gorekmas.online	443
+FAIL	NO	NO			4003	322		🇳🇱322Mb | Oracle Cloud	158.101.211.111	62145
+WORKS	YES	YES	88.119.176.131	LT	848	322	54	🇱🇹322Mb | Hostline Uab	litter.propper.beauty	443
+FAIL	NO	NO			4003	317		🇳🇱317Mb | Datagio Systems	130.78.191.25	443
+WORKS	YES	YES	31.57.20.48	US	577	312	5	🇦🇪312Mb | HOSTES LTD	edge6.multikons.shop	443
+WORKS	YES	YES	46.183.223.138	LV	1842	312	63	🇱🇻312Mb | SIA RixHost	filetransver-pro.com	443
+WORKS	YES	YES	158.101.205.217	NL	1337	310	34	🇳🇱310Mb | Oracle Cloud	158.101.205.217	62145
 FAIL	NO	NO			4002	305		🇳🇱305Mb | Oracle Cloud	84.235.167.104	62145
-WORKS	YES	NO			715	300		🇫🇷300Mb | OVH	193.233.222.87	2053
-FAIL	NO	NO			487	300		🇳🇱300Mb | Global Connectivity Solutions Llp	45.151.31.143	443
-WORKS	YES	YES	45.134.212.101	PL	509	300		🇵🇱300Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
-WORKS	YES	YES	31.57.20.42	US	413	298		🇦🇪298Mb | HOSTES LTD	edge6.multikons.shop	443
+FAIL	NO	NO			4002	300		🇫🇷300Mb | OVH	193.233.222.87	2053
+FAIL	NO	NO			472	300		🇳🇱300Mb | Global Connectivity Solutions Llp	45.151.31.143	443
+WORKS	YES	YES	45.134.212.101	PL	577	300		🇵🇱300Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
+WORKS	YES	YES	31.57.20.49	US	571	298		🇦🇪298Mb | HOSTES LTD	edge6.multikons.shop	443
 FAIL	NO	NO			4002	293		🇳🇱293Mb | Oracle Cloud	158.101.211.111	62145
-WORKS	YES	YES	31.57.16.27	US	397	293	5	🇦🇪293Mb | HOSTES LTD	31.57.16.27	443
-WORKS	YES	YES	45.134.212.101	PL	482	289		🇵🇱289Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
-WORKS	YES	YES	57.128.231.84	PL	1532	288	71	🇵🇱288Mb | OVH	pl.bubahero.com	443
-FAIL	NO	NO			383	287		🇹🇷287Mb | Global Connectivity Solutions Llp	176.108.243.140	443
-WORKS	YES	YES	34.159.123.6	DE	969	287	25	🇩🇪287Mb | Google Cloud	34.159.123.6	443
-WORKS	YES	NO			581	284		🇱🇹284Mb | Nexttranslate	cloud.figmafound.org	443
-WORKS	YES	YES	31.57.16.27	US	523	283		🇦🇪283Mb | HOSTES LTD	core-data.gorekmas.online	443
-FAIL	NO	NO			4002	283		🇦🇪283Mb | HOSTES LTD	151.242.161.50	443
-WORKS	YES	YES	5.181.201.31	EE	502	283		🌐283Mb | 🇪🇪 Estonia, Tallinn  🌐  BL	estomin1.vodniki.monster	443
-FAIL	NO	NO			4003	279		🇳🇱279Mb | Oracle Cloud	158.101.205.217	62145
-WORKS	YES	YES	45.134.212.101	PL	483	276		🇵🇱276Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
-FAIL	NO	NO			4003	269		🇳🇱269Mb | Oracle Cloud	158.101.211.111	62145
-WORKS	NO	NO			2283	269		🌐269Mb | OpenRay Dynamic-29693	fi.snobvpn.online	80
-FAIL	NO	NO			4002	268		🇵🇱268Mb | OVH	pl.bubahero.com	443
-WORKS	YES	YES	45.134.212.101	PL	502	266		🇵🇱266Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
-WORKS	YES	YES	34.118.43.133	PL	606	264	54	🇵🇱264Mb | Google Cloud	34.118.43.133	443
-FAIL	NO	NO			4003	262		🇳🇱262Mb | Oracle Cloud	158.101.209.32	62145
-FAIL	NO	NO			4003	262		🇳🇱262Mb | Oracle Cloud	134.98.133.200	62145
-WORKS	YES	YES	94.183.157.45	PL	470	258	43	🇵🇱258Mb | HOSTES LTD	94.183.157.45	8443
-WORKS	YES	YES	31.76.39.141	GB	420	257	14	🇬🇧257Mb | Akenai Products LTD	31.76.39.141	443
-WORKS	YES	NO			636	255		🇱🇹255Mb | Nexttranslate	mail.figmafound.org	443
-FAIL	NO	NO			4003	254		🇦🇪254Mb | HOSTES LTD	gr1.serverslocal.ru	443
-FAIL	NO	NO			4002	253		🇵🇱253Mb | HOSTES LTD	poland2.serverslocal.ru	443
-WORKS	YES	YES	31.57.20.42	US	407	252		🇦🇪252Mb | HOSTES LTD	edge6.multikons.shop	443
-WORKS	YES	YES	31.57.20.47	US	432	251		🇦🇪251Mb | HOSTES LTD	edge6.multikons.shop	443
-WORKS	YES	YES	45.134.212.101	PL	483	251		🇵🇱251Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
+WORKS	YES	YES	31.57.16.27	US	647	293	7	🇦🇪293Mb | HOSTES LTD	31.57.16.27	443
+WORKS	YES	YES	45.134.212.101	PL	730	289		🇵🇱289Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
+WORKS	YES	NO			4450	288		🇵🇱288Mb | OVH	pl.bubahero.com	443
+FAIL	NO	NO			475	287		🇹🇷287Mb | Global Connectivity Solutions Llp	176.108.243.140	443
+WORKS	YES	YES	34.159.123.6	DE	792	287	22	🇩🇪287Mb | Google Cloud	34.159.123.6	443
+WORKS	YES	NO			670	284		🇱🇹284Mb | Nexttranslate	cloud.figmafound.org	443
+WORKS	YES	YES	31.57.16.28	US	561	283		🇦🇪283Mb | HOSTES LTD	core-data.gorekmas.online	443
+WORKS	NO	YES			543	283		🇦🇪283Mb | HOSTES LTD	151.242.161.50	443
+WORKS	YES	YES	5.181.201.31	EE	1059	283		🌐283Mb | 🇪🇪 Estonia, Tallinn  🌐  BL	estomin1.vodniki.monster	443
+WORKS	YES	YES	158.101.205.217	NL	320	279		🇳🇱279Mb | Oracle Cloud	158.101.205.217	62145
+WORKS	YES	YES	45.134.212.101	PL	835	276		🇵🇱276Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
+FAIL	NO	NO			4002	269		🇳🇱269Mb | Oracle Cloud	158.101.211.111	62145
+FAIL	NO	NO			4002	269		🌐269Mb | OpenRay Dynamic-29693	fi.snobvpn.online	80
+WORKS	YES	YES	57.128.231.84	PL	2608	268	65	🇵🇱268Mb | OVH	pl.bubahero.com	443
+WORKS	YES	YES	45.134.212.101	PL	667	266		🇵🇱266Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
+WORKS	YES	YES	34.118.43.133	PL	529	264	39	🇵🇱264Mb | Google Cloud	34.118.43.133	443
+FAIL	NO	NO			4002	262		🇳🇱262Mb | Oracle Cloud	158.101.209.32	62145
+FAIL	NO	NO			4001	262		🇳🇱262Mb | Oracle Cloud	134.98.133.200	62145
+WORKS	YES	YES	94.183.157.45	PL	538	258	40	🇵🇱258Mb | HOSTES LTD	94.183.157.45	8443
+WORKS	YES	YES	31.76.39.141	GB	568	257	11	🇬🇧257Mb | Akenai Products LTD	31.76.39.141	443
+WORKS	YES	NO			767	255		🇱🇹255Mb | Nexttranslate	mail.figmafound.org	443
+FAIL	NO	NO			4002	254		🇦🇪254Mb | HOSTES LTD	gr1.serverslocal.ru	443
+WORKS	YES	YES	94.183.157.8	PL	1888	253		🇵🇱253Mb | HOSTES LTD	poland2.serverslocal.ru	443
+WORKS	YES	YES	31.57.20.47	US	545	252		🇦🇪252Mb | HOSTES LTD	edge6.multikons.shop	443
+WORKS	YES	YES	31.57.20.46	US	538	251		🇦🇪251Mb | HOSTES LTD	edge6.multikons.shop	443
+WORKS	YES	YES	45.134.212.101	PL	638	251		🇵🇱251Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
 FAIL	NO	NO			4002	250		🇮🇹250Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
-WORKS	YES	YES	34.65.191.159	CH	406	250	26	🇨🇭250Mb | Google Cloud	34.65.191.159	443
-WORKS	NO	YES			258	246		🌐246Mb | 🇺🇸US_317790KB/sS001-260618	172.235.43.210	53957
-WORKS	YES	YES	31.76.39.141	GB	349	245		🇬🇧245Mb | Akenai Products LTD	31.76.39.141	443
-WORKS	YES	YES	84.32.101.85	NL	377	243	29	🇳🇱243Mb | UAB Cherry Servers	84.32.101.85	443
-WORKS	YES	NO			460	242		🇱🇹242Mb | Nexttranslate	auth.figmafound.org	443
-FAIL	NO	NO			4002	241		🇮🇹241Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
-WORKS	YES	YES	31.76.39.141	GB	483	237		🇬🇧237Mb | Akenai Products LTD	31.76.39.141	443
-WORKS	YES	YES	144.21.43.119	NL	268	237	28	🇳🇱237Mb | Oracle Cloud	144.21.43.119	62145
-WORKS	YES	YES	31.57.16.29	US	480	236		🇦🇪236Mb | HOSTES LTD	core-data.gorekmas.online	443
+WORKS	YES	YES	34.65.191.159	CH	657	250	25	🇨🇭250Mb | Google Cloud	34.65.191.159	443
+WORKS	NO	YES			197	246		🌐246Mb | 🇺🇸US_317790KB/sS001-260618	172.235.43.210	53957
+WORKS	YES	YES	31.76.39.141	GB	578	245		🇬🇧245Mb | Akenai Products LTD	31.76.39.141	443
+WORKS	YES	YES	84.32.101.85	NL	493	243	28	🇳🇱243Mb | UAB Cherry Servers	84.32.101.85	443
+WORKS	YES	NO			710	242		🇱🇹242Mb | Nexttranslate	auth.figmafound.org	443
+FAIL	NO	NO			4001	241		🇮🇹241Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
+WORKS	YES	YES	31.76.39.141	GB	486	237		🇬🇧237Mb | Akenai Products LTD	31.76.39.141	443
+WORKS	YES	YES	144.21.43.119	NL	363	237	26	🇳🇱237Mb | Oracle Cloud	144.21.43.119	62145
+WORKS	YES	YES	31.57.16.28	US	615	236		🇦🇪236Mb | HOSTES LTD	core-data.gorekmas.online	443
 FAIL	NO	NO			4003	230		🇳🇱230Mb | Oracle Cloud	143.47.182.253	62145
-WORKS	YES	YES	35.246.34.105	GB	318	230	11	🇬🇧230Mb | Google Cloud	35.246.34.105	443
-WORKS	YES	YES	34.159.242.163	DE	849	229	24	🇩🇪229Mb | Google Cloud	34.159.242.163	443
-WORKS	YES	NO			789	228		🇵🇱228Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
-WORKS	YES	YES	2.27.210.39	NL	632	226	37	🇳🇱226Mb | Servhost Group	ciccuc.mervi.icu	443
-WORKS	YES	YES	84.32.101.85	NL	583	225	36	🇳🇱225Mb | UAB Cherry Servers	team.betust.net	443
+WORKS	YES	YES	35.246.34.105	GB	453	230	10	🇬🇧230Mb | Google Cloud	35.246.34.105	443
+WORKS	YES	YES	34.159.242.163	DE	803	229	23	🇩🇪229Mb | Google Cloud	34.159.242.163	443
+WORKS	YES	YES	45.134.212.101	PL	722	228		🇵🇱228Mb | Datacamp Limited	pl-waw.dontblockmepls.com	2063
+WORKS	YES	YES	2.27.210.39	NL	1169	226	33	🇳🇱226Mb | Servhost Group	ciccuc.mervi.icu	443
+WORKS	YES	YES	84.32.101.85	NL	723	225	31	🇳🇱225Mb | UAB Cherry Servers	team.betust.net	443
 FAIL	NO	NO			4002	225		🇮🇹225Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
-FAIL	NO	NO			4002	223		🇮🇹223Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
-WORKS	YES	YES	31.76.39.141	GB	389	223		🇬🇧223Mb | Akenai Products LTD	31.76.39.141	443
+FAIL	NO	NO			4003	223		🇮🇹223Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
+WORKS	YES	YES	31.76.39.141	GB	542	223		🇬🇧223Mb | Akenai Products LTD	31.76.39.141	443
 FAIL	NO	NO			4003	223		🇬🇧223Mb | Aeza Group	62.60.216.76	443
-WORKS	NO	NO			674	222		🇩🇪222Mb | Google Cloud	34.159.242.163	443
-WORKS	YES	YES	217.179.220.226	GB	361	221	12	🇬🇧221Mb | Packet Star Networks Limited	14ang88.snusoed.baby	443
-WORKS	YES	YES	31.76.80.238	FI	690	219	56	🇫🇮219Mb | Play2go International Limited	jujujuj.mervi.icu	443
-WORKS	YES	YES	34.7.88.194	NL	992	219	38	🇳🇱219Mb | Google Cloud	34.7.88.194	443
-WORKS	YES	YES	34.154.47.33	IT	425	214	40	🇮🇹214Mb | Google Cloud	34.154.47.33	443
+WORKS	YES	YES	34.159.242.163	DE	972	222		🇩🇪222Mb | Google Cloud	34.159.242.163	443
+WORKS	YES	YES	217.179.220.226	GB	614	221	12	🇬🇧221Mb | Packet Star Networks Limited	14ang88.snusoed.baby	443
+WORKS	YES	YES	31.76.80.238	FI	1007	219	60	🇫🇮219Mb | Play2go International Limited	jujujuj.mervi.icu	443
+WORKS	NO	YES			852	219		🇳🇱219Mb | Google Cloud	34.7.88.194	443
+WORKS	NO	YES			513	214		🇮🇹214Mb | Google Cloud	34.154.47.33	443
 FAIL	NO	NO			4002	214		🇳🇱214Mb | Oracle Cloud	158.101.213.194	62145
-WORKS	YES	YES	31.57.20.46	US	396	213		🇦🇪213Mb | HOSTES LTD	edge6.multikons.shop	443
-WORKS	YES	YES	31.57.16.28	US	466	212		🇦🇪212Mb | HOSTES LTD	core-data.gorekmas.online	443
+WORKS	YES	YES	31.57.20.44	US	548	213		🇦🇪213Mb | HOSTES LTD	edge6.multikons.shop	443
+WORKS	YES	YES	31.57.16.27	US	596	212		🇦🇪212Mb | HOSTES LTD	core-data.gorekmas.online	443
 FAIL	NO	NO			4002	212		🇮🇹212Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
-WORKS	YES	YES	31.56.187.82	EE	694	211	57	🇪🇪211Mb | ExpressHost	31.56.187.82	443
-WORKS	YES	YES	94.183.157.8	PL	847	211		🇵🇱211Mb | HOSTES LTD	poland2.serverslocal.ru	443
-WORKS	YES	YES	31.57.16.27	US	417	209		🇦🇪209Mb | HOSTES LTD	core-data.gorekmas.online	443
-WORKS	YES	YES	84.32.189.88	NL	530	207	35	🇳🇱207Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
-FAIL	NO	NO			4002	206		🇦🇪206Mb | HOSTES LTD	gr1.serverslocal.ru	443
-WORKS	YES	YES	31.57.16.27	US	430	206		🇦🇪206Mb | HOSTES LTD	core-data.gorekmas.online	443
-WORKS	YES	YES	94.183.157.8	PL	3100	206		🇵🇱206Mb | HOSTES LTD	poland2.serverslocal.ru	443
-WORKS	YES	YES	84.32.101.85	NL	340	206		🇳🇱206Mb | UAB Cherry Servers	84.32.101.85	443
+WORKS	NO	YES			764	211		🇪🇪211Mb | ExpressHost	31.56.187.82	443
+WORKS	YES	YES	94.183.157.8	PL	841	211		🇵🇱211Mb | HOSTES LTD	poland2.serverslocal.ru	443
+WORKS	YES	YES	31.57.16.28	US	480	209		🇦🇪209Mb | HOSTES LTD	core-data.gorekmas.online	443
+WORKS	YES	YES	84.32.189.88	NL	665	207	30	🇳🇱207Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
+WORKS	YES	YES	151.242.161.50	DE	837	206	24	🇦🇪206Mb | HOSTES LTD	gr1.serverslocal.ru	443
+WORKS	YES	YES	31.57.16.27	US	643	206		🇦🇪206Mb | HOSTES LTD	core-data.gorekmas.online	443
+WORKS	YES	YES	94.183.157.8	PL	1793	206		🇵🇱206Mb | HOSTES LTD	poland2.serverslocal.ru	443
+FAIL	NO	NO			1367	206		🇳🇱206Mb | UAB Cherry Servers	84.32.101.85	443
 FAIL	NO	NO			4002	203		🇦🇹203Mb | Aeza Group	62.60.216.76	443
-WORKS	YES	YES	34.154.92.210	IT	434	201	41	🇮🇹201Mb | Google Cloud	34.154.92.210	443
-WORKS	YES	YES	94.183.157.8	PL	1126	201		🇵🇱201Mb | HOSTES LTD	poland2.serverslocal.ru	443
-WORKS	YES	YES	31.57.16.27	US	413	196		🇦🇪196Mb | HOSTES LTD	core-data.gorekmas.online	443
-WORKS	YES	YES	84.32.189.88	NL	390	194		🇳🇱194Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
-FAIL	NO	NO			4003	194		🇵🇱194Mb | OVH	pl.bubahero.com	443
-WORKS	YES	YES	31.57.16.29	US	437	192		🇦🇪192Mb | HOSTES LTD	core-data.gorekmas.online	443
-FAIL	NO	NO			4002	192		🇵🇱192Mb | OVH	194.93.63.246	443
-WORKS	YES	YES	185.229.207.79	DE	666	191	23	🇩🇪191Mb | dataforest GmbH	185.229.207.79	443
-WORKS	YES	YES	146.235.16.130	SG	968	188	64	🌐188Mb | 新加坡_091910090 t.me/rjsxrd	146.235.16.130	19825
-WORKS	YES	YES	31.76.39.152	GB	693	187	15	🇬🇧187Mb | Akenai Products LTD	gb.superbuba.top	443
+WORKS	YES	YES	34.154.92.210	IT	500	201	38	🇮🇹201Mb | Google Cloud	34.154.92.210	443
+WORKS	NO	YES			563	201		🇵🇱201Mb | HOSTES LTD	poland2.serverslocal.ru	443
+WORKS	YES	YES	31.57.16.28	US	506	196		🇦🇪196Mb | HOSTES LTD	core-data.gorekmas.online	443
+WORKS	YES	YES	84.32.189.88	NL	506	194		🇳🇱194Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
+WORKS	YES	YES			855	194		🇵🇱194Mb | OVH	pl.bubahero.com	443
+WORKS	YES	YES	31.57.16.29	US	542	192		🇦🇪192Mb | HOSTES LTD	core-data.gorekmas.online	443
+WORKS	NO	YES			1052	192		🇵🇱192Mb | OVH	194.93.63.246	443
+FAIL	NO	NO			367	191		🇩🇪191Mb | dataforest GmbH	185.229.207.79	443
+WORKS	YES	YES	146.235.16.130	SG	827	188	53	🌐188Mb | 新加坡_091910090 t.me/rjsxrd	146.235.16.130	19825
+WORKS	YES	YES	31.76.39.141	GB	1601	187	15	🇬🇧187Mb | Akenai Products LTD	gb.superbuba.top	443
 FAIL	NO	NO			4002	186		🇳🇱186Mb | Oracle Cloud	84.235.175.116	62145
 FAIL	NO	NO			4002	186		🇵🇱186Mb | OVH	pl.bubahero.com	443
-WORKS	YES	YES	84.32.101.85	NL	486	185		🇳🇱185Mb | UAB Cherry Servers	team.betust.net	443
-FAIL	NO	NO			383	184		🇹🇷184Mb | Global Connectivity Solutions Llp	176.108.243.140	443
-WORKS	YES	YES	84.32.189.88	NL	394	183		🇳🇱183Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
-WORKS	YES	YES	84.32.101.85	NL	352	183		🇳🇱183Mb | UAB Cherry Servers	84.32.101.85	443
-FAIL	NO	NO			4003	181		🇩🇪181Mb | Aeza Group	77.110.101.97	56834
-WORKS	YES	YES	212.87.190.180	EE	1152	180	68	🇪🇪180Mb | Paul Sagov	est2.grg.digital	443
-FAIL	NO	NO			569	180		🇳🇱180Mb | Hostkey Bv	apartmentsnl1.purpl.su	443
-WORKS	YES	YES	84.32.189.88	NL	376	180		🇳🇱180Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
-WORKS	YES	YES	94.156.102.31	DE	459	179	21	🇩🇪179Mb | Play2go International Limited	plmnko.mervi.icu	443
-WORKS	YES	YES	34.156.242.126	BE	553	178	47	🇧🇪178Mb | Google Cloud	34.156.242.126	443
-WORKS	YES	YES	89.125.212.90	GB	4165	177	18	🇬🇧177Mb | Hostkey Bv	gb.nvrsk-not-news.ru	59845
-WORKS	YES	YES	84.32.189.88	NL	410	177		🇳🇱177Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
-WORKS	YES	YES	84.32.101.85	NL	350	176		🇳🇱176Mb | UAB Cherry Servers	84.32.101.85	443
-FAIL	NO	NO			4002	175		🇵🇱175Mb | OVH	194.93.63.246	443
-WORKS	YES	YES	84.32.189.88	NL	359	169		🇳🇱169Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
-WORKS	YES	YES	130.78.191.25	NL	427	167		🇳🇱167Mb | Datagio Systems	130.78.191.25	443
-FAIL	NO	NO			4001	167		🇵🇱167Mb | OVH	pl.bubahero.com	443
-WORKS	NO	YES			398	165		🇳🇱165Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
+WORKS	YES	YES	84.32.101.85	NL	771	185		🇳🇱185Mb | UAB Cherry Servers	team.betust.net	443
+FAIL	NO	NO			466	184		🇹🇷184Mb | Global Connectivity Solutions Llp	176.108.243.140	443
+WORKS	NO	YES			467	183		🇳🇱183Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
+WORKS	YES	YES	84.32.101.85	NL	514	183		🇳🇱183Mb | UAB Cherry Servers	84.32.101.85	443
+FAIL	NO	NO			4002	181		🇩🇪181Mb | Aeza Group	77.110.101.97	56834
+FAIL	NO	NO			783	180		🇪🇪180Mb | Paul Sagov	est2.grg.digital	443
+FAIL	NO	NO			771	180		🇳🇱180Mb | Hostkey Bv	apartmentsnl1.purpl.su	443
+WORKS	YES	YES	84.32.189.88	NL	574	180		🇳🇱180Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
+WORKS	YES	YES	94.156.102.31	DE	525	179	21	🇩🇪179Mb | Play2go International Limited	plmnko.mervi.icu	443
+WORKS	YES	YES	34.156.242.126	BE	459	178	37	🇧🇪178Mb | Google Cloud	34.156.242.126	443
+WORKS	YES	YES	89.125.212.90	GB	4672	177	18	🇬🇧177Mb | Hostkey Bv	gb.nvrsk-not-news.ru	59845
+WORKS	YES	YES	84.32.189.88	NL	554	177		🇳🇱177Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
+WORKS	YES	YES	84.32.101.85	NL	530	176		🇳🇱176Mb | UAB Cherry Servers	84.32.101.85	443
+WORKS	YES	NO			2810	175		🇵🇱175Mb | OVH	194.93.63.246	443
+WORKS	YES	YES	84.32.189.88	NL	631	169		🇳🇱169Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
+WORKS	YES	YES	130.78.191.25	NL	563	167	29	🇳🇱167Mb | Datagio Systems	130.78.191.25	443
+WORKS	YES	NO			1386	167		🇵🇱167Mb | OVH	pl.bubahero.com	443
+WORKS	YES	YES	84.32.189.88	NL	469	165		🇳🇱165Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
 FAIL	NO	NO			4002	163		🇪🇸163Mb | Netgrid Host	87.76.179.117	7443
 FAIL	NO	NO			4003	158		🇺🇸158Mb | HostPapa	192.3.20.155	8443
-WORKS	YES	YES	185.23.19.210	NL	452	157	34	🇳🇱157Mb | Node Host Limited	popolop.mervi.icu	443
-WORKS	YES	NO			626	157		🇱🇹157Mb | Nexttranslate	api.figmafound.org	443
-WORKS	YES	YES	34.142.108.254	GB	397	157	13	🇬🇧157Mb | Google Cloud	34.142.108.254	443
-WORKS	YES	YES	89.125.212.90	GB	4548	156	19	🇬🇧156Mb | Hostkey Bv	89.125.212.90	59845
-WORKS	YES	YES	5.157.10.250	SE	456	156	42	🇸🇪156Mb | Angelnet Limited	5.157.10.250	443
-FAIL	NO	NO			261	156		🇳🇱156Mb | Moskalev Georgiy	89.125.100.29	443
-WORKS	NO	NO			2887	155		🇵🇱155Mb | OVH	194.93.63.246	443
-WORKS	YES	YES	84.32.189.88	NL	347	155		🇳🇱155Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
-WORKS	YES	YES	84.32.101.85	NL	359	153		🇳🇱153Mb | UAB Cherry Servers	team.betust.net	443
-WORKS	YES	YES	217.179.220.226	GB	346	152		🇬🇧152Mb | Packet Star Networks Limited	14ang88.snusoed.baby	443
-FAIL	NO	NO			4001	151		🇩🇪151Mb | Aeza Group	77.110.101.97	56834
-WORKS	YES	YES	144.31.214.186	FR	598	146	53	🇺🇸146Mb | Servhost Group	hyhkup.mervi.icu	443
-FAIL	NO	NO			4003	144		🇳🇱144Mb | Oracle Cloud	158.101.211.111	62145
-FAIL	NO	NO			1004	143		🇺🇸143Mb | Servhost Group	dilonorway.purpl.su	443
-FAIL	NO	NO			4002	142		🇩🇪142Mb | Aeza Group	77.110.101.97	56834
-WORKS	YES	YES	172.235.38.85	US	283	139	4	🇺🇸139Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			4002	137		🇵🇱137Mb | OVH	pl.bubahero.com	443
-FAIL	NO	NO			525	137		🇷🇺137Mb | Kviktel	ru-svo-1.blook.network	443
+WORKS	YES	YES	185.23.19.210	NL	725	157	32	🇳🇱157Mb | Node Host Limited	popolop.mervi.icu	443
+WORKS	YES	NO			695	157		🇱🇹157Mb | Nexttranslate	api.figmafound.org	443
+WORKS	YES	YES	34.142.108.254	GB	811	157	13	🇬🇧157Mb | Google Cloud	34.142.108.254	443
+WORKS	YES	YES	89.125.212.90	GB	3922	156	17	🇬🇧156Mb | Hostkey Bv	89.125.212.90	59845
+WORKS	YES	YES	5.157.10.250	SE	895	156	57	🇸🇪156Mb | Angelnet Limited	5.157.10.250	443
+FAIL	NO	NO			326	156		🇳🇱156Mb | Moskalev Georgiy	89.125.100.29	443
+FAIL	NO	NO			4003	155		🇵🇱155Mb | OVH	194.93.63.246	443
+WORKS	YES	YES	84.32.189.88	NL	507	155		🇳🇱155Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
+WORKS	YES	YES	84.32.101.85	NL	713	153		🇳🇱153Mb | UAB Cherry Servers	team.betust.net	443
+WORKS	YES	YES	217.179.220.226	GB	484	152		🇬🇧152Mb | Packet Star Networks Limited	14ang88.snusoed.baby	443
+WORKS	YES	YES	77.110.101.97	DE	372	151	19	🇩🇪151Mb | Aeza Group	77.110.101.97	56834
+WORKS	YES	YES	144.31.214.186	FR	635	146	43	🇺🇸146Mb | Servhost Group	hyhkup.mervi.icu	443
+FAIL	NO	NO			4002	144		🇳🇱144Mb | Oracle Cloud	158.101.211.111	62145
+FAIL	NO	NO			1199	143		🇺🇸143Mb | Servhost Group	dilonorway.purpl.su	443
+WORKS	YES	YES	77.110.101.97	DE	462	142		🇩🇪142Mb | Aeza Group	77.110.101.97	56834
+WORKS	NO	YES			1016	139		🇺🇸139Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	YES	YES	57.128.231.84	PL	1270	137		🇵🇱137Mb | OVH	pl.bubahero.com	443
+FAIL	NO	NO			471	137		🇷🇺137Mb | Kviktel	ru-svo-1.blook.network	443
 FAIL	NO	NO			4002	135		🇬🇧135Mb | Akenai Products LTD	31.76.39.153	443
-WORKS	YES	YES	5.157.10.250	SE	511	135	45	🇸🇪135Mb | Angelnet Limited	swebz.loozerp.wiki	443
-WORKS	YES	YES	185.39.204.135	TR	588	134	52	🇷🇺134Mb | Global Connectivity Solutions Llp	tr.plus-hit.ru	443
+WORKS	YES	YES	5.157.10.250	SE	623	135	41	🇸🇪135Mb | Angelnet Limited	swebz.loozerp.wiki	443
+WORKS	YES	YES	185.39.204.135	TR	680	134	48	🇷🇺134Mb | Global Connectivity Solutions Llp	tr.plus-hit.ru	443
 FAIL	NO	NO			4003	132		🇮🇹132Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
-FAIL	NO	NO			4002	131		🇩🇪131Mb | Aeza Group	77.110.101.97	56834
-WORKS	YES	YES	185.39.204.135	TR	580	131		🇹🇷131Mb | Global Connectivity Solutions Llp	tr.plus-hit.ru	443
-FAIL	NO	NO			4002	130		🇳🇱130Mb | Akamai Connected Cloud	172.239.239.53	22746
-FAIL	NO	NO			715	130		🇨🇭130Mb | Private Layer INC	94.139.255.25	11443
-FAIL	NO	NO			263	129		🇩🇪129Mb | Datagio Systems	191.44.118.162	443
-FAIL	NO	NO			2274	129		🇳🇱129Mb | Moskalev Georgiy	191.44.38.143	8443
-WORKS	YES	YES	57.128.231.84	PL	3548	129		🇵🇱129Mb | OVH	pl.bubahero.com	443
-FAIL	NO	NO			416	129		🇳🇱129Mb | Global Connectivity Solutions Llp	45.151.31.143	443
-WORKS	NO	YES			3307	128		🇵🇱128Mb | OVH	194.93.63.246	443
-WORKS	YES	YES	212.87.190.181	EE	1027	128	65	🇪🇪128Mb | Paul Sagov	est2-2.grg.digital	443
-WORKS	YES	YES	144.31.214.186	FR	649	126		🇺🇸126Mb | Servhost Group	hyhkup.mervi.icu	443
-WORKS	YES	YES	203.188.173.18	NL	405	126	32	🇳🇱126Mb | RoyaleHosting BV	203.188.173.18	443
-WORKS	YES	NO			408	124		🇳🇱124Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
-WORKS	YES	YES	130.78.217.162	GB	3089	123	17	🇬🇧123Mb | Packet Star Networks Limited	filetransver-ultra.com	443
-FAIL	NO	NO			980	122		🇺🇸122Mb | Servhost Group	lilpipestonia.purpl.su	443
-WORKS	YES	YES	89.125.43.121	US	61	122	1	🇺🇸122Mb | QWINS LTD	hyhhuh.mervi.icu	443
-WORKS	NO	YES			865	121		🇵🇰121Mb | PureVoltage Hosting	103.175.79.4	443
-FAIL	NO	NO			4001	121		🇮🇹121Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
-WORKS	YES	YES	203.188.173.3	NL	385	119	30	🇳🇱119Mb | RoyaleHosting BV	203.188.173.3	443
-WORKS	YES	YES	172.235.38.85	US	301	118		🇺🇸118Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	NO	YES			2381	118		🇫🇷118Mb | Fast Servers Pty	130.49.77.7	443
-WORKS	NO	YES			402	118		🇺🇸118Mb | PureVoltage Hosting	140.235.168.5	443
-WORKS	YES	YES	94.183.238.74	DE	596	116	22	🇩🇪116Mb | Eternity International Limited	94.183.238.74	443
-WORKS	YES	YES	172.233.139.46	US	261	116	3	🇺🇸116Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	YES	34.165.251.165	IL	708	115	58	🇮🇱115Mb | Google Cloud	34.165.251.165	443
-WORKS	YES	YES	172.233.139.46	US	305	114		🇺🇸114Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	YES	172.233.139.46	US	260	113		🇺🇸113Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	YES	94.183.238.74	DE	477	113		🇩🇪113Mb | Eternity International Limited	94.183.238.74	443
-FAIL	NO	NO			4002	113		🇩🇪113Mb | Aeza Group	77.110.101.97	56834
-FAIL	NO	NO			4002	113		🇳🇱113Mb | Akamai Connected Cloud	172.239.239.53	22746
-FAIL	NO	NO			4002	111		🇵🇱111Mb | OVH	194.93.63.246	443
+WORKS	YES	YES	77.110.101.97	DE	392	131		🇩🇪131Mb | Aeza Group	77.110.101.97	56834
+WORKS	YES	YES	185.39.204.135	TR	732	131		🇹🇷131Mb | Global Connectivity Solutions Llp	tr.plus-hit.ru	443
+WORKS	YES	YES	172.239.239.53	NL	443	130	27	🇳🇱130Mb | Akamai Connected Cloud	172.239.239.53	22746
+FAIL	NO	NO			759	130		🇨🇭130Mb | Private Layer INC	94.139.255.25	11443
+FAIL	NO	NO			339	129		🇩🇪129Mb | Datagio Systems	191.44.118.162	443
+FAIL	NO	NO			775	129		🇳🇱129Mb | Moskalev Georgiy	191.44.38.143	8443
+WORKS	NO	YES			3178	129		🇵🇱129Mb | OVH	pl.bubahero.com	443
+FAIL	NO	NO			469	129		🇳🇱129Mb | Global Connectivity Solutions Llp	45.151.31.143	443
+WORKS	NO	YES			3418	128		🇵🇱128Mb | OVH	194.93.63.246	443
+FAIL	NO	NO			1135	128		🇪🇪128Mb | Paul Sagov	est2-2.grg.digital	443
+WORKS	YES	YES	144.31.214.186	FR	550	126		🇺🇸126Mb | Servhost Group	hyhkup.mervi.icu	443
+FAIL	NO	NO			2472	126		🇳🇱126Mb | RoyaleHosting BV	203.188.173.18	443
+WORKS	YES	NO			476	124		🇳🇱124Mb | UAB Cherry Servers	hhhorp.plus-hit.ru	443
+WORKS	YES	YES	130.78.217.162	GB	1333	123	14	🇬🇧123Mb | Packet Star Networks Limited	filetransver-ultra.com	443
+FAIL	NO	NO			859	122		🇺🇸122Mb | Servhost Group	lilpipestonia.purpl.su	443
+WORKS	YES	YES	89.125.43.121	US	170	122	2	🇺🇸122Mb | QWINS LTD	hyhhuh.mervi.icu	443
+WORKS	NO	YES			747	121		🇵🇰121Mb | PureVoltage Hosting	103.175.79.4	443
+FAIL	NO	NO			4002	121		🇮🇹121Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
+FAIL	NO	NO			316	119		🇳🇱119Mb | RoyaleHosting BV	203.188.173.3	443
+WORKS	NO	YES			270	118		🇺🇸118Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	NO	YES			3682	118		🇫🇷118Mb | Fast Servers Pty	130.49.77.7	443
+WORKS	NO	YES			266	118		🇺🇸118Mb | PureVoltage Hosting	140.235.168.5	443
+FAIL	NO	NO			4003	116		🇩🇪116Mb | Eternity International Limited	94.183.238.74	443
+WORKS	YES	YES	172.233.139.46	US	186	116	3	🇺🇸116Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	YES	YES	34.165.251.165	IL	671	115	47	🇮🇱115Mb | Google Cloud	34.165.251.165	443
+WORKS	YES	YES	172.233.139.46	US	196	114		🇺🇸114Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	YES	YES	172.233.139.46	US	211	113		🇺🇸113Mb | Akamai Connected Cloud	172.233.139.46	53734
+FAIL	NO	NO			4003	113		🇩🇪113Mb | Eternity International Limited	94.183.238.74	443
+WORKS	YES	YES	77.110.101.97	DE	520	113		🇩🇪113Mb | Aeza Group	77.110.101.97	56834
+WORKS	YES	YES	172.239.239.53	NL	443	113		🇳🇱113Mb | Akamai Connected Cloud	172.239.239.53	22746
+WORKS	NO	NO			3858	111		🇵🇱111Mb | OVH	194.93.63.246	443
 FAIL	NO	NO			4002	111		🇦🇹111Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	YES	172.233.139.46	US	253	110		🇺🇸110Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	YES	172.235.38.85	US	259	108		🇺🇸108Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	NO	NO			704	105		🇦🇪105Mb | Baxet Group	193.233.222.87	2086
-WORKS	NO	YES			427	104		🇺🇸104Mb | HostPapa	192.3.20.155	8443
-WORKS	YES	YES	172.235.38.85	US	273	104		🇺🇸104Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	YES	YES	172.235.38.85	US	270	103		🇺🇸103Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	NO	YES			884	102		🇵🇰102Mb | PureVoltage Hosting	103.175.79.4	443
-FAIL	NO	NO			4002	100		🇯🇵100Mb | Oracle Cloud	152.69.195.67	47878
-FAIL	NO	NO			4002	100		🇸🇪100Mb | Angelnet Limited	5.157.10.250	443
-WORKS	NO	YES			404	100		🇺🇸100Mb | PureVoltage Hosting	140.235.168.5	443
-FAIL	NO	NO			527	100		🇮🇱100Mb | Global Connectivity Solutions Llp	45.140.205.112	443
-WORKS	YES	YES	172.235.38.85	US	264	99		🇺🇸99Mb | Akamai Connected Cloud	172.235.38.85	42942
-FAIL	NO	NO			4002	95		🇫🇮95Mb | Orion Network Limited	finkafsb.finiki.lol	443
-WORKS	YES	YES	172.233.139.46	US	254	95		🇺🇸95Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	YES	172.233.139.46	US	260	95		🇺🇸95Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	YES	213.21.246.124	SE	1675	94	72	🌐94Mb | 4FreeIran-fa3be90a5f	213.21.246.124	443
-FAIL	NO	NO			866	94		🇸🇬94Mb | LEASEWEB SINGAPORE PTE LTD	s19.cdn-vk.org	443
-WORKS	YES	YES	5.157.10.250	SE	488	93		🇸🇪93Mb | Angelnet Limited	5.157.10.250	443
-FAIL	NO	NO			393	93		🇫🇮93Mb | Hetzner	45.151.62.95	443
-WORKS	YES	YES	172.233.139.46	US	262	92		🇺🇸92Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	NO	YES			408	91		🇺🇸91Mb | PureVoltage Hosting	140.235.168.5	443
-FAIL	NO	NO			1667	91		🇳🇱91Mb | Moskalev Georgiy	191.44.38.143	8443
-WORKS	YES	YES	5.157.10.146	SE	1096	90	67	🌐90Mb | 2715  🌐 Unknown  VLESS  TG: @Y	svvedko.nxxzxaw.beer	443
-FAIL	NO	NO			635	90		🇰🇿90Mb | Nls Astana Llp	kzself.yandex-api.com	443
-WORKS	NO	YES			2218	89		🇵🇱89Mb | OVH	194.93.63.246	443
-WORKS	YES	YES	23.134.76.217	US	405	88	6	🇺🇸88Mb | Fourplex Telecom	us1.grg.digital	443
-FAIL	NO	NO			547	88		🇩🇪88Mb | Datagio Systems	greger.purpl.su	443
-WORKS	YES	YES	172.235.38.85	US	329	87		🇺🇸87Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	NO	NO			1452	86		🇪🇸86Mb | Alex Largman	130.49.77.7	443
-WORKS	YES	YES	172.233.139.46	US	274	86		🇺🇸86Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	YES	34.187.170.146	US	513	86	8	🇺🇸86Mb | Google Cloud	34.187.170.146	443
-WORKS	YES	YES	172.235.38.85	US	301	85		🇺🇸85Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	YES	YES	172.233.139.46	US	274	84		🇺🇸84Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	YES	YES	172.233.139.46	US	200	110		🇺🇸110Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	NO	YES			1802	108		🇺🇸108Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			4003	105		🇦🇪105Mb | Baxet Group	193.233.222.87	2086
+WORKS	YES	YES			254	104		🇺🇸104Mb | HostPapa	192.3.20.155	8443
+WORKS	NO	YES			1926	104		🇺🇸104Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	NO	YES			1914	103		🇺🇸103Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	NO	YES			754	102		🇵🇰102Mb | PureVoltage Hosting	103.175.79.4	443
+WORKS	YES	NO			1454	100		🇯🇵100Mb | Oracle Cloud	152.69.195.67	47878
+WORKS	YES	YES	5.157.10.250	SE	601	100		🇸🇪100Mb | Angelnet Limited	5.157.10.250	443
+WORKS	NO	YES			264	100		🇺🇸100Mb | PureVoltage Hosting	140.235.168.5	443
+FAIL	NO	NO			4001	100		🇮🇱100Mb | Global Connectivity Solutions Llp	45.140.205.112	443
+WORKS	YES	YES	172.235.38.85	US	884	99	9	🇺🇸99Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	YES	YES	196.244.191.178	FI	3276	95		🇫🇮95Mb | Orion Network Limited	finkafsb.finiki.lol	443
+WORKS	YES	YES	172.233.139.46	US	184	95		🇺🇸95Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	YES	YES	172.233.139.46	US	175	95		🇺🇸95Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	YES	NO			768	94		🌐94Mb | 4FreeIran-fa3be90a5f	213.21.246.124	443
+FAIL	NO	NO			970	94		🇸🇬94Mb | LEASEWEB SINGAPORE PTE LTD	s19.cdn-vk.org	443
+WORKS	NO	YES			905	93		🇸🇪93Mb | Angelnet Limited	5.157.10.250	443
+FAIL	NO	NO			473	93		🇫🇮93Mb | Hetzner	45.151.62.95	443
+WORKS	YES	YES	172.233.139.46	US	210	92		🇺🇸92Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	NO	YES			268	91		🇺🇸91Mb | PureVoltage Hosting	140.235.168.5	443
+FAIL	NO	NO			1467	91		🇳🇱91Mb | Moskalev Georgiy	191.44.38.143	8443
+WORKS	YES	YES	5.157.10.146	SE	895	90	58	🌐90Mb | 2715  🌐 Unknown  VLESS  TG: @Y	svvedko.nxxzxaw.beer	443
+FAIL	NO	NO			767	90		🇰🇿90Mb | Nls Astana Llp	kzself.yandex-api.com	443
+FAIL	NO	NO			4002	89		🇵🇱89Mb | OVH	194.93.63.246	443
+FAIL	NO	NO			287	88		🇺🇸88Mb | Fourplex Telecom	us1.grg.digital	443
+FAIL	NO	NO			1104	88		🇩🇪88Mb | Datagio Systems	greger.purpl.su	443
+WORKS	YES	YES	172.235.38.85	US	540	87		🇺🇸87Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	NO	NO			4019	86		🇪🇸86Mb | Alex Largman	130.49.77.7	443
+WORKS	YES	YES	172.233.139.46	US	213	86		🇺🇸86Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	YES	YES	34.187.170.146	US	235	86	4	🇺🇸86Mb | Google Cloud	34.187.170.146	443
+WORKS	YES	YES	172.235.38.85	US	313	85		🇺🇸85Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	YES	YES	172.233.139.46	US	212	84		🇺🇸84Mb | Akamai Connected Cloud	172.233.139.46	53734
 FAIL	NO	NO			4003	83		🇮🇹83Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
-WORKS	YES	YES			493	82		🇪🇪82Mb | Aktsiaselts WaveCom	ee-node.usel.pro	443
-WORKS	YES	YES	5.181.201.31	EE	687	82		🇪🇪82Mb | Brainoza OU	estomin1.vodniki.monster	443
-WORKS	YES	YES	34.10.76.179	US	215	81	2	🇺🇸81Mb | Google Cloud	34.10.76.179	443
+WORKS	YES	YES	46.22.216.32	EE	1430	82	62	🇪🇪82Mb | Aktsiaselts WaveCom	ee-node.usel.pro	443
+WORKS	YES	YES	5.181.201.31	EE	530	82		🇪🇪82Mb | Brainoza OU	estomin1.vodniki.monster	443
+WORKS	YES	YES	34.10.76.179	US	138	81	1	🇺🇸81Mb | Google Cloud	34.10.76.179	443
 FAIL	NO	NO			4002	81		🇮🇹81Mb | Akenai Products LTD	orenburg.gosgenarchive.com	443
-WORKS	YES	YES	94.183.238.74	DE	451	80		🇩🇪80Mb | Eternity International Limited	94.183.238.74	443
-WORKS	YES	YES	172.233.139.46	US	259	79		🇺🇸79Mb | Akamai Connected Cloud	172.233.139.46	53734
-WORKS	YES	YES	34.176.137.90	CL	576	78	49	🇨🇱78Mb | Google Cloud	34.176.137.90	443
-FAIL	NO	NO			4002	78		🇳🇱78Mb | Akamai Connected Cloud	172.239.239.53	22746
-FAIL	NO	NO			4002	78		🇳🇱78Mb | Akamai Connected Cloud	172.239.239.53	22746
-WORKS	YES	YES	31.76.39.152	GB	1217	77	16	🇬🇧77Mb | Akenai Products LTD	31.76.39.153	443
-WORKS	YES	NO			2105	77		🇸🇪77Mb | Aeza Group	213.21.246.124	443
-FAIL	NO	NO			393	77		🇹🇷77Mb | Global Connectivity Solutions Llp	176.108.243.140	443
-FAIL	NO	NO			479	76		🇨🇿76Mb | Host-Telecomcom sro	czechomine.purpl.su	443
-WORKS	YES	YES	34.19.224.156	CA	419	76	39	🇨🇦76Mb | Google Cloud	34.19.224.156	443
-FAIL	NO	NO			904	74		🇩🇪74Mb | Datagio Systems	greger.purpl.su	443
-WORKS	YES	YES	172.235.38.85	US	271	73		🇺🇸73Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	YES	YES	172.235.38.85	US	296	73		🇺🇸73Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	YES	YES	34.35.174.85	ZA	1052	73	66	🇿🇦73Mb | Google Cloud	34.35.174.85	443
-WORKS	YES	YES	34.51.29.171	MX	578	73	50	🇲🇽73Mb | Google Cloud	34.51.29.171	443
-WORKS	YES	YES	85.155.228.24	AL	1166	73	69	🇦🇱73Mb | Andrew Kristuli	alda1.thewalkingded.life	443
-WORKS	NO	NO			1235	73		🇫🇷73Mb | Baykov Ilya Sergeevich	212.119.42.27	43582
-FAIL	NO	NO			395	73		🇷🇺73Mb | Kviktel	ru-svo-1.blook.network	443
-FAIL	NO	NO			592	71		🇩🇪71Mb | Datagio Systems	greger.purpl.su	443
-WORKS	YES	YES	172.235.38.85	US	343	71		🇺🇸71Mb | Akamai Connected Cloud	172.235.38.85	42942
-WORKS	YES	YES	203.188.173.17	NL	404	69	31	🇳🇱69Mb | RoyaleHosting BV	203.188.173.17	443
-WORKS	YES	YES	172.235.38.85	US	265	68		🇺🇸68Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			4002	80		🇩🇪80Mb | Eternity International Limited	94.183.238.74	443
+WORKS	YES	YES	172.233.139.46	US	204	79		🇺🇸79Mb | Akamai Connected Cloud	172.233.139.46	53734
+WORKS	YES	YES	34.176.137.90	CL	643	78	45	🇨🇱78Mb | Google Cloud	34.176.137.90	443
+WORKS	YES	YES	172.239.239.53	NL	428	78		🇳🇱78Mb | Akamai Connected Cloud	172.239.239.53	22746
+WORKS	YES	YES	172.239.239.53	NL	494	78		🇳🇱78Mb | Akamai Connected Cloud	172.239.239.53	22746
+WORKS	NO	YES			2797	77		🇬🇧77Mb | Akenai Products LTD	31.76.39.153	443
+WORKS	YES	YES	213.21.246.124	SE	921	77	59	🇸🇪77Mb | Aeza Group	213.21.246.124	443
+FAIL	NO	NO			2135	77		🇹🇷77Mb | Global Connectivity Solutions Llp	176.108.243.140	443
+FAIL	NO	NO			562	76		🇨🇿76Mb | Host-Telecomcom sro	czechomine.purpl.su	443
+WORKS	NO	YES			506	76		🇨🇦76Mb | Google Cloud	34.19.224.156	443
+FAIL	NO	NO			775	74		🇩🇪74Mb | Datagio Systems	greger.purpl.su	443
+WORKS	YES	YES	172.235.38.85	US	940	73		🇺🇸73Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	YES	YES	172.235.38.85	US	657	73		🇺🇸73Mb | Akamai Connected Cloud	172.235.38.85	42942
+WORKS	YES	NO			1143	73		🇿🇦73Mb | Google Cloud	34.35.174.85	443
+WORKS	YES	YES	34.51.29.171	MX	189	73	35	🇲🇽73Mb | Google Cloud	34.51.29.171	443
+WORKS	YES	YES	85.155.228.24	AL	2206	73	64	🇦🇱73Mb | Andrew Kristuli	alda1.thewalkingded.life	443
+FAIL	NO	NO			4002	73		🇫🇷73Mb | Baykov Ilya Sergeevich	212.119.42.27	43582
+FAIL	NO	NO			430	73		🇷🇺73Mb | Kviktel	ru-svo-1.blook.network	443
+FAIL	NO	NO			634	71		🇩🇪71Mb | Datagio Systems	greger.purpl.su	443
+WORKS	YES	YES	172.235.38.85	US	320	71		🇺🇸71Mb | Akamai Connected Cloud	172.235.38.85	42942
+FAIL	NO	NO			373	69		🇳🇱69Mb | RoyaleHosting BV	203.188.173.17	443
+WORKS	YES	YES	172.235.38.85	US	232	68		🇺🇸68Mb | Akamai Connected Cloud	172.235.38.85	42942
 FAIL	NO	NO			4002	68		🇦🇹68Mb | netcup GmbH	159.195.240.82	443
-WORKS	YES	YES	31.76.39.152	GB	480	66		🇬🇧66Mb | Akenai Products LTD	31.76.39.153	443
-FAIL	NO	NO			4001	65		🇮🇹65Mb | Akamai Connected Cloud	172.238.232.239	32833
+WORKS	YES	YES	31.76.39.152	GB	3728	66	16	🇬🇧66Mb | Akenai Products LTD	31.76.39.153	443
+WORKS	NO	NO			571	65		🇮🇹65Mb | Akamai Connected Cloud	172.238.232.239	32833
 FAIL	NO	NO			4003	64		🇳🇱64Mb | Oracle Cloud	158.101.213.194	62145
-WORKS	YES	YES	35.220.207.209	HK	835	64	63	🇭🇰64Mb | Google Cloud	35.220.207.209	443
-WORKS	YES	YES	34.51.23.2	MX	724	61	61	🇲🇽61Mb | Google Cloud	34.51.23.2	443
-FAIL	NO	NO			4002	60		🇪🇪60Mb | Aktsiaselts WaveCom	46.22.216.32	443
-WORKS	YES	YES	5.157.10.250	SE	458	59		🇸🇪59Mb | Angelnet Limited	5.157.10.250	443
-WORKS	YES	YES	35.220.207.209	HK	842	59		🇭🇰59Mb | Google Cloud	35.220.207.209	443
-WORKS	YES	YES	5.157.10.250	SE	626	58		🇸🇪58Mb | Angelnet Limited	swebz.loozerp.wiki	443
-WORKS	YES	YES	34.165.244.172	IL	563	57	48	🇮🇱57Mb | Google Cloud	34.165.244.172	443
-WORKS	YES	YES	35.220.207.209	HK	846	57		🇭🇰57Mb | Google Cloud	35.220.207.209	443
-FAIL	NO	NO			399	57		🇹🇷57Mb | Global Connectivity Solutions Llp	176.108.243.140	443
-FAIL	NO	NO			4002	57		🇳🇱57Mb | Akamai Connected Cloud	172.239.239.53	22746
-WORKS	YES	YES	167.235.27.187	DE	395	57	20	🇩🇪57Mb | Hetzner	167.233.177.42	80
+WORKS	YES	YES	35.220.207.209	HK	773	64	50	🇭🇰64Mb | Google Cloud	35.220.207.209	443
+WORKS	YES	YES	34.51.23.2	MX	221	61	36	🇲🇽61Mb | Google Cloud	34.51.23.2	443
+WORKS	YES	YES	46.22.216.32	EE	642	60	44	🇪🇪60Mb | Aktsiaselts WaveCom	46.22.216.32	443
+WORKS	NO	YES			1795	59		🇸🇪59Mb | Angelnet Limited	5.157.10.250	443
+WORKS	YES	YES	35.220.207.209	HK	787	59		🇭🇰59Mb | Google Cloud	35.220.207.209	443
+WORKS	YES	YES	5.157.10.250	SE	850	58		🇸🇪58Mb | Angelnet Limited	swebz.loozerp.wiki	443
+WORKS	YES	YES	34.165.244.172	IL	668	57	46	🇮🇱57Mb | Google Cloud	34.165.244.172	443
+WORKS	YES	YES	35.220.207.209	HK	782	57		🇭🇰57Mb | Google Cloud	35.220.207.209	443
+FAIL	NO	NO			453	57		🇹🇷57Mb | Global Connectivity Solutions Llp	176.108.243.140	443
+WORKS	YES	YES	172.239.239.53	NL	493	57		🇳🇱57Mb | Akamai Connected Cloud	172.239.239.53	22746
+WORKS	YES	YES	167.235.27.187	DE	506	57	20	🇩🇪57Mb | Hetzner	167.233.177.42	80
