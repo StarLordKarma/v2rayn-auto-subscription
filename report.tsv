@@ -1,29 +1,29 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	147.45.148.6	RU	578	357	2	🇷🇺357Mb | Jsc timeweb	147.45.148.6	443
-WORKS	NO	YES			1873	356		🇩🇪356Mb | UAB Cherry Servers	91.240.86.12	443
-WORKS	NO	YES			433	347		🇳🇱347Mb | Blockchain Creek BV	nl2.bbobr.win	443
-WORKS	YES	YES	212.46.33.90	NL	445	285	1	🇳🇱285Mb | Liam Kremer	212.46.33.90	443
-FAIL	NO	NO			4002	277		🇺🇸277Mb | Eternity International Limited	2.27.249.144	443
-FAIL	NO	NO			4003	271		🇳🇱271Mb | Aeza Group	138.124.113.61	443
-FAIL	NO	NO			4002	249		🇦🇹249Mb | netcup GmbH	159.195.240.82	443
-FAIL	NO	NO			210	242		🇨🇭242Mb | Global Connectivity Solutions Llp	104.21.6.101	443
-WORKS	NO	YES			534	239		🇳🇱239Mb | Liam Kremer	slowkd.sadiepinki.com	443
-FAIL	NO	NO			190	229		🇹🇷229Mb | Netlen Internet Hizmetleri  Sti	104.21.61.2	443
-FAIL	NO	NO			212	210		🇹🇷210Mb | Netlen Internet Hizmetleri  Sti	104.20.19.131	443
-WORKS	YES	YES	94.183.157.8	PL	1562	196	4	🇵🇱196Mb | HOSTES LTD	94.183.157.8	443
-WORKS	NO	NO			1094	190		🇩🇪190Mb | Aeza Group	171.22.114.98	443
-FAIL	NO	NO			188	179		🇩🇪179Mb | Senko Digital	172.67.134.181	443
-WORKS	NO	YES			413	169		🇳🇱169Mb | Blockchain Creek BV	31.57.34.139	443
-FAIL	NO	NO			325	167		🇳🇱167Mb | Railway	faryad-iran-jwiw918whsj.up.railway.app	443
-FAIL	NO	NO			293	167		🇳🇱167Mb | Railway	faryad-iran-jwiw918whsj.up.railway.app	443
-WORKS	YES	YES			3597	162		🇬🇧162Mb | Akenai Products LTD	gb.superbuba.top	443
-WORKS	NO	NO			1526	133		🇦🇪133Mb | HOSTES LTD	151.242.161.50	443
-WORKS	YES	YES	57.128.231.84	PL	1108	130	3	🇵🇱130Mb | OVH	194.93.63.246	443
-WORKS	NO	YES			1850	125		🇬🇧125Mb | Akenai Products LTD	31.76.39.141	443
-FAIL	NO	NO			4003	125		🌐125Mb | 1339  🇯🇵 Japan  VLESS  📺 YT  T	152.69.195.67	47878
-FAIL	NO	NO			2011	117		🇹🇷117Mb | Netlen Internet Hizmetleri  Sti	185.155.8.133	8443
-FAIL	NO	NO			346	111		🇹🇷111Mb | Netlen Internet Hizmetleri  Sti	104.27.198.149	443
-WORKS	YES	YES	88.119.176.131	LT	1898	75	5	🇱🇹75Mb | Hostline Uab	litter.propper.beauty	443
-FAIL	NO	NO			4002	68		🇦🇹68Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	YES	88.119.176.131	LT	2935	61	6	🇱🇹61Mb | Hostline Uab	88.119.176.131	443
-WORKS	YES	NO			248	59		🇺🇸59Mb | Hetzner	5.78.159.214	80
+WORKS	YES	YES	147.45.148.6	RU	550	357	10	🇷🇺357Mb | Jsc timeweb	147.45.148.6	443
+WORKS	NO	YES			2870	356		🇩🇪356Mb | UAB Cherry Servers	91.240.86.12	443
+WORKS	NO	YES			395	347		🇳🇱347Mb | Blockchain Creek BV	nl2.bbobr.win	443
+WORKS	YES	YES	212.46.33.90	NL	440	285	5	🇳🇱285Mb | Liam Kremer	212.46.33.90	443
+WORKS	YES	NO			498	277		🇺🇸277Mb | Eternity International Limited	2.27.249.144	443
+FAIL	NO	NO			4002	271		🇳🇱271Mb | Aeza Group	138.124.113.61	443
+WORKS	YES	YES	159.195.240.82	AT	474	249	7	🇦🇹249Mb | netcup GmbH	159.195.240.82	443
+FAIL	NO	NO			195	242		🇨🇭242Mb | Global Connectivity Solutions Llp	104.21.6.101	443
+WORKS	YES	YES	212.46.33.90	NL	441	239	6	🇳🇱239Mb | Liam Kremer	slowkd.sadiepinki.com	443
+FAIL	NO	NO			222	229		🇹🇷229Mb | Netlen Internet Hizmetleri  Sti	104.21.61.2	443
+FAIL	NO	NO			194	210		🇹🇷210Mb | Netlen Internet Hizmetleri  Sti	104.20.19.131	443
+FAIL	NO	NO			317	196		🇵🇱196Mb | HOSTES LTD	94.183.157.8	443
+FAIL	NO	NO			4002	190		🇩🇪190Mb | Aeza Group	171.22.114.98	443
+FAIL	NO	NO			221	179		🇩🇪179Mb | Senko Digital	172.67.134.181	443
+WORKS	NO	YES			368	169		🇳🇱169Mb | Blockchain Creek BV	31.57.34.139	443
+FAIL	NO	NO			258	167		🇳🇱167Mb | Railway	faryad-iran-jwiw918whsj.up.railway.app	443
+FAIL	NO	NO			267	167		🇳🇱167Mb | Railway	faryad-iran-jwiw918whsj.up.railway.app	443
+WORKS	YES	YES	31.76.39.141	GB	644	162	3	🇬🇧162Mb | Akenai Products LTD	gb.superbuba.top	443
+WORKS	YES	YES	151.242.161.50	DE	421	133	4	🇦🇪133Mb | HOSTES LTD	151.242.161.50	443
+WORKS	YES	YES	57.128.231.84	PL	3917	130	13	🇵🇱130Mb | OVH	194.93.63.246	443
+WORKS	YES	YES	31.76.39.141	GB	340	125	2	🇬🇧125Mb | Akenai Products LTD	31.76.39.141	443
+WORKS	YES	YES	152.69.195.67	JP	492	125	9	🌐125Mb | 1339  🇯🇵 Japan  VLESS  📺 YT  T	152.69.195.67	47878
+FAIL	NO	NO			4003	117		🇹🇷117Mb | Netlen Internet Hizmetleri  Sti	185.155.8.133	8443
+FAIL	NO	NO			56	111		🇹🇷111Mb | Netlen Internet Hizmetleri  Sti	104.27.198.149	443
+WORKS	YES	YES	88.119.176.131	LT	746	75	12	🇱🇹75Mb | Hostline Uab	litter.propper.beauty	443
+WORKS	YES	YES	159.195.242.180	AT	489	68	8	🇦🇹68Mb | netcup GmbH	159.195.242.180	443
+WORKS	YES	YES	88.119.176.131	LT	585	61	11	🇱🇹61Mb | Hostline Uab	88.119.176.131	443
+WORKS	YES	YES	5.78.159.214	US	333	59	1	🇺🇸59Mb | Hetzner	5.78.159.214	80
