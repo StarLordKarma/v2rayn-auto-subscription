@@ -1,29 +1,29 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	147.45.148.6	RU	554	357	6	🇷🇺357Mb | Jsc timeweb	147.45.148.6	443
-WORKS	NO	YES			1335	356		🇩🇪356Mb | UAB Cherry Servers	91.240.86.12	443
-WORKS	NO	YES			1780	347		🇳🇱347Mb | Blockchain Creek BV	nl2.bbobr.win	443
-WORKS	YES	YES	212.46.33.90	NL	436	285	5	🇳🇱285Mb | Liam Kremer	212.46.33.90	443
-WORKS	NO	NO			482	277		🇺🇸277Mb | Eternity International Limited	2.27.249.144	443
+WORKS	YES	YES	147.45.148.6	RU	702	357	3	🇷🇺357Mb | Jsc timeweb	147.45.148.6	443
+FAIL	NO	NO			4002	356		🇩🇪356Mb | UAB Cherry Servers	91.240.86.12	443
+WORKS	NO	YES			565	347		🇳🇱347Mb | Blockchain Creek BV	nl2.bbobr.win	443
+WORKS	YES	YES	212.46.33.90	NL	1123	285	2	🇳🇱285Mb | Liam Kremer	212.46.33.90	443
+FAIL	NO	NO			4002	277		🇺🇸277Mb | Eternity International Limited	2.27.249.144	443
 FAIL	NO	NO			4002	271		🇳🇱271Mb | Aeza Group	138.124.113.61	443
-FAIL	NO	NO			4002	249		🇦🇹249Mb | netcup GmbH	159.195.240.82	443
-FAIL	NO	NO			144	242		🇨🇭242Mb | Global Connectivity Solutions Llp	104.21.6.101	443
-WORKS	NO	YES			516	239		🇳🇱239Mb | Liam Kremer	slowkd.sadiepinki.com	443
-FAIL	NO	NO			204	229		🇹🇷229Mb | Netlen Internet Hizmetleri  Sti	104.21.61.2	443
-FAIL	NO	NO			200	210		🇹🇷210Mb | Netlen Internet Hizmetleri  Sti	104.20.19.131	443
-FAIL	NO	NO			4002	196		🇵🇱196Mb | HOSTES LTD	94.183.157.8	443
-WORKS	YES	YES	77.110.101.48	DE	769	190	4	🇩🇪190Mb | Aeza Group	171.22.114.98	443
-FAIL	NO	NO			187	179		🇩🇪179Mb | Senko Digital	172.67.134.181	443
-WORKS	NO	YES			2072	169		🇳🇱169Mb | Blockchain Creek BV	31.57.34.139	443
-FAIL	NO	NO			4003	167		🇳🇱167Mb | Railway	faryad-iran-jwiw918whsj.up.railway.app	443
-FAIL	NO	NO			4002	167		🇳🇱167Mb | Railway	faryad-iran-jwiw918whsj.up.railway.app	443
-WORKS	YES	YES	31.76.39.141	GB	998	162	3	🇬🇧162Mb | Akenai Products LTD	gb.superbuba.top	443
+FAIL	NO	NO			4003	249		🇦🇹249Mb | netcup GmbH	159.195.240.82	443
+FAIL	NO	NO			245	242		🇨🇭242Mb | Global Connectivity Solutions Llp	104.21.6.101	443
+WORKS	NO	YES			800	239		🇳🇱239Mb | Liam Kremer	slowkd.sadiepinki.com	443
+FAIL	NO	NO			267	229		🇹🇷229Mb | Netlen Internet Hizmetleri  Sti	104.21.61.2	443
+FAIL	NO	NO			226	210		🇹🇷210Mb | Netlen Internet Hizmetleri  Sti	104.20.19.131	443
+WORKS	YES	NO			695	196		🇵🇱196Mb | HOSTES LTD	94.183.157.8	443
+WORKS	NO	YES			1982	190		🇩🇪190Mb | Aeza Group	171.22.114.98	443
+FAIL	NO	NO			1633	179		🇩🇪179Mb | Senko Digital	172.67.134.181	443
+WORKS	NO	YES			541	169		🇳🇱169Mb | Blockchain Creek BV	31.57.34.139	443
+FAIL	NO	NO			367	167		🇳🇱167Mb | Railway	faryad-iran-jwiw918whsj.up.railway.app	443
+FAIL	NO	NO			349	167		🇳🇱167Mb | Railway	faryad-iran-jwiw918whsj.up.railway.app	443
+WORKS	YES	NO			1550	162		🇬🇧162Mb | Akenai Products LTD	gb.superbuba.top	443
 FAIL	NO	NO			4002	133		🇦🇪133Mb | HOSTES LTD	151.242.161.50	443
-FAIL	NO	NO			4002	130		🇵🇱130Mb | OVH	194.93.63.246	443
-WORKS	YES	YES	31.76.39.141	GB	535	125	2	🇬🇧125Mb | Akenai Products LTD	31.76.39.141	443
-FAIL	NO	NO			4003	125		🌐125Mb | 1339  🇯🇵 Japan  VLESS  📺 YT  T	152.69.195.67	47878
-FAIL	NO	NO			2158	117		🇹🇷117Mb | Netlen Internet Hizmetleri  Sti	185.155.8.133	8443
-FAIL	NO	NO			48	111		🇹🇷111Mb | Netlen Internet Hizmetleri  Sti	104.27.198.149	443
-WORKS	YES	YES	88.119.176.131	LT	884	75	8	🇱🇹75Mb | Hostline Uab	litter.propper.beauty	443
+FAIL	NO	NO			4001	130		🇵🇱130Mb | OVH	194.93.63.246	443
+WORKS	YES	NO			2817	125		🇬🇧125Mb | Akenai Products LTD	31.76.39.141	443
+WORKS	YES	YES	152.69.195.67	JP	2412	125	6	🌐125Mb | 1339  🇯🇵 Japan  VLESS  📺 YT  T	152.69.195.67	47878
+FAIL	NO	NO			1207	117		🇹🇷117Mb | Netlen Internet Hizmetleri  Sti	185.155.8.133	8443
+FAIL	NO	NO			129	111		🇹🇷111Mb | Netlen Internet Hizmetleri  Sti	104.27.198.149	443
+WORKS	YES	YES	88.119.176.131	LT	1014	75	5	🇱🇹75Mb | Hostline Uab	litter.propper.beauty	443
 FAIL	NO	NO			4002	68		🇦🇹68Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	YES	88.119.176.131	LT	641	61	7	🇱🇹61Mb | Hostline Uab	88.119.176.131	443
-WORKS	YES	YES	5.78.159.214	US	251	59	1	🇺🇸59Mb | Hetzner	5.78.159.214	80
+WORKS	YES	YES	88.119.176.131	LT	850	61	4	🇱🇹61Mb | Hostline Uab	88.119.176.131	443
+WORKS	YES	YES	5.78.159.214	US	147	59	1	🇺🇸59Mb | Hetzner	5.78.159.214	80
