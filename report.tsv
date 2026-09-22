@@ -1,64 +1,29 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4003	428		🇺🇸428Mb | Kyonix Networks Limited	2.27.63.71	443
-WORKS	NO	YES			1113	393		🇬🇧393Mb | Akenai Products LTD	gb.superbuba.top	443
-FAIL	NO	NO			4002	305		🇵🇱305Mb | FDCserversnet	poland-new-first-one.failspace.top	443
-FAIL	NO	NO			650	297		🇫🇮297Mb | Tabunscic Anatoli	fi.riotvpn.eu	9443
-FAIL	NO	NO			4003	288		🇳🇱288Mb | Oracle Cloud	158.178.152.251	62145
-FAIL	NO	NO			4002	259		🇩🇪259Mb | UAB Cherry Servers	mur.burladuck.com	443
-FAIL	NO	NO			4003	254		🌐254Mb | 2215  🇳🇱 Netherlands  VLESS  📺	185.170.211.194	443
-FAIL	NO	NO			634	242		🇵🇱242Mb | HOSTES LTD	poland2.serverslocal.ru	443
-WORKS	YES	YES	147.45.148.6	RU	621	215	4	🇷🇺215Mb | Jsc timeweb	147.45.148.6	443
-FAIL	NO	NO			362	203		🇦🇪203Mb | HOSTES LTD	31.57.17.40	443
-FAIL	NO	NO			4002	202		🇩🇪202Mb | dataforest GmbH	185.229.207.77	18082
-FAIL	NO	NO			390	179		🇦🇪179Mb | HOSTES LTD	31.57.20.46	443
-FAIL	NO	NO			570	156		🇩🇪156Mb | Hetzner	kala.bestsellers1.site	443
-FAIL	NO	NO			574	145		🇫🇷145Mb | Global Connectivity Solutions Llp	fra.accessgate.link	8080
-FAIL	NO	NO			4002	145		🇩🇪145Mb | WAIcore	138.124.32.110	443
-FAIL	NO	NO			4002	144		🇸🇪144Mb | Fzco	177.3.215.62	443
-FAIL	NO	NO			350	141		🇦🇪141Mb | HOSTES LTD	31.57.18.59	443
-WORKS	YES	YES	94.183.157.8	PL	1728	138	7	🇵🇱138Mb | HOSTES LTD	94.183.157.8	443
-FAIL	NO	NO			661	138		🇦🇲138Mb | Edge Core FZE	swe1.accessgate.link	2096
-FAIL	NO	NO			4002	137		🇦🇹137Mb | netcup GmbH	159.195.242.180	443
-FAIL	NO	NO			4002	126		🇦🇹126Mb | netcup GmbH	159.195.240.82	443
-FAIL	NO	NO			372	125		🇦🇪125Mb | HOSTES LTD	31.57.16.29	443
-WORKS	YES	YES	88.119.176.131	LT	919	119	6	🇱🇹119Mb | Hostline Uab	litter.propper.beauty	443
-FAIL	NO	NO			387	119		🇵🇱119Mb | HOSTES LTD	94.183.157.8	443
-FAIL	NO	NO			367	119		🇦🇪119Mb | HOSTES LTD	31.57.20.47	443
-FAIL	NO	NO			354	118		🇦🇪118Mb | HOSTES LTD	31.57.20.44	443
-WORKS	YES	YES	88.119.176.131	LT	707	118	5	🇱🇹118Mb | Hostline Uab	88.119.176.131	443
-FAIL	NO	NO			386	116		🇦🇪116Mb | HOSTES LTD	31.57.17.43	443
-WORKS	YES	YES	201.51.17.24	BR	484	114	3	🌐114Mb | 🌐سرور 75  Sha-31 MTSRVRS	201.51.17.24	1443
-FAIL	NO	NO			406	113		🇦🇪113Mb | HOSTES LTD	31.57.17.44	443
-FAIL	NO	NO			93	109		🇩🇪109Mb | Hetzner	chatgpt-async-webps-prod-centralus-0.chatgpt.com	443
-FAIL	NO	NO			4002	109		🇵🇱109Mb | FDCserversnet	50.7.249.197	443
-FAIL	NO	NO			377	107		🇦🇪107Mb | HOSTES LTD	31.57.18.57	443
-FAIL	NO	NO			416	106		🇦🇪106Mb | HOSTES LTD	31.57.17.41	443
-FAIL	NO	NO			4002	106		🇵🇱106Mb | FDCserversnet	50.7.249.189	443
-FAIL	NO	NO			415	104		🇦🇪104Mb | HOSTES LTD	31.57.17.39	443
-FAIL	NO	NO			4003	103		🌐103Mb | 0515  🇳🇱 Netherlands  VLESS  📺	150.251.143.3	16857
-WORKS	YES	YES	31.57.34.139	NL	3018	103	2	🇳🇱103Mb | Blockchain Creek BV	nl2.bbobr.win	443
-WORKS	NO	YES			944	101		🇳🇱101Mb | Aeza Group	138.124.113.61	443
-FAIL	NO	NO			4003	101		🇬🇧101Mb | Akenai Products LTD	31.76.39.153	443
-FAIL	NO	NO			385	101		🇦🇪101Mb | HOSTES LTD	31.57.20.45	443
-FAIL	NO	NO			474	93		🇦🇪93Mb | HOSTES LTD	core-data.gorekmas.online	443
-FAIL	NO	NO			361	92		🇦🇪92Mb | HOSTES LTD	31.57.16.28	443
-FAIL	NO	NO			773	92		🇫🇷92Mb | OVH	de58.abvpn.net	443
-FAIL	NO	NO			414	92		🇦🇪92Mb | HOSTES LTD	31.57.17.45	443
-FAIL	NO	NO			380	91		🇦🇪91Mb | HOSTES LTD	31.57.17.42	443
-FAIL	NO	NO			75	89		🇩🇪89Mb | Hetzner	chatgpt-async-webps-prod-centralus-0.chatgpt.com	8443
-FAIL	NO	NO			354	84		🇦🇪84Mb | HOSTES LTD	31.57.20.52	443
-WORKS	YES	YES	31.76.39.141	GB	465	84	1	🇬🇧84Mb | Akenai Products LTD	31.76.39.141	443
-FAIL	NO	NO			586	79		🇩🇰79Mb | Global Connectivity Solutions Llp	dnk.accessgate.link	8080
-FAIL	NO	NO			382	76		🇦🇪76Mb | HOSTES LTD	31.57.16.27	443
-FAIL	NO	NO			648	76		🇸🇪76Mb | Andris Jakovlevs	swe2.accessgate.link	2096
-FAIL	NO	NO			4002	75		🇳🇱75Mb | Moskalev Georgiy	191.44.38.143	8443
-FAIL	NO	NO			4003	75		🇷🇺75Mb | Global Connectivity Solutions Llp	fin2.accessgate.link	2096
-FAIL	NO	NO			386	74		🇦🇪74Mb | HOSTES LTD	31.57.20.43	443
-FAIL	NO	NO			388	74		🇦🇪74Mb | HOSTES LTD	31.57.18.56	443
-FAIL	NO	NO			761	74		🇮🇱74Mb | SmartApe OU	isr.accessgate.link	8080
-FAIL	NO	NO			374	72		🇦🇪72Mb | HOSTES LTD	31.57.20.50	443
-FAIL	NO	NO			385	68		🇦🇪68Mb | HOSTES LTD	31.57.20.48	443
-FAIL	NO	NO			4002	66		🇵🇱66Mb | OVH	194.93.63.246	443
-FAIL	NO	NO			604	64		🇺🇸64Mb | Servhost Group	deu.accessgate.link	8080
-WORKS	NO	YES			3656	62		🇯🇵62Mb | Oracle Cloud	152.69.195.67	47878
-FAIL	NO	NO			368	61		🇦🇪61Mb | HOSTES LTD	31.57.20.42	443
+WORKS	YES	YES	147.45.148.6	RU	654	357	9	🇷🇺357Mb | Jsc timeweb	147.45.148.6	443
+WORKS	NO	YES			723	356		🇩🇪356Mb | UAB Cherry Servers	91.240.86.12	443
+WORKS	NO	YES			2166	347		🇳🇱347Mb | Blockchain Creek BV	nl2.bbobr.win	443
+WORKS	NO	YES			414	285		🇳🇱285Mb | Liam Kremer	212.46.33.90	443
+WORKS	YES	YES	2.27.249.144	NL	503	277	6	🇺🇸277Mb | Eternity International Limited	2.27.249.144	443
+FAIL	NO	NO			4002	271		🇳🇱271Mb | Aeza Group	138.124.113.61	443
+FAIL	NO	NO			4002	249		🇦🇹249Mb | netcup GmbH	159.195.240.82	443
+FAIL	NO	NO			204	242		🇨🇭242Mb | Global Connectivity Solutions Llp	104.21.6.101	443
+WORKS	YES	YES	212.46.33.90	NL	553	239	7	🇳🇱239Mb | Liam Kremer	slowkd.sadiepinki.com	443
+FAIL	NO	NO			190	229		🇹🇷229Mb | Netlen Internet Hizmetleri  Sti	104.21.61.2	443
+FAIL	NO	NO			164	210		🇹🇷210Mb | Netlen Internet Hizmetleri  Sti	104.20.19.131	443
+WORKS	YES	NO			575	196		🇵🇱196Mb | HOSTES LTD	94.183.157.8	443
+WORKS	YES	YES	77.110.101.48	DE	775	190	5	🇩🇪190Mb | Aeza Group	171.22.114.98	443
+FAIL	NO	NO			192	179		🇩🇪179Mb | Senko Digital	172.67.134.181	443
+WORKS	NO	YES			1630	169		🇳🇱169Mb | Blockchain Creek BV	31.57.34.139	443
+FAIL	NO	NO			368	167		🇳🇱167Mb | Railway	faryad-iran-jwiw918whsj.up.railway.app	443
+FAIL	NO	NO			322	167		🇳🇱167Mb | Railway	faryad-iran-jwiw918whsj.up.railway.app	443
+WORKS	YES	YES	31.76.39.141	GB	790	162	3	🇬🇧162Mb | Akenai Products LTD	gb.superbuba.top	443
+WORKS	YES	YES	151.242.161.50	DE	479	133	4	🇦🇪133Mb | HOSTES LTD	151.242.161.50	443
+WORKS	YES	NO			593	130		🇵🇱130Mb | OVH	194.93.63.246	443
+WORKS	YES	YES	31.76.39.141	GB	664	125	2	🇬🇧125Mb | Akenai Products LTD	31.76.39.141	443
+FAIL	NO	NO			4003	125		🌐125Mb | 1339  🇯🇵 Japan  VLESS  📺 YT  T	152.69.195.67	47878
+FAIL	NO	NO			4002	117		🇹🇷117Mb | Netlen Internet Hizmetleri  Sti	185.155.8.133	8443
+FAIL	NO	NO			47	111		🇹🇷111Mb | Netlen Internet Hizmetleri  Sti	104.27.198.149	443
+WORKS	YES	YES	88.119.176.131	LT	722	75	10	🇱🇹75Mb | Hostline Uab	litter.propper.beauty	443
+FAIL	NO	NO			4003	68		🇦🇹68Mb | netcup GmbH	159.195.242.180	443
+WORKS	YES	YES	88.119.176.131	LT	636	61	8	🇱🇹61Mb | Hostline Uab	88.119.176.131	443
+WORKS	YES	YES	5.78.159.214	US	247	59	1	🇺🇸59Mb | Hetzner	5.78.159.214	80
