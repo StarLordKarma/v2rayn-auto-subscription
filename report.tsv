@@ -1,88 +1,88 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	31.57.18.63	US	534	806	10	🌐806Mb | 4Jadi-790e246f12	31.57.18.63	443
-WORKS	YES	YES			658	711		🌐711Mb | 1442  🌐 Unknown  VLESS  TG: @Y	ee.dexlen.cc	443
-WORKS	YES	YES	31.57.20.46	US	522	592	6	🌐592Mb | Бесплатный VPN tg:VLESSFORU 🇺🇸	31.57.20.46	443
+WORKS	YES	YES	31.57.18.63	US	682	806	10	🌐806Mb | 4Jadi-790e246f12	31.57.18.63	443
+FAIL	NO	NO			560	711		🌐711Mb | 1442  🌐 Unknown  VLESS  TG: @Y	ee.dexlen.cc	443
+WORKS	YES	YES	31.57.20.46	US	778	592	17	🌐592Mb | Бесплатный VPN tg:VLESSFORU 🇺🇸	31.57.20.46	443
 FAIL	NO	NO			4002	528		🌐528Mb | 2162  🇮🇪 Ireland  VLESS  📺 YT	50.7.5.186	443
-FAIL	NO	NO			431	485		🇷🇺485Mb | Jsc timeweb	anime-hub.online	443
-WORKS	NO	YES			616	451		🌐451Mb | 🇩🇪 Germany, Frankfurt am Main	31.76.111.58	443
-FAIL	NO	NO			4002	343		🌐343Mb | Бесплатный VPN tg:VLESSFORU 🇱🇻	72.56.52.229	443
-WORKS	YES	YES	31.76.39.141	GB	680	341	21	🇬🇧341Mb | Akenai Products LTD	gb.superbuba.top	443
-FAIL	NO	NO			688	316		🌐316Mb | 🇩🇪  @WhiteDNS  DE2895.6MB/sDNS	dee338dd.localip.ir	2087
-WORKS	YES	YES	94.183.157.8	PL	1939	314	30	🇵🇱314Mb | HOSTES LTD	94.183.157.8	443
-FAIL	NO	NO			524	310		🇪🇪310Mb | ExpressHost	mg-42.whit3.net	443
-WORKS	NO	YES			1591	309		🌐309Mb | Бесплатный VPN tg:VLESSFORU 🇺🇸	72.56.52.238	443
-WORKS	YES	YES	2.27.249.144	NL	535	296	24	🇺🇸296Mb | Eternity International Limited	2.27.249.144	443
-WORKS	NO	YES			1829	290		🇳🇱290Mb | Blockchain Creek BV	nl2.bbobr.win	443
-FAIL	NO	NO			4002	284		🇸🇪284Mb | Fzco	swe.lavivas.org	443
-WORKS	YES	NO			1550	279		🌐279Mb | Бесплатный VPN tg:VLESSFORU 🇩🇪	31.76.111.86	443
-FAIL	NO	NO			4002	272		🇦🇲272Mb | Edge Core FZE	swe1.accessgate.link	2096
-FAIL	NO	NO			4003	263		🇺🇸263Mb | Servhost Group	deu.accessgate.link	8080
+FAIL	NO	NO			581	485		🇷🇺485Mb | Jsc timeweb	anime-hub.online	443
+FAIL	NO	NO			413	451		🌐451Mb | 🇩🇪 Germany, Frankfurt am Main	31.76.111.58	443
+FAIL	NO	NO			489	343		🌐343Mb | Бесплатный VPN tg:VLESSFORU 🇱🇻	72.56.52.229	443
+WORKS	YES	YES	31.76.39.141	GB	917	341	21	🇬🇧341Mb | Akenai Products LTD	gb.superbuba.top	443
+FAIL	NO	NO			693	316		🌐316Mb | 🇩🇪  @WhiteDNS  DE2895.6MB/sDNS	dee338dd.localip.ir	2087
+FAIL	NO	NO			4002	314		🇵🇱314Mb | HOSTES LTD	94.183.157.8	443
+FAIL	NO	NO			551	310		🇪🇪310Mb | ExpressHost	mg-42.whit3.net	443
+FAIL	NO	NO			512	309		🌐309Mb | Бесплатный VPN tg:VLESSFORU 🇺🇸	72.56.52.238	443
+WORKS	YES	YES	2.27.249.144	NL	710	296	22	🇺🇸296Mb | Eternity International Limited	2.27.249.144	443
+WORKS	NO	YES			2467	290		🇳🇱290Mb | Blockchain Creek BV	nl2.bbobr.win	443
+FAIL	NO	NO			4001	284		🇸🇪284Mb | Fzco	swe.lavivas.org	443
+FAIL	NO	NO			416	279		🌐279Mb | Бесплатный VPN tg:VLESSFORU 🇩🇪	31.76.111.86	443
+FAIL	NO	NO			678	272		🇦🇲272Mb | Edge Core FZE	swe1.accessgate.link	2096
+FAIL	NO	NO			830	263		🇺🇸263Mb | Servhost Group	deu.accessgate.link	8080
 FAIL	NO	NO			4003	246		🇸🇪246Mb | Fzco	idontknow.whit3.net	443
-WORKS	YES	YES	31.57.20.45	US	527	236	8	🇦🇪236Mb | HOSTES LTD	31.57.20.45	443
-FAIL	NO	NO			384	227		🇸🇪227Mb | Fzco	177.3.215.41	443
-FAIL	NO	NO			4003	221		🌐221Mb | 🇱🇻 Latvia, Riga  BL	72.56.52.248	443
-WORKS	YES	YES	31.57.20.51	US	538	214	11	🇦🇪214Mb | HOSTES LTD	31.57.20.51	443
-FAIL	NO	NO			483	208		🌐208Mb | 397. 🇪🇪 Estonia	est40.shadowq.cc	8443
-FAIL	NO	NO			366	199		🇩🇪199Mb | UAB Cherry Servers	88.216.70.86	443
-FAIL	NO	NO			328	197		🇳🇱197Mb | HZ Hosting	5.149.248.227	443
-WORKS	YES	YES			1290	186		🇸🇪186Mb | Angelnet Limited	swebz.loozerp.wiki	443
-WORKS	YES	YES	31.57.20.47	US	531	186	9	🇦🇪186Mb | HOSTES LTD	31.57.20.47	443
-FAIL	NO	NO			4002	186		🇩🇰186Mb | Global Connectivity Solutions Llp	dnk.accessgate.link	8080
-WORKS	NO	NO			3354	179		🌐179Mb | 🇸🇪 Sweden, Stockholm  BL	2.26.93.150	443
-FAIL	NO	NO			33	176		🇩🇪176Mb | Leaseweb Deutschland GmbH	188.114.97.6	443
-FAIL	NO	NO			4002	168		🌐168Mb | 🇩🇪 Germany, Frankfurt am Main	31.76.111.67	443
-FAIL	NO	NO			4002	163		🇰🇿163Mb | LLP Internet Company First Page	84.240.206.178	443
-FAIL	NO	NO			342	161		🇩🇪161Mb | UAB Cherry Servers	88.216.70.86	443
-WORKS	NO	YES			2051	158		🌐158Mb | 🇸🇪 Sweden, Stockholm  BL	31.76.3.8	443
-WORKS	YES	NO			787	156		🇧🇪156Mb | Global Connectivity Solutions Llp	bel.accessgate.link	8080
-WORKS	YES	NO			2893	154		🌐154Mb | 🇵🇱 Poland, Warsaw  BL	95.85.227.223	443
-FAIL	NO	NO			4002	148		🌐148Mb | 🇵🇱 Poland, Warsaw (Śródmieście	31.77.59.76	443
-WORKS	NO	NO			2034	139		🌐139Mb | 2042  🌐 Unknown  VLESS  TG: @Y	fl3.rexten.cc	443
-FAIL	NO	NO			377	136		🇪🇪136Mb | ExpressHost	31.56.187.193	443
-WORKS	YES	YES	31.57.20.50	US	513	132	4	🇦🇪132Mb | HOSTES LTD	31.57.20.50	443
-FAIL	NO	NO			368	126		🇩🇪126Mb | Andris Jakovlevs	31.77.220.190	443
-WORKS	YES	YES	31.57.20.48	US	563	124	12	🇦🇪124Mb | HOSTES LTD	31.57.20.48	443
-WORKS	NO	YES			529	123		🌐123Mb | 0566  🌐 Unknown  VLESS  TG: @Y	ne5.rexten.cc	443
-FAIL	NO	NO			4003	119		🌐119Mb | 1183  🌐 Unknown  VLESS  TG: @Y	sw.dexlen.cc	443
-WORKS	YES	NO			354	118		🇳🇱118Mb | Oracle Cloud	158.101.219.77	62145
-FAIL	NO	NO			4002	117		🌐117Mb | 586. 🇬🇧 United Kingdom	31.76.111.69	443
-WORKS	YES	YES	31.76.39.152	GB	611	116	20	🇬🇧116Mb | Akenai Products LTD	31.76.39.153	443
-WORKS	YES	YES	31.57.18.56	US	585	114	16	🇦🇪114Mb | HOSTES LTD	31.57.18.56	443
-WORKS	YES	YES	31.57.20.52	US	527	112	7	🇦🇪112Mb | HOSTES LTD	31.57.20.52	443
-FAIL	NO	NO			4002	110		🌐110Mb | 🇰🇿 Kazakhstan, Almaty  BL	194.58.42.214	443
-WORKS	YES	YES	31.57.20.45	US	830	110	17	🇦🇪110Mb | HOSTES LTD	edge6.multikons.shop	443
-WORKS	YES	YES	31.57.18.59	US	565	108	13	🇦🇪108Mb | HOSTES LTD	31.57.18.59	443
-FAIL	NO	NO			205	107		🇺🇸107Mb | HostPapa	192.3.20.155	8443
-WORKS	YES	YES	31.76.39.141	GB	476	106	19	🇬🇧106Mb | Akenai Products LTD	31.76.39.141	443
-FAIL	NO	NO			336	103		🇺🇸103Mb | Alexhost Srl	usa-01.node.lumixnet.com	443
-WORKS	YES	YES	31.57.20.43	US	498	100	3	🇦🇪100Mb | HOSTES LTD	31.57.20.43	443
-WORKS	YES	YES	31.57.18.58	US	583	100	15	🇦🇪100Mb | HOSTES LTD	31.57.18.58	443
-FAIL	NO	NO			348	95		🇳🇱95Mb | Moskalev Georgiy	89.125.100.29	443
-WORKS	YES	YES	144.31.217.186	DE	987	94	23	🇩🇪94Mb | Servhost Group	nor.accessgate.link	2096
-WORKS	YES	YES	130.78.191.25	NL	2256	90	25	🇳🇱90Mb | Datagio Systems	130.78.191.25	443
-WORKS	YES	YES	31.57.17.44	US	570	89	14	🇦🇪89Mb | HOSTES LTD	core-data.gorekmas.online	443
-WORKS	NO	YES			825	83		🇵🇱83Mb | FDCserversnet	poland-new-first-one.failspace.top	443
-WORKS	YES	YES	31.57.20.49	US	522	82	5	🇦🇪82Mb | HOSTES LTD	31.57.20.49	443
-WORKS	YES	YES	31.57.20.42	US	1606	78	18	🇦🇪78Mb | HOSTES LTD	31.57.20.42	443
-WORKS	NO	YES			817	78		🇵🇱78Mb | FDCserversnet	poland-mori-new-ded.failspace.top	443
-WORKS	YES	YES	37.221.92.22	DE	886	78	22	🇩🇪78Mb | Tube-Hosting	dedicated.pivo.lol	7443
-FAIL	NO	NO			4003	78		🇷🇺78Mb | Global Connectivity Solutions Llp	fin2.accessgate.link	2096
-WORKS	NO	YES			2964	77		🌐77Mb | 1740  🌐 Unknown  VLESS  TG: @Y	lv.dexlen.cc	443
-FAIL	NO	NO			616	74		🌐74Mb | 2106  🌐 Unknown  VLESS  TG: @Y	fi-xhttp.lunoa.ru	8443
-WORKS	YES	YES	5.157.10.250	SE	596	72	27	🇸🇪72Mb | Angelnet Limited	5.157.10.250	443
-FAIL	NO	NO			4003	71		🇸🇬71Mb | Aleksei Fedorov Pr Krusevac	sgp.accessgate.link	8080
-WORKS	YES	NO			634	69		🇸🇪69Mb | Fzco	177.3.215.62	443
-FAIL	NO	NO			4002	67		🇵🇱67Mb | OVH	pl.bubahero.com	443
-FAIL	NO	NO			4002	67		🌐67Mb | 1171  🌐 Unknown  VLESS  TG: @Y	pl.dexlen.cc	443
-FAIL	NO	NO			4002	67		🇸🇪67Mb | Andris Jakovlevs	swe2.accessgate.link	2096
-FAIL	NO	NO			3362	62		🇵🇱62Mb | FDCserversnet	50.7.249.197	443
-WORKS	YES	YES	31.57.16.29	US	489	62	2	🇦🇪62Mb | HOSTES LTD	31.57.16.29	443
-FAIL	NO	NO			4002	61		🇱🇹61Mb | Baxet Group	ltu.accessgate.link	2096
-WORKS	YES	YES	91.239.208.198	FR	500	60	26	🇫🇷60Mb | Layer7 Networks GmbH	fr-node.usel.pro	443
-WORKS	YES	YES	31.57.16.28	US	480	60	1	🇦🇪60Mb | HOSTES LTD	31.57.16.28	443
-WORKS	YES	YES	85.137.165.74	CZ	769	60	28	🇨🇿60Mb | SmartApe OU	cze.accessgate.link	8080
-WORKS	YES	YES	94.183.157.8	PL	565	60		🇵🇱60Mb | HOSTES LTD	94.183.157.8	443
-FAIL	NO	NO			4003	60		🇳🇱60Mb | Starry Network Limited	185.170.211.194	443
-FAIL	NO	NO			3317	59		🇵🇱59Mb | FDCserversnet	50.7.249.189	443
-WORKS	YES	YES	109.172.55.41	FR	895	58	29	🇫🇷58Mb | Global Connectivity Solutions Llp	fra.accessgate.link	8080
-WORKS	YES	YES			4554	58		🌐58Mb | 275. 🇩🇪 Germany	95.85.227.221	443
+WORKS	YES	YES	31.57.20.45	US	1133	236	18	🇦🇪236Mb | HOSTES LTD	31.57.20.45	443
+FAIL	NO	NO			516	227		🇸🇪227Mb | Fzco	177.3.215.41	443
+FAIL	NO	NO			502	221		🌐221Mb | 🇱🇻 Latvia, Riga  BL	72.56.52.248	443
+WORKS	YES	YES	31.57.20.51	US	642	214	4	🇦🇪214Mb | HOSTES LTD	31.57.20.51	443
+FAIL	NO	NO			549	208		🌐208Mb | 397. 🇪🇪 Estonia	est40.shadowq.cc	8443
+FAIL	NO	NO			403	199		🇩🇪199Mb | UAB Cherry Servers	88.216.70.86	443
+FAIL	NO	NO			422	197		🇳🇱197Mb | HZ Hosting	5.149.248.227	443
+WORKS	YES	YES	5.157.10.250	SE	1103	186	27	🇸🇪186Mb | Angelnet Limited	swebz.loozerp.wiki	443
+WORKS	YES	YES	31.57.20.47	US	665	186	8	🇦🇪186Mb | HOSTES LTD	31.57.20.47	443
+FAIL	NO	NO			658	186		🇩🇰186Mb | Global Connectivity Solutions Llp	dnk.accessgate.link	8080
+FAIL	NO	NO			487	179		🌐179Mb | 🇸🇪 Sweden, Stockholm  BL	2.26.93.150	443
+FAIL	NO	NO			29	176		🇩🇪176Mb | Leaseweb Deutschland GmbH	188.114.97.6	443
+FAIL	NO	NO			413	168		🌐168Mb | 🇩🇪 Germany, Frankfurt am Main	31.76.111.67	443
+WORKS	YES	YES	109.248.247.144	KZ	1403	163	28	🇰🇿163Mb | LLP Internet Company First Page	84.240.206.178	443
+FAIL	NO	NO			409	161		🇩🇪161Mb | UAB Cherry Servers	88.216.70.86	443
+FAIL	NO	NO			503	158		🌐158Mb | 🇸🇪 Sweden, Stockholm  BL	31.76.3.8	443
+FAIL	NO	NO			782	156		🇧🇪156Mb | Global Connectivity Solutions Llp	bel.accessgate.link	8080
+FAIL	NO	NO			482	154		🌐154Mb | 🇵🇱 Poland, Warsaw  BL	95.85.227.223	443
+FAIL	NO	NO			466	148		🌐148Mb | 🇵🇱 Poland, Warsaw (Śródmieście	31.77.59.76	443
+FAIL	NO	NO			560	139		🌐139Mb | 2042  🌐 Unknown  VLESS  TG: @Y	fl3.rexten.cc	443
+FAIL	NO	NO			490	136		🇪🇪136Mb | ExpressHost	31.56.187.193	443
+WORKS	YES	YES	31.57.20.50	US	650	132	6	🇦🇪132Mb | HOSTES LTD	31.57.20.50	443
+FAIL	NO	NO			398	126		🇩🇪126Mb | Andris Jakovlevs	31.77.220.190	443
+WORKS	YES	YES	31.57.20.48	US	672	124	9	🇦🇪124Mb | HOSTES LTD	31.57.20.48	443
+FAIL	NO	NO			447	123		🌐123Mb | 0566  🌐 Unknown  VLESS  TG: @Y	ne5.rexten.cc	443
+FAIL	NO	NO			544	119		🌐119Mb | 1183  🌐 Unknown  VLESS  TG: @Y	sw.dexlen.cc	443
+FAIL	NO	NO			4002	118		🇳🇱118Mb | Oracle Cloud	158.101.219.77	62145
+FAIL	NO	NO			468	117		🌐117Mb | 586. 🇬🇧 United Kingdom	31.76.111.69	443
+WORKS	YES	YES	31.76.39.152	GB	754	116	20	🇬🇧116Mb | Akenai Products LTD	31.76.39.153	443
+WORKS	YES	YES	31.57.18.56	US	700	114	13	🇦🇪114Mb | HOSTES LTD	31.57.18.56	443
+WORKS	YES	YES	31.57.20.52	US	690	112	12	🇦🇪112Mb | HOSTES LTD	31.57.20.52	443
+FAIL	NO	NO			4003	110		🌐110Mb | 🇰🇿 Kazakhstan, Almaty  BL	194.58.42.214	443
+WORKS	YES	YES	31.57.20.47	US	727	110	15	🇦🇪110Mb | HOSTES LTD	edge6.multikons.shop	443
+WORKS	YES	YES	31.57.18.59	US	730	108	16	🇦🇪108Mb | HOSTES LTD	31.57.18.59	443
+FAIL	NO	NO			4003	107		🇺🇸107Mb | HostPapa	192.3.20.155	8443
+WORKS	YES	YES	31.76.39.141	GB	582	106	19	🇬🇧106Mb | Akenai Products LTD	31.76.39.141	443
+FAIL	NO	NO			620	103		🇺🇸103Mb | Alexhost Srl	usa-01.node.lumixnet.com	443
+WORKS	YES	YES	31.57.20.43	US	721	100	14	🇦🇪100Mb | HOSTES LTD	31.57.20.43	443
+WORKS	YES	YES	31.57.18.58	US	618	100	3	🇦🇪100Mb | HOSTES LTD	31.57.18.58	443
+FAIL	NO	NO			402	95		🇳🇱95Mb | Moskalev Georgiy	89.125.100.29	443
+FAIL	NO	NO			808	94		🇩🇪94Mb | Servhost Group	nor.accessgate.link	2096
+WORKS	YES	YES	130.78.191.25	NL	4100	90	23	🇳🇱90Mb | Datagio Systems	130.78.191.25	443
+WORKS	YES	YES	31.57.16.27	US	690	89	11	🇦🇪89Mb | HOSTES LTD	core-data.gorekmas.online	443
+WORKS	NO	YES			984	83		🇵🇱83Mb | FDCserversnet	poland-new-first-one.failspace.top	443
+WORKS	YES	YES	31.57.20.49	US	648	82	5	🇦🇪82Mb | HOSTES LTD	31.57.20.49	443
+WORKS	YES	YES	31.57.20.42	US	660	78	7	🇦🇪78Mb | HOSTES LTD	31.57.20.42	443
+WORKS	NO	YES			2417	78		🇵🇱78Mb | FDCserversnet	poland-mori-new-ded.failspace.top	443
+WORKS	NO	NO			1777	78		🇩🇪78Mb | Tube-Hosting	dedicated.pivo.lol	7443
+FAIL	NO	NO			745	78		🇷🇺78Mb | Global Connectivity Solutions Llp	fin2.accessgate.link	2096
+FAIL	NO	NO			654	77		🌐77Mb | 1740  🌐 Unknown  VLESS  TG: @Y	lv.dexlen.cc	443
+FAIL	NO	NO			894	74		🌐74Mb | 2106  🌐 Unknown  VLESS  TG: @Y	fi-xhttp.lunoa.ru	8443
+WORKS	YES	YES	5.157.10.250	SE	1024	72	26	🇸🇪72Mb | Angelnet Limited	5.157.10.250	443
+FAIL	NO	NO			1018	71		🇸🇬71Mb | Aleksei Fedorov Pr Krusevac	sgp.accessgate.link	8080
+WORKS	YES	YES	177.3.215.62	SE	728	69	25	🇸🇪69Mb | Fzco	177.3.215.62	443
+WORKS	NO	YES			939	67		🇵🇱67Mb | OVH	pl.bubahero.com	443
+FAIL	NO	NO			532	67		🌐67Mb | 1171  🌐 Unknown  VLESS  TG: @Y	pl.dexlen.cc	443
+FAIL	NO	NO			701	67		🇸🇪67Mb | Andris Jakovlevs	swe2.accessgate.link	2096
+FAIL	NO	NO			4003	62		🇵🇱62Mb | FDCserversnet	50.7.249.197	443
+WORKS	YES	YES	31.57.16.29	US	612	62	2	🇦🇪62Mb | HOSTES LTD	31.57.16.29	443
+FAIL	NO	NO			3196	61		🇱🇹61Mb | Baxet Group	ltu.accessgate.link	2096
+WORKS	YES	YES	91.239.208.198	FR	554	60	24	🇫🇷60Mb | Layer7 Networks GmbH	fr-node.usel.pro	443
+WORKS	YES	YES	31.57.16.28	US	596	60	1	🇦🇪60Mb | HOSTES LTD	31.57.16.28	443
+FAIL	NO	NO			629	60		🇨🇿60Mb | SmartApe OU	cze.accessgate.link	8080
+FAIL	NO	NO			4001	60		🇵🇱60Mb | HOSTES LTD	94.183.157.8	443
+WORKS	NO	NO			4043	60		🇳🇱60Mb | Starry Network Limited	185.170.211.194	443
+FAIL	NO	NO			4003	59		🇵🇱59Mb | FDCserversnet	50.7.249.189	443
+FAIL	NO	NO			600	58		🇫🇷58Mb | Global Connectivity Solutions Llp	fra.accessgate.link	8080
+FAIL	NO	NO			471	58		🌐58Mb | 275. 🇩🇪 Germany	95.85.227.221	443
