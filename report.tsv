@@ -1,34 +1,34 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	50.7.4.66	IE	559	465	8	🇮🇪465Mb | FDCserversnet	ireland-new-ded1.failspace.top	443
-FAIL	NO	NO			4002	367		🌐367Mb | 3704  🌐 Unknown  VLESS  TG: @Y	gb.nvrsk-not-news.ru	59845
-WORKS	YES	YES			423	280		🇳🇱280Mb | Liam Kremer	212.46.33.90	443
-WORKS	YES	YES	50.7.160.114	NL	527	262	6	🇺🇸262Mb | FDCserversnet	hub-mori-new.failspace.top	443
-WORKS	NO	YES			541	253		🇳🇱253Mb | Liam Kremer	slowkd.sadiepinki.com	443
-WORKS	NO	YES			1459	218		🇱🇹218Mb | UAB Cherry Servers	188.225.77.241	443
-WORKS	YES	YES	196.240.109.114	PL	2036	216	13	🇵🇱216Mb | Orion Network Limited	arturito.nxxzxaw.beer	443
-WORKS	YES	YES	88.216.127.125	LT	1269	206	12	🇱🇹206Mb | UAB Cherry Servers	188.225.35.207	443
-WORKS	NO	YES			1477	195		🇳🇱195Mb | Liam Kremer	212.46.33.5	443
+WORKS	YES	YES	50.7.4.66	IE	1033	465	8	🇮🇪465Mb | FDCserversnet	ireland-new-ded1.failspace.top	443
+FAIL	NO	NO			4003	367		🌐367Mb | 3704  🌐 Unknown  VLESS  TG: @Y	gb.nvrsk-not-news.ru	59845
+FAIL	NO	NO			368	280		🇳🇱280Mb | Liam Kremer	212.46.33.90	443
+WORKS	NO	YES			981	262		🇺🇸262Mb | FDCserversnet	hub-mori-new.failspace.top	443
+FAIL	NO	NO			449	253		🇳🇱253Mb | Liam Kremer	slowkd.sadiepinki.com	443
+FAIL	NO	NO			1469	218		🇱🇹218Mb | UAB Cherry Servers	188.225.77.241	443
+WORKS	YES	YES	196.240.109.114	PL	949	216	7	🇵🇱216Mb | Orion Network Limited	arturito.nxxzxaw.beer	443
+FAIL	NO	NO			1453	206		🇱🇹206Mb | UAB Cherry Servers	188.225.35.207	443
+FAIL	NO	NO			362	195		🇳🇱195Mb | Liam Kremer	212.46.33.5	443
 FAIL	NO	NO			4002	172		🇦🇹172Mb | netcup GmbH	159.195.240.82	443
-FAIL	NO	NO			1034	167		🇪🇬167Mb | Pipe Networks LTD	node-nd01.rkitman.ru	443
-WORKS	NO	YES			485	161		🇳🇱161Mb | Liam Kremer	212.46.33.5	443
-WORKS	NO	YES			401	158		🇳🇱158Mb | Liam Kremer	212.46.33.90	443
-WORKS	YES	YES	95.133.240.114	GB	425	149	1	🇬🇧149Mb | Packet Star Networks Limited	45.139.197.27	443
-WORKS	NO	YES			498	148		🇳🇱148Mb | Liam Kremer	slowkd.sadiepinki.com	443
-WORKS	NO	YES			447	127		🇳🇱127Mb | Liam Kremer	212.46.33.90	443
-WORKS	NO	YES			489	122		🇳🇱122Mb | Liam Kremer	212.46.33.5	443
-FAIL	NO	NO			688	118		🇸🇮118Mb | Pipe Networks LTD	node-slo01.rkitman.ru	443
-WORKS	YES	YES	95.133.240.114	GB	676	118	3	🇬🇧118Mb | Packet Star Networks Limited	angldril.pumpkinpie.study	443
-WORKS	YES	YES	80.47.6.11	GB	1990	114	4	🇵🇱114Mb | MEVSPACE sp z oo	polkakurvich.hohoterz.beer	443
-FAIL	NO	NO			575	112		🇺🇸112Mb | H2nexus Cloud Services - Fzco	31.77.113.21	443
-WORKS	YES	YES	88.216.127.125	LT	1158	102	11	🇱🇹102Mb | UAB Cherry Servers	188.225.25.142	443
-WORKS	YES	YES	5.199.172.193	LT	949	101	10	🇱🇹101Mb | UAB Cherry Servers	188.225.24.201	443
-WORKS	YES	YES	50.7.36.26	AT	540	92	7	🇺🇸92Mb | FDCserversnet	at-at-at.failspace.top	443
-WORKS	NO	YES			684	87		🇳🇱87Mb | Liam Kremer	slowkd.sadiepinki.com	443
-FAIL	NO	NO			4002	86		🇧🇷86Mb | Global Connectivity Solutions Llp	sanpa-meow.nethcloud.top	8443
-FAIL	NO	NO			4003	75		🇦🇪75Mb | Oracle Cloud	139.185.44.42	8443
-FAIL	NO	NO			4003	74		🇳🇱74Mb | Datagio Systems	130.78.191.25	443
-WORKS	YES	YES	5.199.172.193	LT	808	64	9	🇱🇹64Mb | UAB Cherry Servers	188.225.44.89	443
-WORKS	YES	YES	84.32.177.74	NL	431	61	5	🇳🇱61Mb | UAB Cherry Servers	84.32.177.63	443
-WORKS	YES	YES	80.47.6.11	GB	569	59	2	🇵🇱59Mb | MEVSPACE sp z oo	80.47.6.12	443
-FAIL	NO	NO			4002	58		🇬🇧58Mb | Servhost Group	nl2.nvrsk-not-news.ru	41698
+FAIL	NO	NO			812	167		🇪🇬167Mb | Pipe Networks LTD	node-nd01.rkitman.ru	443
+FAIL	NO	NO			375	161		🇳🇱161Mb | Liam Kremer	212.46.33.5	443
+FAIL	NO	NO			366	158		🇳🇱158Mb | Liam Kremer	212.46.33.90	443
+WORKS	YES	YES	95.133.240.114	GB	496	149	1	🇬🇧149Mb | Packet Star Networks Limited	45.139.197.27	443
+FAIL	NO	NO			405	148		🇳🇱148Mb | Liam Kremer	slowkd.sadiepinki.com	443
+FAIL	NO	NO			385	127		🇳🇱127Mb | Liam Kremer	212.46.33.90	443
+FAIL	NO	NO			382	122		🇳🇱122Mb | Liam Kremer	212.46.33.5	443
+FAIL	NO	NO			860	118		🇸🇮118Mb | Pipe Networks LTD	node-slo01.rkitman.ru	443
+WORKS	YES	YES	95.133.240.114	GB	760	118	3	🇬🇧118Mb | Packet Star Networks Limited	angldril.pumpkinpie.study	443
+WORKS	YES	YES	80.47.6.11	GB	824	114	4	🇵🇱114Mb | MEVSPACE sp z oo	polkakurvich.hohoterz.beer	443
+FAIL	NO	NO			418	112		🇺🇸112Mb | H2nexus Cloud Services - Fzco	31.77.113.21	443
+FAIL	NO	NO			1448	102		🇱🇹102Mb | UAB Cherry Servers	188.225.25.142	443
+FAIL	NO	NO			455	101		🇱🇹101Mb | UAB Cherry Servers	188.225.24.201	443
+WORKS	YES	YES	50.7.36.26	AT	872	92	6	🇺🇸92Mb | FDCserversnet	at-at-at.failspace.top	443
+FAIL	NO	NO			391	87		🇳🇱87Mb | Liam Kremer	slowkd.sadiepinki.com	443
+WORKS	YES	YES	147.45.116.219	BR	1057	86	9	🇧🇷86Mb | Global Connectivity Solutions Llp	sanpa-meow.nethcloud.top	8443
+WORKS	NO	YES			1341	75		🇦🇪75Mb | Oracle Cloud	139.185.44.42	8443
+WORKS	YES	YES	130.78.191.25	NL	543	74	5	🇳🇱74Mb | Datagio Systems	130.78.191.25	443
+FAIL	NO	NO			448	64		🇱🇹64Mb | UAB Cherry Servers	188.225.44.89	443
+FAIL	NO	NO			511	61		🇳🇱61Mb | UAB Cherry Servers	84.32.177.63	443
+WORKS	YES	YES	80.47.6.11	GB	602	59	2	🇵🇱59Mb | MEVSPACE sp z oo	80.47.6.12	443
+WORKS	YES	YES	13.143.193.88	UA	1065	58	10	🇬🇧58Mb | Servhost Group	nl2.nvrsk-not-news.ru	41698
 FAIL	NO	NO			4002	57		🇦🇹57Mb | netcup GmbH	159.195.242.180	443
