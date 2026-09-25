@@ -1,45 +1,48 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	92.5.200.0	NL	355	734	6	🇳🇱734Mb | Oracle Cloud	92.5.200.0	62145
-WORKS	YES	YES	158.178.145.112	NL	1326	717	11	🇳🇱717Mb | Oracle Cloud	158.178.145.112	62145
-WORKS	YES	YES			312	663		🇳🇱663Mb | Oracle Cloud	92.5.231.246	62145
-FAIL	NO	NO			182	470		🇩🇪470Mb | Play2go International Limited	151.101.213.164	443
-WORKS	YES	YES	191.44.113.69	PL	1291	360	23	🇵🇱360Mb | Node Host Limited	merkos.mervi.icu	8445
-WORKS	YES	YES	84.32.186.198	NL	595	341	9	🇳🇱341Mb | UAB Cherry Servers	game.betust.net	443
-FAIL	NO	NO			476	329		🇳🇱329Mb | WAIcore	185.86.144.101	443
-FAIL	NO	NO			3568	319		🌐319Mb | 🇩🇪 Germany — #37	31.177.111.114	443
-WORKS	YES	NO			307	295		🇳🇱295Mb | Oracle Cloud	84.235.187.241	62145
-WORKS	YES	NO			1358	280		🇳🇱280Mb | Oracle Cloud	158.101.195.43	62145
-FAIL	NO	NO			643	277		🇩🇪277Mb | UAB Cherry Servers	31.177.111.75	8443
-WORKS	NO	NO			2478	258		🇳🇱258Mb | Oracle Cloud	141.144.195.160	62145
-WORKS	YES	NO			737	257		🇷🇺257Mb | Beget	5.35.87.69	443
-WORKS	NO	NO			1116	251		🌐251Mb | 0311  🌐 Unknown  🏳️ CIDR-beeli	merkos.mervi.icu	8444
-WORKS	YES	YES	88.119.176.131	LT	929	226	20	🇱🇹226Mb | Hostline Uab	litter.propper.beauty	443
-WORKS	YES	YES	196.240.109.114	PL	886	218	19	🇵🇱218Mb | Orion Network Limited	arturito.nxxzxaw.beer	443
-WORKS	NO	YES			444	170		🌐170Mb | 1095  🇳🇱 Netherlands  VLESS  📺	212.46.33.5	443
-WORKS	YES	YES	95.133.240.114	GB	646	129	2	🇬🇧129Mb | Packet Star Networks Limited	angldril.pumpkinpie.study	443
-WORKS	YES	NO			2879	129		🌐129Mb | 1554  🇷🇺 Russia  🏳️ CIDR-beeli	188.225.82.184	8444
-WORKS	NO	YES			473	125		🇳🇱125Mb | Liam Kremer	slowkd.sadiepinki.com	443
-WORKS	YES	YES	88.216.127.125	LT	862	123	18	🇱🇹123Mb | UAB Cherry Servers	188.225.35.207	443
-FAIL	NO	NO			4003	118		🇳🇱118Mb | Liam Kremer	slowkd.sadiepinki.com	443
-FAIL	NO	NO			4002	116		🇳🇱116Mb | Liam Kremer	212.46.33.90	443
-FAIL	NO	NO			4002	101		🇳🇱101Mb | UAB Cherry Servers	188.225.42.6	443
-WORKS	YES	YES	84.32.177.74	NL	453	100	8	🇳🇱100Mb | UAB Cherry Servers	84.32.177.63	443
-WORKS	NO	YES			458	98		🌐98Mb | 1688  🇳🇱 Netherlands  VLESS  📺	89.125.100.29	443
-WORKS	NO	YES			1122	96		🇳🇱96Mb | Moskalev Georgiy	191.44.38.143	8443
-WORKS	YES	NO			2797	91		🇳🇱91Mb | Datagio Systems	130.78.191.25	443
-WORKS	YES	YES	212.46.33.90	NL	416	90	7	🇳🇱90Mb | Liam Kremer	212.46.33.90	443
-WORKS	YES	YES	88.216.127.125	LT	797	88	17	🇱🇹88Mb | UAB Cherry Servers	188.225.25.142	443
-WORKS	YES	YES	95.133.240.114	GB	417	84	1	🇬🇧84Mb | Packet Star Networks Limited	45.139.197.27	443
-WORKS	YES	YES	147.45.116.219	BR	616	82	13	🇧🇷82Mb | Global Connectivity Solutions Llp	147.45.116.241	8443
-WORKS	YES	YES	217.60.179.51	DE	434	76	4	🇩🇪76Mb | ExpressHost	217.60.179.51	47812
-WORKS	YES	YES	13.143.193.88	UA	1064	75	21	🇬🇧75Mb | Servhost Group	nl2.nvrsk-not-news.ru	41698
-WORKS	NO	YES			448	74		🇳🇱74Mb | Moskalev Georgiy	89.125.100.29	443
-WORKS	NO	YES			454	72		🇳🇱72Mb | Liam Kremer	212.46.33.5	443
-WORKS	YES	YES	64.188.92.54	DE	467	69	5	🇩🇪69Mb | U1 Digital Services	150.241.105.184	443
-WORKS	YES	YES	88.119.176.131	LT	608	67	12	🇱🇹67Mb | Hostline Uab	88.119.176.131	443
-WORKS	YES	YES	191.44.113.69	PL	1209	63	22	🇵🇱63Mb | Node Host Limited	188.225.82.184	8445
-WORKS	YES	YES	143.246.223.251	MD	683	63	14	🇲🇩63Mb | Ava Host Srl	143.246.223.149	443
-WORKS	YES	YES	147.45.116.219	BR	734	62	15	🇧🇷62Mb | Global Connectivity Solutions Llp	sanpa-meow.nethcloud.top	8443
-WORKS	YES	YES	80.47.6.11	GB	693	61	3	🇵🇱61Mb | MEVSPACE sp z oo	polkakurvich.hohoterz.beer	443
-WORKS	YES	YES	5.199.172.193	LT	783	60	16	🌐60Mb | 2374  🇷🇺 Russia  🏳️ CIDR-beeli	188.225.44.89	443
-WORKS	YES	YES	88.216.63.90	NL	771	58	10	🇳🇱58Mb | UAB Cherry Servers	188.225.58.238	443
+FAIL	NO	NO			4002	530		🇬🇧530Mb | Hostkey Bv	gb.nvrsk-not-news.ru	59845
+WORKS	YES	YES	50.7.184.122	AT	927	449	10	🌐449Mb | Бесплатный VPN tg:VLESSFORU 🇦🇹	at-at-at-new.failspace.top	443
+WORKS	NO	YES			2346	287		🌐287Mb | 1994  🇷🇺 Russia  🏳️ CIDR-beeli	91.240.86.12	443
+WORKS	NO	YES			712	277		🇳🇱277Mb | Liam Kremer	slowkd.sadiepinki.com	443
+WORKS	YES	YES	88.216.127.125	LT	993	271	12	🇱🇹271Mb | UAB Cherry Servers	188.225.35.207	443
+FAIL	NO	NO			4003	269		🇳🇱269Mb | Oracle Cloud	152.70.59.131	62145
+WORKS	YES	YES	5.199.172.193	LT	998	254	13	🇱🇹254Mb | UAB Cherry Servers	188.225.44.89	443
+WORKS	NO	YES			645	248		🇳🇱248Mb | Liam Kremer	212.46.33.90	443
+FAIL	NO	NO			512	238		🌐238Mb | 0750  🇷🇺 Russia  VLESS  TG: @Y	147.45.148.6	443
+WORKS	NO	NO			1989	226		🇷🇺226Mb | Beget	5.35.87.69	443
+FAIL	NO	NO			4003	197		🌐197Mb | 1275  🇩🇪 Germany  🏳️ SNI-VK  V	92.118.9.166	27439
+FAIL	NO	NO			602	184		🇸🇪184Mb | UAB Cherry Servers	82.202.182.48	24443
+WORKS	NO	YES			638	179		🇳🇱179Mb | Liam Kremer	slowkd.sadiepinki.com	443
+FAIL	NO	NO			114	177		🇩🇪177Mb | Play2go International Limited	151.101.213.165	443
+WORKS	YES	YES	196.240.109.114	PL	848	151	8	🇵🇱151Mb | Orion Network Limited	arturito.nxxzxaw.beer	443
+WORKS	YES	YES	88.216.63.90	NL	857	150	4	🇳🇱150Mb | UAB Cherry Servers	188.225.42.6	443
+FAIL	NO	NO			546	149		🇸🇪149Mb | UAB Cherry Servers	82.202.182.41	2443
+WORKS	YES	YES	95.133.240.114	GB	820	139	2	🇬🇧139Mb | Packet Star Networks Limited	angldril.pumpkinpie.study	443
+FAIL	NO	NO			758	136		🌐136Mb | 🇩🇪⭐Germany 4⭐ - Gemini 🤖	31.77.15.116	8443
+WORKS	NO	YES			855	135		🇳🇱135Mb | Liam Kremer	212.46.33.5	443
+FAIL	NO	NO			4002	134		🌐134Mb | 🇩🇪⭐Germany 3⭐ - Gemini 🤖	31.77.15.167	8443
+WORKS	YES	YES	88.216.127.125	LT	855	134	9	🇱🇹134Mb | UAB Cherry Servers	188.225.77.241	443
+FAIL	NO	NO			1326	132		🇸🇪132Mb | UAB Cherry Servers	82.202.179.105	10443
+WORKS	NO	YES			2320	126		🇳🇱126Mb | Liam Kremer	212.46.33.90	443
+FAIL	NO	NO			424	125		🇩🇪125Mb | Hetzner	5.75.149.156	443
+WORKS	NO	YES			639	124		🇳🇱124Mb | Liam Kremer	212.46.33.5	443
+FAIL	NO	NO			442	124		🇩🇪124Mb | NetLab Global	189.24.107.174	443
+FAIL	NO	NO			156	122		🌐122Mb | OpenRay 🇱🇺 LU-5	193.239.179.15	443
+WORKS	YES	YES	212.46.33.90	NL	965	117	5	🇳🇱117Mb | Liam Kremer	212.46.33.90	443
+FAIL	NO	NO			607	112		🇸🇪112Mb | UAB Cherry Servers	82.202.182.44	20443
+FAIL	NO	NO			149	109		🇺🇸109Mb | Unredacted	193.239.179.15	443
+FAIL	NO	NO			4003	109		🇬🇧109Mb | Aeza Group	193.233.223.185	50443
+WORKS	YES	YES	80.96.109.15	MD	1342	108	16	🇲🇩108Mb | Ava Host Srl	md-new.failspace.top	443
+WORKS	NO	YES			2005	106		🇳🇱106Mb | Liam Kremer	212.46.33.5	443
+WORKS	YES	YES	84.32.186.198	NL	1139	106	6	🇳🇱106Mb | UAB Cherry Servers	game.betust.net	443
+FAIL	NO	NO			4002	104		🇵🇱104Mb | MEVSPACE sp z oo	80.47.6.12	443
+WORKS	YES	YES	84.32.186.198	NL	553	101	3	🇳🇱101Mb | UAB Cherry Servers	84.32.177.68	443
+FAIL	NO	NO			221	97		🇺🇸97Mb | Unredacted	193.239.179.15	443
+WORKS	NO	YES			745	88		🇳🇱88Mb | Liam Kremer	slowkd.sadiepinki.com	443
+WORKS	YES	YES	95.133.240.114	GB	566	87	1	🇬🇧87Mb | Packet Star Networks Limited	45.139.197.27	443
+FAIL	NO	NO			1531	80		🇭🇰80Mb | POLONETWORK LIMITED	141.11.238.17	443
+FAIL	NO	NO			560	80		🇸🇪80Mb | UAB Cherry Servers	82.202.179.114	23443
+WORKS	YES	YES	88.119.176.131	LT	1100	79	14	🇱🇹79Mb | Hostline Uab	litter.propper.beauty	443
+WORKS	YES	YES	147.45.116.219	BR	933	76	11	🇧🇷76Mb | Global Connectivity Solutions Llp	sanpa-meow.nethcloud.top	8443
+FAIL	NO	NO			1774	68		🇩🇪68Mb | UAB Cherry Servers	31.177.111.75	8443
+WORKS	YES	YES	143.246.223.251	MD	1257	60	15	🇲🇩60Mb | Ava Host Srl	hapatronik.vodniki.monster	443
+WORKS	YES	YES	147.45.116.219	BR	688	58	7	🇧🇷58Mb | Global Connectivity Solutions Llp	147.45.116.241	8443
