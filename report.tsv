@@ -1,37 +1,38 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			191	549		🇩🇪549Mb | Akamai Connected Cloud	199.36.158.66	80
-WORKS	YES	YES	13.143.184.99	UA	1136	435	17	🇺🇸435Mb | Servhost Group	msc1.serverslocal.ru	443
-WORKS	YES	YES	50.7.4.66	IE	872	374	13	🌐374Mb | 🇮🇪 326 - IE - VLESS/TLS/VISION	ireland-new-ded1.failspace.top	443
-WORKS	YES	YES	50.7.226.170	GB	860	338	2	🇺🇸338Mb | FDCserversnet	ukefast.failspace.top	443
-WORKS	YES	YES	151.241.138.44	IN	1416	323	18	🌐323Mb | 3236  🇮🇳 India  VLESS  📺 YT  T	151.241.138.44	443
-WORKS	YES	YES	50.7.160.114	NL	859	278	7	🌐278Mb | @DeltaKroneckerGithub	hub-mori-new.failspace.top	443
-WORKS	YES	YES	94.183.157.8	PL	995	263	15	🇵🇱263Mb | HOSTES LTD	pol2.serverslocal.ru	443
-WORKS	NO	YES			828	253		🌐253Mb | @DeltaKroneckerGithub	at-at-at.failspace.top	443
-WORKS	YES	YES	144.31.93.193	RU	1000	245		🇺🇸245Mb | Servhost Group	xnod13x.artemida.live	8443
-WORKS	YES	YES	13.143.184.99	UA	815	209	11	🇺🇸209Mb | Servhost Group	13.143.184.226	443
-WORKS	NO	YES			805	199		🇳🇱199Mb | Moskalev Georgiy	nl2.yabloko.top	443
-FAIL	NO	NO			4002	196		🇬🇧196Mb | Global Connectivity Solutions Llp	84.38.181.249	443
-WORKS	YES	YES	94.183.170.51	EE	716	174	9	🇪🇪174Mb | Eternity International Limited	94.183.170.51	8443
-FAIL	NO	NO			871	150		🇳🇱150Mb | Netrouting BV	nl-xh02.tcp-reset-club.net	8443
-FAIL	NO	NO			173	138		🇩🇪138Mb | Akamai Connected Cloud	151.101.71.148	443
-WORKS	YES	YES	159.195.206.8	DE	1041	137	4	🇩🇪137Mb | netcup GmbH	ru-001.zapretu.net	443
-WORKS	YES	YES	144.31.93.193	RU	976	132	14	🇺🇸132Mb | Servhost Group	xnod13x.artemida.live	8443
-WORKS	YES	YES	196.240.109.114	PL	1117	121	16	🇵🇱121Mb | Orion Network Limited	arturito.nxxzxaw.beer	443
-WORKS	YES	YES	95.133.240.114	GB	615	118	1	🇬🇧118Mb | Packet Star Networks Limited	45.139.197.27	443
-FAIL	NO	NO			4003	115		🌐115Mb | 1634  🇯🇵 Japan  VLESS  📺 YT  🔐	152.69.195.67	47878
-WORKS	YES	YES	94.183.170.51	EE	859	111	12	🇪🇪111Mb | Eternity International Limited	xnod17x.artemida.live	8443
-WORKS	YES	YES	151.241.138.44	IN	1424	102	19	🌐102Mb | 4264  🌐 Unknown  VLESS  TG: @Y	condropolo.ggisopi.su	443
-FAIL	NO	NO			4003	101		🇸🇪101Mb | SIA VEESP	13.140.8.179	443
-FAIL	NO	NO			4002	95		🇳🇱95Mb | Datagio Systems	130.78.191.25	443
-FAIL	NO	NO			568	90		🇷🇺90Mb | Beget	45.67.56.25	443
-FAIL	NO	NO			4002	90		🇺🇸90Mb | Servhost Group	13.143.182.136	443
-FAIL	NO	NO			982	88		🇨🇭88Mb | GRUPO PANAGLOBAL 15 SA	185.191.238.222	8443
-FAIL	NO	NO			996	88		🇨🇭88Mb | GRUPO PANAGLOBAL 15 SA	ch-plr-xh-pilot.tcp-reset-club.net	8443
-WORKS	YES	YES	80.47.6.11	GB	1180	84	3	🇵🇱84Mb | MEVSPACE sp z oo	polkakurvich.hohoterz.beer	443
-WORKS	YES	YES	147.45.116.241	BR	763	84	10	🇧🇷84Mb | Global Connectivity Solutions Llp	147.45.116.241	8443
-WORKS	YES	YES	94.183.208.201	NL	588	73	5	🇳🇱73Mb | Eternity International Limited	94.183.208.201	8443
-FAIL	NO	NO			4002	72		🇺🇸72Mb | FDCserversnet	50.7.197.206	443
-WORKS	YES	YES	94.183.208.201	NL	696	64	6	🇳🇱64Mb | Eternity International Limited	xnod12x.artemida.live	8443
-FAIL	NO	NO			4002	63		🇸🇪63Mb | SIA VEESP	condrve.ggisopi.su	443
-WORKS	YES	YES	31.77.59.225	PL	705	60	8	🇵🇱60Mb | Paul Sagov	31.77.59.225	443
-WORKS	NO	YES			430	57		🌐57Mb | 2152  🇯🇵 Japan  VLESS  📺 YT  T	210.129.55.87	443
+WORKS	NO	YES			3575	398		🇺🇸398Mb | FDCserversnet	hub-mori-new.failspace.top	443
+WORKS	YES	YES	130.49.112.2	TR	560	383	15	🇹🇷383Mb | Fast Servers Pty	122.8.45.2	443
+FAIL	NO	NO			284	353		🌐353Mb | v2go  🇩🇪 DE  VLESS  340	144.31.166.55	8443
+WORKS	YES	NO			1643	327		🇺🇸327Mb | Servhost Group	13.143.184.226	443
+FAIL	NO	NO			4003	284		🇵🇱284Mb | HOSTES LTD	pol2.serverslocal.ru	443
+WORKS	YES	YES	159.195.76.241	DE	853	269	4	🇩🇪269Mb | netcup GmbH	213.171.26.168	443
+WORKS	YES	NO			1606	246		🇺🇸246Mb | Servhost Group	13.143.184.226	443
+WORKS	YES	YES	152.53.90.78	US	1523	230	1	🇺🇸230Mb | netcup GmbH	82.202.138.16	443
+FAIL	NO	NO			4001	206		🇺🇸206Mb | Servhost Group	13.143.182.136	443
+FAIL	NO	NO			4002	200		🇦🇹200Mb | netcup GmbH	159.195.242.180	443
+WORKS	YES	YES	50.7.180.202	NL	458	178	6	🇺🇸178Mb | FDCserversnet	nilka.failspace.top	443
+WORKS	YES	YES	2.56.123.131	CY	190	158	10	🇨🇾158Mb | NetCrafters OU	2.56.123.131	443
+WORKS	YES	YES	50.7.248.226	PL	617	154	16	🇵🇱154Mb | FDCserversnet	polik.failspace.top	443
+WORKS	YES	YES	50.7.120.162	NL	486	138	8	🇳🇱138Mb | FDCserversnet	dedic-nl-new.failspace.top	443
+WORKS	YES	YES	151.241.166.130	IN	545	132	14	🇦🇪132Mb | HOSTES LTD	151.241.166.137	443
+FAIL	NO	NO			4002	131		🇨🇭131Mb | GRUPO PANAGLOBAL 15 SA	185.191.238.222	8443
+WORKS	YES	YES	64.188.92.54	DE	720	129	3	🇩🇪129Mb | U1 Digital Services	150.241.105.184	443
+WORKS	YES	YES	50.7.37.154	AT	629	128	17	🇺🇸128Mb | FDCserversnet	atatat.failspace.top	443
+WORKS	YES	YES	185.86.13.130	NL	460	117	7	🇳🇱117Mb | Cyberlab	legenda-bm-s1518.reverseenge.sbs	443
+FAIL	NO	NO			4001	112		🇬🇧112Mb | Packet Star Networks Limited	45.139.197.27	443
+WORKS	YES	YES	50.7.120.202	NL	487	110	9	🇳🇱110Mb | FDCserversnet	nl-dedic-mori-4.failspace.top	443
+FAIL	NO	NO			3804	103		🇵🇱103Mb | HOSTES LTD	151.241.166.83	443
+FAIL	NO	NO			4001	98		🇨🇭98Mb | GRUPO PANAGLOBAL 15 SA	ch-plr-xh-pilot.tcp-reset-club.net	8443
+FAIL	NO	NO			4003	94		🇦🇹94Mb | netcup GmbH	159.195.240.82	443
+WORKS	YES	YES	31.77.59.225	PL	526	94	13	🇵🇱94Mb | Paul Sagov	31.77.59.225	443
+WORKS	YES	YES	13.143.184.99	UA	764	93	19	🇺🇸93Mb | Servhost Group	msc1.serverslocal.ru	443
+WORKS	YES	YES	31.76.249.174	AD	2043	87	21	🌐87Mb | 2340  Andorra  VLESS  📺 YT  TG	31.76.249.174	443
+WORKS	YES	YES	50.7.249.66	PL	502	83	12	🇵🇱83Mb | FDCserversnet	plandland.failspace.top	443
+WORKS	YES	YES	31.76.249.174	AD	2370	82	22	🇺🇸82Mb | Akenai Products LTD	conge.ggisopi.su	443
+FAIL	NO	NO			4003	74		🌐74Mb | 0508  🇯🇵 Japan  VLESS  📺 YT  T	152.69.195.67	47878
+WORKS	YES	NO			694	74		🇦🇪74Mb | HOSTES LTD	94.183.253.211	443
+WORKS	YES	YES	95.133.240.114	GB	637	74	2	🇬🇧74Mb | Packet Star Networks Limited	angldril.pumpkinpie.study	443
+FAIL	NO	NO			4002	68		🇦🇪68Mb | HOSTES LTD	ger1.serverslocal.ru	443
+WORKS	YES	YES	31.77.17.199	BV	480	60	11	🌐60Mb | OpenRay 🇧🇻 BV-1	31.77.17.199	443
+WORKS	YES	YES	159.195.206.8	DE	949	59	5	🇩🇪59Mb | netcup GmbH	ru-001.zapretu.net	443
+WORKS	YES	YES	134.255.211.162	SG	1030	59	20	🇸🇬59Mb | M247 Europe SRL	134.255.211.162	2083
+WORKS	YES	YES	82.47.63.48	PL	689	56	18	🇵🇱56Mb | OVH	zadgvmrlaa0b.dopwiz.com	8080
