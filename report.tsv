@@ -1,38 +1,38 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	NO	YES			3575	398		🇺🇸398Mb | FDCserversnet	hub-mori-new.failspace.top	443
-WORKS	YES	YES	130.49.112.2	TR	560	383	15	🇹🇷383Mb | Fast Servers Pty	122.8.45.2	443
-FAIL	NO	NO			284	353		🌐353Mb | v2go  🇩🇪 DE  VLESS  340	144.31.166.55	8443
-WORKS	YES	NO			1643	327		🇺🇸327Mb | Servhost Group	13.143.184.226	443
-FAIL	NO	NO			4003	284		🇵🇱284Mb | HOSTES LTD	pol2.serverslocal.ru	443
-WORKS	YES	YES	159.195.76.241	DE	853	269	4	🇩🇪269Mb | netcup GmbH	213.171.26.168	443
-WORKS	YES	NO			1606	246		🇺🇸246Mb | Servhost Group	13.143.184.226	443
-WORKS	YES	YES	152.53.90.78	US	1523	230	1	🇺🇸230Mb | netcup GmbH	82.202.138.16	443
-FAIL	NO	NO			4001	206		🇺🇸206Mb | Servhost Group	13.143.182.136	443
-FAIL	NO	NO			4002	200		🇦🇹200Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	YES	50.7.180.202	NL	458	178	6	🇺🇸178Mb | FDCserversnet	nilka.failspace.top	443
-WORKS	YES	YES	2.56.123.131	CY	190	158	10	🇨🇾158Mb | NetCrafters OU	2.56.123.131	443
-WORKS	YES	YES	50.7.248.226	PL	617	154	16	🇵🇱154Mb | FDCserversnet	polik.failspace.top	443
-WORKS	YES	YES	50.7.120.162	NL	486	138	8	🇳🇱138Mb | FDCserversnet	dedic-nl-new.failspace.top	443
-WORKS	YES	YES	151.241.166.130	IN	545	132	14	🇦🇪132Mb | HOSTES LTD	151.241.166.137	443
+WORKS	NO	YES			2635	398		🇺🇸398Mb | FDCserversnet	hub-mori-new.failspace.top	443
+WORKS	YES	YES	130.49.112.2	TR	4342	383	20	🇹🇷383Mb | Fast Servers Pty	122.8.45.2	443
+FAIL	NO	NO			4003	353		🌐353Mb | v2go  🇩🇪 DE  VLESS  340	144.31.166.55	8443
+WORKS	YES	YES	13.143.184.99	UA	645	327	15	🇺🇸327Mb | Servhost Group	13.143.184.226	443
+WORKS	YES	YES	94.183.157.8	PL	682	284	16	🇵🇱284Mb | HOSTES LTD	pol2.serverslocal.ru	443
+FAIL	NO	NO			4003	269		🇩🇪269Mb | netcup GmbH	213.171.26.168	443
+WORKS	YES	YES	13.143.184.99	UA	647	246		🇺🇸246Mb | Servhost Group	13.143.184.226	443
+FAIL	NO	NO			4002	230		🇺🇸230Mb | netcup GmbH	82.202.138.16	443
+WORKS	YES	YES	31.76.70.198	EE	3271	206	19	🇺🇸206Mb | Servhost Group	13.143.182.136	443
+FAIL	NO	NO			4003	200		🇦🇹200Mb | netcup GmbH	159.195.242.180	443
+WORKS	YES	YES	50.7.180.202	NL	1016	178	8	🇺🇸178Mb | FDCserversnet	nilka.failspace.top	443
+WORKS	YES	YES	2.56.123.131	CY	1263	158	18	🇨🇾158Mb | NetCrafters OU	2.56.123.131	443
+WORKS	YES	YES	50.7.248.226	PL	543	154	13	🇵🇱154Mb | FDCserversnet	polik.failspace.top	443
+WORKS	YES	YES	50.7.120.162	NL	584	138	7	🇳🇱138Mb | FDCserversnet	dedic-nl-new.failspace.top	443
+WORKS	YES	YES	151.241.166.130	IN	517	132	10	🇦🇪132Mb | HOSTES LTD	151.241.166.137	443
 FAIL	NO	NO			4002	131		🇨🇭131Mb | GRUPO PANAGLOBAL 15 SA	185.191.238.222	8443
-WORKS	YES	YES	64.188.92.54	DE	720	129	3	🇩🇪129Mb | U1 Digital Services	150.241.105.184	443
-WORKS	YES	YES	50.7.37.154	AT	629	128	17	🇺🇸128Mb | FDCserversnet	atatat.failspace.top	443
-WORKS	YES	YES	185.86.13.130	NL	460	117	7	🇳🇱117Mb | Cyberlab	legenda-bm-s1518.reverseenge.sbs	443
-FAIL	NO	NO			4001	112		🇬🇧112Mb | Packet Star Networks Limited	45.139.197.27	443
-WORKS	YES	YES	50.7.120.202	NL	487	110	9	🇳🇱110Mb | FDCserversnet	nl-dedic-mori-4.failspace.top	443
-FAIL	NO	NO			3804	103		🇵🇱103Mb | HOSTES LTD	151.241.166.83	443
-FAIL	NO	NO			4001	98		🇨🇭98Mb | GRUPO PANAGLOBAL 15 SA	ch-plr-xh-pilot.tcp-reset-club.net	8443
-FAIL	NO	NO			4003	94		🇦🇹94Mb | netcup GmbH	159.195.240.82	443
-WORKS	YES	YES	31.77.59.225	PL	526	94	13	🇵🇱94Mb | Paul Sagov	31.77.59.225	443
-WORKS	YES	YES	13.143.184.99	UA	764	93	19	🇺🇸93Mb | Servhost Group	msc1.serverslocal.ru	443
-WORKS	YES	YES	31.76.249.174	AD	2043	87	21	🌐87Mb | 2340  Andorra  VLESS  📺 YT  TG	31.76.249.174	443
-WORKS	YES	YES	50.7.249.66	PL	502	83	12	🇵🇱83Mb | FDCserversnet	plandland.failspace.top	443
-WORKS	YES	YES	31.76.249.174	AD	2370	82	22	🇺🇸82Mb | Akenai Products LTD	conge.ggisopi.su	443
-FAIL	NO	NO			4003	74		🌐74Mb | 0508  🇯🇵 Japan  VLESS  📺 YT  T	152.69.195.67	47878
-WORKS	YES	NO			694	74		🇦🇪74Mb | HOSTES LTD	94.183.253.211	443
-WORKS	YES	YES	95.133.240.114	GB	637	74	2	🇬🇧74Mb | Packet Star Networks Limited	angldril.pumpkinpie.study	443
-FAIL	NO	NO			4002	68		🇦🇪68Mb | HOSTES LTD	ger1.serverslocal.ru	443
-WORKS	YES	YES	31.77.17.199	BV	480	60	11	🌐60Mb | OpenRay 🇧🇻 BV-1	31.77.17.199	443
-WORKS	YES	YES	159.195.206.8	DE	949	59	5	🇩🇪59Mb | netcup GmbH	ru-001.zapretu.net	443
-WORKS	YES	YES	134.255.211.162	SG	1030	59	20	🇸🇬59Mb | M247 Europe SRL	134.255.211.162	2083
-WORKS	YES	YES	82.47.63.48	PL	689	56	18	🇵🇱56Mb | OVH	zadgvmrlaa0b.dopwiz.com	8080
+FAIL	NO	NO			4002	129		🇩🇪129Mb | U1 Digital Services	150.241.105.184	443
+WORKS	YES	YES	50.7.37.154	AT	565	128	14	🇺🇸128Mb | FDCserversnet	atatat.failspace.top	443
+WORKS	YES	YES	185.86.13.130	NL	457	117	6	🇳🇱117Mb | Cyberlab	legenda-bm-s1518.reverseenge.sbs	443
+WORKS	YES	YES	95.133.240.114	GB	361	112	1	🇬🇧112Mb | Packet Star Networks Limited	45.139.197.27	443
+WORKS	YES	YES	50.7.120.202	NL	405	110	5	🇳🇱110Mb | FDCserversnet	nl-dedic-mori-4.failspace.top	443
+WORKS	YES	YES	94.183.157.8	PL	538	103	12	🇵🇱103Mb | HOSTES LTD	151.241.166.83	443
+FAIL	NO	NO			4003	98		🇨🇭98Mb | GRUPO PANAGLOBAL 15 SA	ch-plr-xh-pilot.tcp-reset-club.net	8443
+FAIL	NO	NO			4002	94		🇦🇹94Mb | netcup GmbH	159.195.240.82	443
+WORKS	YES	YES	31.77.59.225	PL	536	94	11	🇵🇱94Mb | Paul Sagov	31.77.59.225	443
+WORKS	YES	NO			1117	93		🇺🇸93Mb | Servhost Group	msc1.serverslocal.ru	443
+FAIL	NO	NO			4002	87		🌐87Mb | 2340  Andorra  VLESS  📺 YT  TG	31.76.249.174	443
+WORKS	YES	YES	50.7.249.66	PL	761	83	17	🇵🇱83Mb | FDCserversnet	plandland.failspace.top	443
+FAIL	NO	NO			4002	82		🇺🇸82Mb | Akenai Products LTD	conge.ggisopi.su	443
+WORKS	YES	YES	152.69.195.67	JP	506	74	9	🌐74Mb | 0508  🇯🇵 Japan  VLESS  📺 YT  T	152.69.195.67	47878
+WORKS	YES	YES	151.242.161.186	DE	672	74	3	🇦🇪74Mb | HOSTES LTD	94.183.253.211	443
+WORKS	YES	YES	95.133.240.114	GB	599	74	2	🇬🇧74Mb | Packet Star Networks Limited	angldril.pumpkinpie.study	443
+WORKS	YES	YES	151.242.161.50	DE	1590	68	4	🇦🇪68Mb | HOSTES LTD	ger1.serverslocal.ru	443
+FAIL	NO	NO			339	60		🌐60Mb | OpenRay 🇧🇻 BV-1	31.77.17.199	443
+FAIL	NO	NO			4003	59		🇩🇪59Mb | netcup GmbH	ru-001.zapretu.net	443
+FAIL	NO	NO			704	59		🇸🇬59Mb | M247 Europe SRL	134.255.211.162	2083
+FAIL	NO	NO			2473	56		🇵🇱56Mb | OVH	zadgvmrlaa0b.dopwiz.com	8080
