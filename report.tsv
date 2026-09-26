@@ -1,39 +1,37 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			125	667		🇩🇪667Mb | Akamai Connected Cloud	199.36.158.66	80
-WORKS	YES	NO			1077	381		🇷🇺381Mb | Beget	45.67.56.25	443
-FAIL	NO	NO			685	303		🇩🇪303Mb | UAB Cherry Servers	31.177.111.75	8443
-FAIL	NO	NO			4002	257		🇳🇱257Mb | Oracle Cloud	158.101.195.43	62145
-FAIL	NO	NO			4001	251		🌐251Mb | 0013  🇬🇷 Greece  VLESS  📺 YT	85.90.197.220	443
-FAIL	NO	NO			497	222		🇹🇷222Mb | Netlen Internet Hizmetleri  Sti	pp.shopdegeris.ir	2053
-WORKS	NO	YES			669	212		🇺🇸212Mb | FDCserversnet	ukefast.failspace.top	443
-WORKS	YES	YES	31.76.68.210	FR	960	211	14	🇺🇸211Mb | Servhost Group	fr1.serverslocal.ru	443
-FAIL	NO	NO			4002	198		🇦🇹198Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	YES	196.240.109.114	PL	907	163	13	🇵🇱163Mb | Orion Network Limited	arturito.nxxzxaw.beer	443
-WORKS	YES	YES	50.7.36.26	AT	994	156	15	🌐156Mb | 3137  🇦🇹 Austria  VLESS  📺 YT	at-at-at.failspace.top	443
-FAIL	NO	NO			4002	151		🇪🇸151Mb | Global Connectivity Solutions Llp	138.124.181.185	443
-WORKS	YES	YES	80.47.6.11	GB	2582	120	4	🇵🇱120Mb | MEVSPACE sp z oo	80.47.6.12	443
-FAIL	NO	NO			445	119		🇵🇱119Mb | Illia Kravtsov	94.249.180.175	443
-WORKS	YES	YES	31.76.68.210	FR	653	115	8	🇺🇸115Mb | Servhost Group	31.76.68.210	443
-WORKS	YES	YES	95.133.240.114	GB	481	104	1	🇬🇧104Mb | Packet Star Networks Limited	45.139.197.27	443
-WORKS	YES	YES	143.246.223.251	MD	1070	103	16	🇲🇩103Mb | Ava Host Srl	hapatronik.vodniki.monster	443
-FAIL	NO	NO			3204	96		🇺🇸96Mb | FDCserversnet	50.7.227.254	443
-FAIL	NO	NO			3520	94		🇬🇧94Mb | Global Connectivity Solutions Llp	84.38.181.249	443
-WORKS	YES	YES	94.183.157.8	PL	902	93	12	🇵🇱93Mb | HOSTES LTD	pol2.serverslocal.ru	443
-WORKS	YES	YES	94.183.157.8	PL	552	93	6	🇵🇱93Mb | HOSTES LTD	151.241.166.83	443
-FAIL	NO	NO			958	88		🇨🇭88Mb | GRUPO PANAGLOBAL 15 SA	ch-plr-xh-pilot.tcp-reset-club.net	8443
-FAIL	NO	NO			350	86		🇳🇱86Mb | Timeweb LLP	72.56.21.47	443
-WORKS	YES	YES	50.7.4.66	IE	602	83	7	🌐83Mb | 1410  🌐 Unknown  VLESS  TG: @Y	ireland-new-ded1.failspace.top	443
-WORKS	NO	NO			1792	83		🇸🇪83Mb | Andris Jakovlevs	31.207.7.246	443
-WORKS	YES	YES	50.7.160.114	NL	552	81	5	🇺🇸81Mb | FDCserversnet	hub-mori-new.failspace.top	443
-FAIL	NO	NO			4003	81		🇳🇱81Mb | Datagio Systems	130.78.191.25	443
-WORKS	YES	YES	95.133.240.114	GB	683	81	2	🇬🇧81Mb | Packet Star Networks Limited	angldril.pumpkinpie.study	443
-WORKS	YES	YES	80.47.6.11	GB	794	80	3	🇵🇱80Mb | MEVSPACE sp z oo	polkakurvich.hohoterz.beer	443
-FAIL	NO	NO			4003	79		🌐79Mb | 2748  🇦🇪 United Arab Emirates	139.185.44.42	8443
-FAIL	NO	NO			1017	79		🇭🇰79Mb | AWS	hk3.mfm-oss.top	60013
-FAIL	NO	NO			4003	76		🇩🇪76Mb | Hetzner	167.233.191.98	443
-WORKS	YES	YES	147.45.116.219	BR	655	76	9	🇧🇷76Mb | Global Connectivity Solutions Llp	147.45.116.241	8443
-FAIL	NO	NO			543	70		🇺🇸70Mb | Servhost Group	gbr-01.node.lumixnet.com	443
-FAIL	NO	NO			4003	64		🇩🇪64Mb | U1 Digital Services	150.241.105.184	443
-WORKS	NO	NO			712	62		🌐62Mb | OpenRay 🇦🇪 AE-170	est1.gursub.com	443
-WORKS	YES	YES	143.246.223.251	MD	694	60	10	🇲🇩60Mb | Ava Host Srl	143.246.223.149	443
-WORKS	YES	YES	131.123.42.152	BG	762	58	11	🌐58Mb | OpenRay 🇧🇬 BG-187	bolgarka.drop0chka.work	443
+FAIL	NO	NO			191	549		🇩🇪549Mb | Akamai Connected Cloud	199.36.158.66	80
+WORKS	YES	YES	13.143.184.99	UA	1136	435	17	🇺🇸435Mb | Servhost Group	msc1.serverslocal.ru	443
+WORKS	YES	YES	50.7.4.66	IE	872	374	13	🌐374Mb | 🇮🇪 326 - IE - VLESS/TLS/VISION	ireland-new-ded1.failspace.top	443
+WORKS	YES	YES	50.7.226.170	GB	860	338	2	🇺🇸338Mb | FDCserversnet	ukefast.failspace.top	443
+WORKS	YES	YES	151.241.138.44	IN	1416	323	18	🌐323Mb | 3236  🇮🇳 India  VLESS  📺 YT  T	151.241.138.44	443
+WORKS	YES	YES	50.7.160.114	NL	859	278	7	🌐278Mb | @DeltaKroneckerGithub	hub-mori-new.failspace.top	443
+WORKS	YES	YES	94.183.157.8	PL	995	263	15	🇵🇱263Mb | HOSTES LTD	pol2.serverslocal.ru	443
+WORKS	NO	YES			828	253		🌐253Mb | @DeltaKroneckerGithub	at-at-at.failspace.top	443
+WORKS	YES	YES	144.31.93.193	RU	1000	245		🇺🇸245Mb | Servhost Group	xnod13x.artemida.live	8443
+WORKS	YES	YES	13.143.184.99	UA	815	209	11	🇺🇸209Mb | Servhost Group	13.143.184.226	443
+WORKS	NO	YES			805	199		🇳🇱199Mb | Moskalev Georgiy	nl2.yabloko.top	443
+FAIL	NO	NO			4002	196		🇬🇧196Mb | Global Connectivity Solutions Llp	84.38.181.249	443
+WORKS	YES	YES	94.183.170.51	EE	716	174	9	🇪🇪174Mb | Eternity International Limited	94.183.170.51	8443
+FAIL	NO	NO			871	150		🇳🇱150Mb | Netrouting BV	nl-xh02.tcp-reset-club.net	8443
+FAIL	NO	NO			173	138		🇩🇪138Mb | Akamai Connected Cloud	151.101.71.148	443
+WORKS	YES	YES	159.195.206.8	DE	1041	137	4	🇩🇪137Mb | netcup GmbH	ru-001.zapretu.net	443
+WORKS	YES	YES	144.31.93.193	RU	976	132	14	🇺🇸132Mb | Servhost Group	xnod13x.artemida.live	8443
+WORKS	YES	YES	196.240.109.114	PL	1117	121	16	🇵🇱121Mb | Orion Network Limited	arturito.nxxzxaw.beer	443
+WORKS	YES	YES	95.133.240.114	GB	615	118	1	🇬🇧118Mb | Packet Star Networks Limited	45.139.197.27	443
+FAIL	NO	NO			4003	115		🌐115Mb | 1634  🇯🇵 Japan  VLESS  📺 YT  🔐	152.69.195.67	47878
+WORKS	YES	YES	94.183.170.51	EE	859	111	12	🇪🇪111Mb | Eternity International Limited	xnod17x.artemida.live	8443
+WORKS	YES	YES	151.241.138.44	IN	1424	102	19	🌐102Mb | 4264  🌐 Unknown  VLESS  TG: @Y	condropolo.ggisopi.su	443
+FAIL	NO	NO			4003	101		🇸🇪101Mb | SIA VEESP	13.140.8.179	443
+FAIL	NO	NO			4002	95		🇳🇱95Mb | Datagio Systems	130.78.191.25	443
+FAIL	NO	NO			568	90		🇷🇺90Mb | Beget	45.67.56.25	443
+FAIL	NO	NO			4002	90		🇺🇸90Mb | Servhost Group	13.143.182.136	443
+FAIL	NO	NO			982	88		🇨🇭88Mb | GRUPO PANAGLOBAL 15 SA	185.191.238.222	8443
+FAIL	NO	NO			996	88		🇨🇭88Mb | GRUPO PANAGLOBAL 15 SA	ch-plr-xh-pilot.tcp-reset-club.net	8443
+WORKS	YES	YES	80.47.6.11	GB	1180	84	3	🇵🇱84Mb | MEVSPACE sp z oo	polkakurvich.hohoterz.beer	443
+WORKS	YES	YES	147.45.116.241	BR	763	84	10	🇧🇷84Mb | Global Connectivity Solutions Llp	147.45.116.241	8443
+WORKS	YES	YES	94.183.208.201	NL	588	73	5	🇳🇱73Mb | Eternity International Limited	94.183.208.201	8443
+FAIL	NO	NO			4002	72		🇺🇸72Mb | FDCserversnet	50.7.197.206	443
+WORKS	YES	YES	94.183.208.201	NL	696	64	6	🇳🇱64Mb | Eternity International Limited	xnod12x.artemida.live	8443
+FAIL	NO	NO			4002	63		🇸🇪63Mb | SIA VEESP	condrve.ggisopi.su	443
+WORKS	YES	YES	31.77.59.225	PL	705	60	8	🇵🇱60Mb | Paul Sagov	31.77.59.225	443
+WORKS	NO	YES			430	57		🌐57Mb | 2152  🇯🇵 Japan  VLESS  📺 YT  T	210.129.55.87	443
