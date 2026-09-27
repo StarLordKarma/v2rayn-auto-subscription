@@ -1,48 +1,48 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	NO	NO			1183	558		🇳🇱558Mb | FDCserversnet	nl-dedic-mori-4.failspace.top	443
-FAIL	NO	NO			4003	501		🇳🇱501Mb | Oracle Cloud	134.98.147.203	62145
-FAIL	NO	NO			4002	427		🇫🇷427Mb | YottaSrc	85.209.135.145	443
-WORKS	YES	YES	50.7.248.50	PL	1136	344	22	🌐344Mb | OpenRay 🇵🇱 PL-2641	polka.failspace.top	443
-WORKS	YES	YES	153.76.122.38	NL	975	225	12	🇳🇱225Mb | YottaSrc	kosta8.api3-max.ru	443
-WORKS	YES	YES	193.23.200.166	SE	2278	217	26	🇸🇪217Mb | Servhost Group	sw.bmbrvpn.cc	443
-FAIL	NO	NO			514	210		🇱🇹210Mb | UAB Cherry Servers	88.216.127.220	8443
-WORKS	YES	YES	50.7.160.114	NL	1208	191	13	🇺🇸191Mb | FDCserversnet	hub-mori-new.failspace.top	443
-FAIL	NO	NO			4002	172		🇺🇸172Mb | FDCserversnet	50.7.197.206	443
-WORKS	YES	YES	5.199.172.193	LT	1170	153	23	🇱🇹153Mb | UAB Cherry Servers	188.225.44.89	443
-WORKS	YES	YES	50.7.95.172	NL	603	148	9	🇺🇸148Mb | FDCserversnet	50.7.95.172	443
-WORKS	YES	YES	5.199.172.193	LT	937	147	19	🌐147Mb | OpenRay 🇷🇺 RU-35846	188.225.25.195	443
-FAIL	NO	NO			4002	145		🇳🇱145Mb | FDCserversnet	50.7.120.203	443
-WORKS	YES	YES	88.216.127.125	LT	913	142	18	🇱🇹142Mb | UAB Cherry Servers	188.225.25.142	443
-WORKS	YES	YES	88.216.127.171	LT	957	141	20	🇱🇹141Mb | UAB Cherry Servers	admin.betust.net	443
-WORKS	YES	YES	88.216.63.90	NL	1461	137	14	🇳🇱137Mb | UAB Cherry Servers	188.225.42.6	443
-WORKS	YES	YES	64.118.156.72	DE	2079	136	7	🇩🇪136Mb | Eons Data Communications Limited	g1.sabet1.blazevx.ir	31913
-FAIL	NO	NO			2384	128		🌐128Mb | 5112  🌐 Unknown  VLESS  TG: @Y	lk-1.yes-on.ru	443
-WORKS	YES	YES	84.32.215.66	LT	775	128	17	🇱🇹128Mb | UAB Cherry Servers	84.32.215.66	443
-FAIL	NO	NO			452	123		🇩🇪123Mb | Play2go International Limited	144.31.166.55	8443
-WORKS	YES	YES	64.188.92.54	DE	3244	113	8	🇩🇪113Mb | U1 Digital Services	150.241.105.184	443
-WORKS	YES	YES	195.63.163.21	NL	616	109	10	🇳🇱109Mb | Servers Tech Fzco	195.63.163.21	443
-FAIL	NO	NO			451	109		🇳🇱109Mb | Tom Gewiese	94.249.186.68	8443
-FAIL	NO	NO			4002	108		🇳🇱108Mb | UAB Cherry Servers	188.225.57.78	443
-WORKS	NO	YES			1502	108		🇱🇹108Mb | UAB Cherry Servers	188.225.24.201	443
-WORKS	YES	YES	45.151.71.27	RU	641	107	16	🌐107Mb | 🇷🇺 Russia *CIDR	45.151.71.27	443
-FAIL	NO	NO			719	106		🇷🇺106Mb | JSC Selectel	161.104.38.98	443
-WORKS	YES	NO			1934	103		🇳🇱103Mb | Kochedykov Egor Aleksandrovich	snl6.subsconnect.com	443
-WORKS	NO	YES			1136	101		🇬🇧101Mb | FDCserversnet	match.betust.net	443
-WORKS	YES	YES	84.32.61.108	US	463	99	2	🇺🇸99Mb | UAB Cherry Servers	subscribe.betust.net	443
-FAIL	NO	NO			4003	95		🇳🇱95Mb | Oracle Cloud	141.148.225.181	62145
-WORKS	YES	YES	84.32.98.254	DE	626	91	5	🇩🇪91Mb | UAB Cherry Servers	84.32.98.254	443
-FAIL	NO	NO			4002	91		🇱🇹91Mb | UAB Cherry Servers	188.225.77.241	443
-WORKS	YES	YES	84.32.98.254	DE	877	86	6	🇩🇪86Mb | UAB Cherry Servers	tickets.betust.net	443
-FAIL	NO	NO			1551	83		🇹🇷83Mb | YottaSrc	tur6.pconnectq.ir	443
-FAIL	NO	NO			701	82		🇸🇪82Mb | Melbikomas UAB	161.104.38.98	443
-WORKS	YES	NO			721	82		🇵🇱82Mb | MEVSPACE sp z oo	80.47.6.12	443
-WORKS	YES	YES	94.183.157.8	PL	1118	82	21	🇵🇱82Mb | HOSTES LTD	pol2.serverslocal.ru	443
-WORKS	YES	YES	88.216.127.125	LT	1256	76	25	🇱🇹76Mb | UAB Cherry Servers	188.225.35.207	443
-WORKS	YES	YES	84.32.215.66	LT	1241	75	24	🇱🇹75Mb | UAB Cherry Servers	app26.betust.net	443
-WORKS	YES	YES	95.133.240.114	GB	611	71	3	🇬🇧71Mb | Packet Star Networks Limited	45.139.197.27	443
-WORKS	YES	YES	50.7.95.172	NL	811	70	11	🇺🇸70Mb | FDCserversnet	panel.betust.net	443
-WORKS	YES	YES	95.133.240.114	GB	845	67	4	🇬🇧67Mb | Packet Star Networks Limited	angldril.pumpkinpie.study	443
-WORKS	YES	YES	150.241.83.22	SE	189	67	15	🇺🇸67Mb | Servhost Group	us.bmbrvpn.cc	443
-FAIL	NO	NO			4003	62		🇷🇺62Mb | Advanced Placement Technologies	45.130.254.10	443
-WORKS	YES	YES	5.78.159.214	US	85	60	1	🇺🇸60Mb | Hetzner	5.78.159.214	80
-FAIL	NO	NO			4003	59		🌐59Mb | 🇮🇷182577  ⚡️Telegram = t.me/SO	www.gameturk.bestvnxv.org	21710
+WORKS	NO	YES			1134	558		🇳🇱558Mb | FDCserversnet	nl-dedic-mori-4.failspace.top	443
+WORKS	YES	YES	134.98.147.203	NL	401	501	10	🇳🇱501Mb | Oracle Cloud	134.98.147.203	62145
+WORKS	YES	YES			852	427		🇫🇷427Mb | YottaSrc	85.209.135.145	443
+WORKS	YES	YES	50.7.248.50	PL	1447	344	30	🌐344Mb | OpenRay 🇵🇱 PL-2641	polka.failspace.top	443
+WORKS	YES	YES	153.76.122.38	NL	962	225	16	🇳🇱225Mb | YottaSrc	kosta8.api3-max.ru	443
+FAIL	NO	NO			537	217		🇸🇪217Mb | Servhost Group	sw.bmbrvpn.cc	443
+FAIL	NO	NO			480	210		🇱🇹210Mb | UAB Cherry Servers	88.216.127.220	8443
+WORKS	YES	YES	50.7.160.114	NL	1036	191	17	🇺🇸191Mb | FDCserversnet	hub-mori-new.failspace.top	443
+FAIL	NO	NO			3447	172		🇺🇸172Mb | FDCserversnet	50.7.197.206	443
+WORKS	YES	YES	5.199.172.193	LT	919	153	26	🇱🇹153Mb | UAB Cherry Servers	188.225.44.89	443
+WORKS	YES	YES	50.7.95.172	NL	579	148	12	🇺🇸148Mb | FDCserversnet	50.7.95.172	443
+WORKS	YES	YES	5.199.172.193	LT	827	147	21	🌐147Mb | OpenRay 🇷🇺 RU-35846	188.225.25.195	443
+FAIL	NO	NO			3439	145		🇳🇱145Mb | FDCserversnet	50.7.120.203	443
+WORKS	YES	YES	88.216.127.125	LT	908	142	24	🇱🇹142Mb | UAB Cherry Servers	188.225.25.142	443
+WORKS	YES	YES	88.216.127.165	LT	1249	141	29	🇱🇹141Mb | UAB Cherry Servers	admin.betust.net	443
+WORKS	YES	YES	88.216.63.90	NL	911	137	15	🇳🇱137Mb | UAB Cherry Servers	188.225.42.6	443
+FAIL	NO	NO			1118	136		🇩🇪136Mb | Eons Data Communications Limited	g1.sabet1.blazevx.ir	31913
+WORKS	YES	YES	179.255.186.5	DE	969	128	9	🌐128Mb | 5112  🌐 Unknown  VLESS  TG: @Y	lk-1.yes-on.ru	443
+WORKS	YES	YES	84.32.215.66	LT	690	128	20	🇱🇹128Mb | UAB Cherry Servers	84.32.215.66	443
+FAIL	NO	NO			399	123		🇩🇪123Mb | Play2go International Limited	144.31.166.55	8443
+WORKS	YES	YES	64.188.92.54	DE	634	113	7	🇩🇪113Mb | U1 Digital Services	150.241.105.184	443
+WORKS	YES	YES	195.63.163.21	NL	540	109	11	🇳🇱109Mb | Servers Tech Fzco	195.63.163.21	443
+FAIL	NO	NO			419	109		🇳🇱109Mb | Tom Gewiese	94.249.186.68	8443
+WORKS	YES	YES	88.216.63.90	NL	833	108	14	🇳🇱108Mb | UAB Cherry Servers	188.225.57.78	443
+WORKS	YES	YES	5.199.172.193	LT	991	108	27	🇱🇹108Mb | UAB Cherry Servers	188.225.24.201	443
+WORKS	YES	YES	45.151.71.27	RU	604	107	19	🌐107Mb | 🇷🇺 Russia *CIDR	45.151.71.27	443
+FAIL	NO	NO			506	106		🇷🇺106Mb | JSC Selectel	161.104.38.98	443
+WORKS	YES	YES	217.60.67.176	NL	802	103	13	🇳🇱103Mb | Kochedykov Egor Aleksandrovich	snl6.subsconnect.com	443
+WORKS	NO	YES			756	101		🇬🇧101Mb | FDCserversnet	match.betust.net	443
+WORKS	YES	YES	84.32.61.108	US	428	99	2	🇺🇸99Mb | UAB Cherry Servers	subscribe.betust.net	443
+WORKS	YES	NO			400	95		🇳🇱95Mb | Oracle Cloud	141.148.225.181	62145
+WORKS	YES	YES	84.32.98.254	DE	549	91	6	🇩🇪91Mb | UAB Cherry Servers	84.32.98.254	443
+WORKS	YES	YES	88.216.127.125	LT	855	91	22	🇱🇹91Mb | UAB Cherry Servers	188.225.77.241	443
+WORKS	YES	YES	84.32.98.254	DE	720	86	8	🇩🇪86Mb | UAB Cherry Servers	tickets.betust.net	443
+FAIL	NO	NO			922	83		🇹🇷83Mb | YottaSrc	tur6.pconnectq.ir	443
+FAIL	NO	NO			522	82		🇸🇪82Mb | Melbikomas UAB	161.104.38.98	443
+WORKS	YES	YES	80.47.6.11	GB	640	82	4	🇵🇱82Mb | MEVSPACE sp z oo	80.47.6.12	443
+WORKS	YES	YES	94.183.157.8	PL	1064	82	28	🇵🇱82Mb | HOSTES LTD	pol2.serverslocal.ru	443
+WORKS	YES	YES	88.216.127.125	LT	916	76	25	🇱🇹76Mb | UAB Cherry Servers	188.225.35.207	443
+WORKS	YES	YES	84.32.215.66	LT	859	75	23	🇱🇹75Mb | UAB Cherry Servers	app26.betust.net	443
+WORKS	YES	YES	95.133.240.114	GB	545	71	3	🇬🇧71Mb | Packet Star Networks Limited	45.139.197.27	443
+WORKS	YES	YES	50.7.95.172	NL	1090	70	18	🇺🇸70Mb | FDCserversnet	panel.betust.net	443
+WORKS	YES	YES	95.133.240.114	GB	874	67	5	🇬🇧67Mb | Packet Star Networks Limited	angldril.pumpkinpie.study	443
+FAIL	NO	NO			245	67		🇺🇸67Mb | Servhost Group	us.bmbrvpn.cc	443
+WORKS	YES	NO			1021	62		🇷🇺62Mb | Advanced Placement Technologies	45.130.254.10	443
+WORKS	YES	YES	5.78.159.214	US	146	60	1	🇺🇸60Mb | Hetzner	5.78.159.214	80
+FAIL	NO	NO			2340	59		🌐59Mb | 🇮🇷182577  ⚡️Telegram = t.me/SO	www.gameturk.bestvnxv.org	21710
