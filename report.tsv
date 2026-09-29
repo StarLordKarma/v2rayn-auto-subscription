@@ -1,64 +1,48 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	NO			653	414		🇷🇺414Mb | DpkgSoft International Limited	21.kiska.lol	443
-WORKS	NO	YES			964	366		🇰🇿366Mb | PS Internet Company LLP	c3h82xhny.denditop.site	443
-WORKS	YES	YES	179.255.186.5	DE	817	359	6	🇩🇪359Mb | Host Telecom	lk-1.yes-on.ru	443
-FAIL	NO	NO			609	350		🇨🇭350Mb | Private Layer INC	94.139.255.254	5443
-FAIL	NO	NO			626	329		🇨🇭329Mb | Private Layer INC	45.9.24.125	8443
-FAIL	NO	NO			4003	281		🇦🇹281Mb | netcup GmbH	159.195.242.180	443
-FAIL	NO	NO			4003	255		🇦🇹255Mb | netcup GmbH	159.195.240.82	443
-WORKS	YES	YES	91.134.31.18	FR	747	222	23	🇫🇷222Mb | OVH	91.240.87.237	443
-WORKS	YES	YES	151.242.161.50	DE	665	211	5	🇦🇪211Mb | HOSTES LTD	ger1.serverslocal.ru	443
-FAIL	NO	NO			646	208		🇨🇭208Mb | Private Layer INC	46.243.205.226	11443
-FAIL	NO	NO			260	198		🇳🇱198Mb | Dund Mc2 Bv	109.121.44.31	443
-WORKS	NO	YES			382	192		🇳🇱192Mb | Moskalev Georgiy	89.125.100.29	443
-WORKS	YES	YES	179.255.186.5	DE	640	188	4	🇩🇪188Mb | Host Telecom	85.209.135.145	443
-FAIL	NO	NO			717	183		🇷🇺183Mb | Jsc timeweb	dismissaltree.net	2053
-FAIL	NO	NO			4001	166		🇬🇧166Mb | Global Connectivity Solutions Llp	84.38.181.249	443
-FAIL	NO	NO			333	160		🇷🇺160Mb | Jsc timeweb	185.141.227.180	2053
-WORKS	YES	YES	129.101.120.5	NL	439	158	10	🌐158Mb | OpenRay 🇳🇱 NL-12729	nl2.hkvn.space	37951
-WORKS	YES	YES	129.101.120.5	NL	387	155	8	🌐155Mb | OpenRay 🇳🇱 NL-12691	nl2.dzvn.space	37951
-WORKS	YES	YES	129.101.120.5	NL	388	148	9	🌐148Mb | Unnamed	nl2.404vn.space	37951
-WORKS	NO	YES			294	147		🇺🇸147Mb | UAB Cherry Servers	subscribe.betust.net	443
-FAIL	NO	NO			3093	145		🇫🇮145Mb | 'Ghita Telekom'	144.31.150.4	52006
-FAIL	NO	NO			347	144		🇪🇪144Mb | HZ Hosting	auto-2.claudpath.com	8443
-WORKS	YES	YES	2.56.126.32	FR	635	141	20	🇫🇷141Mb | OVH	85.193.94.217	443
-WORKS	YES	YES	179.255.185.71	US	847	140		🇺🇸140Mb | Host Telecom	85.209.135.145	443
-FAIL	NO	NO			347	138		🇲🇩138Mb | Alexhost Srl	auto-3.claudpath.com	8443
-FAIL	NO	NO			4003	133		🌐133Mb | 0974  🇰🇿 Kazakhstan  VLESS  📺	195.58.52.89	443
-FAIL	NO	NO			378	128		🇷🇴128Mb | Route 95	auto-4.claudpath.com	8443
-FAIL	NO	NO			365	127		🇫🇮127Mb | Scalaxy BV	auto.claudpath.com	8443
-FAIL	NO	NO			257	127		🇳🇱127Mb | Dund Mc2 Bv	109.121.44.21	443
-FAIL	NO	NO			256	123		🇳🇱123Mb | Dund Mc2 Bv	109.121.44.31	443
-FAIL	NO	NO			260	116		🇳🇱116Mb | Netrouting BV	94.228.219.55	8443
-WORKS	YES	YES	80.47.6.11	GB	444	115	1	🇵🇱115Mb | MEVSPACE sp z oo	80.47.6.12	443
-FAIL	NO	NO			231	109		🇰🇿109Mb | Orion Network Limited	165.231.170.34	443
-FAIL	NO	NO			531	109		🇳🇱109Mb | Netrouting BV	nl-xh02.tcp-reset-club.net	8443
-FAIL	NO	NO			3105	107		🇪🇪107Mb | 'Ghita Telekom'	188.255.236.14	52006
-WORKS	YES	YES	161.104.105.34	RU	457	104	16	🇷🇺104Mb | VK	185.155.55.10	8443
-WORKS	YES	YES	185.91.69.61	GB	1084	103	2	🇬🇧103Mb | Hostgnome	217.19.122.106	10022
-WORKS	YES	YES	151.241.166.130	IN	453	97	15	🇦🇪97Mb | HOSTES LTD	151.241.166.137	443
-FAIL	NO	NO			392	97		🇳🇱97Mb | WAIcore	185.86.144.101	443
-WORKS	YES	YES	198.105.112.182	NL	589	96	11	🇳🇱96Mb | YottaSrc	kostaa7.api3-max.ru	443
-FAIL	NO	NO			2897	92		🇳🇱92Mb | YottaSrc	198.105.112.242	443
-WORKS	YES	YES	31.77.105.144	FI	540	89	17	🇫🇮89Mb | Senko Digital	finsenk.2clash.ru	443
-WORKS	YES	YES	161.104.105.34	RU	414	83	14	🇷🇺83Mb | VK	95.133.247.18	8443
-WORKS	NO	YES			378	82		🇳🇱82Mb | Moskalev Georgiy	89.125.100.29	443
-FAIL	NO	NO			280	81		🇳🇱81Mb | Arct	201.78.143.14	443
-WORKS	YES	NO			542	80		🇷🇺80Mb | Jsc timeweb	5.42.96.76	443
-WORKS	YES	YES	151.241.166.130	IN	694	77	21	🇦🇪77Mb | HOSTES LTD	151.241.166.137.sslip.io	443
-FAIL	NO	NO			3013	77		🇵🇱77Mb | FDCserversnet	50.7.249.182	443
-FAIL	NO	NO			256	76		🇳🇱76Mb | Dund Mc2 Bv	109.121.44.11	443
-WORKS	YES	YES	84.32.215.66	LT	553	75	18	🇱🇹75Mb | UAB Cherry Servers	84.32.215.96	443
-WORKS	NO	YES			381	75		🇳🇱75Mb | Moskalev Georgiy	89.125.100.29	443
-WORKS	YES	NO			753	69		🇷🇺69Mb | Jsc timeweb	ruself.yandex-api.com	443
-FAIL	NO	NO			2899	68		🇬🇧68Mb | YottaSrc	107.181.134.43	443
-WORKS	YES	YES	185.191.118.47	DE	376	67	3	🇩🇪67Mb | UAB Cherry Servers	88.216.132.34	443
-WORKS	YES	YES	185.191.118.47	DE	398	66		🇩🇪66Mb | UAB Cherry Servers	88.216.132.34	443
-WORKS	YES	YES	130.78.191.25	NL	381	65	7	🇳🇱65Mb | Datagio Systems	130.78.191.25	443
-FAIL	NO	NO			4003	64		🌐64Mb | d_6664	84.201.169.241	443
-WORKS	YES	YES	84.32.215.66	LT	716	64	22	🇱🇹64Mb | UAB Cherry Servers	app26.betust.net	443
-FAIL	NO	NO			2926	63		🇺🇸63Mb | Banatsync Srl	31.77.227.10	52006
-WORKS	NO	YES			367	60		🇳🇱60Mb | Moskalev Georgiy	89.125.100.29	443
-WORKS	YES	YES	132.243.231.175	SE	401	59	13	🇸🇪59Mb | Andris Jakovlevs	89.125.37.143	443
-WORKS	YES	YES	50.7.248.234	PL	596	58	19	🌐58Mb | 1722  🌐 Unknown  VLESS  TG: @Y	polka-dot.failspace.top	443
-WORKS	YES	YES	198.105.112.242	NL	666	57	12	🇳🇱57Mb | YottaSrc	kostaa9.api3-max.ru	443
+FAIL	NO	NO			4002	662		🌐662Mb | 🏁t.me/ConfigsHub	kostaa9.api3-max.ru	443
+WORKS	YES	YES	185.73.126.217	RU	1026	569	11	🇷🇺569Mb | Citytelecom	185.73.126.217	50000
+WORKS	YES	YES			538	533		🌐533Mb | 3438  🌐 Unknown  VLESS  TG: @Y	fra4.pandaonline.org	443
+FAIL	NO	NO			4002	482		🌐482Mb | .𖥔 ݁ ˖ִ🛸༄˖°.  BL	kostaa7.api3-max.ru	443
+FAIL	NO	NO			299	346		🌐346Mb | 1870. 🇸🇪 VLESS  SNI: swe2.v2rh	177.3.215.26	443
+FAIL	NO	NO			811	340		🇨🇭340Mb | Private Layer INC	45.9.24.125	8443
+WORKS	YES	YES	151.241.166.130	IN	685	282	8	🇦🇪282Mb | HOSTES LTD	151.241.166.137.sslip.io	443
+FAIL	NO	NO			744	269		🇨🇭269Mb | Private Layer INC	94.139.255.254	5443
+FAIL	NO	NO			962	267		🇰🇿267Mb | PS Internet Company LLP	94.247.129.111	443
+FAIL	NO	NO			4002	254		🇦🇹254Mb | netcup GmbH	159.195.240.82	443
+FAIL	NO	NO			4002	249		🇦🇹249Mb | netcup GmbH	159.195.242.180	443
+WORKS	YES	YES	2.56.172.234	PL	834	246	9	🇵🇱246Mb | NetCrafters OU	85.193.94.217	443
+WORKS	YES	YES	50.7.248.234	PL	842	246	10	🇵🇱246Mb | FDCserversnet	polka-dot.failspace.top	443
+FAIL	NO	NO			4003	244		🇮🇷244Mb | Ali Monfared	tv.ts01.ir	20000
+FAIL	NO	NO			713	241		🇨🇭241Mb | Private Layer INC	46.243.205.226	11443
+FAIL	NO	NO			355	230		🇰🇿230Mb | Orion Network Limited	165.231.170.34	443
+FAIL	NO	NO			3900	207		🇹🇷207Mb | YottaSrc	myda07.api3-max.ru	443
+FAIL	NO	NO			4003	173		🇹🇷173Mb | YottaSrc	myda08.api3-max.ru	443
+FAIL	NO	NO			4002	166		🇹🇷166Mb | YottaSrc	myda010.api3-max.ru	443
+FAIL	NO	NO			403	149		🇫🇮149Mb | Scalaxy BV	auto.claudpath.com	8443
+FAIL	NO	NO			465	138		🇨🇭138Mb | Global Connectivity Solutions Llp	auto-4.claudpath.com	8443
+FAIL	NO	NO			4003	137		🇫🇮137Mb | 'Ghita Telekom'	144.31.150.4	52006
+FAIL	NO	NO			3357	133		🇵🇱133Mb | FDCserversnet	50.7.249.162	443
+FAIL	NO	NO			2186	105		🇳🇱105Mb | Moskalev Georgiy	191.44.38.143	8443
+WORKS	YES	YES	94.183.157.8	PL	1043	101	12	🇵🇱101Mb | HOSTES LTD	pol2.serverslocal.ru	443
+WORKS	YES	YES	80.47.6.11	GB	3038	101	1	🇵🇱101Mb | MEVSPACE sp z oo	polkakurvich.hohoterz.beer	443
+FAIL	NO	NO			449	95		🇪🇸95Mb | Global Connectivity Solutions Llp	auto-3.claudpath.com	8443
+FAIL	NO	NO			4002	91		🇱🇹91Mb | UAB Cherry Servers	194.87.239.50	443
+WORKS	YES	YES	94.183.157.8	PL	567	88	5	🇵🇱88Mb | HOSTES LTD	151.241.166.83	443
+FAIL	NO	NO			344	85		🌐85Mb | 1714  🇳🇱 Netherlands  VLESS  📺	89.125.100.29	443
+FAIL	NO	NO			3534	82		🇬🇧82Mb | YottaSrc	rankas7.api3-max.ru	443
+WORKS	YES	YES	161.104.105.34	RU	609	81	7	🇷🇺81Mb | VK	185.155.55.10	8443
+WORKS	YES	YES	151.242.161.50	DE	1275	81	2	🇦🇪81Mb | HOSTES LTD	ger1.serverslocal.ru	443
+FAIL	NO	NO			2770	80		🇹🇷80Mb | YottaSrc	198.105.123.146	443
+WORKS	YES	YES	151.241.166.130	IN	577	79	6	🇦🇪79Mb | HOSTES LTD	151.241.166.137	443
+FAIL	NO	NO			533	78		🇮🇹78Mb | Akamai Connected Cloud	it.d1.starzone.ir	29247
+FAIL	NO	NO			659	77		🇰🇿77Mb | PS Internet Company LLP	c3h82xhny.denditop.site	443
+WORKS	YES	YES	161.104.105.34	RU	473	76	4	🇷🇺76Mb | VK	95.133.247.18	8443
+FAIL	NO	NO			2741	75		🇹🇷75Mb | YottaSrc	64.49.15.177	443
+FAIL	NO	NO			4003	74		🇵🇱74Mb | MEVSPACE sp z oo	80.47.6.12	443
+FAIL	NO	NO			348	72		🇳🇱72Mb | Netrouting BV	94.228.219.55	8443
+FAIL	NO	NO			4002	68		🇷🇺68Mb | Jsc timeweb	dismissaltree.net	2053
+FAIL	NO	NO			2801	67		🇹🇷67Mb | YottaSrc	204.10.192.228	443
+WORKS	YES	YES	91.132.160.209	DE	2643	66	3	🇩🇪66Mb | Senko Digital	91.132.160.209	443
+FAIL	NO	NO			4002	64		🇪🇪64Mb | 'Ghita Telekom'	188.255.236.14	52006
+FAIL	NO	NO			4003	62		🇳🇱62Mb | Hostkey Bv	nl-1.omuservice.tech	8443
+FAIL	NO	NO			343	57		🇳🇱57Mb | Moskalev Georgiy	89.125.100.29	443
