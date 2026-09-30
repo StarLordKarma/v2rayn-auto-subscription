@@ -1,18 +1,18 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4003	682		🇸🇪682Mb | Oracle Cloud	51.170.181.33	62145
-FAIL	NO	NO			4003	401		🇳🇱401Mb | Oracle Cloud	193.123.56.241	62145
-FAIL	NO	NO			4002	275		🇦🇹275Mb | netcup GmbH	159.195.240.82	443
-WORKS	NO	NO			770	190		🇳🇱190Mb | Aeza Group	45.150.33.33	443
-WORKS	YES	YES	191.40.4.203	DE	1035	135	3	🇩🇪135Mb | Eons Data Communications Limited	de-06.vacvps.com	443
-FAIL	NO	NO			4002	134		🌐134Mb | 3808  🇵🇱 Poland  VLESS  📺 YT	95.81.75.9	57160
-WORKS	YES	YES	151.242.161.186	DE	745	131	2	🇦🇪131Mb | HOSTES LTD	germ2.serverslocal.ru	443
-FAIL	NO	NO			4002	124		🇳🇱124Mb | NovoServe BV	89.105.197.202	443
-FAIL	NO	NO			212	119		🇺🇸119Mb | UAB Cherry Servers	subscribe.betust.net	443
-WORKS	YES	YES	151.241.166.130	IN	486	112	4	🇦🇪112Mb | HOSTES LTD	151.241.166.137	443
-WORKS	YES	NO			781	110		🇷🇺110Mb | Jsc timeweb	ru-test.omuservice.tech	8443
-FAIL	NO	NO			145	97		🇺🇸97Mb | UAB Cherry Servers	88.216.195.188	443
-WORKS	YES	YES	151.242.161.50	DE	737	96	1	🇦🇪96Mb | HOSTES LTD	ger1.serverslocal.ru	443
-WORKS	YES	YES	62.77.158.1	LT	596	89	6	🇱🇹89Mb | UAB Interneto vizija	62.77.158.1	443
-FAIL	NO	NO			4002	77		🇦🇪77Mb | Oracle Cloud	139.185.44.42	8443
-FAIL	NO	NO			4003	73		🇩🇪73Mb | ZhouyiSat Communications	194.48.142.103	443
-WORKS	YES	YES	151.241.166.130	IN	588	58	5	🇦🇪58Mb | HOSTES LTD	151.241.166.137.sslip.io	443
+FAIL	NO	NO			4002	682		🇸🇪682Mb | Oracle Cloud	51.170.181.33	62145
+FAIL	NO	NO			4002	401		🇳🇱401Mb | Oracle Cloud	193.123.56.241	62145
+FAIL	NO	NO			4003	275		🇦🇹275Mb | netcup GmbH	159.195.240.82	443
+WORKS	YES	YES	45.150.33.33	NL	1006	190	3	🇳🇱190Mb | Aeza Group	45.150.33.33	443
+WORKS	YES	YES	191.40.4.203	DE	1066	135	2	🇩🇪135Mb | Eons Data Communications Limited	de-06.vacvps.com	443
+WORKS	YES	NO			2242	134		🌐134Mb | 3808  🇵🇱 Poland  VLESS  📺 YT	95.81.75.9	57160
+WORKS	NO	YES			935	131		🇦🇪131Mb | HOSTES LTD	germ2.serverslocal.ru	443
+WORKS	NO	YES			543	124		🇳🇱124Mb | NovoServe BV	89.105.197.202	443
+FAIL	NO	NO			317	119		🇺🇸119Mb | UAB Cherry Servers	subscribe.betust.net	443
+WORKS	YES	YES	151.241.166.130	IN	670	112	4	🇦🇪112Mb | HOSTES LTD	151.241.166.137	443
+WORKS	YES	NO			959	110		🇷🇺110Mb | Jsc timeweb	ru-test.omuservice.tech	8443
+FAIL	NO	NO			157	97		🇺🇸97Mb | UAB Cherry Servers	88.216.195.188	443
+WORKS	YES	YES	151.242.161.50	DE	916	96	1	🇦🇪96Mb | HOSTES LTD	ger1.serverslocal.ru	443
+WORKS	NO	NO			748	89		🇱🇹89Mb | UAB Interneto vizija	62.77.158.1	443
+WORKS	NO	YES			3386	77		🇦🇪77Mb | Oracle Cloud	139.185.44.42	8443
+FAIL	NO	NO			4002	73		🇩🇪73Mb | ZhouyiSat Communications	194.48.142.103	443
+WORKS	YES	YES	151.241.166.130	IN	847	58	5	🇦🇪58Mb | HOSTES LTD	151.241.166.137.sslip.io	443
