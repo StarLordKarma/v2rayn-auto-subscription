@@ -4,6 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 * * * *"
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update.yml"
+      - "scripts/**"
 
 permissions:
   contents: write
@@ -27,6 +32,7 @@ jobs:
             "https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/speed_tested.txt" \
             -o speed_tested.txt
           test -s speed_tested.txt
+          grep -q '^vless://' speed_tested.txt
           echo "Downloaded $(wc -l < speed_tested.txt) upstream lines"
 
       - name: Install Xray
