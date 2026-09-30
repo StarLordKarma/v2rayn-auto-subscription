@@ -1,47 +1,24 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			1633	705		🇩🇪705Mb | UAB Cherry Servers	185.229.9.234	443
-WORKS	NO	NO			831	484		🇷🇺484Mb | Citytelecom	185.73.126.217	50000
-FAIL	NO	NO			1576	424		🇩🇪424Mb | UAB Cherry Servers	185.229.9.235	43005
-FAIL	NO	NO			4002	292		🇳🇱292Mb | YottaSrc	kostaa8.api3-max.ru	443
-FAIL	NO	NO			4002	281		🇳🇱281Mb | YottaSrc	kostaa6.api3-max.ru	443
-FAIL	NO	NO			4005	266		🇦🇹266Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	YES	129.101.123.92	NL	590	265	7	🇳🇱265Mb | NovoServe BV	nlll.gaz-service.shop	8443
-FAIL	NO	NO			4002	256		🇦🇹256Mb | netcup GmbH	159.195.240.82	443
-FAIL	NO	NO			4003	254		🇷🇺254Mb | Jsc timeweb	n98o5teg7.dendiboss.org	443
-FAIL	NO	NO			824	253		🇨🇭253Mb | Private Layer INC	94.139.255.254	5443
-WORKS	YES	YES	151.242.161.50	DE	988	231	2	🇦🇪231Mb | HOSTES LTD	ger1.serverslocal.ru	443
-FAIL	NO	NO			79	217		🇩🇪217Mb | Play2go International Limited	162.159.243.105	443
-WORKS	YES	YES	185.80.234.39	NL	554	190	5	🇳🇱190Mb | NovoServe BV	185.80.234.39	8443
-WORKS	YES	YES	151.241.166.130	IN	717	189	9	🇦🇪189Mb | HOSTES LTD	151.241.166.137.sslip.io	443
-WORKS	YES	YES	94.183.157.8	PL	1158	185	11	🇵🇱185Mb | HOSTES LTD	pol2.serverslocal.ru	443
-FAIL	NO	NO			770	184		🇨🇭184Mb | Private Layer INC	46.243.205.226	11443
-WORKS	NO	YES			561	182		🇳🇱182Mb | Timeweb LLP	217.149.26.11	8443
-FAIL	NO	NO			4001	171		🇬🇧171Mb | Hostkey Bv	46.253.143.185	25947
-FAIL	NO	NO			722	170		🇨🇭170Mb | Private Layer INC	45.9.24.125	8443
-FAIL	NO	NO			4002	154		🇺🇸154Mb | Host Telecom	lk-1.yes-on.ru	443
-FAIL	NO	NO			3633	147		🇫🇷147Mb | YottaSrc	gustaav6.api3-max.ru	443
-WORKS	YES	YES	193.23.201.172	FI	860	146	10	🇫🇮146Mb | Play2go International Limited	193.23.201.172	443
-WORKS	NO	NO			951	140		🇦🇪140Mb | HOSTES LTD	germ2.serverslocal.ru	443
-WORKS	YES	YES	195.133.66.229	NL	551	137	3	🇨🇿137Mb | Timeweb LLP	195.133.66.229	8443
-FAIL	NO	NO			531	128		🇫🇷128Mb | OVH	91.240.87.237	443
-FAIL	NO	NO			4002	96		🇳🇱96Mb | YottaSrc	185.117.0.198	443
-FAIL	NO	NO			4001	95		🇫🇮95Mb | Web1 Oy	185.188.30.152	443
-WORKS	YES	YES	94.183.157.8	PL	3054	93	13	🇵🇱93Mb | HOSTES LTD	151.241.166.83	443
-WORKS	NO	NO			2050	77		🇳🇱77Mb | Aeza Group	45.150.33.33	443
-FAIL	NO	NO			2745	77		🇫🇷77Mb | YottaSrc	45.67.139.60	443
-WORKS	NO	NO			762	76		🇫🇮76Mb | Snowd Security OU	72.35.246.119	443
-FAIL	NO	NO			71	76		🇩🇪76Mb | Hetzner	chatgpt-async-webps-prod-centralus-0.chatgpt.com	443
-WORKS	YES	NO			1061	76		🇺🇸76Mb | Host Telecom	85.209.135.145	443
-WORKS	YES	YES	80.47.6.11	GB	1648	74	1	🇵🇱74Mb | MEVSPACE sp z oo	polkakurvich.hohoterz.beer	443
-WORKS	YES	YES	31.76.70.198	EE	1345	70	12	🇺🇸70Mb | Servhost Group	13.143.182.136.sslip.io	443
-WORKS	NO	NO			725	66		🇦🇪66Mb | HOSTES LTD	94.183.253.211	443
-WORKS	YES	YES	212.162.152.154	NL	552	64	4	🇳🇱64Mb | NovoServe BV	80.85.141.32	8443
-FAIL	NO	NO			4001	64		🇮🇪64Mb | MVPS LTD	193.24.234.125	443
-FAIL	NO	NO			4003	61		🇳🇱61Mb | Play2go International Limited	nl1.apexvpn.space	8443
-FAIL	NO	NO			411	60		🇺🇸60Mb | NovoServe BV	89.105.197.98	443
-FAIL	NO	NO			450	58		🇩🇪58Mb | FDCserversnet	50.7.28.20	443
-WORKS	YES	YES	129.101.123.92	NL	561	58	6	🇺🇸58Mb | Timeweb LLP	129.101.123.92	8443
-WORKS	YES	YES	151.241.166.130	IN	656	58	8	🇦🇪58Mb | HOSTES LTD	151.241.166.137	443
-FAIL	NO	NO			715	58		🇳🇱58Mb | Liam Kremer	185.241.195.151	9444
-FAIL	NO	NO			4003	57		🇮🇪57Mb | MVPS LTD	web.code-sandbox.blog	443
-FAIL	NO	NO			444	57		🇵🇱57Mb | MEVSPACE sp z oo	149.86.227.16	443
+WORKS	YES	YES	3.70.192.111	DE	1814	764	3	🌐764Mb | 2179  🌐 Unknown  VLESS  TG: @Y	bgroup.de3.ilovegairport.com	443
+WORKS	YES	YES	45.145.40.62	DE	1485	671	2	🌐671Mb | 🇩🇪t.me/ConfigsHub	45.145.40.61	7443
+WORKS	YES	YES	212.46.33.5	NL	568	568	4	🇳🇱568Mb | Liam Kremer	slowkd.sadiepinki.com	443
+WORKS	YES	NO			704	545		🇷🇺545Mb | Citytelecom	185.73.126.217	50000
+FAIL	NO	NO			617	310		🇬🇧310Mb | FDCserversnet	nl-ded3.gamma-kvn.com	443
+FAIL	NO	NO			527	292		🇬🇧292Mb | FDCserversnet	nl-ded.gamma-kvn.com	443
+FAIL	NO	NO			126	269		🇩🇪269Mb | Play2go International Limited	162.159.243.105	443
+WORKS	YES	YES	159.195.240.82	AT	564	239	6	🇦🇹239Mb | netcup GmbH	159.195.240.82	443
+FAIL	NO	NO			4000	231		🇺🇸231Mb | Host Telecom	lk-1.yes-on.ru	443
+WORKS	YES	YES	159.195.242.180	AT	552	229	5	🇦🇹229Mb | netcup GmbH	159.195.242.180	443
+FAIL	NO	NO			715	228		🇫🇮228Mb | Play2go International Limited	193.23.201.172	443
+WORKS	YES	YES	151.241.166.130	IN	771	145	8	🇦🇪145Mb | HOSTES LTD	151.241.166.137.sslip.io	443
+WORKS	YES	YES	151.241.166.130	IN	683	136	7	🇦🇪136Mb | HOSTES LTD	151.241.166.137	443
+FAIL	NO	NO			2901	133		🇦🇪133Mb | Snowd Security OU	78.17.161.169	13868
+FAIL	NO	NO			542	133		🇳🇱133Mb | FDCserversnet	nl-ded2.gamma-kvn.com	443
+FAIL	NO	NO			4001	117		🇦🇪117Mb | HOSTES LTD	germ2.serverslocal.ru	443
+FAIL	NO	NO			4000	117		🇬🇧117Mb | Hostkey Bv	46.253.143.185	25947
+FAIL	NO	NO			104	115		🇩🇪115Mb | Hetzner	199.232.78.140	80
+FAIL	NO	NO			4001	107		🇸🇬107Mb | AWS	agroup.sg3.ilovegairport.com	443
+WORKS	NO	YES			540	101		🇩🇪101Mb | Hetzner	kvm1.avenone.ir	8402
+WORKS	YES	YES	151.242.161.50	DE	1385	64	1	🇦🇪64Mb | HOSTES LTD	ger1.serverslocal.ru	443
+WORKS	YES	NO			810	57		🇷🇺57Mb | Jsc timeweb	83.222.8.125	8443
+FAIL	NO	NO			4003	57		🇳🇱57Mb | Oc Networks Limited	95.85.226.58	443
