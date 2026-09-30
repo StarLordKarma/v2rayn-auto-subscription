@@ -1,24 +1,33 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	3.70.192.111	DE	1814	764	3	🌐764Mb | 2179  🌐 Unknown  VLESS  TG: @Y	bgroup.de3.ilovegairport.com	443
-WORKS	YES	YES	45.145.40.62	DE	1485	671	2	🌐671Mb | 🇩🇪t.me/ConfigsHub	45.145.40.61	7443
-WORKS	YES	YES	212.46.33.5	NL	568	568	4	🇳🇱568Mb | Liam Kremer	slowkd.sadiepinki.com	443
-WORKS	YES	NO			704	545		🇷🇺545Mb | Citytelecom	185.73.126.217	50000
-FAIL	NO	NO			617	310		🇬🇧310Mb | FDCserversnet	nl-ded3.gamma-kvn.com	443
-FAIL	NO	NO			527	292		🇬🇧292Mb | FDCserversnet	nl-ded.gamma-kvn.com	443
-FAIL	NO	NO			126	269		🇩🇪269Mb | Play2go International Limited	162.159.243.105	443
-WORKS	YES	YES	159.195.240.82	AT	564	239	6	🇦🇹239Mb | netcup GmbH	159.195.240.82	443
-FAIL	NO	NO			4000	231		🇺🇸231Mb | Host Telecom	lk-1.yes-on.ru	443
-WORKS	YES	YES	159.195.242.180	AT	552	229	5	🇦🇹229Mb | netcup GmbH	159.195.242.180	443
-FAIL	NO	NO			715	228		🇫🇮228Mb | Play2go International Limited	193.23.201.172	443
-WORKS	YES	YES	151.241.166.130	IN	771	145	8	🇦🇪145Mb | HOSTES LTD	151.241.166.137.sslip.io	443
-WORKS	YES	YES	151.241.166.130	IN	683	136	7	🇦🇪136Mb | HOSTES LTD	151.241.166.137	443
-FAIL	NO	NO			2901	133		🇦🇪133Mb | Snowd Security OU	78.17.161.169	13868
-FAIL	NO	NO			542	133		🇳🇱133Mb | FDCserversnet	nl-ded2.gamma-kvn.com	443
-FAIL	NO	NO			4001	117		🇦🇪117Mb | HOSTES LTD	germ2.serverslocal.ru	443
-FAIL	NO	NO			4000	117		🇬🇧117Mb | Hostkey Bv	46.253.143.185	25947
-FAIL	NO	NO			104	115		🇩🇪115Mb | Hetzner	199.232.78.140	80
-FAIL	NO	NO			4001	107		🇸🇬107Mb | AWS	agroup.sg3.ilovegairport.com	443
-WORKS	NO	YES			540	101		🇩🇪101Mb | Hetzner	kvm1.avenone.ir	8402
-WORKS	YES	YES	151.242.161.50	DE	1385	64	1	🇦🇪64Mb | HOSTES LTD	ger1.serverslocal.ru	443
-WORKS	YES	NO			810	57		🇷🇺57Mb | Jsc timeweb	83.222.8.125	8443
-FAIL	NO	NO			4003	57		🇳🇱57Mb | Oc Networks Limited	95.85.226.58	443
+WORKS	YES	YES	107.161.160.76	FR	650	356	9	🌐356Mb | 🇫🇷FR_802.5MB/sA004-260618	107.161.160.76	8443
+FAIL	NO	NO			523	306		🇩🇪306Mb | AWS	agroup.de1.ilovegairport.com	443
+WORKS	YES	NO			809	298		🇷🇺298Mb | Citytelecom	185.73.126.217	50000
+FAIL	NO	NO			454	296		🇩🇪296Mb | Tom Gewiese	77.90.52.36	443
+WORKS	YES	YES	179.255.187.242	NL	1119	284	5	🇳🇱284Mb | Host Telecom	lk-1.yes-on.ru	443
+FAIL	NO	NO			199	282		🇬🇧282Mb | Packet Star Networks Limited	23.235.33.98	80
+FAIL	NO	NO			4002	263		🇩🇪263Mb | AWS	bgroup.de3.ilovegairport.com	443
+WORKS	YES	YES	173.234.14.105	SG	1254	196	14	🌐196Mb | 1056  🇸🇬 Singapore  VLESS  📺 Y	173.234.14.105	59615
+WORKS	YES	YES	144.31.224.240	NL	1420	194	6	🇳🇱194Mb | Play2go International Limited	nl.vpnifty.ru	18443
+WORKS	YES	YES	151.241.166.130	IN	2143	181	16	🇦🇪181Mb | HOSTES LTD	151.241.166.137	443
+FAIL	NO	NO			148	178		🇺🇸178Mb | AWS	agroup.us2.ilovegairport.com	443
+FAIL	NO	NO			4001	173		🇩🇪173Mb | Tech Tide Portugal Unipessoal LDA	nl1.miyazono-kaori.com	443
+WORKS	YES	YES	34.159.243.3	DE	899	153	3	🇩🇪153Mb | Google Cloud	34.159.243.3	443
+WORKS	NO	YES			715	146		🇳🇱146Mb | Liam Kremer	slowkd.sadiepinki.com	443
+FAIL	NO	NO			4003	127		🇭🇰127Mb | AWS	bgroup.hk1.ilovegairport.com	443
+FAIL	NO	NO			517	121		🇭🇰121Mb | AWS	agroup.hk1.ilovegairport.com	443
+WORKS	YES	YES	34.175.107.233	ES	571	109	8	🇪🇸109Mb | Google Cloud	34.175.107.233	443
+FAIL	NO	NO			4001	107		🇦🇹107Mb | netcup GmbH	159.195.242.180	443
+FAIL	NO	NO			4001	83		🇩🇪83Mb | Hetzner	91.107.185.32	80
+WORKS	YES	YES	151.241.166.130	IN	2110	82	15	🇦🇪82Mb | HOSTES LTD	151.241.166.137.sslip.io	443
+WORKS	YES	YES	143.246.40.5	US	312	82	2	🇺🇸82Mb | Gabriele Sabatino	us-2886e62c11.sishka.network	443
+WORKS	YES	YES	194.87.60.3	PL	762	80	10	🇵🇱80Mb | Gabriele Sabatino	pl-35111f2d5f.sishka.network	443
+FAIL	NO	NO			132	75		🇺🇸75Mb | AWS	agroup.us1.ilovegairport.com	443
+WORKS	YES	YES	35.199.19.90	US	274	73	1	🇺🇸73Mb | Google Cloud	35.199.19.90	443
+WORKS	YES	YES	34.175.19.8	ES	564	72	7	🇪🇸72Mb | Google Cloud	34.175.19.8	443
+FAIL	NO	NO			4002	66		🇦🇪66Mb | HOSTES LTD	94.183.253.211	443
+FAIL	NO	NO			551	65		🇸🇬65Mb | AWS	agroup.sg3.ilovegairport.com	443
+WORKS	YES	YES	151.242.161.50	DE	1140	63	4	🇦🇪63Mb | HOSTES LTD	151.242.161.182	443
+WORKS	YES	YES	34.18.161.225	QA	1134	63	13	🇶🇦63Mb | Google Cloud	34.18.161.225	443
+WORKS	YES	YES	34.176.187.219	CL	962	57	11	🇨🇱57Mb | Google Cloud	34.176.187.219	443
+WORKS	YES	YES	34.154.251.151	IT	964	57	12	🇮🇹57Mb | Google Cloud	34.154.251.151	443
+FAIL	NO	NO			4003	56		🇦🇹56Mb | netcup GmbH	159.195.240.82	443
