@@ -1,57 +1,37 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	NO			1470	512		🇷🇺512Mb | Jsc timeweb	ru-c2d937931e.sishka.network	443
-WORKS	YES	YES	194.58.222.27	SE	621	383	12	🇸🇪383Mb | Gabriele Sabatino	se-3554899f.sishka.network	443
-WORKS	NO	NO			1099	305		🇳🇱305Mb | Host Telecom	lk-1.yes-on.ru	443
-FAIL	NO	NO			4002	291		🇨🇭291Mb | WAIcore	217.25.93.215	443
-FAIL	NO	NO			4002	244		🇧🇪244Mb | Google Cloud	34.156.242.126	443
-WORKS	YES	YES	88.119.176.131	LT	932	216	24	🇱🇹216Mb | Hostline Uab	litter.propper.beauty	443
-WORKS	YES	NO			693	206		🇷🇺206Mb | Citytelecom	185.73.126.217	50000
-WORKS	YES	YES	185.106.98.124	FR	466	204	8	🌐204Mb | 0144  🇫🇷 France  VLESS  📺 YT	185.106.98.124	59443
-WORKS	YES	YES	151.241.166.130	IN	799	200	18	🇦🇪200Mb | HOSTES LTD	151.241.166.137.sslip.io	443
-WORKS	YES	YES	94.183.157.8	PL	903	183	22	🇵🇱183Mb | HOSTES LTD	pol2.serverslocal.ru	443
-FAIL	NO	NO			4002	179		🇫🇮179Mb | Play2go International Limited	193.23.201.172	443
-FAIL	NO	NO			4002	176		🇦🇹176Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	YES	194.58.222.27	SE	561	165	9	🇸🇪165Mb | Gabriele Sabatino	194.58.222.27	443
-FAIL	NO	NO			4002	164		🇦🇹164Mb | netcup GmbH	159.195.240.82	443
-FAIL	NO	NO			4003	164		🇮🇹164Mb | Google Cloud	34.154.47.33	443
-WORKS	YES	YES	139.28.168.201	HK	849	150	20	🌐150Mb | 1884  🇨🇳 HongKong  VLESS  TG:	139.28.168.201	443
-FAIL	NO	NO			431	148		🇸🇪148Mb | Gabriele Sabatino	se-a34fa964.sishka.network	443
-WORKS	YES	YES	31.77.203.216	FI	718	144	16	🇫🇮144Mb | DpkgSoft International Limited	2.27.33.174	7443
-WORKS	YES	YES	18.195.76.51	DE	526	136	4	🇩🇪136Mb | AWS	de1.miyazono-kaori.com	443
-WORKS	YES	YES	3.67.226.208	DE	544	124	6	🇩🇪124Mb | AWS	de2.miyazono-kaori.com	443
-FAIL	NO	NO			461	123		🇨🇭123Mb | WAIcore	188.225.27.178	443
-WORKS	NO	YES			501	118		🇳🇱118Mb | Liam Kremer	212.46.33.5	443
-WORKS	YES	YES	13.57.28.96	US	191	117	1	🇺🇸117Mb | AWS	us4.miyazono-kaori.com	443
-WORKS	YES	YES	43.203.197.242	KR	772	114	17	🇰🇷114Mb | AWS	kr2.miyazono-kaori.com	443
-FAIL	NO	NO			3148	114		🇬🇧114Mb | FDCserversnet	50.7.210.58	443
-FAIL	NO	NO			4003	108		🇳🇱108Mb | Host Telecom	lk-1.yes-on.ru	443
-WORKS	YES	YES	13.42.63.233	GB	452	107	3	🇬🇧107Mb | AWS	uk1.miyazono-kaori.com	443
-WORKS	YES	YES	50.7.88.242	DE	528	103	5	🇩🇪103Mb | FDCserversnet	50.7.28.20	443
-WORKS	YES	YES	18.145.65.126	US	201	103	2	🇺🇸103Mb | AWS	us2.miyazono-kaori.com	443
-WORKS	YES	YES	151.241.166.130	IN	714	102	15	🇦🇪102Mb | HOSTES LTD	151.241.166.137	443
-FAIL	NO	NO			754	101		🇩🇪101Mb | WIIT AG	45.8.99.5	443
-WORKS	YES	YES	3.1.210.144	SG	925	96	23	🇸🇬96Mb | AWS	sg2.miyazono-kaori.com	443
-WORKS	YES	YES	18.140.247.93	SG	936	93	25	🇸🇬93Mb | AWS	sg1.miyazono-kaori.com	443
-WORKS	YES	YES	151.241.166.130	IN	684	82		🇦🇪82Mb | HOSTES LTD	151.241.166.137	443
-WORKS	YES	YES	16.106.30.27	HK	985	82	26	🇭🇰82Mb | AWS	hk6.miyazono-kaori.com	443
-FAIL	NO	NO			4003	81		🇳🇱81Mb | Host Telecom	85.209.135.145	443
-FAIL	NO	NO			4002	80		🇳🇱80Mb | Liam Kremer	212.46.33.90	443
-FAIL	NO	NO			613	79		🇳🇱79Mb | FDCserversnet	nl-ded2.gamma-kvn.com	443
-WORKS	YES	YES	77.239.114.197	PL	629	78	13	🇵🇱78Mb | Intezio Worldwide Limited	polka.stopingiphatered.shop	443
-FAIL	NO	NO			4002	76		🇳🇱76Mb | Liam Kremer	slowkd.sadiepinki.com	443
-FAIL	NO	NO			871	74		🇬🇧74Mb | FDCserversnet	nl-ded.gamma-kvn.com	443
-FAIL	NO	NO			3185	73		🇬🇧73Mb | FDCserversnet	50.7.210.86	443
-FAIL	NO	NO			4002	71		🇩🇪71Mb | Hostkey Bv	89.125.185.58	7443
-WORKS	YES	YES	179.255.185.71	US	1122	71		🇺🇸71Mb | Host Telecom	lk-1.yes-on.ru	443
-FAIL	NO	NO			691	71		🇬🇧71Mb | FDCserversnet	nl-ded3.gamma-kvn.com	443
-WORKS	YES	YES	94.183.157.8	PL	618	70	11	🇵🇱70Mb | HOSTES LTD	151.241.166.83	443
-WORKS	YES	YES	200.225.178.10	DE	797	67	7	🌐67Mb | 1304  🌐 Unknown  VLESS  TG: @Y	lk-1.yes-on.ru	443
-FAIL	NO	NO			3175	67		🇳🇱67Mb | FDCserversnet	50.7.220.106	443
-FAIL	NO	NO			510	67		🇷🇺67Mb | Jsc timeweb	78.159.246.179	2053
-WORKS	YES	YES	43.213.8.122	TW	801	66	19	🇹🇼66Mb | AWS	tw4.miyazono-kaori.com	443
-WORKS	YES	YES	148.113.246.163	CA	1052	65	27	🇨🇦65Mb | OVH	milo.rubinaz.xyz	8080
-WORKS	YES	YES	18.163.191.248	HK	872	63	21	🇭🇰63Mb | AWS	hk5.miyazono-kaori.com	443
-WORKS	YES	YES	77.239.114.197	PL	587	63	10	🇵🇱63Mb | Intezio Worldwide Limited	95.85.254.153	443
-WORKS	YES	YES	88.119.176.131	LT	682	63	14	🇱🇹63Mb | Hostline Uab	88.119.176.131	443
-FAIL	NO	NO			4001	57		🇺🇸57Mb | Host Telecom	85.209.135.145	443
-WORKS	YES	NO			777	56		🇷🇺56Mb | Baykov Ilya Sergeevich	185.33.24.85	443
+WORKS	NO	YES			611	815		🌐815Mb | d_0642	143.246.196.207	443
+FAIL	NO	NO			598	349		🇸🇪349Mb | Gabriele Sabatino	se-3554899f.sishka.network	443
+FAIL	NO	NO			3435	313		🇬🇧313Mb | 'Ghita Telekom'	87.192.47.10	52006
+WORKS	NO	YES			473	296		🇳🇱296Mb | RouterHosting	107.189.23.247	443
+FAIL	NO	NO			177	290		🇫🇮290Mb | Hetzner	subnimnet1.ir	80
+FAIL	NO	NO			4002	280		🌐280Mb | 3215  🌐 Unknown  VLESS  TG: @Y	lk-1.yes-on.ru	443
+FAIL	NO	NO			4002	277		🇦🇹277Mb | netcup GmbH	159.195.242.180	443
+WORKS	YES	YES	151.241.166.130	IN	604	260	6	🇦🇪260Mb | HOSTES LTD	151.241.166.137	443
+FAIL	NO	NO			4002	230		🇳🇱230Mb | Oracle Cloud	144.21.43.140	62145
+FAIL	NO	NO			407	210		🇳🇱210Mb | Cyberlab	legenda-bm-s1518.reverseenge.sbs	443
+WORKS	YES	YES	151.241.166.130	IN	609	207		🇦🇪207Mb | HOSTES LTD	151.241.166.137	443
+WORKS	YES	YES	151.241.166.130	IN	771	198	8	🇦🇪198Mb | HOSTES LTD	151.241.166.137.sslip.io	443
+WORKS	YES	YES	88.119.176.131	LT	642	181	7	🇱🇹181Mb | Hostline Uab	88.119.176.131	443
+WORKS	YES	YES	31.77.203.216	FI	774	175	10	🇫🇮175Mb | DpkgSoft International Limited	2.27.33.174	7443
+WORKS	YES	NO			750	165		🇷🇺165Mb | Jsc timeweb	ru-c2d937931e.sishka.network	443
+WORKS	YES	YES	88.119.176.131	LT	894	157	11	🇱🇹157Mb | Hostline Uab	litter.propper.beauty	443
+FAIL	NO	NO			344	155		🇳🇱155Mb | Cyberlab	185.86.13.130	443
+WORKS	NO	YES			1578	154		🇳🇱154Mb | Liam Kremer	212.46.33.5	443
+FAIL	NO	NO			483	153		🌐153Mb | 🌀 CYBERPORTAL  VLESS Black All	159.194.243.175	8443
+WORKS	NO	YES			566	151		🇳🇱151Mb | Liam Kremer	slowkd.sadiepinki.com	443
+WORKS	YES	YES	94.183.157.8	PL	564	142	4	🇵🇱142Mb | HOSTES LTD	151.241.166.83	443
+WORKS	NO	YES			484	129		🇳🇱129Mb | Liam Kremer	212.46.33.90	443
+WORKS	YES	YES	2.27.160.4	US	195	126	1	🌐126Mb | @vpnclashfa - 1097	2.27.160.4	443
+FAIL	NO	NO			4003	120		🇦🇹120Mb | netcup GmbH	159.195.240.82	443
+WORKS	YES	YES	77.239.114.197	PL	774	115	9	🇵🇱115Mb | Intezio Worldwide Limited	polka.stopingiphatered.shop	443
+WORKS	YES	YES	77.239.114.197	PL	1116	100	12	🇵🇱100Mb | Intezio Worldwide Limited	95.85.254.153	443
+FAIL	NO	NO			47	94		🇫🇮94Mb | Hetzner	subnimnet1.ir	80
+WORKS	YES	YES	78.17.176.174	FI	592	90	5	🌐90Mb | 0247  🇫🇮 Finland  VLESS  📺 YT	78.17.176.174	11515
+FAIL	NO	NO			59	89		🇫🇮89Mb | Hetzner	subnimnet1.ir	80
+WORKS	YES	NO			1771	84		🇷🇺84Mb | Jsc timeweb	5.129.196.56	443
+FAIL	NO	NO			4002	82		🇷🇺82Mb | Baykov Ilya Sergeevich	185.33.24.85	443
+FAIL	NO	NO			4003	71		🌐71Mb | 2495  🇷🇺 Russia  VLESS  TG: @Y	85.209.135.145	443
+WORKS	YES	YES	77.42.20.51	FI	429	65	3	🇫🇮65Mb | Hetzner	77.42.20.51	1085
+FAIL	NO	NO			4002	65		🇳🇱65Mb | Host Telecom	lk-1.yes-on.ru	443
+FAIL	NO	NO			4002	60		🇩🇪60Mb | Host Telecom	lk-1.yes-on.ru	443
+WORKS	YES	YES	89.125.19.214	DE	846	58	2	🇩🇪58Mb | Hostkey Bv	109.69.20.101	2087
