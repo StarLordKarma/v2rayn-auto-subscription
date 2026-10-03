@@ -1,44 +1,37 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			426	173		🇳🇱173Mb | UAB Cherry Servers	nl-ams-12.blook.rs	443
-WORKS	YES	YES	88.119.176.131	LT	621	161	23	🇱🇹161Mb | Hostline Uab	litter.propper.beauty	443
-WORKS	YES	YES	13.143.163.148	UA	414	155	14	🇩🇪155Mb | Fzco	gemsubbgem.world	443
-FAIL	NO	NO			1371	138		🇷🇺138Mb | Sysect Doo	89.19.223.227	443
-WORKS	YES	YES	89.125.185.58	DE	749	132	5	🇩🇪132Mb | Hostkey Bv	node.remnagecsp.ru	7443
-FAIL	NO	NO			4002	128		🇩🇪128Mb | GSL Networks Pty LTD	2.27.143.129	60443
-WORKS	YES	YES	31.59.204.227	PL	502	126	19	🇵🇱126Mb | AdaptGroup	31.59.204.227	443
-FAIL	NO	NO			197	125		🇫🇮125Mb | Hetzner	104.21.62.119	80
-FAIL	NO	NO			548	123		🇩🇪123Mb | Hetzner	s3.bamans.uk	443
-FAIL	NO	NO			4003	119		🇦🇹119Mb | netcup GmbH	159.195.240.82	443
-WORKS	YES	YES	147.45.183.80	RU	610	118	22	🇷🇺118Mb | Jsc timeweb	95.163.215.8	5003
-WORKS	YES	NO			862	115		🇷🇺115Mb | Sysect Doo	89.19.223.231	443
-WORKS	YES	YES	31.59.206.218	PL	513	115	20	🇵🇱115Mb | AdaptGroup	31.59.206.218	443
-WORKS	YES	NO			2639	112		🇷🇺112Mb | Timeweb LLP	nlafterdate.live	443
-WORKS	YES	YES	51.91.234.158	FR	850	111	24	🇫🇷111Mb | OVH	2.26.104.40	443
-WORKS	YES	YES	200.225.178.10	DE	690	110	4	🇸🇨110Mb | Host Telecom	85.209.135.145	443
-WORKS	YES	YES	193.200.78.228	NL	425	110	9	🇳🇱110Mb | Liam Kremer	mk-nl4.silalink.sbs	443
-FAIL	NO	NO			4003	110		🇦🇹110Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	YES	95.85.254.114	PL	908	108	25	🇵🇱108Mb | Intezio Worldwide Limited	pol4.o4ka-internet.com	443
-WORKS	YES	YES	193.200.78.229	NL	441	104	10	🇳🇱104Mb | Liam Kremer	mk-nl3.silalink.sbs	443
-FAIL	NO	NO			120	102		🇫🇮102Mb | Hetzner	subnimnet1.ir	80
-FAIL	NO	NO			39	101		🇫🇮101Mb | Hetzner	subnimnet1.ir	80
-FAIL	NO	NO			30	95		🇫🇮95Mb | Hetzner	subnimnet1.ir	80
-WORKS	YES	YES	130.78.190.130	NL	478	94	11	🌐94Mb | 0625  🇳🇱 Netherlands  VLESS  📺	130.78.190.130	443
-WORKS	YES	YES	13.143.175.56	US	634	94	3	🌐94Mb | 🇺🇦 Ukraine, Kyiv  BL	newhollandafter.world	443
-WORKS	YES	YES	144.31.150.127	FI	482	93	17	🇫🇮93Mb | 'Ghita Telekom'	144.31.150.127	443
-WORKS	YES	YES	130.78.190.130	NL	549	93	12	🌐93Mb | 3694  🇺🇸 USA  VLESS  📺 YT  TG:	t-lv1.fpradius.com	443
-WORKS	YES	YES	64.188.76.75	FI	494	90	18	🇫🇮90Mb | Oc Networks Limited	mk-fi2.silalink.sbs	443
-WORKS	NO	YES			411	89		🇩🇪89Mb | Fzco	13.143.163.148	443
-WORKS	YES	YES	5.175.178.58	EE	477	88	16	🇪🇪88Mb | Takehost Ou	e1.fpradius.com	443
-FAIL	NO	NO			3009	87		🇩🇪87Mb | Spacecore Solution	162.35.224.112	443
-FAIL	NO	NO			569	86		🇳🇱86Mb | EdgeSec Technologies Limited	nl-01.avroraservice.online	443
-WORKS	YES	YES	94.228.160.245	NL	602	86	13	🇷🇺86Mb | NetCrafters OU	nl-03-10.zetnik.site	443
-WORKS	YES	YES	64.188.76.92	FI	461	84	15	🇫🇮84Mb | Oc Networks Limited	mk-fi3.silalink.sbs	443
-WORKS	YES	YES	185.86.13.98	NL	413	83	8	🇳🇱83Mb | Cyberlab	ulet-bm-s1700.reverseenge.sbs	443
-WORKS	YES	YES	88.119.176.131	LT	546	82	21	🇱🇹82Mb | Hostline Uab	88.119.176.131	443
-WORKS	YES	YES	13.143.174.22	US	614	80	2	🌐80Mb | Бесплатный VPN tg:VLESSFORU 🇸🇪	swidenfenix.space	443
-WORKS	YES	YES	185.86.13.98	NL	366	79	7	🇳🇱79Mb | Cyberlab	185.86.13.98	443
-FAIL	NO	NO			3047	78		🇩🇪78Mb | Spacecore Solution	162.35.224.113	443
-WORKS	YES	YES	89.125.185.58	DE	1585	77	6	🇩🇪77Mb | Hostkey Bv	89.125.185.58	7443
-FAIL	NO	NO			417	77		🇩🇪77Mb | UAB Cherry Servers	185.229.9.235	43005
-WORKS	YES	YES	13.143.174.22	US	493	75	1	🌐75Mb | 0484  🇺🇸 USA  VLESS  📺 YT  TG:	13.143.174.22	443
-WORKS	NO	YES			1047	75		🇰🇿75Mb | Newserverlife	kz.monkeyisland.xyz	443
+FAIL	NO	NO			4002	266		🇷🇺266Mb | Kviktel	185.147.27.164	8443
+WORKS	NO	NO			691	252		🇷🇺252Mb | Jsc timeweb	201.34.137.215	443
+FAIL	NO	NO			3589	241		🇷🇺241Mb | Jsc timeweb	31.130.135.81	443
+FAIL	NO	NO			4002	218		🇷🇺218Mb | Delta	45.151.182.152	25490
+WORKS	YES	NO			655	213		🇷🇺213Mb | Jsc timeweb	201.24.53.145	443
+FAIL	NO	NO			3510	195		🇷🇺195Mb | Jsc timeweb	46.19.66.142	443
+WORKS	YES	YES	201.24.53.145	RU	898	193	8	🇷🇺193Mb | Jsc timeweb	rutubers.space	443
+FAIL	NO	NO			4002	163		🇷🇺163Mb | Delta	188.130.209.223	444
+FAIL	NO	NO			4003	146		🇵🇱146Mb | H2nexus Cloud Services - Fzco	188.225.79.44	443
+FAIL	NO	NO			678	140		🇩🇪140Mb | Hetzner	s3.bamans.uk	443
+WORKS	YES	YES	161.104.105.34	RU	466	120	3	🇰🇿120Mb | VK	193.202.113.4	443
+FAIL	NO	NO			4001	115		🇷🇺115Mb | Baykov Ilya Sergeevich	185.33.24.85	443
+FAIL	NO	NO			4003	115		🇦🇹115Mb | netcup GmbH	159.195.240.82	443
+WORKS	NO	YES			929	110		🇫🇷110Mb | Aeza Group	46.226.166.159	8443
+FAIL	NO	NO			4002	107		🇧🇪107Mb | Global Connectivity Solutions Llp	freeru01.tunnely.space	443
+FAIL	NO	NO			258	106		🇫🇮106Mb | Hetzner	subnimnet1.ir	80
+FAIL	NO	NO			608	106		🇫🇮106Mb | Cloudflare	45.81.33.194	443
+FAIL	NO	NO			4005	104		🇦🇹104Mb | netcup GmbH	159.195.242.180	443
+WORKS	YES	YES	31.59.204.227	PL	617	102	6	🇵🇱102Mb | AdaptGroup	31.59.204.227	443
+WORKS	YES	YES	88.119.176.131	LT	890	100	7	🇱🇹100Mb | Hostline Uab	litter.propper.beauty	443
+WORKS	YES	YES	185.86.13.98	NL	506	100	2	🇳🇱100Mb | Cyberlab	ulet-bm-s1700.reverseenge.sbs	443
+WORKS	YES	YES	31.59.206.218	PL	602	99	5	🇵🇱99Mb | AdaptGroup	31.59.206.218	443
+FAIL	NO	NO			396	97		🌐97Mb | 3913  🇸🇪 Sweden  VLESS  📺 YT	185.153.180.190	443
+FAIL	NO	NO			4002	95		🇨🇭95Mb | Global Connectivity Solutions Llp	freeru01.tunnely.space	443
+FAIL	NO	NO			4002	94		🇩🇪94Mb | Senko Digital	31.77.226.120	443
+FAIL	NO	NO			597	94		🇫🇮94Mb | Cloudflare	45.81.33.194	443
+WORKS	YES	NO			955	92		🇵🇱92Mb | VPSPay Networks LTD	pl.flen-vpn.xyz	8443
+FAIL	NO	NO			363	92		🇩🇪92Mb | FDCserversnet	50.7.28.21	443
+FAIL	NO	NO			4002	90		🇰🇿90Mb | VK	188.130.209.223	8443
+WORKS	YES	YES	185.86.13.98	NL	485	86	1	🇳🇱86Mb | Cyberlab	185.86.13.98	443
+WORKS	NO	YES			658	85		🇪🇪85Mb | Paul Sagov	143.246.41.23	25895
+FAIL	NO	NO			4002	83		🇨🇿83Mb | SmartApe OU	85.117.235.50	443
+WORKS	NO	YES			978	81		🇱🇻81Mb | SIA RixHost	latinki.pumpkinpie.study	443
+WORKS	YES	YES	161.104.105.34	RU	504	81	4	🇷🇺81Mb | VK	50.7.157.234	443
+WORKS	YES	NO			642	78		🇷🇺78Mb | Sysect Doo	89.19.223.231	443
+WORKS	YES	NO			746	78		🇷🇺78Mb | Sysect Doo	89.19.223.227	443
