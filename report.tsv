@@ -1,18 +1,22 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4002	189		🇷🇺189Mb | Sysect Doo	89.19.223.231	443
-WORKS	YES	NO			972	173		🇷🇺173Mb | Hostkey Bv	193.187.95.124	443
-WORKS	NO	YES			3648	161		🇩🇪161Mb | Fzco	31.77.15.221	443
-WORKS	YES	YES	50.7.160.114	NL	486	145	4	🇺🇸145Mb | FDCserversnet	chubby0.failspace.top	443
-WORKS	YES	YES	31.58.178.110	DE	822	133	2	🇩🇪133Mb | AdaptGroup	31.58.178.110	443
-FAIL	NO	NO			334	131		🇩🇪131Mb | Senko Digital	31.77.226.120	443
-FAIL	NO	NO			3049	124		🇺🇸124Mb | FDCserversnet	50.7.160.250	443
-WORKS	YES	YES	50.7.120.202	NL	910	120	5	🇳🇱120Mb | FDCserversnet	nilka-new-2.failspace.top	443
-WORKS	YES	YES	50.7.226.170	GB	849	120	1	🇺🇸120Mb | FDCserversnet	at-nick.failspace.top	443
-FAIL	NO	NO			543	113		🇳🇱113Mb | Cyberlab	ulet-bm-s1700.reverseenge.sbs	443
-FAIL	NO	NO			407	95		🇩🇪95Mb | Hetzner	s3.bamans.uk	443
-WORKS	YES	YES	5.199.172.193	LT	1006	91	6	🇱🇹91Mb | UAB Cherry Servers	188.225.24.201	443
-FAIL	NO	NO			230	90		🇫🇮90Mb | Hetzner	subnimnet1.ir	80
-FAIL	NO	NO			4003	89		🇦🇹89Mb | netcup GmbH	159.195.240.82	443
-FAIL	NO	NO			309	85		🇳🇱85Mb | Cyberlab	185.86.13.98	443
-WORKS	YES	YES	13.143.163.148	DE	918	81	3	🇩🇪81Mb | Fzco	gemsubbgem.world	443
-FAIL	NO	NO			4002	77		🇦🇹77Mb | netcup GmbH	159.195.242.180	443
+WORKS	YES	NO			894	296		🇷🇺296Mb | Hostkey Bv	193.187.95.124	443
+WORKS	YES	NO			713	165		🇷🇺165Mb | Sysect Doo	89.19.223.231	443
+WORKS	YES	YES	5.157.10.250	SE	645	154	5	🇸🇪154Mb | Angelnet Limited	swebz.loozerp.wiki	443
+WORKS	YES	YES	88.216.127.125	LT	846	150	6	🇱🇹150Mb | UAB Cherry Servers	188.225.25.142	443
+WORKS	YES	YES	5.157.10.250	SE	1184	150	9	🇸🇪150Mb | Angelnet Limited	5.157.10.250	443
+WORKS	YES	YES	50.7.160.114	NL	708	148	3	🇺🇸148Mb | FDCserversnet	chubby0.failspace.top	443
+WORKS	YES	YES	50.7.120.202	NL	718	135	4	🇳🇱135Mb | FDCserversnet	nilka-new-2.failspace.top	443
+FAIL	NO	NO			3444	133		🇳🇱133Mb | FDCserversnet	50.7.120.204	443
+WORKS	YES	YES	88.216.127.125	LT	918	129	7	🇱🇹129Mb | UAB Cherry Servers	188.225.35.207	443
+FAIL	NO	NO			3451	116		🇺🇸116Mb | FDCserversnet	50.7.160.250	443
+WORKS	NO	YES			608	113		🇨🇭113Mb | Route 95	45.90.59.119	443
+FAIL	NO	NO			646	112		🇳🇱112Mb | Liam Kremer	37.139.42.208	9444
+FAIL	NO	NO			4002	110		🇦🇹110Mb | netcup GmbH	159.195.242.180	443
+WORKS	YES	YES	95.163.176.170	AT	1382	102	10	🇦🇹102Mb | Aeza Group	at-04-10.zetnik.site	443
+WORKS	YES	YES	88.216.127.125	LT	922	96	8	🇱🇹96Mb | UAB Cherry Servers	188.225.77.241	443
+WORKS	YES	YES	31.58.178.127	DE	793	95	2	🇩🇪95Mb | AdaptGroup	31.58.178.127	443
+FAIL	NO	NO			318	91		🇩🇪91Mb | Hetzner	s3.bamans.uk	443
+FAIL	NO	NO			1987	80		🇷🇺80Mb | Digital Hosting Provider	de-1e51a8f925.shamanapp.online	443
+WORKS	YES	YES	34.48.220.167	US	231	79	1	🇺🇸79Mb | Google Cloud	34.48.220.167	443
+FAIL	NO	NO			825	77		🇩🇪77Mb | UAB Cherry Servers	185.229.9.175	443
+WORKS	YES	YES	109.248.247.44	KZ	1452	75	11	🇰🇿75Mb | LLP Internet Company First Page	kzself.yandex-api.com	443
