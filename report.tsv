@@ -1,32 +1,32 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	NO			734	214		🇷🇺214Mb | Telecom-Birzha	195.19.166.71	443
-WORKS	YES	NO			1045	203		🇷🇺203Mb | Cloudru	176.109.107.120	443
-WORKS	YES	YES	84.32.215.66	LT	630	125	8	🇱🇹125Mb | UAB Cherry Servers	84.32.215.96	443
-WORKS	YES	YES	50.7.37.154	AT	703	122	12	🇺🇸122Mb | FDCserversnet	polkadot03.failspace.top	443
-WORKS	YES	YES	50.7.249.66	PL	681	121	10	🇵🇱121Mb | FDCserversnet	poland-good.failspace.top	443
-WORKS	YES	YES	50.7.36.26	AT	773	114	13	🇺🇸114Mb | FDCserversnet	at-tati.failspace.top	443
-FAIL	NO	NO			162	112		🇩🇪112Mb | Kamatera	188.114.97.6	443
-WORKS	YES	YES	50.7.95.173	NL	481	111	5	🇺🇸111Mb | FDCserversnet	50.7.95.171	443
-WORKS	NO	YES			473	107		🇬🇧107Mb | FDCserversnet	50.7.193.147	443
-WORKS	YES	YES	50.7.120.162	NL	658	105	6	🇳🇱105Mb | FDCserversnet	cool-place.failspace.top	443
-WORKS	YES	YES	84.32.177.68	NL	471	104	4	🇳🇱104Mb | UAB Cherry Servers	195.189.98.123	443
-WORKS	NO	YES			547	100		🌐100Mb | @UnlimitConfig🇸🇪	13.143.174.144	443
-WORKS	NO	YES			874	97		🇸🇪97Mb | Angelnet Limited	5.157.10.250	443
-FAIL	NO	NO			4001	96		🇸🇪96Mb | Alexhost Srl	143.246.199.124	443
-FAIL	NO	NO			4002	96		🇩🇪96Mb | Play2go International Limited	rel2.pasmazy.ir	8585
-WORKS	NO	YES			662	92		🇬🇧92Mb | FDCserversnet	match.betust.net	443
-WORKS	YES	YES	31.77.226.120	DE	2651	91	3	🇩🇪91Mb | Senko Digital	31.77.226.120	443
-WORKS	YES	YES	89.127.210.175	DE	465	89	1	🇩🇪89Mb | Fornex Hosting SL	89.127.210.175	443
-FAIL	NO	NO			4002	87		🇳🇱87Mb | FDCserversnet	50.7.120.165	443
-FAIL	NO	NO			3340	87		🇵🇱87Mb | FDCserversnet	50.7.249.138	443
-WORKS	YES	YES			3979	87		🇦🇹87Mb | Aeza Group	at-04-10.zetnik.site	443
-WORKS	YES	YES	45.137.202.112	DE	531	87	2	🇩🇪87Mb | 24fire GmbH	de.realfast.click	443
-WORKS	YES	YES	5.157.10.250	SE	606	84	7	🇸🇪84Mb | Angelnet Limited	swebz.loozerp.wiki	443
-WORKS	YES	NO			909	82		🇵🇱82Mb | VPSPay Networks LTD	pl.flen-vpn.xyz	8443
-FAIL	NO	NO			449	82		🇷🇺82Mb | Baykov Ilya Sergeevich	130.49.177.191	443
-FAIL	NO	NO			4002	81		🇵🇱81Mb | FDCserversnet	50.7.249.155	443
-WORKS	YES	YES	50.7.248.66	PL	671	81	9	🇵🇱81Mb | FDCserversnet	pol-pol-poland.failspace.top	443
-WORKS	YES	YES	65.109.177.60	FI	797	81	14	🇫🇮81Mb | Hetzner	cdn3.alihapp.com	443
-FAIL	NO	NO			3195	81		🇳🇱81Mb | Orion Network Limited	165.231.99.45	8443
-WORKS	YES	YES	50.7.248.50	PL	688	80	11	🇵🇱80Mb | FDCserversnet	polkadotnewone.failspace.top	443
-FAIL	NO	NO			3343	77		🇵🇱77Mb | FDCserversnet	50.7.249.98	443
+WORKS	YES	NO			689	214		🇷🇺214Mb | Telecom-Birzha	195.19.166.71	443
+FAIL	NO	NO			4002	203		🇷🇺203Mb | Cloudru	176.109.107.120	443
+WORKS	YES	YES	84.32.215.66	LT	619	125	3	🇱🇹125Mb | UAB Cherry Servers	84.32.215.96	443
+WORKS	YES	YES	50.7.37.154	AT	1159	122	8	🇺🇸122Mb | FDCserversnet	polkadot03.failspace.top	443
+WORKS	NO	YES			638	121		🇵🇱121Mb | FDCserversnet	poland-good.failspace.top	443
+WORKS	NO	YES			624	114		🇺🇸114Mb | FDCserversnet	at-tati.failspace.top	443
+FAIL	NO	NO			102	112		🇩🇪112Mb | Kamatera	188.114.97.6	443
+WORKS	YES	YES	50.7.95.173	NL	463	111	1	🇺🇸111Mb | FDCserversnet	50.7.95.171	443
+WORKS	NO	YES			490	107		🇬🇧107Mb | FDCserversnet	50.7.193.147	443
+WORKS	NO	YES			544	105		🇳🇱105Mb | FDCserversnet	cool-place.failspace.top	443
+WORKS	YES	YES	84.32.177.68	NL	471	104	2	🇳🇱104Mb | UAB Cherry Servers	195.189.98.123	443
+FAIL	NO	NO			4002	100		🌐100Mb | @UnlimitConfig🇸🇪	13.143.174.144	443
+WORKS	NO	YES			3366	97		🇸🇪97Mb | Angelnet Limited	5.157.10.250	443
+WORKS	YES	YES	143.246.199.124	SE	659	96	5	🇸🇪96Mb | Alexhost Srl	143.246.199.124	443
+FAIL	NO	NO			600	96		🇩🇪96Mb | Play2go International Limited	rel2.pasmazy.ir	8585
+WORKS	NO	YES			780	92		🇬🇧92Mb | FDCserversnet	match.betust.net	443
+FAIL	NO	NO			349	91		🇩🇪91Mb | Senko Digital	31.77.226.120	443
+FAIL	NO	NO			361	89		🇩🇪89Mb | Fornex Hosting SL	89.127.210.175	443
+FAIL	NO	NO			3181	87		🇳🇱87Mb | FDCserversnet	50.7.120.165	443
+FAIL	NO	NO			3356	87		🇵🇱87Mb | FDCserversnet	50.7.249.138	443
+FAIL	NO	NO			4003	87		🇦🇹87Mb | Aeza Group	at-04-10.zetnik.site	443
+WORKS	YES	NO			1563	87		🇩🇪87Mb | 24fire GmbH	de.realfast.click	443
+WORKS	NO	YES			2047	84		🇸🇪84Mb | Angelnet Limited	swebz.loozerp.wiki	443
+WORKS	YES	YES	2.26.225.89	PL	726	82	7	🇵🇱82Mb | VPSPay Networks LTD	pl.flen-vpn.xyz	8443
+FAIL	NO	NO			476	82		🇷🇺82Mb | Baykov Ilya Sergeevich	130.49.177.191	443
+FAIL	NO	NO			3346	81		🇵🇱81Mb | FDCserversnet	50.7.249.155	443
+WORKS	YES	YES	50.7.248.66	PL	652	81	4	🇵🇱81Mb | FDCserversnet	pol-pol-poland.failspace.top	443
+WORKS	NO	YES			692	81		🇫🇮81Mb | Hetzner	cdn3.alihapp.com	443
+FAIL	NO	NO			3150	81		🇳🇱81Mb | Orion Network Limited	165.231.99.45	8443
+WORKS	YES	YES	50.7.248.50	PL	705	80	6	🇵🇱80Mb | FDCserversnet	polkadotnewone.failspace.top	443
+FAIL	NO	NO			3336	77		🇵🇱77Mb | FDCserversnet	50.7.249.98	443
