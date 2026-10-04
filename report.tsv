@@ -1,48 +1,24 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	45.88.13.2	AE	565	170	12	🇦🇪170Mb | Fast Servers Pty	122.8.45.4	443
-FAIL	NO	NO			448	141		🇩🇪141Mb | Hetzner	s3.bamans.uk	443
-FAIL	NO	NO			618	134		🇷🇺134Mb | Jsc timeweb	185.141.227.180	2053
-FAIL	NO	NO			363	134		🇷🇺134Mb | Jsc timeweb	78.159.250.84	2053
-WORKS	YES	NO			652	130		🇷🇺130Mb | Sysect Doo	89.19.223.231	443
-WORKS	YES	YES	5.157.10.250	SE	439	129	8	🇸🇪129Mb | Angelnet Limited	5.157.10.250	443
-WORKS	YES	NO			540	129		🇷🇺129Mb | Sysect Doo	89.19.223.227	443
-WORKS	YES	YES	157.228.178.224	FI	591	127	13	🇦🇪127Mb | First Server Limited	132.243.214.203	25947
-WORKS	YES	YES	88.216.63.90	NL	788	123	6	🇳🇱123Mb | UAB Cherry Servers	188.225.58.238	443
-FAIL	NO	NO			3125	123		🇵🇱123Mb | FDCserversnet	50.7.249.138	443
-WORKS	YES	YES	84.32.215.66	LT	929	122	19	🇱🇹122Mb | UAB Cherry Servers	app26.betust.net	443
-WORKS	YES	YES	88.216.127.125	LT	712	121	15	🇱🇹121Mb | UAB Cherry Servers	188.225.35.207	443
-WORKS	YES	YES	5.157.10.250	SE	474	120	9	🇸🇪120Mb | Angelnet Limited	swebz.loozerp.wiki	443
-FAIL	NO	NO			4001	120		🇦🇹120Mb | netcup GmbH	159.195.242.180	443
-FAIL	NO	NO			3070	120		🇵🇱120Mb | FDCserversnet	50.7.249.98	443
-WORKS	YES	YES	88.216.63.90	NL	744	118	5	🇳🇱118Mb | UAB Cherry Servers	188.225.57.78	443
-WORKS	YES	YES	84.32.177.108	NL	929	116	7	🇳🇱116Mb | UAB Cherry Servers	snow.betust.net	443
-WORKS	NO	YES			341	114		🇬🇧114Mb | FDCserversnet	50.7.193.147	443
-FAIL	NO	NO			4002	114		🇦🇹114Mb | netcup GmbH	159.195.240.82	443
-WORKS	NO	YES			565	107		🇵🇱107Mb | FDCserversnet	polkadotnewone.failspace.top	443
-FAIL	NO	NO			208	106		🇺🇸106Mb | FDCserversnet	50.7.29.181	443
-WORKS	YES	YES	50.7.95.173	NL	356	106	1	🇺🇸106Mb | FDCserversnet	50.7.95.171	443
-WORKS	YES	YES	50.7.95.173	NL	509	105	3	🇺🇸105Mb | FDCserversnet	panel.betust.net	443
-WORKS	YES	YES	88.216.127.125	LT	638	104	14	🇱🇹104Mb | UAB Cherry Servers	188.225.25.142	443
-WORKS	YES	YES	84.32.215.66	LT	505	104	11	🇱🇹104Mb | UAB Cherry Servers	84.32.215.96	443
-WORKS	YES	YES	88.216.127.125	LT	747	103	16	🇱🇹103Mb | UAB Cherry Servers	188.225.77.241	443
-FAIL	NO	NO			2042	103		🇳🇱103Mb | Datagio Systems	nl-01.avroraservice.online	8443
-FAIL	NO	NO			461	102		🇳🇱102Mb | EdgeSec Technologies Limited	45.132.177.171	8443
-WORKS	NO	YES			857	101		🇳🇱101Mb | Owl Limited	distant.sugarcanecoffee.top	10654
-FAIL	NO	NO			4002	100		🇵🇱100Mb | Intezio Worldwide Limited	95.85.254.245	443
-WORKS	NO	YES			470	100		🇬🇧100Mb | FDCserversnet	match.betust.net	443
-FAIL	NO	NO			474	100		🇳🇱100Mb | Moskalev Georgiy	files.appstatic.ru	443
-FAIL	NO	NO			738	98		🇵🇱98Mb | Paul Sagov	pl-2070d4dca0.shamanapp.online	33740
-FAIL	NO	NO			261	95		🇳🇱95Mb | Moskalev Georgiy	89.125.100.35	443
-FAIL	NO	NO			791	91		🇷🇺91Mb | Jsc timeweb	dismissaltree.net	2053
-FAIL	NO	NO			406	91		🇳🇱91Mb | EdgeSec Technologies Limited	94.228.166.86	8443
-WORKS	YES	YES	5.199.172.193	LT	855	86	18	🇱🇹86Mb | UAB Cherry Servers	188.225.24.201	443
-WORKS	NO	YES			425	85		🇳🇱85Mb | Moskalev Georgiy	nl2.yabloko.top	443
-WORKS	YES	YES	84.32.177.108	NL	411	84	2	🇳🇱84Mb | UAB Cherry Servers	195.189.98.197	443
-WORKS	YES	YES	31.59.206.218	PL	495	83	10	🇵🇱83Mb | AdaptGroup	31.59.206.218	443
-FAIL	NO	NO			4002	82		🇫🇮82Mb | Fzco	2.27.207.30	443
-WORKS	YES	YES	51.91.234.158	FR	848	82	17	🇫🇷82Mb | OVH	2.26.104.40	443
-WORKS	NO	YES			856	80		🇳🇱80Mb | Owl Limited	45.130.22.233	10654
-WORKS	NO	YES			497	80		🇵🇱80Mb | AdaptGroup	31.59.204.104	443
-WORKS	YES	YES	88.216.63.90	NL	721	78	4	🇳🇱78Mb | UAB Cherry Servers	188.225.42.6	443
-WORKS	NO	YES			399	77		🇳🇱77Mb | Moskalev Georgiy	nl2.yabloko.top	443
-WORKS	NO	YES			408	75		🇳🇱75Mb | Moskalev Georgiy	89.125.100.29	443
+WORKS	YES	YES	84.32.215.66	LT	507	147	7	🇱🇹147Mb | UAB Cherry Servers	84.32.215.96	443
+WORKS	YES	YES	2.26.27.226	FI	538	138	8	🇫🇮138Mb | Senko Digital	131.123.13.93	443
+WORKS	NO	YES			545	131		🇬🇧131Mb | FDCserversnet	match.betust.net	443
+FAIL	NO	NO			364	129		🇷🇺129Mb | Baykov Ilya Sergeevich	5.183.253.195	443
+WORKS	YES	YES	153.80.241.133	FI	493	123	6	🇷🇺123Mb | Global Connectivity Solutions Llp	153.80.241.133	443
+WORKS	YES	YES	84.32.177.108	NL	555	120	4	🇳🇱120Mb | UAB Cherry Servers	snow.betust.net	443
+WORKS	YES	YES	84.32.215.66	LT	698	114	11	🇱🇹114Mb | UAB Cherry Servers	app26.betust.net	443
+WORKS	YES	YES	50.7.120.162	NL	458	112	3	🇳🇱112Mb | FDCserversnet	cool-place.failspace.top	443
+WORKS	NO	YES			341	111		🇬🇧111Mb | FDCserversnet	50.7.193.147	443
+WORKS	YES	YES	84.32.177.108	NL	356	110	1	🇳🇱110Mb | UAB Cherry Servers	195.189.98.197	443
+FAIL	NO	NO			3148	109		🇵🇱109Mb | VPSPay Networks LTD	2.26.225.89	8443
+FAIL	NO	NO			4002	109		🇦🇹109Mb | netcup GmbH	159.195.242.180	443
+WORKS	YES	YES	50.7.248.66	PL	848	99	13	🇵🇱99Mb | FDCserversnet	pol-pol-poland.failspace.top	443
+WORKS	YES	YES	50.7.95.173	NL	360	95	2	🇺🇸95Mb | FDCserversnet	50.7.95.171	443
+FAIL	NO	NO			288	95		🇦🇹95Mb | IONOS SE	185.230.219.105	443
+FAIL	NO	NO			3077	94		🇵🇱94Mb | FDCserversnet	50.7.249.98	443
+WORKS	YES	YES	95.163.176.170	AT	603	94	9	🇦🇹94Mb | Aeza Group	at-04-10.zetnik.site	443
+FAIL	NO	NO			285	91		🇺🇸91Mb | FDCserversnet	50.7.29.181	443
+FAIL	NO	NO			591	91		🇷🇺91Mb | Jsc timeweb	randomquaint.net	2053
+WORKS	YES	YES	88.216.127.125	LT	688	85	10	🇱🇹85Mb | UAB Cherry Servers	188.225.35.207	443
+WORKS	YES	YES	194.93.61.79	NL	717	80	5	🇳🇱80Mb | Forestsnet	nl-2.srv.dvzh.net	443
+WORKS	YES	YES	88.216.127.125	LT	754	79	12	🇱🇹79Mb | UAB Cherry Servers	188.225.25.142	443
+FAIL	NO	NO			259	77		🇳🇱77Mb | Fzco	13.143.161.150	443
