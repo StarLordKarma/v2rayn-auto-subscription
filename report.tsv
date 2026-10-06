@@ -1,22 +1,17 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	NO			620	235		🇷🇺235Mb | Telecom-Birzha,	195.19.166.71	443
-WORKS	NO	NO			1960	202		🇩🇪202Mb | Global Connectivity Solutions Llp	5.129.242.110	443
-WORKS	YES	NO			840	143		🇷🇺143Mb | Sysect Doo	89.19.223.231	443
-FAIL	NO	NO			4003	127		🇩🇪127Mb | netcup GmbH	84.252.101.95	2443
-WORKS	YES	YES	91.107.165.46	DE	2426	121	3	🇩🇪121Mb | Hetzner Online GmbH	fi1d.lynch.ir	8080
-FAIL	NO	NO			4002	119		🇦🇹119Mb | netcup GmbH	159.195.242.180	443
-FAIL	NO	NO			266	118		🇩🇪118Mb | Hetzner Online GmbH	s3.bamans.uk	443
-WORKS	YES	YES			582	117		🇵🇱117Mb | NetCrafters OU	pl1.originmesh.online	443
-WORKS	YES	YES			933	117		🇵🇱117Mb | Hostkey Bv	185.207.1.121	10470
-FAIL	NO	NO			4002	111		🇷🇺111Mb | Global Connectivity Solutions Llp	153.80.241.133	443
-WORKS	YES	YES	31.59.204.227	PL	531	108	7	🇵🇱108Mb | AdaptGroup	31.59.204.227	443
-WORKS	YES	YES	185.104.63.87	AT	892	106	9	🇦🇹106Mb | Interkvm Host Srl	3zot60.anusvovi.stream	443
-WORKS	YES	YES	178.236.248.34	NL	713	103	4	🇳🇱103Mb | Aeza Group	mo.asrarshimi.ir	4040
-WORKS	YES	YES	91.107.165.46	DE	439	99	1	🇩🇪99Mb | Hetzner Online GmbH	91.107.165.46	8080
-FAIL	NO	NO			1990	94		🇷🇺94Mb | Jsc timeweb	78.159.250.84	2053
-FAIL	NO	NO			585	90		🇺🇸90Mb | FDCserversnet	50.7.29.178	443
-WORKS	YES	YES	31.59.206.218	PL	518	87	5	🇵🇱87Mb | AdaptGroup	31.59.206.218	443
-WORKS	YES	YES	31.59.204.209	PL	521	87	6	🇵🇱87Mb | AdaptGroup	31.59.204.209	443
-WORKS	YES	YES	76.164.203.134	ES	689	80	8	🇪🇸80Mb | Interkvm Host Srl	76.164.203.135	443
-WORKS	YES	YES	162.249.126.228	DE	1407	78	2	🇷🇴78Mb | Interkvm Host Srl	103.244.145.138	443
-FAIL	NO	NO			4002	77		🇩🇪77Mb | Servhost Group	144.31.241.80	443
+WORKS	YES	NO			723	221		🇷🇺221Mb | Telecom-Birzha,	195.19.166.71	443
+WORKS	YES	NO			639	165		🇷🇺165Mb | Sysect Doo	89.19.223.227	443
+WORKS	YES	NO			701	164		🇷🇺164Mb | Sysect Doo	89.19.223.231	443
+FAIL	NO	NO			4002	144		🇩🇪144Mb | Hetzner Online GmbH	fi1d.lynch.ir	8080
+FAIL	NO	NO			502	144		🇳🇱144Mb | GTHost	5.188.141.53	443
+WORKS	YES	YES	31.58.178.127	DE	464	134	2	🇩🇪134Mb | AdaptGroup	31.58.178.127	443
+FAIL	NO	NO			543	119		🇵🇱119Mb | Hostkey Bv	185.207.1.121	10470
+FAIL	NO	NO			353	116		🇩🇪116Mb | Microsoft	20.170.20.187	4431
+WORKS	YES	YES	91.208.92.210	GB	492	113	1	🇬🇧113Mb | PebbleHost	91.208.92.210	443
+FAIL	NO	NO			147	107		🇵🇱107Mb | 1337 Services GmbH	cdn10.alihapp.com	443
+FAIL	NO	NO			638	103		🇹🇷103Mb | YottaSrc	188.225.72.33	443
+FAIL	NO	NO			4002	91		🇩🇪91Mb | Hetzner Online GmbH	91.107.165.46	8080
+WORKS	YES	YES	76.164.203.134	ES	546	87	3	🇪🇸87Mb | Interkvm Host Srl	76.164.203.135	443
+WORKS	YES	YES	2.27.244.29	PL	3828	87	5	🇵🇱87Mb | Oc Networks Limited	pol1.trufflevpn.fun	443
+WORKS	YES	YES	76.164.203.134	ES	868	85	4	🇪🇸85Mb | Interkvm Host Srl	8gm8kr.palka-cdn.win	443
+WORKS	YES	YES			2673	83		🇵🇱83Mb | Oc Networks Limited	2.27.244.29	443
