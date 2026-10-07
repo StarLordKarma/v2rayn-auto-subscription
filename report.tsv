@@ -1,39 +1,15 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	94.141.162.88	RU	682	208	9	🇷🇺208Mb | Jsc timeweb	94.141.162.88	443
-FAIL	NO	NO			4002	175		🇳🇱175Mb | FDCserversnet	api.mediaples.cc	443
-WORKS	YES	NO			805	157		🇷🇺157Mb | Beget	159.194.204.113	8443
-WORKS	YES	YES	91.98.124.52	DE	621	147	3	🇩🇪147Mb | Hetzner Online GmbH	ugb.mobileemdad.top	443
-FAIL	NO	NO			401	146		🇫🇮146Mb | Servhost Group	13.143.194.65	443
-FAIL	NO	NO			722	145		🇩🇪145Mb | Hetzner Online GmbH	s3.bamans.uk	443
-FAIL	NO	NO			698	142		🇮🇱142Mb | Chsl One	de-02.avroraservice.online	8443
-FAIL	NO	NO			644	136		🇱🇻136Mb | Route 95	lv-01.avroraservice.online	8443
-FAIL	NO	NO			470	132		🇱🇻132Mb | Route 95	92.246.138.144	8443
-FAIL	NO	NO			760	130		🇫🇮130Mb | Servhost Group	fi.vip-get.ru	443
-WORKS	YES	YES	2.27.244.29	PL	659	125	7	🇵🇱125Mb | Oc Networks Limited	pol1.trufflevpn.fun	443
-FAIL	NO	NO			508	122		🇵🇱122Mb | Route 95	79.137.192.13	8443
-FAIL	NO	NO			502	122		🇮🇱122Mb | Chsl One	176.108.253.120	8443
-FAIL	NO	NO			4002	121		🇵🇱121Mb | Hostkey Bv	185.207.1.121	10470
-FAIL	NO	NO			4003	110		🇦🇹110Mb | netcup GmbH	159.195.240.82	443
-FAIL	NO	NO			4004	110		🇦🇹110Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	YES	50.7.226.2	GB	524	109	1	🇺🇸109Mb | FDCserversnet	50.7.154.75	443
-WORKS	YES	YES	31.58.178.110	DE	542	104	2	🇩🇪104Mb | AdaptGroup	31.58.178.110	443
-FAIL	NO	NO			4003	103		🇳🇱103Mb | Datagio Systems	nl-03.avroraservice.online	8443
-WORKS	YES	YES	185.104.63.87	AT	807	98	13	🇦🇹98Mb | Interkvm Host Srl	3zot60.anusvovi.stream	443
-WORKS	YES	YES			582	95		🇳🇱95Mb | Fornex Hosting SL	89.127.216.177	443
-WORKS	YES	YES			585	92		🇳🇱92Mb | Fornex Hosting SL	89.127.216.177	443
-WORKS	YES	YES			585	92		🇳🇱92Mb | Fornex Hosting SL	89.127.216.177	443
-FAIL	NO	NO			4002	90		🇬🇧90Mb | FDCserversnet	50.7.210.66	443
-FAIL	NO	NO			4003	88		🇵🇱88Mb | AdaptGroup	31.59.206.28	443
-WORKS	YES	NO			570	87		🇳🇱87Mb | Fornex Hosting SL	89.127.216.177	443
-WORKS	YES	YES	5.157.10.250	SE	698	87	11	🇸🇪87Mb | Angelnet Limited	5.157.10.250	443
-WORKS	YES	YES	185.104.63.87	AT	612	86	5	🇦🇹86Mb | Interkvm Host Srl	185.104.63.173	443
-WORKS	YES	YES	2.27.244.29	PL	603	85	4	🇵🇱85Mb | Oc Networks Limited	2.27.244.29	443
-WORKS	YES	YES	31.59.206.218	PL	650	84	6	🇵🇱84Mb | AdaptGroup	31.59.206.218	443
-WORKS	YES	NO			522	83		🇷🇴83Mb | Interkvm Host Srl	103.244.145.138	443
-WORKS	YES	NO			518	83		🇷🇴83Mb | Interkvm Host Srl	103.244.145.144	443
-WORKS	YES	YES	76.164.203.134	ES	794	82	12	🇪🇸82Mb | Interkvm Host Srl	8gm8kr.palka-cdn.win	443
-FAIL	NO	NO			666	82		🇷🇺82Mb | Jsc timeweb	summerculture.net	2053
-WORKS	YES	YES	31.59.205.36	PL	671	81	8	🇵🇱81Mb | AdaptGroup	31.59.205.36	443
-WORKS	YES	YES	31.59.204.104	PL	698	81	10	🇵🇱81Mb | AdaptGroup	31.59.204.104	443
-FAIL	NO	NO			453	79		🇺🇸79Mb | Route 95	193.233.220.203	8443
-FAIL	NO	NO			4002	77		🇳🇱77Mb | Fornex Hosting SL	89.127.216.177	443
+WORKS	YES	NO			884	209		🇷🇺209Mb | Jsc timeweb	94.141.162.88	443
+FAIL	NO	NO			4001	169		🇷🇺169Mb | Sysect Doo	89.19.223.231	443
+FAIL	NO	NO			352	146		🇫🇮146Mb | Hetzner Online GmbH	18.165.140.67	443
+WORKS	YES	YES	2.27.244.29	PL	678	134	5	🇵🇱134Mb | Oc Networks Limited	pol1.trufflevpn.fun	443
+FAIL	NO	NO			345	130		🇩🇪130Mb | Hetzner Online GmbH	s3.bamans.uk	443
+WORKS	YES	NO			903	116		🇷🇺116Mb | Hostkey Bv	193.187.95.124	443
+WORKS	YES	YES	31.59.205.36	PL	630	96	3	🇵🇱96Mb | AdaptGroup	31.59.205.36	443
+WORKS	YES	YES	31.58.178.127	DE	619	93	1	🇩🇪93Mb | AdaptGroup	31.58.178.127	443
+WORKS	YES	YES	31.59.206.218	PL	609	92	2	🇵🇱92Mb | AdaptGroup	31.59.206.218	443
+FAIL	NO	NO			493	90		🇮🇱90Mb | Chsl One	176.108.253.120	8443
+WORKS	YES	YES	76.164.203.134	ES	1806	89	6	🇪🇸89Mb | Interkvm Host Srl	76.164.203.141	443
+WORKS	YES	YES	31.59.204.104	PL	639	89	4	🇵🇱89Mb | AdaptGroup	31.59.204.104	443
+WORKS	YES	YES	76.164.203.134	ES	2504	76	7	🇪🇸76Mb | Interkvm Host Srl	8gm8kr.palka-cdn.win	443
+FAIL	NO	NO			4002	76		🇦🇹76Mb | netcup GmbH	159.195.240.82	443
