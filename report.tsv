@@ -1,15 +1,15 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	NO			884	209		🇷🇺209Mb | Jsc timeweb	94.141.162.88	443
-FAIL	NO	NO			4001	169		🇷🇺169Mb | Sysect Doo	89.19.223.231	443
-FAIL	NO	NO			352	146		🇫🇮146Mb | Hetzner Online GmbH	18.165.140.67	443
-WORKS	YES	YES	2.27.244.29	PL	678	134	5	🇵🇱134Mb | Oc Networks Limited	pol1.trufflevpn.fun	443
-FAIL	NO	NO			345	130		🇩🇪130Mb | Hetzner Online GmbH	s3.bamans.uk	443
-WORKS	YES	NO			903	116		🇷🇺116Mb | Hostkey Bv	193.187.95.124	443
-WORKS	YES	YES	31.59.205.36	PL	630	96	3	🇵🇱96Mb | AdaptGroup	31.59.205.36	443
-WORKS	YES	YES	31.58.178.127	DE	619	93	1	🇩🇪93Mb | AdaptGroup	31.58.178.127	443
-WORKS	YES	YES	31.59.206.218	PL	609	92	2	🇵🇱92Mb | AdaptGroup	31.59.206.218	443
-FAIL	NO	NO			493	90		🇮🇱90Mb | Chsl One	176.108.253.120	8443
-WORKS	YES	YES	76.164.203.134	ES	1806	89	6	🇪🇸89Mb | Interkvm Host Srl	76.164.203.141	443
-WORKS	YES	YES	31.59.204.104	PL	639	89	4	🇵🇱89Mb | AdaptGroup	31.59.204.104	443
-WORKS	YES	YES	76.164.203.134	ES	2504	76	7	🇪🇸76Mb | Interkvm Host Srl	8gm8kr.palka-cdn.win	443
-FAIL	NO	NO			4002	76		🇦🇹76Mb | netcup GmbH	159.195.240.82	443
+WORKS	YES	YES			653	233		🇷🇺233Mb | Jsc timeweb	94.141.162.88	443
+FAIL	NO	NO			4003	232		🇷🇺232Mb | Jsc timeweb	188.225.83.133	443
+WORKS	YES	NO			1571	174		🇬🇧174Mb | FDCserversnet	50.7.210.68	443
+FAIL	NO	NO			4002	165		🇬🇧165Mb | FDCserversnet	50.7.210.69	443
+WORKS	YES	YES	2.27.244.29	PL	559	128	1	🇵🇱128Mb | Oc Networks Limited	2.27.244.29	443
+WORKS	YES	YES	82.40.37.36	PL	1078	121	4	🇵🇱121Mb | Hostkey Bv	185.207.1.121	10470
+FAIL	NO	NO			4003	115		🇦🇹115Mb | Global Connectivity Solutions Llp	195.133.88.122	443
+FAIL	NO	NO			757	113		🇩🇪113Mb | Hetzner Online GmbH	s3.bamans.uk	443
+FAIL	NO	NO			363	111		🇪🇪111Mb | ExpressHost	31.56.187.208	34451
+FAIL	NO	NO			4002	106		🇦🇹106Mb | netcup GmbH	159.195.242.180	443
+FAIL	NO	NO			4002	103		🇦🇹103Mb | netcup GmbH	159.195.240.82	443
+FAIL	NO	NO			4001	90		🇳🇱90Mb | Digital Hosting Provider	185.112.59.210	443
+WORKS	YES	YES	2.27.244.29	PL	596	89	2	🇵🇱89Mb | Oc Networks Limited	pol1.trufflevpn.fun	443
+WORKS	YES	YES	76.164.203.134	ES	998	87	3	🇪🇸87Mb | Interkvm Host Srl	8gm8kr.palka-cdn.win	443
