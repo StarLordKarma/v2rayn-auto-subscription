@@ -1,29 +1,13 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	NO			795	179		🇷🇺179Mb | Beget	45.12.18.108	443
-WORKS	YES	YES	94.141.162.88	RU	703	169	11	🇷🇺169Mb | Jsc timeweb	94.141.162.88	443
-FAIL	NO	NO			471	166		🇵🇱166Mb | H2nexus Cloud Services - Fzco	pl1.flcplonnectius.com	443
-FAIL	NO	NO			419	159		🇬🇧159Mb | B2 Net Solutions	1.geconnecction.com	443
-FAIL	NO	NO			383	156		🇬🇧156Mb | B2 Net Solutions	it.geconnecction.com	443
-WORKS	YES	YES	185.70.196.94	PL	605	139	10	🇵🇱139Mb | UpCloud	185.70.196.94	443
-WORKS	YES	YES	212.87.190.93	EE	3732	133	14	🇪🇪133Mb | Paul Sagov	ee.h1cloud.net	25895
-FAIL	NO	NO			4002	132		🇪🇪132Mb | ExpressHost	31.56.187.208	34451
-WORKS	NO	NO			1255	119		🇵🇱119Mb | Hostkey Bv	185.207.1.121	10470
-WORKS	YES	YES	31.76.249.38	DE	903	117	4	🇩🇪117Mb | Akenai Products LTD	31.56.18.107	443
-WORKS	YES	YES	13.143.174.97	SE	604	112	9	🇸🇪112Mb | Fzco	13.143.174.97	8443
-FAIL	NO	NO			4002	112		🇦🇹112Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	YES	162.249.126.228	DE	615	110	1	🇷🇴110Mb | Interkvm Host Srl	103.244.145.144	443
-FAIL	NO	NO			361	102		🇳🇱102Mb | Eternity International Limited	94.183.254.29	443
-WORKS	YES	YES	185.70.196.94	PL	776	102	12	🇵🇱102Mb | UpCloud	pl7.bbobr.win	443
-WORKS	YES	YES	162.249.126.228	DE	672	100	2	🇷🇴100Mb | Interkvm Host Srl	pa6r26.eu-cdn539.com	443
-FAIL	NO	NO			944	98		🇬🇧98Mb | Hostgnome	188.225.25.14	443
-WORKS	YES	YES	31.76.249.38	DE	3672	97	6	🇩🇪97Mb | Akenai Products LTD	akdeta.serveroff.net	443
-FAIL	NO	NO			4002	94		🇮🇱94Mb | Chsl One	176.108.253.120	8443
-WORKS	YES	YES	89.125.100.26	NL	517	93	7	🇳🇱93Mb | Moskalev Georgiy	89.125.100.35	443
-WORKS	YES	YES	89.208.113.230	FR	1064	92	13	🇫🇷92Mb | Aeza Group	fretawf.serveroff.net	443
-FAIL	NO	NO			4002	92		🇦🇹92Mb | netcup GmbH	159.195.240.82	443
-WORKS	YES	YES	89.208.113.230	FR	559	91	8	🇫🇷91Mb | Aeza Group	89.208.113.230	443
-WORKS	YES	YES	31.76.249.63	DE	3242	86	5	🇩🇪86Mb | Akenai Products LTD	1akdeta.serveroff.net	443
-WORKS	YES	YES	31.76.249.63	DE	683	84	3	🇩🇪84Mb | Akenai Products LTD	31.56.18.108	443
-FAIL	NO	NO			4002	81		🇸🇪81Mb | Angelnet Limited	swebz.loozerp.wiki	443
-WORKS	NO	NO			1139	77		🇪🇸77Mb | Interkvm Host Srl	8gm8kr.palka-cdn.win	443
-FAIL	NO	NO			3641	75		🇨🇦75Mb | OVH SAS	94.141.162.88	8447
+WORKS	YES	YES	94.141.162.88	RU	745	273	1	🇷🇺273Mb | Jsc timeweb	94.141.162.88	443
+FAIL	NO	NO			4003	214		🇷🇺214Mb | Beget	45.12.18.108	443
+FAIL	NO	NO			705	157		🇩🇪157Mb | Route 95	de-03.avroraservice.online	8443
+WORKS	YES	YES			932	139		🇩🇪139Mb | Hetzner Online GmbH	rkiioxth.asrarshimi.ir	443
+FAIL	NO	NO			890	137		🇫🇮137Mb | Oy Crea Nova Hosting Solution	185.186.143.147	443
+FAIL	NO	NO			4002	123		🇦🇪123Mb | ExpressHost	217.60.183.239	443
+FAIL	NO	NO			4001	109		🇩🇪109Mb | VPSPay Networks LTD	13.143.133.128	443
+WORKS	YES	YES	82.40.37.36	PL	1184	108	3	🇵🇱108Mb | Hostkey Bv	185.207.1.121	10470
+WORKS	YES	NO			1140	106		🇩🇪106Mb | Hetzner Online GmbH	lvvq3l3c.asrarshimi.ir	443
+WORKS	NO	YES			765	96		🇵🇱96Mb | UpCloud	pl7.bbobr.win	443
+FAIL	NO	NO			4002	84		🇦🇹84Mb | netcup GmbH	159.195.240.82	443
+WORKS	YES	YES	157.22.19.2	SE	994	82	2	🇸🇪82Mb | Global Transit Systems	122.8.45.7	443
