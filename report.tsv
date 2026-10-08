@@ -1,13 +1,10 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	94.141.162.88	RU	745	273	1	🇷🇺273Mb | Jsc timeweb	94.141.162.88	443
-FAIL	NO	NO			4003	214		🇷🇺214Mb | Beget	45.12.18.108	443
-FAIL	NO	NO			705	157		🇩🇪157Mb | Route 95	de-03.avroraservice.online	8443
-WORKS	YES	YES			932	139		🇩🇪139Mb | Hetzner Online GmbH	rkiioxth.asrarshimi.ir	443
-FAIL	NO	NO			890	137		🇫🇮137Mb | Oy Crea Nova Hosting Solution	185.186.143.147	443
-FAIL	NO	NO			4002	123		🇦🇪123Mb | ExpressHost	217.60.183.239	443
-FAIL	NO	NO			4001	109		🇩🇪109Mb | VPSPay Networks LTD	13.143.133.128	443
-WORKS	YES	YES	82.40.37.36	PL	1184	108	3	🇵🇱108Mb | Hostkey Bv	185.207.1.121	10470
-WORKS	YES	NO			1140	106		🇩🇪106Mb | Hetzner Online GmbH	lvvq3l3c.asrarshimi.ir	443
-WORKS	NO	YES			765	96		🇵🇱96Mb | UpCloud	pl7.bbobr.win	443
-FAIL	NO	NO			4002	84		🇦🇹84Mb | netcup GmbH	159.195.240.82	443
-WORKS	YES	YES	157.22.19.2	SE	994	82	2	🇸🇪82Mb | Global Transit Systems	122.8.45.7	443
+WORKS	YES	YES	94.141.162.88	RU	646	281	4	🇷🇺281Mb | Jsc timeweb	94.141.162.88	443
+WORKS	YES	NO			783	209		🇷🇺209Mb | Hostkey Bv	193.187.95.124	443
+FAIL	NO	NO			440	173		🇸🇪173Mb | Global Transit Systems	122.8.45.7	443
+WORKS	YES	YES	217.60.179.244	DE	521	127	1	🇦🇪127Mb | ExpressHost	ge-s-1.pythonmakemigreat.wiki	443
+FAIL	NO	NO			4002	126		🇦🇪126Mb | ExpressHost	217.60.183.239	443
+WORKS	YES	YES	82.40.37.36	PL	994	115	5	🇵🇱115Mb | Hostkey Bv	185.207.1.121	10470
+FAIL	NO	NO			761	109		🇩🇪109Mb | UAB Cherry Servers	185.229.9.175	443
+WORKS	YES	YES	212.111.86.154	RU	602	98	3	🇰🇿98Mb | VK	50.7.157.237	443
+WORKS	YES	YES	162.249.126.228	DE	588	95	2	🇷🇴95Mb | Interkvm Host Srl	pa6r26.eu-cdn539.com	443
