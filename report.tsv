@@ -1,24 +1,23 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	NO			760	317		🇷🇺317Mb | Jsc timeweb	94.141.162.88	443
-FAIL	NO	NO			756	159		🇳🇱159Mb | The Constant Company,	45.32.236.107	443
-FAIL	NO	NO			2102	155		🇫🇮155Mb | Hetzner Online GmbH	146.75.57.238	443
-WORKS	YES	NO			1000	148		🇷🇺148Mb | Hostkey Bv	193.187.95.124	443
-WORKS	YES	YES	107.181.134.165	GB	1278	141	1	🇬🇧141Mb | YottaSrc	lagaa7.api3-max.ru	443
-WORKS	YES	NO			632	136		🇫🇮136Mb | Senko Digital	177.1.188.96	443
-FAIL	NO	NO			4003	135		🇬🇧135Mb | YottaSrc	laga6.api3-max.ru	443
-FAIL	NO	NO			4003	119		🇵🇱119Mb | The Constant Company,	70.34.255.27	443
-WORKS	YES	YES	45.43.92.104	NL	992	118	8	🇳🇱118Mb | YottaSrc	kostas6.api3-max.ru	443
-FAIL	NO	NO			4002	115		🇳🇱115Mb | IT7 Networks	c20s5.portablesubmarines.com	443
-FAIL	NO	NO			4001	113		🇦🇹113Mb | netcup GmbH	159.195.242.180	443
-FAIL	NO	NO			317	112		🇳🇱112Mb | Railway	sub-production-6a16.up.railway.app	443
-FAIL	NO	NO			527	106		🇮🇱106Mb | Chsl One	45.12.63.165	8443
-WORKS	YES	YES	95.140.158.188	NL	912	106	6	🇷🇺106Mb | Timeweb, LLP	ru02.transitb2bsytems.com	443
-WORKS	YES	YES	95.140.158.188	NL	931	105	7	🇷🇺105Mb | Timeweb, LLP	ru07.transitb2bsytems.com	443
-WORKS	YES	YES	95.140.158.188	NL	770	104	5	🇷🇺104Mb | Timeweb, LLP	37.9.15.129	443
-WORKS	YES	YES	151.241.166.130	PL	1854	101	9	🇦🇪101Mb | HOSTES LTD	151.241.166.137	443
-WORKS	YES	YES	64.188.119.73	DE	939	97	2	🇩🇪97Mb | DpkgSoft International Limited	64.188.119.73	443
-FAIL	NO	NO			494	92		🇬🇧92Mb | Albanian Hosting SHPK	alb1.keepverify.net	8443
-WORKS	YES	YES	38.180.120.254	NL	614	87	4	🇳🇱87Mb | Scalaxy BV	37.252.14.236	443
-FAIL	NO	NO			4002	87		🇦🇹87Mb | netcup GmbH	159.195.240.82	443
-WORKS	YES	YES	162.249.126.228	DE	2773	77	3	🇷🇴77Mb | Interkvm Host Srl	103.244.145.138	443
-FAIL	NO	NO			4003	76		🇨🇦76Mb | OVH SAS	217.149.25.137	8447
+WORKS	YES	NO			582	289		🇷🇺289Mb | Jsc timeweb	94.141.162.88	443
+WORKS	YES	NO			702	255		🇷🇺255Mb | Hostkey Bv	193.187.95.124	443
+FAIL	NO	NO			358	173		🇷🇺173Mb | Global Connectivity Solutions Llp	apple.limehub.online	443
+WORKS	NO	YES			653	158		🇳🇱158Mb | IT7 Networks	c20s5.portablesubmarines.com	443
+FAIL	NO	NO			1594	133		🇬🇧133Mb | YottaSrc	lagaa7.api3-max.ru	443
+FAIL	NO	NO			1550	124		🇬🇧124Mb | YottaSrc	lagaa9.api3-max.ru	443
+FAIL	NO	NO			1530	122		🇬🇧122Mb | YottaSrc	laga6.api3-max.ru	443
+FAIL	NO	NO			4002	120		🇦🇹120Mb | netcup GmbH	159.195.240.82	443
+FAIL	NO	NO			2896	111		🇬🇧111Mb | YottaSrc	45.141.118.166	443
+WORKS	YES	YES	177.1.188.96	FI	1467	106	5	🇫🇮106Mb | Senko Digital	177.1.188.96	443
+FAIL	NO	NO			2925	103		🇳🇱103Mb | YottaSrc	198.105.112.199	443
+FAIL	NO	NO			663	102		🇵🇱102Mb | The Constant Company,	70.34.255.27	443
+FAIL	NO	NO			2966	99		🇳🇱99Mb | YottaSrc	185.117.0.211	443
+FAIL	NO	NO			576	94		🇷🇺94Mb | Jsc timeweb	fitindoor.net	2053
+WORKS	YES	YES	95.140.158.188	NL	593	92	3	🇷🇺92Mb | Timeweb, LLP	ru07.transitb2bsytems.com	443
+FAIL	NO	NO			583	91		🇳🇱91Mb | RoyaleHosting BV	104.164.55.40	443
+WORKS	NO	NO			386	88		🇩🇪88Mb | The Constant Company,	45.32.152.194	443
+WORKS	YES	YES	151.241.166.130	PL	477	87	4	🇦🇪87Mb | HOSTES LTD	151.241.166.137	443
+WORKS	YES	YES	95.140.158.188	NL	575	85	2	🇷🇺85Mb | Timeweb, LLP	37.9.15.129	443
+WORKS	YES	YES			380	78		🇷🇴78Mb | Interkvm Host Srl	103.244.145.144	443
+WORKS	YES	YES	64.188.119.73	DE	527	77	1	🇩🇪77Mb | DpkgSoft International Limited	64.188.119.73	443
+FAIL	NO	NO			2896	76		🇳🇱76Mb | YottaSrc	185.117.0.193	443
