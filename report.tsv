@@ -1,68 +1,58 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	NO			630	212		🇷🇺212Mb | Jsc timeweb	94.141.162.88	443
-WORKS	YES	YES	2.29.58.226	FI	512	147	19	🇫🇮147Mb | Hetzner Online GmbH	2.29.58.226	443
-WORKS	YES	YES	13.143.176.183	EE	451	137	16	🇪🇪137Mb | 'Ghita Telekom'	13.143.176.183	443
-WORKS	YES	YES	64.188.83.186	DE	774	136	11	🇩🇪136Mb | Oc Networks Limited	de-2.ardesnode.ru	443
-FAIL	NO	NO			471	133		🇪🇪133Mb | Eternity International Limited	mskk2.artemida.digital	12087
-FAIL	NO	NO			379	129		🇩🇪129Mb | Route 95	45.12.63.165	8443
-WORKS	YES	YES	138.124.15.231	FI	519	127	21	🇫🇮127Mb | Baykov Ilya Sergeevich	138.124.15.231	443
-WORKS	YES	YES	138.124.15.231	FI	895	124	32	🇫🇮124Mb | Baykov Ilya Sergeevich	fn-2.ardesnode.ru	443
-WORKS	YES	YES			479	122		🇪🇪122Mb | Oc Networks Limited	31.59.218.63	443
-WORKS	YES	YES	45.14.246.6	FI	855	122	30	🇫🇮122Mb | Baykov Ilya Sergeevich	fn-1.ardesnode.ru	443
-WORKS	YES	YES	93.188.184.150	RU	3156	120	35	🇷🇺120Mb | Beget	ru-1-2.unturned-rust-dead.lol	443
-FAIL	NO	NO			4002	119		🇫🇮119Mb | DpkgSoft International Limited	finland02.azotvpn.xyz	8443
-FAIL	NO	NO			377	119		🇪🇪119Mb | Eternity International Limited	45.147.31.155	12087
-FAIL	NO	NO			330	118		🇸🇪118Mb | The Constant Company,	70.34.213.75	443
-FAIL	NO	NO			200	117		🇳🇱117Mb | RoyaleHosting BV	uk1-2.998998.best	443
-FAIL	NO	NO			412	117		🇩🇪117Mb | Eternity International Limited	mskk2.artemida.digital	10443
-FAIL	NO	NO			588	117		🇳🇱117Mb | RoyaleHosting BV	104.164.55.40	443
-FAIL	NO	NO			371	114		🇩🇪114Mb | Eternity International Limited	45.147.31.155	10443
-WORKS	YES	YES	64.188.83.186	DE	391	113	2	🇩🇪113Mb | Oc Networks Limited	64.188.83.186	443
-WORKS	YES	YES	185.252.177.216	EE	795	111	28	🇪🇪111Mb | Oc Networks Limited	est-1.ardesnode.ru	443
-FAIL	NO	NO			2144	110		🇩🇪110Mb | Hetzner Online GmbH	104.24.143.37	443
-WORKS	YES	YES	95.85.243.168	EE	453	110	17	🇪🇪110Mb | Oc Networks Limited	95.85.243.168	443
-FAIL	NO	NO			3319	110		🇩🇪110Mb | UAB Cherry Servers	185.86.145.142	443
-WORKS	YES	YES	93.188.184.150	RU	2243	109	34	🇷🇺109Mb | Beget	93.188.184.150	443
-WORKS	YES	YES	87.121.47.114	DE	510	109	5	🇩🇪109Mb | Oc Networks Limited	de-5.ardesnode.ru	443
-WORKS	YES	YES	185.252.177.216	EE	463	105	18	🇪🇪105Mb | Oc Networks Limited	185.252.177.216	443
-WORKS	YES	YES	50.7.226.2	GB	459	102	1	🇺🇸102Mb | FDCserversnet	api.mediasvyaz.cc	443
-WORKS	YES	YES			655	101		🇷🇴101Mb | Interkvm Host Srl	103.244.145.138	443
-WORKS	YES	YES	203.23.179.160	DE	524	99	6	🇩🇪99Mb | GSL Networks Pty LTD	de-gdd-1.unturned-rust-dead.lol	443
-WORKS	YES	YES	95.85.243.168	EE	583	99	23	🇪🇪99Mb | Oc Networks Limited	est-2.ardesnode.ru	443
-WORKS	YES	YES	94.156.114.89	DE	428	96	3	🇩🇪96Mb | Play2go International Limited	ge-s-1.pythonmakemigreat.wiki	443
-WORKS	YES	YES	64.188.119.73	DE	554	94	8	🇩🇪94Mb | DpkgSoft International Limited	64.188.119.73	443
-WORKS	YES	YES	31.76.68.245	FR	440	94	15	🇺🇸94Mb | Servhost Group	31.76.68.245	443
-WORKS	YES	YES	213.21.232.26	PL	820	93	29	🇵🇱93Mb | Oc Networks Limited	pl-3.ardesnode.ru	443
-FAIL	NO	NO			3332	92		🇩🇪92Mb | UAB Cherry Servers	31.177.111.140	443
-WORKS	YES	YES	147.90.11.195	NL	933	91	14	🇳🇱91Mb | Hostkey Bv	spb.ai-boost.tech	443
-FAIL	NO	NO			4003	88		🇷🇸88Mb | M247 Europe SRL	45.132.176.172	9889
-FAIL	NO	NO			594	87		🇩🇪87Mb | UAB Cherry Servers	87.242.94.90	7445
-FAIL	NO	NO			523	87		🇧🇬87Mb | Belcloud LTD	78.159.246.85	8443
-FAIL	NO	NO			4002	87		🇦🇹87Mb | netcup GmbH	159.195.240.82	443
-WORKS	YES	YES	150.241.79.149	SE	667	86	26	🇩🇪86Mb | Senko Digital	germany02.azotvpn.xyz	443
-WORKS	YES	YES	157.22.126.2	SE	1009	86	33	🇸🇪86Mb | Global Transit Systems	104.245.243.2	443
-WORKS	YES	YES	150.241.79.149	SE	516	85	20	🇩🇪85Mb | Senko Digital	germany02.azotvpn.xyz	8443
-WORKS	YES	YES	144.31.171.200	PL	578	85	22	🇵🇱85Mb | Oc Networks Limited	pl-5.ardesnode.ru	443
-FAIL	NO	NO			2609	84		🇩🇪84Mb | UAB Cherry Servers	185.229.9.234	443
-WORKS	YES	YES	136.148.223.212	SE	3302	83	36	🇸🇪83Mb | Hostup AB	se3.h1cloud.net	25119
-FAIL	NO	NO			1471	82		🇧🇬82Mb | Belcloud LTD	78.159.246.179	8443
-FAIL	NO	NO			616	81		🇵🇱81Mb | The Constant Company,	70.34.255.27	443
-WORKS	YES	YES	31.77.161.183	DE	546	81	7	🇩🇪81Mb | Senko Digital	germany01.azotvpn.xyz	443
-WORKS	YES	YES	213.21.232.26	PL	655	80	25	🇵🇱80Mb | Oc Networks Limited	213.21.232.26	443
-FAIL	NO	NO			4003	79		🇦🇹79Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	NO			477	78		🇵🇱78Mb | Oc Networks Limited	213.21.232.224	443
-WORKS	YES	YES	150.241.79.149	SE	624	78	24	🇩🇪78Mb | Senko Digital	150.241.79.149	8443
-WORKS	NO	YES			578	77		🇵🇱77Mb | Oc Networks Limited	pl-4.ardesnode.ru	443
-FAIL	NO	NO			237	77		🇪🇪77Mb | ExpressHost	31.56.187.208	34451
-WORKS	YES	YES	2.56.172.95	PL	862	76	31	🇵🇱76Mb | NetCrafters OU	co-a.speedtec.ru	443
-FAIL	NO	NO			755	76		🇷🇺76Mb | VK	78.159.246.85	2053
-WORKS	YES	YES	31.77.161.183	DE	493	76	4	🇩🇪76Mb | Senko Digital	31.77.161.183	8443
-WORKS	YES	YES	31.77.161.183	DE	865	75	12	🇩🇪75Mb | Senko Digital	germany01.azotvpn.xyz	8443
-WORKS	YES	YES	94.156.114.89	DE	609	71	9	🇩🇪71Mb | Play2go International Limited	94.156.114.89	443
-WORKS	YES	YES	176.126.111.2	DE	748	69	10	🇺🇸69Mb | Global Transit Systems	122.8.45.3	8443
-WORKS	YES	YES	31.76.14.231	NL	515	68	13	🇳🇱68Mb | DpkgSoft International Limited	31.76.14.231	443
-FAIL	NO	NO			1294	67		🇷🇺67Mb | Jsc timeweb	fitindoor.net	2053
-FAIL	NO	NO			448	63		🇫🇷63Mb | OVH SAS	31.76.84.50	8443
-WORKS	YES	NO			558	61		🇩🇪61Mb | Oc Networks Limited	de-1.ardesnode.ru	443
-WORKS	YES	YES	65.109.178.91	FI	684	61	27	🇫🇮61Mb | Hetzner Online GmbH	146.75.119.82	80
-WORKS	NO	YES			425	60		🇳🇱60Mb | Senko Digital	177.1.189.235	443
+WORKS	YES	YES	94.141.162.88	RU	824	276	16	🇷🇺276Mb | Jsc timeweb	94.141.162.88	443
+WORKS	YES	NO			953	193		🇷🇺193Mb | Hostkey Bv	193.187.95.124	443
+FAIL	NO	NO			489	139		🇸🇪139Mb | The Constant Company,	70.34.213.75	443
+WORKS	NO	YES			943	137		🇪🇪137Mb | Oc Networks Limited	est-4.ardesnode.ru	443
+WORKS	YES	YES	150.230.23.187	NL	457	131	9	🇳🇱131Mb | Oracle	150.230.23.187	62145
+FAIL	NO	NO			507	128		🇪🇪128Mb | 'Ghita Telekom'	13.143.176.183	443
+WORKS	YES	YES	2.29.58.226	FI	735	121	14	🇫🇮121Mb | Hetzner Online GmbH	2.29.58.226	443
+WORKS	YES	YES			3343	121		🇩🇪121Mb | Oc Networks Limited	de-2.ardesnode.ru	443
+WORKS	NO	YES			825	111		🇩🇪111Mb | Oc Networks Limited	de-1.ardesnode.ru	443
+WORKS	YES	YES	185.252.177.216	EE	932	108	19	🇪🇪108Mb | Oc Networks Limited	est-1.ardesnode.ru	443
+WORKS	NO	YES			645	107		🇩🇪107Mb | Oc Networks Limited	194.48.250.20	443
+WORKS	NO	YES			758	107		🇫🇮107Mb | Baykov Ilya Sergeevich	138.124.15.176	443
+FAIL	NO	NO			744	106		🇳🇱106Mb | RoyaleHosting BV	104.164.55.40	443
+WORKS	YES	YES	64.188.83.186	DE	4226	104	8	🇩🇪104Mb | Oc Networks Limited	64.188.83.186	443
+FAIL	NO	NO			4002	102		🇩🇪102Mb | GSL Networks Pty LTD	31.58.95.10	443
+FAIL	NO	NO			498	102		🇷🇺102Mb | Jsc timeweb	78.159.246.85	2053
+FAIL	NO	NO			791	101		🇵🇱101Mb | The Constant Company,	70.34.255.27	443
+FAIL	NO	NO			4002	101		🇫🇷101Mb | OVH SAS	45.88.12.152	2083
+WORKS	YES	YES	31.77.161.183	DE	2319	100	4	🇩🇪100Mb | Senko Digital	germany01.azotvpn.xyz	443
+WORKS	YES	YES	150.241.79.149	SE	2967	100	26	🇩🇪100Mb | Senko Digital	germany02.azotvpn.xyz	443
+WORKS	YES	YES			2056	97		🇩🇪97Mb | Senko Digital	150.241.79.149	443
+FAIL	NO	NO			4002	93		🇦🇪93Mb | Vladislav Doniy	94.183.167.34	443
+FAIL	NO	NO			1166	92		🇷🇺92Mb | Jsc timeweb	fitindoor.net	2053
+FAIL	NO	NO			4003	92		🇦🇹92Mb | netcup GmbH	159.195.242.180	443
+WORKS	YES	YES	185.252.177.216	EE	715	91	12	🇪🇪91Mb | Oc Networks Limited	185.252.177.216	443
+WORKS	YES	YES	64.188.119.73	DE	2436	88	5	🇩🇪88Mb | DpkgSoft International Limited	64.188.119.73	443
+WORKS	YES	NO			983	88		🇩🇪88Mb | OVH SAS	marz.zovip2.ir	443
+WORKS	YES	YES	87.251.19.220	EE	859	87	17	🇪🇪87Mb | Oc Networks Limited	est-3.ardesnode.ru	443
+WORKS	YES	YES	45.14.246.6	FI	1595	87	25	🇫🇮87Mb | Baykov Ilya Sergeevich	fn-1.ardesnode.ru	443
+FAIL	NO	NO			225	87		🇳🇱87Mb | Railway	multipanel-production-12d7.up.railway.app	443
+FAIL	NO	NO			617	84		🇧🇬84Mb | Belcloud LTD	78.159.246.85	8443
+WORKS	YES	YES	144.31.171.200	PL	861	83	18	🇵🇱83Mb | Oc Networks Limited	pl-5.ardesnode.ru	443
+FAIL	NO	NO			1567	83		🇫🇮83Mb | Play2go International Limited	193.35.17.179	443
+WORKS	YES	YES	31.76.68.245	FR	674	81	10	🇺🇸81Mb | Servhost Group	31.76.68.245	443
+WORKS	YES	YES	31.76.22.166	PL	698	81	11	🇵🇱81Mb | Oc Networks Limited	31.76.22.166	443
+WORKS	YES	YES	150.241.79.149	SE	1484	79	24	🇩🇪79Mb | Senko Digital	germany02.azotvpn.xyz	8443
+WORKS	YES	YES	2.27.31.215	FI	996	79	20	🇫🇮79Mb | Senko Digital	finland01.azotvpn.xyz	8443
+WORKS	YES	YES	31.77.161.183	DE	3628	77	7	🇩🇪77Mb | Senko Digital	31.77.161.183	8443
+WORKS	YES	YES	87.121.47.74	DE	799	77	2	🇩🇪77Mb | Oc Networks Limited	de-4.ardesnode.ru	443
+WORKS	NO	YES			978	74		🇳🇱74Mb | Senko Digital	netherlands01.azotvpn.xyz	8443
+WORKS	YES	YES	31.77.161.183	DE	3231	73	6	🇩🇪73Mb | Senko Digital	germany01.azotvpn.xyz	8443
+FAIL	NO	NO			4002	73		🇳🇱73Mb | IT7 Networks	c20s5.portablesubmarines.com	443
+WORKS	NO	YES			993	73		🇩🇪73Mb | Senko Digital	150.241.79.149	8443
+FAIL	NO	NO			4003	73		🇳🇱73Mb | DpkgSoft International Limited	netherlands02.azotvpn.xyz	443
+FAIL	NO	NO			4002	72		🇦🇹72Mb | netcup GmbH	159.195.240.82	443
+WORKS	YES	YES	138.124.15.231	FI	791	71	15	🇫🇮71Mb | Baykov Ilya Sergeevich	138.124.15.231	443
+WORKS	YES	YES	157.22.126.2	SE	3070	70	27	🇸🇪70Mb | Global Transit Systems	104.245.243.2	443
+WORKS	YES	YES	87.121.47.114	DE	2021	69	3	🇩🇪69Mb | Oc Networks Limited	de-5.ardesnode.ru	443
+WORKS	YES	NO			2229	68		🇫🇮68Mb | Baykov Ilya Sergeevich	fn-2.ardesnode.ru	443
+WORKS	YES	YES	95.85.243.168	EE	1088	67	21	🇪🇪67Mb | Oc Networks Limited	est-2.ardesnode.ru	443
+WORKS	YES	YES	94.156.114.89	DE	676	67	1	🇩🇪67Mb | Play2go International Limited	ge-s-1.pythonmakemigreat.wiki	443
+FAIL	NO	NO			762	67		🇩🇪67Mb | Route 95	de-03.avroraservice.online	8443
+WORKS	YES	YES	45.14.246.6	FI	729	67	13	🇫🇮67Mb | Baykov Ilya Sergeevich	45.14.246.6	443
+WORKS	YES	YES	31.76.22.166	PL	1102	64	22	🇵🇱64Mb | Oc Networks Limited	pl-2.ardesnode.ru	443
+WORKS	NO	YES			1049	63		🇳🇱63Mb | Senko Digital	177.1.189.235	443
+FAIL	NO	NO			532	62		🇳🇱62Mb | Fzco	nl.cachevault.net	443
+WORKS	YES	YES	79.98.37.2	EE	1163	61	23	🇪🇪61Mb | Eternity International Limited	xnodtwx.artemida.live	443
