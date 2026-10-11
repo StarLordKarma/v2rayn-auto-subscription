@@ -1,59 +1,44 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	NO			748	259		🇷🇺259Mb | Jsc timeweb	94.141.162.88	443
-WORKS	YES	NO			967	164		🇷🇺164Mb | Hostkey Bv	193.187.95.124	443
-WORKS	YES	YES	185.252.177.216	EE	1640	135	28	🇪🇪135Mb | Oc Networks Limited	185.252.177.216	443
-WORKS	YES	YES	45.14.246.6	FI	1829	128	32	🇫🇮128Mb | Baykov Ilya Sergeevich	fn-1.ardesnode.ru	443
-WORKS	YES	YES	203.23.179.160	DE	942	126	14	🇩🇪126Mb | GSL Networks Pty LTD	de-gdd-1.unturned-rust-dead.lol	443
-WORKS	YES	YES	31.59.218.63	EE	586	122	18	🇪🇪122Mb | Oc Networks Limited	31.59.218.63	443
-WORKS	YES	YES	87.121.47.73	DE	743	119	12	🇩🇪119Mb | Oc Networks Limited	de-3.ardesnode.ru	443
-WORKS	YES	YES	203.23.179.160	DE	675	118	8	🇩🇪118Mb | GSL Networks Pty LTD	31.58.95.11	443
-WORKS	YES	YES	138.124.15.231	FI	1802	117	30	🇫🇮117Mb | Baykov Ilya Sergeevich	fn-2.ardesnode.ru	443
-WORKS	YES	YES	64.188.83.186	DE	569	109	2	🇩🇪109Mb | Oc Networks Limited	64.188.83.186	443
-FAIL	NO	NO			2246	108		🇩🇪108Mb | Hetzner Online GmbH	146.75.56.210	443
-WORKS	YES	YES	87.121.47.114	DE	729	107	11	🇩🇪107Mb | Oc Networks Limited	de-5.ardesnode.ru	443
-FAIL	NO	NO			4003	106		🇳🇱106Mb | Liam Kremer	46.8.208.17	7443
-WORKS	YES	YES	203.23.179.160	DE	673	105	7	🇩🇪105Mb | GSL Networks Pty LTD	31.58.95.10	443
-WORKS	YES	YES			634	104		🇫🇮104Mb | Baykov Ilya Sergeevich	45.14.246.6	443
-FAIL	NO	NO			3494	101		🇳🇱101Mb | Railway	pablo-panel-production-06ed.up.railway.app	443
-WORKS	YES	YES	185.191.118.232	DE	1438	100	16	🇩🇪100Mb | UAB Cherry Servers	87.242.94.90	7445
-WORKS	YES	YES	87.121.47.73	DE	572	99	3	🇩🇪99Mb | Oc Networks Limited	87.121.47.73	443
-WORKS	YES	YES	31.59.218.63	EE	3821	99	33	🇪🇪99Mb | Oc Networks Limited	est-4.ardesnode.ru	443
-WORKS	YES	YES	31.77.59.95	PL	1327	97	27	🇵🇱97Mb | Paul Sagov	u6.luxcloud.space	443
-WORKS	YES	YES	31.59.211.220	PL	932	97	21	🇵🇱97Mb | Kochedykov Egor Aleksandrovich	87.242.127.113	4510
-FAIL	NO	NO			4002	95		🇷🇺95Mb | Beget	ru-1-3.unturned-rust-dead.lol	443
-WORKS	YES	YES	64.188.83.186	DE	704	95	9	🇩🇪95Mb | Oc Networks Limited	de-2.ardesnode.ru	443
-WORKS	YES	YES	2.56.172.95	PL	1002	93	23	🇵🇱93Mb | NetCrafters OU	77.110.105.122	443
-FAIL	NO	NO			450	92		🇫🇮92Mb | Play2go International Limited	193.35.17.179	443
-FAIL	NO	NO			3416	92		🇨🇾92Mb | Edge Core FZE	45.86.60.79	8443
-FAIL	NO	NO			4002	90		🇷🇸90Mb | M247 Europe SRL	45.132.176.172	9889
-WORKS	YES	YES	31.76.22.166	PL	1073	90	24	🇵🇱90Mb | Oc Networks Limited	pl-2.ardesnode.ru	443
-FAIL	NO	NO			4002	90		🇦🇪90Mb | Vladislav Doniy	94.183.167.34	443
-FAIL	NO	NO			3431	89		🇫🇮89Mb | Global Connectivity Solutions Llp	78.153.139.102	8443
-FAIL	NO	NO			463	86		🇧🇬86Mb | Belcloud LTD	78.159.246.85	8443
-WORKS	YES	YES	79.98.37.2	EE	1687	85	29	🇵🇱85Mb | Datagio Systems	xnodtwx.artemida.live	443
-WORKS	YES	YES	138.124.15.176	FI	590	82	19	🇫🇮82Mb | Baykov Ilya Sergeevich	138.124.15.176	443
-WORKS	YES	YES	177.3.218.196	US	812	82	1	🇫🇮82Mb | Fzco	177.3.218.196	443
-WORKS	YES	YES	87.121.47.74	DE	581	81	4	🇩🇪81Mb | Oc Networks Limited	87.121.47.74	443
-WORKS	YES	YES	94.156.114.89	DE	655	80	6	🇩🇪80Mb | Play2go International Limited	94.156.114.89	443
-WORKS	YES	YES	31.76.22.166	PL	592	78	20	🇵🇱78Mb | Oc Networks Limited	31.76.22.166	443
-WORKS	YES	YES	194.48.250.20	DE	1019	76	15	🇩🇪76Mb | Oc Networks Limited	de-1.ardesnode.ru	443
-WORKS	YES	YES	64.188.119.73	DE	653	75	5	🇩🇪75Mb | DpkgSoft International Limited	64.188.119.73	443
-FAIL	NO	NO			2694	75		🇵🇱75Mb | Soulful Hosting	195.133.80.152	443
-WORKS	YES	YES	88.151.197.213	FR	1100	74	26	🇫🇷74Mb | Ouiheberg SARL	88.151.197.213	443
-FAIL	NO	NO			4002	71		🇷🇺71Mb | Beget	159.194.244.247	443
-FAIL	NO	NO			471	71		🇳🇱71Mb | Fzco	nl.cachevault.net	443
-FAIL	NO	NO			298	71		🇪🇪71Mb | ExpressHost	31.56.187.208	34451
-WORKS	NO	YES			1592	70		🇪🇪70Mb | Zone Media OU	185.31.242.61	443
-FAIL	NO	NO			834	69		🇪🇪69Mb | ExpressHost	ee-2e06d85dc0.shamanapp.online	34451
-WORKS	YES	YES	31.59.209.24	PL	1082	69	25	🇦🇪69Mb | Eternity International Limited	31.59.209.24	443
-FAIL	NO	NO			4003	68		🇦🇪68Mb | HOSTES LTD	ru14.transitb2bsytems.com	8443
-WORKS	YES	YES	138.124.15.176	FI	1810	67	31	🇫🇮67Mb | Baykov Ilya Sergeevich	fn-3.ardesnode.ru	443
-FAIL	NO	NO			906	66		🇺🇸66Mb | Global Transit Systems	122.8.45.3	8443
-FAIL	NO	NO			4002	65		🇦🇹65Mb | netcup GmbH	159.195.242.180	443
-WORKS	NO	YES			3080	64		🇳🇱64Mb | ExpressHost	nl-s-1.pythonmakemigreat.wiki	443
-FAIL	NO	NO			4002	63		🇮🇱63Mb | Chsl One	176.108.253.120	8443
-WORKS	YES	YES	94.156.114.89	DE	853	62	13	🇩🇪62Mb | Play2go International Limited	ge-s-1.pythonmakemigreat.wiki	443
-FAIL	NO	NO			4002	61		🇨🇦61Mb | OVH SAS	217.149.25.137	8447
-WORKS	YES	YES	31.59.143.51	PL	1001	60	22	🇵🇱60Mb | ExpressHost	pl.golangwikito.cfd	443
-WORKS	YES	YES	193.233.74.6	DE	727	60	10	🇷🇺60Mb | Global Connectivity Solutions Llp	193.233.74.6	8444
-WORKS	YES	YES	150.241.92.20	NL	575	60	17	🇳🇱60Mb | Node Host Limited	150.241.92.20	443
+WORKS	YES	NO			613	204		🇷🇺204Mb | Jsc timeweb	94.141.162.88	443
+WORKS	YES	NO			580	199		🇷🇺199Mb | Denis Aleksandrovich Iakovlev	95.85.240.217	443
+WORKS	YES	YES	203.23.179.160	DE	2191	122	4	🇩🇪122Mb | GSL Networks Pty LTD	31.58.95.11	443
+WORKS	YES	YES	203.23.179.160	DE	2152	99	3	🇩🇪99Mb | GSL Networks Pty LTD	de-gdd-1.unturned-rust-dead.lol	443
+WORKS	YES	YES	5.157.10.250	SE	460	99	5	🇸🇪99Mb | Angelnet Limited	swebz.loozerp.wiki	443
+FAIL	NO	NO			3118	96		🇫🇮96Mb | Global Connectivity Solutions Llp	78.153.139.102	8443
+WORKS	NO	YES			483	95		🇨🇾95Mb | Edge Core FZE	45.86.60.79	8443
+WORKS	YES	YES	162.249.126.228	DE	641	94	2	🇷🇴94Mb | Interkvm Host Srl	103.244.145.138	443
+FAIL	NO	NO			4002	92		🇦🇹92Mb | netcup GmbH	159.195.240.82	443
+WORKS	YES	YES	31.59.211.220	PL	838	91	9	🇵🇱91Mb | Kochedykov Egor Aleksandrovich	87.242.127.113	4510
+WORKS	YES	YES	79.98.37.2	EE	2396	91	12	🇪🇪91Mb | Eternity International Limited	xnodtwx.artemida.live	443
+FAIL	NO	NO			591	89		🇳🇱89Mb | RoyaleHosting BV	104.164.55.40	443
+FAIL	NO	NO			545	85		🇫🇮85Mb | Fzco	177.3.218.196	443
+WORKS	YES	YES	144.31.171.200	PL	506	71	6	🇵🇱71Mb | Oc Networks Limited	144.31.171.200	443
+WORKS	NO	YES			825	69		🇸🇪69Mb | Angelnet Limited	5.157.10.250	443
+WORKS	YES	YES	222.167.248.246	PL	1844	68	11	🇪🇪68Mb | Eternity International Limited	188.225.83.133	443
+FAIL	NO	NO			4002	66		🇫🇮66Mb | Baykov Ilya Sergeevich	45.14.246.6	443
+WORKS	NO	YES			721	66		🇧🇬66Mb | MAXKO doo	bg5.univesalsrv.com	443
+FAIL	NO	NO			465	66		🇧🇬66Mb | Belcloud LTD	78.159.246.179	8443
+WORKS	YES	NO			1841	65		🇫🇮65Mb | Baykov Ilya Sergeevich	fn-1.ardesnode.ru	443
+WORKS	YES	YES	144.31.171.200	PL	629	65	7	🇵🇱65Mb | Oc Networks Limited	pl-5.ardesnode.ru	443
+WORKS	NO	YES			862	64		🇧🇬64Mb | MAXKO doo	bg4.univesalsrv.com	443
+FAIL	NO	NO			310	64		🇦🇪64Mb | Eternity International Limited	31.59.209.24	443
+FAIL	NO	NO			4001	63		🇸🇬63Mb | NetCrafters OU	nl1.gramstar.online	443
+FAIL	NO	NO			2466	62		🇫🇮62Mb | Senko Digital	senfi.animereze.site	1443
+WORKS	YES	YES	109.120.146.150	TN	4233	60	13	🇸🇬60Mb | NetCrafters OU	109.120.146.150	443
+WORKS	NO	YES			746	59		🇧🇬59Mb | MAXKO doo	bg3.univesalsrv.com	443
+WORKS	NO	YES			850	59		🇧🇬59Mb | MAXKO doo	bg2.univesalsrv.com	443
+FAIL	NO	NO			461	59		🇫🇷59Mb | Stellar Group SAS	195.177.94.131	443
+WORKS	YES	YES	203.23.179.160	DE	531	58	1	🇩🇪58Mb | GSL Networks Pty LTD	31.58.95.10	443
+FAIL	NO	NO			4002	58		🇦🇹58Mb | netcup GmbH	159.195.242.180	443
+FAIL	NO	NO			504	57		🇺🇸57Mb | Route 95	us-04.avroraservice.online	8443
+FAIL	NO	NO			515	57		🇧🇬57Mb | Belcloud LTD	78.159.246.85	8443
+WORKS	NO	YES			694	55		🇧🇬55Mb | MAXKO doo	45.9.156.42	443
+WORKS	NO	YES			725	54		🇧🇬54Mb | MAXKO doo	45.9.156.27	443
+FAIL	NO	NO			4002	54		🇺🇸54Mb | netcup GmbH	82.202.139.79	9873
+WORKS	NO	YES			5048	54		🇩🇪54Mb | Hetzner Online GmbH	p11real1.greewebservices.ir	1020
+WORKS	YES	YES	51.79.5.155	CA	941	52	10	🇨🇦52Mb | OVH SAS	94.141.162.88	8447
+FAIL	NO	NO			105	52		🇺🇸52Mb | MillenialHost Limited	94.26.3.25	443
+WORKS	NO	YES			666	50		🇧🇬50Mb | MAXKO doo	45.9.156.24	443
+FAIL	NO	NO			456	50		🇺🇸50Mb | Route 95	193.233.220.203	8443
+FAIL	NO	NO			524	49		🇫🇮49Mb | Hetzner Online GmbH	146.75.119.82	80
+WORKS	YES	YES	2.29.29.99	FI	644	48	8	🇫🇮48Mb | Hetzner Online GmbH	edge10.cyrionflare.com	2052
