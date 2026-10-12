@@ -1,96 +1,155 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	NO			610	159		🇷🇺159Mb | Jsc timeweb	94.141.162.88	443
-WORKS	YES	YES	45.14.246.6	FI	774	138	35	🇫🇮138Mb | Baykov Ilya Sergeevich	fn-1.ardesnode.ru	443
-FAIL	NO	NO			4002	132		🇷🇺132Mb | Jsc timeweb	147.45.212.178	443
-WORKS	YES	YES	45.14.246.6	FI	514	128	24	🇫🇮128Mb | Baykov Ilya Sergeevich	45.14.246.6	443
-WORKS	YES	YES	31.76.55.7	EE	662	117	29	🇺🇸117Mb | Servhost Group	digitalculture.top	443
-WORKS	YES	YES	185.114.48.103	NL	411	114	11	🇳🇱114Mb | ClearStack BV	185.114.48.103	443
-FAIL	NO	NO			2651	111		🇵🇱111Mb | H2nexus Cloud Services - Fzco	188.225.34.220	8443
-FAIL	NO	NO			2281	108		🇳🇱108Mb | Railway	69.46.46.137	443
-FAIL	NO	NO			4003	106		🇦🇹106Mb | netcup GmbH	159.195.242.180	443
-WORKS	YES	YES	31.59.211.220	PL	887	105	37	🇵🇱105Mb | Kochedykov Egor Aleksandrovich	87.242.127.113	4510
-WORKS	YES	YES	5.157.10.250	SE	486	104	21	🇸🇪104Mb | Angelnet Limited	swebz.loozerp.wiki	443
-WORKS	NO	YES			755	103		🇫🇮103Mb | Cloudflare	45.81.33.194	443
-WORKS	YES	YES	150.230.23.187	NL	314	100	10	🇳🇱100Mb | Oracle	150.230.23.187	62145
-WORKS	YES	YES	5.157.10.250	SE	470	99	15	🇸🇪99Mb | Angelnet Limited	5.157.10.250	443
-WORKS	YES	YES	87.76.134.44	PL	508	98	23	🇵🇱98Mb | Krzysztof Manczak	87.76.134.44	3230
-FAIL	NO	NO			396	98		🇵🇱98Mb | Route 95	79.137.192.13	8443
-WORKS	YES	YES	31.59.143.154	PL	960	96	39	🇵🇱96Mb | ExpressHost	pl.golangwikito.cfd	443
-FAIL	NO	NO			4002	95		🇷🇺95Mb | Jsc timeweb	5.129.255.140	443
-FAIL	NO	NO			467	94		🇧🇬94Mb | Belcloud LTD	78.159.246.85	8443
-FAIL	NO	NO			4001	94		🇦🇹94Mb | netcup GmbH	159.195.240.82	443
-FAIL	NO	NO			4002	89		🇷🇸89Mb | M247 Europe SRL	45.132.176.172	9889
-WORKS	YES	YES	188.190.21.139	DE	520	88	5	🇩🇪88Mb | EDIS GmbH	modellnahn.top	443
-FAIL	NO	NO			4002	87		🇷🇺87Mb | Jsc timeweb	83.217.220.35	443
-WORKS	YES	YES	178.104.84.10	DE	718	87	7	🇩🇪87Mb | Hetzner Online GmbH	spiderpanel-development-g5884.lucity.app	443
-WORKS	YES	YES	203.23.179.160	DE	569	84	6	🇩🇪84Mb | GSL Networks Pty LTD	de-gdd-1.unturned-rust-dead.lol	443
-FAIL	NO	NO			4002	83		🇷🇺83Mb | Jsc timeweb	147.45.213.129	443
-WORKS	YES	YES	213.21.232.27	PL	518	83	25	🇵🇱83Mb | Oc Networks Limited	213.21.232.224	443
-WORKS	YES	YES	93.188.184.150	RU	3590	82	43	🇷🇺82Mb | Beget	93.188.184.150	443
-FAIL	NO	NO			419	82		🇳🇱82Mb | Fzco	nl.cachevault.net	443
-WORKS	YES	YES	31.59.218.63	EE	693	81	31	🇪🇪81Mb | Oc Networks Limited	est-4.ardesnode.ru	443
-WORKS	YES	YES	31.76.68.245	FR	479	81	19	🇺🇸81Mb | Servhost Group	31.76.68.245	443
-FAIL	NO	NO			396	80		🇳🇱80Mb | Datagio Systems	94.228.166.86	8443
-FAIL	NO	NO			426	78		🇧🇬78Mb | Belcloud LTD	78.159.246.179	8443
-FAIL	NO	NO			610	78		🇳🇱78Mb | RoyaleHosting BV	104.164.55.40	443
-FAIL	NO	NO			4002	77		🇷🇺77Mb | Jsc timeweb	88.218.170.9	443
-WORKS	YES	YES	104.28.222.34	LV	959	77	38	🇱🇻77Mb | Cloudflare	72.56.52.35	443
-FAIL	NO	NO			4002	77		🇷🇺77Mb | Jsc timeweb	85.198.80.18	443
-WORKS	YES	YES	144.31.171.200	PL	677	76	30	🇵🇱76Mb | Oc Networks Limited	pl-5.ardesnode.ru	443
-WORKS	YES	YES	193.58.122.4	DE	777	74	8	🇩🇪74Mb | Play2go International Limited	ge-s-1.pythonmakemigreat.wiki	443
-FAIL	NO	NO			4002	74		🇷🇺74Mb | Jsc timeweb	109.196.102.196	443
-FAIL	NO	NO			4003	72		🇷🇺72Mb | Jsc timeweb	92.51.22.228	443
-FAIL	NO	NO			4002	70		🇷🇺70Mb | Jsc timeweb	62.113.41.21	443
-WORKS	YES	YES	31.76.22.155	PL	474	70	17	🇵🇱70Mb | Oc Networks Limited	213.21.232.230	443
-FAIL	NO	NO			597	70		🇩🇪70Mb | Hetzner Online GmbH	c1.greewebservices.ir	443
-FAIL	NO	NO			678	70		🇪🇪70Mb | ExpressHost	ee-2e06d85dc0.shamanapp.online	34451
-FAIL	NO	NO			3129	70		🌐70Mb | 🏳️ ShatakVPN 547530	91.107.180.141	443
-WORKS	YES	YES	203.23.179.160	DE	517	70	4	🇩🇪70Mb | GSL Networks Pty LTD	31.58.95.10	443
-WORKS	NO	YES			551	69		🇳🇱69Mb | ClearStack BV	nd-2.ardesnode.ru	443
-WORKS	YES	YES	109.120.146.150	TN	878	69	36	🇸🇬69Mb | NetCrafters OU	nl1.gramstar.online	443
-FAIL	NO	NO			4003	69		🇷🇺69Mb | Jsc timeweb	5.42.98.125	443
-FAIL	NO	NO			4003	69		🇷🇺69Mb | Jsc timeweb	217.198.6.50	443
-WORKS	YES	YES	31.59.218.63	EE	489	69	22	🇪🇪69Mb | Oc Networks Limited	31.59.218.63	443
-WORKS	NO	YES			694	67		🇧🇬67Mb | MAXKO doo	45.9.156.24	443
-WORKS	NO	YES			792	66		🇧🇬66Mb | MAXKO doo	bg3.univesalsrv.com	443
-WORKS	NO	YES			704	66		🇧🇬66Mb | MAXKO doo	45.9.156.27	443
-FAIL	NO	NO			317	66		🇳🇱66Mb | Fzco	13.143.161.181	443
-WORKS	YES	YES	213.21.232.27	PL	750	65	33	🇵🇱65Mb | Oc Networks Limited	pl-4.ardesnode.ru	443
-WORKS	YES	YES	5.231.117.79	AE	477	65	18	🇩🇪65Mb | Tom Gewiese	94.249.188.202	43000
-FAIL	NO	NO			4001	65		🇩🇪65Mb | Tom Gewiese	87.242.95.164	9443
-WORKS	YES	YES	212.162.155.24	PL	546	65	26	🇵🇱65Mb | Podaon SIA	polnbl1.top	443
-WORKS	NO	YES			755	64		🇧🇬64Mb | MAXKO doo	45.9.156.28	443
-WORKS	NO	YES			416	63		🇳🇱63Mb | ClearStack BV	45.82.56.253	443
-WORKS	YES	YES	144.31.171.200	PL	480	63	20	🇵🇱63Mb | Oc Networks Limited	144.31.171.200	443
-WORKS	YES	YES	31.76.22.155	PL	756	62	34	🇵🇱62Mb | Oc Networks Limited	pl-1.ardesnode.ru	443
-FAIL	NO	NO			256	61		🇪🇪61Mb | ExpressHost	31.56.187.208	34451
-WORKS	YES	YES	185.112.59.65	NL	457	61	12	🇳🇱61Mb | Digital Hosting Provider	185.112.59.65	443
-FAIL	NO	NO			560	60		🇺🇸60Mb | Route 95	us-04.avroraservice.online	8443
-WORKS	NO	YES			779	60		🇧🇬60Mb | MAXKO doo	bg4.univesalsrv.com	443
-WORKS	YES	YES	185.42.163.123	FI	696	60	32	🇫🇮60Mb | Global Connectivity Solutions Llp	109.172.54.135	8444
-FAIL	NO	NO			3340	60		🌐60Mb | 🇫🇮 @MrMeshkyChannel 169128	65.109.188.155	443
-FAIL	NO	NO			492	59		🇸🇪59Mb | Node Host Limited	81.90.21.96	443
-WORKS	YES	YES	203.23.179.160	DE	514	59	3	🇩🇪59Mb | GSL Networks Pty LTD	31.58.95.11	443
-FAIL	NO	NO			4002	58		🇩🇪58Mb | neroserv UG (haftungsbeschraenkt)	de3.vpvr4ib84nuv6hdkt.ru	3408
-WORKS	YES	YES	194.5.248.215	RO	647	58	28	🇷🇴58Mb | Zergrush Srl	herbalromania.top	443
-FAIL	NO	NO			4002	58		🇩🇪58Mb | Clouvider Limited	sinavm4.soft10.ir	8443
-WORKS	NO	YES			706	56		🇪🇸56Mb | Orion Network Limited	es2.h1cloud.net	25535
-FAIL	NO	NO			454	55		🇺🇸55Mb | Route 95	80.66.65.251	8443
-FAIL	NO	NO			668	55		🇺🇸55Mb | Route 95	us-05.avroraservice.online	8443
-WORKS	YES	YES	192.91.186.243	DE	494	55	1	🇩🇪55Mb | Fastwarp LLP	deutchlandsport.top	443
-FAIL	NO	NO			372	54		🇺🇸54Mb | Route 95	193.233.220.203	8443
-FAIL	NO	NO			4002	54		🇰🇿54Mb | Scalaxy BV	82.202.139.79	9882
-WORKS	NO	YES			710	54		🇧🇬54Mb | MAXKO doo	bg5.univesalsrv.com	443
-WORKS	YES	YES	161.104.105.34	RU	1240	54	41	🇷🇺54Mb | VK	103.24.207.39	8443
-FAIL	NO	NO			3310	53		🇩🇪53Mb | Tom Gewiese	87.242.95.164	9443
-WORKS	YES	YES	109.120.146.150	TN	603	53	27	🇸🇬53Mb | NetCrafters OU	109.120.146.150	443
-WORKS	YES	YES	31.56.186.115	NL	844	52	14	🇳🇱52Mb | ExpressHost	nl-s-1.pythonmakemigreat.wiki	443
-WORKS	YES	YES	64.188.119.73	DE	513	52	2	🇩🇪52Mb | DpkgSoft International Limited	64.188.119.73	443
-WORKS	YES	NO			562	52		🇳🇱52Mb | Cloudflare	144.31.14.154	443
-WORKS	YES	YES	51.79.5.155	CA	991	52	40	🇨🇦52Mb | OVH SAS	94.141.162.88	8447
-WORKS	YES	YES	31.77.106.27	DE	1185	51	9	🇺🇸51Mb | H2nexus Cloud Services - Fzco	app-mi-27.spbstudentlife.com	443
-WORKS	YES	YES	87.76.134.44	PL	3289	51	42	🇵🇱51Mb | Krzysztof Manczak	pl2-bkjbu.vpvr4ib84nuv6hdkt.ru	3230
-FAIL	NO	NO			4003	51		🇷🇺51Mb | Jsc timeweb	72.56.246.173	443
-WORKS	NO	YES			744	48		🇧🇬48Mb | MAXKO doo	45.9.156.42	443
-WORKS	YES	YES	45.141.202.148	NL	586	48	13	🇳🇱48Mb | RoyaleHosting BV	nl4-999.vpvr4ib84nuv6hdkt.ru	3488
-WORKS	YES	YES	136.148.222.231	SE	473	48	16	🇸🇪48Mb | Hostup AB	se1.h1cloud.net	26100
+WORKS	YES	YES	109.196.101.10	RU	691	211	44	🇷🇺211Mb | Jsc timeweb	109.196.101.10	443
+WORKS	YES	YES	94.141.162.88	RU	675	188	43	🇷🇺188Mb | Jsc timeweb	94.141.162.88	443
+WORKS	YES	YES	72.56.9.42	RU	734	181	48	🇷🇺181Mb | Jsc timeweb	72.56.9.42	443
+WORKS	YES	YES	194.87.201.174	RU	702	171	46	🇷🇺171Mb | Jsc timeweb	194.87.201.174	443
+WORKS	YES	YES	72.56.9.187	RU	696	170	45	🇷🇺170Mb | Jsc timeweb	72.56.9.187	443
+FAIL	NO	NO			3980	153		🇳🇱153Mb | Liam Kremer	185.22.234.32	7443
+WORKS	NO	YES			829	147		🇪🇪147Mb | Takehost Ou	103.88.243.28	443
+WORKS	YES	NO			2214	138		🇺🇸138Mb | Servhost Group	app-sh-152.wb-deep-ai-analytics.com	443
+FAIL	NO	NO			4002	131		🇸🇪131Mb | Angelnet Limited	swebz.loozerp.wiki	443
+WORKS	YES	YES	91.224.75.105	PL	908	128	65	🇵🇱128Mb | Newserverlife	201.51.12.190	443
+FAIL	NO	NO			696	122		🇦🇹122Mb | Interkvm Host Srl	kozyavka.yandex-api.com	443
+WORKS	NO	YES			845	122		🇳🇴122Mb | H2nexus Cloud Services - Fzco	45.12.63.39	443
+WORKS	YES	YES	162.249.126.228	DE	593	119	3	🇷🇴119Mb | Interkvm Host Srl	103.244.145.138	443
+WORKS	YES	NO			862	119		🇺🇸119Mb | Servhost Group	app-ms-33.ecom-ai-solutions.com	443
+FAIL	NO	NO			114	118		🇩🇪118Mb | Hetzner Online GmbH	188.114.97.6	443
+WORKS	YES	YES	85.194.137.244	SE	818	117	55	🇸🇪117Mb | Hexabyte AB	45.12.63.23	443
+FAIL	NO	NO			4002	117		🇳🇱117Mb | Liam Kremer	46.8.208.17	7443
+WORKS	YES	YES	85.194.137.244	SE	1910	117	80	🇸🇪117Mb | Hexabyte AB	5.129.201.44	443
+WORKS	YES	YES	152.89.244.38	DE	789	112	8	🇩🇪112Mb | aurologic GmbH	80.66.84.109	443
+WORKS	YES	NO			925	110		🇺🇸110Mb | Servhost Group	2.26.89.14	443
+WORKS	YES	NO			599	110		🇫🇮110Mb | Baykov Ilya Sergeevich	45.14.246.6	443
+WORKS	YES	YES	203.17.244.250	NL	928	110	36	🇳🇱110Mb | GSL Networks Pty LTD	45.91.55.65	443
+WORKS	YES	YES	203.17.244.250	NL	890	110	34	🇳🇱110Mb | GSL Networks Pty LTD	45.91.55.48	443
+WORKS	YES	YES	31.59.211.220	PL	998	110	67	🇵🇱110Mb | Kochedykov Egor Aleksandrovich	87.242.127.113	4510
+FAIL	NO	NO			3403	109		🇷🇺109Mb | Global Connectivity Solutions Llp	87.251.85.243	8443
+WORKS	YES	YES	91.224.75.105	PL	876	108	62	🇵🇱108Mb | Newserverlife	171.22.129.227	443
+WORKS	YES	YES	85.194.137.244	SE	882	108	64	🇸🇪108Mb | Hexabyte AB	201.34.138.180	443
+WORKS	YES	YES	31.59.218.63	EE	1283	108	78	🇪🇪108Mb | Oc Networks Limited	est-4.ardesnode.ru	443
+FAIL	NO	NO			4003	108		🇩🇪108Mb | UAB Cherry Servers	185.229.9.234	443
+WORKS	YES	YES	203.17.244.250	NL	882	108	33	🇳🇱108Mb | GSL Networks Pty LTD	201.24.52.61	443
+WORKS	YES	YES	203.17.244.250	NL	777	105	29	🇳🇱105Mb | GSL Networks Pty LTD	193.233.244.8	443
+WORKS	YES	YES	144.31.129.98	TJ	777	103	51	🇹🇯103Mb | H2nexus Cloud Services - Fzco	80.66.84.114	443
+WORKS	YES	YES	62.83.40.171	AT	852	103	58	🇦🇹103Mb | netcup GmbH	93.183.80.130	443
+WORKS	YES	NO			832	103		🇳🇱103Mb | GSL Networks Pty LTD	200.165.236.217	443
+WORKS	YES	YES	179.237.85.156	CH	579	100	18	🇨🇭100Mb | Infomaniak Network SA	179.237.85.156	443
+FAIL	NO	NO			455	99		🇵🇱99Mb | Route 95	79.137.192.13	8443
+FAIL	NO	NO			649	99		🇧🇬99Mb | Belcloud LTD	78.159.246.179	8443
+WORKS	YES	YES	45.151.180.220	CZ	862	98	60	🇨🇿98Mb | Mastersoft SRL	201.51.9.137	443
+WORKS	YES	YES	5.175.178.198	EE	729	98	47	🇪🇪98Mb | Takehost Ou	193.233.91.94	443
+WORKS	YES	YES	5.157.10.250	SE	571	98	38	🇸🇪98Mb | Angelnet Limited	5.157.10.250	443
+FAIL	NO	NO			646	98		🇪🇪98Mb | ExpressHost	ee-2e06d85dc0.shamanapp.online	34451
+FAIL	NO	NO			2171	98		🇷🇺98Mb | Kviktel	dismissaltree.net	2053
+WORKS	YES	YES	179.237.84.26	CH	582	97	22	🇨🇭97Mb | Infomaniak Network SA	179.237.84.26	443
+WORKS	YES	NO			742	96		🇩🇪96Mb | aurologic GmbH	201.24.122.135	443
+FAIL	NO	NO			2223	96		🇬🇧96Mb | Vseek Limited	188.114.97.6	443
+FAIL	NO	NO			4002	96		🇦🇹96Mb | netcup GmbH	159.195.242.180	443
+WORKS	YES	YES	85.194.137.244	SE	870	95	61	🇸🇪95Mb | Hexabyte AB	5.129.206.155	443
+WORKS	YES	YES	45.14.246.6	FI	1087	94	73	🇫🇮94Mb | Baykov Ilya Sergeevich	fn-1.ardesnode.ru	443
+WORKS	YES	YES	212.111.86.154	RU	1345	94	79	🇰🇿94Mb | VK	103.24.207.39	8443
+WORKS	YES	YES	31.59.218.63	EE	621	94	42	🇪🇪94Mb | Oc Networks Limited	31.59.218.63	443
+WORKS	YES	YES	203.17.244.250	NL	869	93	32	🇳🇱93Mb | GSL Networks Pty LTD	186.246.13.187	443
+WORKS	YES	YES	177.3.218.196	US	855	93	1	🇫🇮93Mb | Fzco	177.3.218.196	443
+FAIL	NO	NO			4003	93		🇫🇷93Mb | ESTOXY OU	87.242.94.237	8443
+WORKS	YES	YES	193.58.122.4	DE	821	92	10	🇩🇪92Mb | Play2go International Limited	ge-s-1.pythonmakemigreat.wiki	443
+WORKS	YES	YES	91.224.75.105	PL	817	92	54	🇵🇱92Mb | Newserverlife	72.56.1.141	443
+FAIL	NO	NO			4003	91		🇦🇹91Mb | netcup GmbH	159.195.240.82	443
+FAIL	NO	NO			308	90		🇪🇪90Mb | ExpressHost	31.56.187.208	34451
+WORKS	YES	YES	152.89.244.38	DE	768	90	6	🇩🇪90Mb | aurologic GmbH	87.249.54.190	443
+WORKS	YES	YES	91.224.75.105	PL	832	90	57	🇵🇱90Mb | Newserverlife	72.56.37.102	443
+FAIL	NO	NO			482	89		🇧🇬89Mb | Belcloud LTD	78.159.246.85	8443
+WORKS	YES	YES	179.237.69.151	CH	578	87	16	🇨🇭87Mb | Infomaniak Network SA	179.237.69.151	443
+WORKS	YES	YES	213.21.232.27	PL	582	86	39	🇵🇱86Mb | Oc Networks Limited	213.21.232.224	443
+WORKS	YES	YES	5.175.178.198	EE	855	86	59	🇪🇪86Mb | Takehost Ou	85.209.135.189	443
+WORKS	YES	YES			2915	85		🇸🇪85Mb | Hostup AB	se3.h1cloud.net	25119
+FAIL	NO	NO			963	85		🇵🇱85Mb | Route 95	pl-03.avroraservice.online	8443
+FAIL	NO	NO			480	84		🇵🇱84Mb | Route 95	176.108.253.133	8443
+WORKS	YES	YES	152.53.162.214	DE	783	83	7	🇩🇪83Mb | netcup GmbH	194.26.138.218	443
+WORKS	YES	YES	144.31.128.225	CY	910	83	66	🇨🇾83Mb | H2nexus Cloud Services - Fzco	45.12.63.20	443
+WORKS	YES	YES	179.237.69.47	CH	595	81	25	🇨🇭81Mb | Infomaniak Network SA	179.237.69.47	443
+WORKS	YES	YES	196.196.203.10	FI	1134	81	76	🇫🇮81Mb | Orion Network Limited	fi.alpheratzz.org	443
+FAIL	NO	NO			2302	81		🇩🇪81Mb | Andris Jakovlevs	31.207.7.117	443
+FAIL	NO	NO			4002	81		🇫🇷81Mb | OVH SAS	7q4eiwcseu-193708596-direct.rahbarii.com	443
+WORKS	YES	YES	206.1.101.211	TR	1092	80	74	🇹🇷80Mb | Netlen Internet Hizmetleri Sti	147.45.213.56	443
+FAIL	NO	NO			4001	80		🇩🇪80Mb | Tranquila-Host ltd	195.123.6.19	8443
+WORKS	YES	YES	179.237.85.209	CH	601	79	28	🇨🇭79Mb | Infomaniak Network SA	179.237.85.209	443
+WORKS	YES	YES	179.237.85.195	CH	582	79	21	🇨🇭79Mb | Infomaniak Network SA	179.237.85.195	443
+WORKS	NO	NO			732	78		🇳🇱78Mb | ClearStack BV	45.82.56.253	443
+FAIL	NO	NO			4003	78		🇫🇷78Mb | ESTOXY OU	mapzapravki.space	8443
+WORKS	YES	YES	203.23.179.160	DE	975	77	11	🇩🇪77Mb | GSL Networks Pty LTD	de-gdd-1.unturned-rust-dead.lol	443
+FAIL	NO	NO			472	76		🇳🇱76Mb | Datagio Systems	94.228.166.86	8443
+WORKS	YES	YES	203.23.179.160	DE	681	76	5	🇩🇪76Mb | GSL Networks Pty LTD	31.58.95.11	443
+FAIL	NO	NO			649	76		🇳🇱76Mb | Cloudflare	cdn-origin.lovkisport.blog	443
+WORKS	YES	YES	213.21.232.27	PL	827	76	56	🇵🇱76Mb | Oc Networks Limited	pl-4.ardesnode.ru	443
+WORKS	YES	YES	144.31.129.98	TJ	762	76	49	🇹🇯76Mb | H2nexus Cloud Services - Fzco	138.124.14.53	443
+WORKS	YES	YES	62.83.40.171	AT	877	75	63	🇦🇹75Mb | netcup GmbH	45.151.101.130	443
+FAIL	NO	NO			4002	74		🇳🇱74Mb | ClearStack BV	nd-2.ardesnode.ru	443
+WORKS	YES	YES	178.104.84.10	DE	2789	73	12	🇩🇪73Mb | Hetzner Online GmbH	spiderpanel-development-g5884.lucity.app	443
+FAIL	NO	NO			4003	72		🇫🇮72Mb | Play2go International Limited	fi.pythonsetupbib.online	443
+FAIL	NO	NO			896	72		🇳🇱72Mb | RoyaleHosting BV	104.164.55.40	443
+FAIL	NO	NO			380	72		🇳🇱72Mb | Fzco	13.143.161.181	443
+WORKS	YES	YES	206.1.101.211	TR	1019	72	70	🇹🇷72Mb | Netlen Internet Hizmetleri Sti	185.42.14.128	443
+WORKS	YES	YES	179.237.84.90	CH	577	71	15	🇨🇭71Mb | Infomaniak Network SA	179.237.84.90	443
+FAIL	NO	NO			733	71		🇳🇱71Mb | Datagio Systems	nl-04.avroraservice.online	8443
+WORKS	YES	YES	64.7.199.131	RO	1107	71	75	🇷🇴71Mb | BL Networks	app-str-53.nexus-infinitus.com	443
+WORKS	YES	YES	144.31.171.200	PL	595	70	40	🇵🇱70Mb | Oc Networks Limited	144.31.171.200	443
+FAIL	NO	NO			516	69		🇩🇪69Mb | Fastwarp LLP	deutchlandsport.top	443
+WORKS	YES	YES	179.237.69.59	CH	590	68	23	🇨🇭68Mb | Infomaniak Network SA	179.237.69.59	443
+WORKS	YES	YES	31.76.68.245	FR	779	68	52	🇺🇸68Mb | Servhost Group	31.76.68.245	443
+WORKS	YES	YES	64.7.199.131	RO	1016	68	69	🇷🇴68Mb | BL Networks	83.147.245.126	443
+FAIL	NO	NO			692	67		🇫🇮67Mb | Hetzner Online GmbH	45.133.151.171	25008
+WORKS	YES	YES	179.237.84.33	CH	577	67	14	🇨🇭67Mb | Infomaniak Network SA	179.237.84.33	443
+WORKS	NO	YES			2511	66		🇵🇱66Mb | Newserverlife	pl.illusion-vpn.ru	8443
+WORKS	YES	YES	88.151.197.213	FR	1037	65	72	🇫🇷65Mb | Ouiheberg SARL	88.151.197.213	443
+WORKS	YES	YES	31.59.143.154	PL	771	65	50	🇵🇱65Mb | ExpressHost	pl.golangwikito.cfd	443
+FAIL	NO	NO			478	65		🇵🇱65Mb | Podaon SIA	polnbl1.top	443
+FAIL	NO	NO			4003	64		🇳🇱64Mb | Liam Kremer	194.55.239.183	8443
+FAIL	NO	NO			698	64		🇫🇮64Mb | Hostkey Bv	fi.bootless.ru	443
+FAIL	NO	NO			876	64		🇱🇻64Mb | Cloudflare	72.56.52.35	443
+WORKS	YES	YES	144.31.171.200	PL	1031	64	71	🇵🇱64Mb | Oc Networks Limited	pl-5.ardesnode.ru	443
+WORKS	NO	YES			839	64		🇧🇬64Mb | MAXKO doo	45.9.156.28	443
+WORKS	YES	YES	203.17.244.250	NL	853	64	31	🇳🇱64Mb | GSL Networks Pty LTD	201.51.6.196	443
+WORKS	YES	YES	87.58.204.60	FI	1009	64	68	🇫🇮64Mb | Inios Oy	87.58.204.60	443
+FAIL	NO	NO			481	63		🇳🇱63Mb | Cloudflare	144.31.14.154	443
+WORKS	YES	YES	203.23.179.160	DE	679	63	4	🇩🇪63Mb | GSL Networks Pty LTD	31.58.95.10	443
+FAIL	NO	NO			652	63		🇷🇺63Mb | Jsc timeweb	ruself.yandex-api.com	443
+FAIL	NO	NO			526	63		🇺🇸63Mb | Servhost Group	digitalculture.top	443
+WORKS	YES	YES	179.237.85.112	CH	568	62	13	🇨🇭62Mb | Infomaniak Network SA	179.237.85.112	443
+WORKS	YES	YES	193.58.122.4	DE	569	62	2	🇩🇪62Mb | Play2go International Limited	193.58.122.4	443
+WORKS	YES	YES	203.17.244.250	NL	807	61	30	🇳🇱61Mb | GSL Networks Pty LTD	201.34.138.62	443
+WORKS	YES	YES	203.17.244.250	NL	912	61	35	🇳🇱61Mb | GSL Networks Pty LTD	45.91.53.219	443
+WORKS	NO	YES			910	60		🇧🇬60Mb | MAXKO doo	bg2.univesalsrv.com	443
+FAIL	NO	NO			514	60		🇩🇪60Mb | EDIS GmbH	modellnahn.top	443
+WORKS	YES	YES	91.224.74.128	KZ	1156	59	77	🇰🇿59Mb | Newserverlife	201.34.136.78	443
+WORKS	YES	YES	83.228.211.104	CH	581	59	19	🇨🇭59Mb | Infomaniak Network SA	83.228.211.104	443
+FAIL	NO	NO			4002	59		🇫🇷59Mb | OVH SAS	193.70.85.96	443
+FAIL	NO	NO			353	59		🇫🇮59Mb | Orion Network Limited	107.150.93.3	443
+WORKS	YES	YES	87.76.134.44	PL	3684	59	81	🇵🇱59Mb | Krzysztof Manczak	87.76.134.44	3230
+FAIL	NO	NO			2218	59		🇺🇸59Mb | HostPapa	188.114.97.6	443
+WORKS	YES	YES	179.237.85.179	CH	594	59	24	🇨🇭59Mb | Infomaniak Network SA	179.237.85.179	443
+WORKS	NO	YES			961	58		🇧🇬58Mb | MAXKO doo	bg3.univesalsrv.com	443
+FAIL	NO	NO			450	57		🇺🇸57Mb | Route 95	193.233.220.203	8443
+FAIL	NO	NO			4002	57		🇨🇦57Mb | OVH SAS	94.141.162.88	8447
+FAIL	NO	NO			3792	57		🇳🇱57Mb | Paul Sagov	150.251.143.249	443
+WORKS	YES	YES	152.53.162.214	DE	796	56	9	🇩🇪56Mb | netcup GmbH	185.104.113.123	443
+WORKS	NO	YES			938	56		🇧🇬56Mb | MAXKO doo	bg4.univesalsrv.com	443
+WORKS	YES	YES	179.237.85.97	CH	598	56	26	🇨🇭56Mb | Infomaniak Network SA	179.237.85.97	443
+FAIL	NO	NO			4002	55		🇳🇱55Mb | ExpressHost	nl-s-1.pythonmakemigreat.wiki	443
+WORKS	YES	YES	179.237.85.22	CH	598	55	27	🇨🇭55Mb | Infomaniak Network SA	179.237.85.22	443
+FAIL	NO	NO			4003	55		🇫🇮55Mb | Play2go International Limited	31.77.151.175	443
+FAIL	NO	NO			4002	55		🇳🇱55Mb | ClearStack BV	nd-3.ardesnode.ru	443
+WORKS	NO	YES			868	54		🇧🇬54Mb | MAXKO doo	45.9.156.27	443
+FAIL	NO	NO			4003	54		🇰🇿54Mb | Scalaxy BV	82.202.139.79	9882
+WORKS	YES	YES	31.59.143.154	PL	611	54	41	🇵🇱54Mb | ExpressHost	31.59.143.154	443
+WORKS	NO	YES			840	53		🇧🇬53Mb | MAXKO doo	45.9.156.24	443
+WORKS	YES	YES	150.251.143.249	NL	2863	53	37	🇳🇱53Mb | Paul Sagov	w205.luxcloud.space	443
+FAIL	NO	NO			572	53		🇷🇴53Mb | Zergrush Srl	herbalromania.top	443
+WORKS	YES	YES	179.237.85.86	CH	578	53	17	🇨🇭53Mb | Infomaniak Network SA	179.237.85.86	443
+WORKS	NO	YES			2615	53		🇩🇪53Mb | neroserv UG (haftungsbeschraenkt)	pbf5bif5gkg.vpvr4ib84nuv6hdkt.ru	3217
+WORKS	YES	YES	179.237.85.50	CH	582	51	20	🇨🇭51Mb | Infomaniak Network SA	179.237.85.50	443
+WORKS	NO	YES			1029	51		🇲🇩51Mb | Moldtelecom SA	89.35.14.32	443
+WORKS	NO	YES			963	50		🇧🇬50Mb | MAXKO doo	bg5.univesalsrv.com	443
+WORKS	NO	YES			888	49		🇧🇬49Mb | MAXKO doo	45.9.156.42	443
+WORKS	YES	YES	13.143.239.78	EE	809	48	53	🇪🇪48Mb | Paul Sagov	13.143.239.81	443
+FAIL	NO	NO			659	48		🇺🇸48Mb | Route 95	us-04.avroraservice.online	8443
