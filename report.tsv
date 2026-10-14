@@ -1,45 +1,38 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			456	175		🇷🇺175Mb | VK	78.159.246.85	2053
-WORKS	YES	YES	162.249.126.228	DE	868	166	2	🇷🇴166Mb | Interkvm Host Srl	103.244.145.138	443
-FAIL	NO	NO			437	163		🇷🇺163Mb | Kviktel	78.159.246.179	2053
-WORKS	YES	YES	152.55.185.177	NL	1037	159	5	🇳🇱159Mb | Railway	sulgx-p34-production.up.railway.app	443
-FAIL	NO	NO			698	152		🇷🇺152Mb | Kviktel	fitindoor.net	2053
-FAIL	NO	NO			491	149		🇷🇺149Mb | Kviktel	78.159.246.85	2053
-FAIL	NO	NO			638	148		🇷🇺148Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			4002	142		🇩🇪142Mb | Senko Digital	64.188.70.56	443
-FAIL	NO	NO			269	141		🇳🇱141Mb | Akamai Connected Cloud	www.visa.com.hk	443
-FAIL	NO	NO			727	134		🇷🇺134Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			3239	130		🇩🇪130Mb | YottaSrc	server31.smvx.ir	443
-FAIL	NO	NO			4002	127		🇩🇪127Mb | YottaSrc	server11.smvx.ir	443
-FAIL	NO	NO			4002	126		🇷🇺126Mb | Global Connectivity Solutions Llp	194.113.235.121	443
-FAIL	NO	NO			2414	120		🇩🇪120Mb | YottaSrc	server7.smvx.ir	443
-FAIL	NO	NO			4003	114		🇩🇪114Mb | YottaSrc	server56.smvx.ir	443
-FAIL	NO	NO			706	108		🇧🇬108Mb | Belcloud LTD	78.159.246.179	8443
-FAIL	NO	NO			4003	105		🇷🇴105Mb | Cloudflare	5.35.101.42	443
-WORKS	YES	YES	5.181.2.168	HR	680	102	7	🇭🇷102Mb | Global Connectivity Solutions Llp	5.181.2.168	443
-FAIL	NO	NO			390	100		🇺🇸100Mb | Akamai Connected Cloud	freev2.cloudflare.182682.xyz	443
-WORKS	YES	YES	81.177.215.156	TR	863	100	8	🇷🇺100Mb | Global Connectivity Solutions Llp	81.177.215.156	443
-WORKS	YES	YES	31.77.59.233	PL	1279	91	12	🇵🇱91Mb | Paul Sagov	193.233.230.64	24443
-FAIL	NO	NO			4002	87		🇦🇹87Mb | netcup GmbH	159.195.240.82	443
-WORKS	YES	YES	151.241.166.233	PL	660	85	6	🇦🇪85Mb | HOSTES LTD	151.241.166.159	443
-WORKS	YES	YES	82.117.252.227	US	1206	81	1	🇺🇸81Mb | Green Floid	45.132.177.37	443
-FAIL	NO	NO			521	81		🇳🇱81Mb | Datagio Systems	94.228.166.86	8443
-WORKS	NO	YES			2230	81		🇫🇮81Mb | Hetzner Online GmbH	193.233.217.20	7443
-WORKS	YES	YES	204.168.255.235	FI	1055	80	11	🇩🇪80Mb | Hetzner Online GmbH	45.151.30.245	443
-FAIL	NO	NO			4003	71		🇨🇾71Mb | NetCrafters OU	co-a.speedtec.ru	443
-WORKS	YES	YES	91.196.163.140	NL	791	71	4	🇺🇦71Mb | NetCrafters OU	91.196.163.140	14430
-FAIL	NO	NO			4002	66		🇷🇺66Mb | Global Connectivity Solutions Llp	193.233.74.6	8444
-WORKS	NO	YES			2304	64		🇩🇪64Mb | Senko Digital	ragnarok-vpn.ru	8443
-FAIL	NO	NO			4002	62		🇵🇱62Mb | Kochedykov Egor Aleksandrovich	87.242.127.113	4510
-WORKS	YES	YES	45.86.60.9	EE	947	61	9	🇨🇾61Mb | Edge Core FZE	185.76.241.49	443
-FAIL	NO	NO			582	60		🇪🇪60Mb | Andris Jakovlevs	132.243.65.82	443
-FAIL	NO	NO			911	58		🇷🇺58Mb | YandexCloud	rus1.justnable.xyz	8443
-WORKS	YES	YES	109.104.106.101	RO	1015	58	10	🇷🇴58Mb | Shock Hosting	109.104.106.101	443
-FAIL	NO	NO			389	57		🇷🇺57Mb | VK	37.18.14.168	2053
-WORKS	YES	YES	167.148.156.198	IS	2362	54	13	🇮🇸54Mb | Hostkey Bv	193.233.217.20	57443
-FAIL	NO	NO			4002	53		🇵🇱53Mb | Kochedykov Egor Aleksandrovich	cdn-ixr.whitenw.net	4510
-WORKS	NO	YES			1004	52		🇧🇬52Mb | MAXKO doo	45.9.156.42	443
-FAIL	NO	NO			4003	50		🇵🇱50Mb | Kochedykov Egor Aleksandrovich	raskumar-slovil.whitenw.net	4510
-WORKS	YES	YES	179.254.115.137	DE	1390	50	3	🇩🇪50Mb | Paul Sagov	193.233.223.94	25443
-FAIL	NO	NO			513	48		🇺🇸48Mb | Servhost Group	2.26.89.14	443
-FAIL	NO	NO			642	48		🇷🇺48Mb | Kviktel	kaoangeltrahnimenya.net	2053
+FAIL	NO	NO			640	196		🇷🇺196Mb | Kviktel	fitindoor.net	2053
+FAIL	NO	NO			635	194		🇷🇺194Mb | Kviktel	fitindoor.net	2053
+FAIL	NO	NO			4002	193		🇦🇹193Mb | netcup GmbH	159.195.240.82	443
+FAIL	NO	NO			884	192		🇵🇱192Mb | Datagio Systems	xnodtwx.artemida.live	443
+WORKS	YES	YES	162.249.126.228	DE	612	171	2	🇷🇴171Mb | Interkvm Host Srl	103.244.145.138	443
+FAIL	NO	NO			737	167		🇪🇪167Mb | Eternity International Limited	188.225.83.133	443
+WORKS	YES	YES	208.77.244.38	NL	661	158	9	🇳🇱158Mb | Railway	rythmewin-production.up.railway.app	443
+FAIL	NO	NO			726	146		🇷🇺146Mb | Kviktel	randomquaint.net	2053
+WORKS	YES	YES	85.93.10.247	DE	919	135	5	🇩🇪135Mb | Takehost Ou	de.applepie-recipe.ru	443
+WORKS	NO	YES			803	124		🇷🇴124Mb | Shock Hosting	109.104.106.101	443
+WORKS	YES	YES	138.124.38.65	DE	638	123	3	🇨🇭123Mb | WAIcore	138.124.38.65	2083
+FAIL	NO	NO			484	118		🇦🇪118Mb | HOSTES LTD	151.241.166.159	443
+FAIL	NO	NO			1053	114		🇧🇬114Mb | Belcloud LTD	randomquaint.net	8443
+FAIL	NO	NO			569	109		🇷🇺109Mb | Global Connectivity Solutions Llp	81.177.215.156	443
+FAIL	NO	NO			570	107		🇺🇸107Mb | Green Floid	45.132.177.37	443
+WORKS	YES	NO			2438	106		🇵🇱106Mb | Kochedykov Egor Aleksandrovich	87.242.127.113	4510
+WORKS	YES	NO			905	103		🇷🇺103Mb | Delta	45.81.33.16	443
+WORKS	YES	YES	31.56.187.189	EE	1375	101	15	🇪🇪101Mb | ExpressHost	dom.papar.online	443
+WORKS	YES	YES	91.196.163.140	NL	2709	99	10	🇵🇱99Mb | NetCrafters OU	91.196.163.140	14430
+FAIL	NO	NO			576	91		🇳🇱91Mb | Datagio Systems	94.228.166.86	8443
+WORKS	YES	YES	196.245.52.136	ES	735	89	11	🇪🇸89Mb | Orion Network Limited	196.245.52.136	443
+WORKS	YES	YES	193.135.137.12	DE	1028	85	6	🇩🇪85Mb | Senko Digital	ragnarok-vpn.ru	8443
+WORKS	YES	YES	179.254.115.124	DE	1128	84	7	🇩🇪84Mb | Paul Sagov	193.233.223.94	25443
+FAIL	NO	NO			3878	84		🇹🇷84Mb | G-Core Labs SA	213.156.152.22	443
+WORKS	YES	YES	31.59.211.220	PL	1282	77	14	🇵🇱77Mb | Kochedykov Egor Aleksandrovich	ya-ne-nefor.whitenw.net	4510
+WORKS	YES	YES	109.122.198.14	DE	3824	72	8	🇷🇺72Mb | WAIcore	freede.aiage.work	443
+WORKS	NO	YES			321	71		🇺🇸71Mb | NetCrafters OU	213.165.50.44	9443
+FAIL	NO	NO			27	64		🇨🇾64Mb | NetCrafters OU	195.137.226.11	443
+WORKS	NO	NO			1466	64		🇦🇪64Mb | Oy Crea Nova Hosting Solution	nl1.fluxorvpn.net	443
+WORKS	YES	NO			3262	61		🇷🇺61Mb | WAIcore	213.165.56.102	443
+FAIL	NO	NO			4002	60		🇺🇸60Mb | NetCrafters OU	193.233.130.118	14430
+WORKS	YES	YES	31.77.227.217	FR	987	59	12	🇺🇸59Mb | Banatsync Srl	fr.applepie-recipe.ru	443
+WORKS	YES	YES	77.110.126.193	US	309	59	1	🇺🇸59Mb | NetCrafters OU	213.165.50.45	9443
+WORKS	YES	YES	148.113.246.163	CA	1120	55	13	🇨🇦55Mb | OVH SAS	milo.rubinaz.xyz	8080
+FAIL	NO	NO			2499	54		🇺🇸54Mb | GTHost	67.220.73.204	18662
+WORKS	YES	YES	31.59.216.141	DE	654	49	4	🇬🇧49Mb | Oc Networks Limited	31.59.216.141	443
+FAIL	NO	NO			511	49		🇧🇬49Mb | Belcloud LTD	78.159.246.179	8443
