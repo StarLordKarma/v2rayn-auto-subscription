@@ -1,35 +1,73 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			529	310		🇷🇺310Mb | Cloudru	176.108.253.120	8443
-WORKS	YES	YES	147.45.148.6	RU	707	256	10	🇷🇺256Mb | Jsc timeweb	147.45.148.6	443
-WORKS	YES	YES	147.45.148.6	RU	780	200	13	🇷🇺200Mb | Jsc timeweb	yoy-api.bachidze.com	443
-WORKS	YES	YES	144.31.3.58	PL	687	192	9	🇵🇱192Mb | H2nexus Cloud Services - Fzco	144.31.4.234	443
-WORKS	YES	YES	2.27.19.157	DE	1176	187	7	🇩🇪187Mb | International Hosting Company Limited	2.27.19.157	443
-WORKS	YES	YES	77.239.126.231	EE	807	187	14	🇪🇪187Mb | Oc Networks Limited	hv0pfq.ilovecats.space	443
-WORKS	YES	YES	50.7.248.219	PL	712	185	11	🇵🇱185Mb | FDCserversnet	189.74.116.37	443
-FAIL	NO	NO			4002	174		🇦🇹174Mb | netcup GmbH	159.195.240.82	443
-WORKS	YES	YES	104.28.253.85	FI	885	174	16	🇫🇮174Mb | Cloudflare	45.81.33.194	443
-WORKS	YES	YES	50.7.226.2	GB	616	167	1	🇺🇸167Mb | FDCserversnet	50.7.154.75	443
-FAIL	NO	NO			1804	156		🇸🇪156Mb | Play2go International Limited	87.239.111.174	18563
-WORKS	YES	YES	177.1.186.43	DE	607	155	3	🇩🇪155Mb | Senko Digital	de5.srv.vbuste-bot.com	443
-WORKS	YES	YES	162.249.126.228	DE	618	149	4	🇷🇴149Mb | Interkvm Host Srl	103.244.145.138	443
-WORKS	YES	YES	177.1.186.43	DE	593	138	2	🇩🇪138Mb | Senko Digital	177.1.186.43	443
-WORKS	YES	YES	50.7.177.133	NL	639	134	8	🇺🇸134Mb | FDCserversnet	50.7.176.123	443
-FAIL	NO	NO			530	131		🇳🇱131Mb | Datagio Systems	94.228.166.86	8443
-WORKS	YES	YES	85.193.85.231	RU	730	130	12	🇷🇺130Mb | Jsc timeweb	85.193.85.231	443
-FAIL	NO	NO			2353	119		🇳🇱119Mb | RoyaleHosting BV	uk1-2.998998.best	443
-FAIL	NO	NO			974	117		🇧🇬117Mb | Belcloud LTD	randomquaint.net	8443
-FAIL	NO	NO			4002	116		🇱🇻116Mb | SIA VEESP	fi.chick-chirik.com	443
-WORKS	YES	YES	31.76.11.243	DE	789	114	5	🇩🇪114Mb | Play2go International Limited	seal-de1.bypassme.online	443
-WORKS	YES	YES	178.32.235.124	FR	1042	104	17	🇫🇷104Mb | OVH SAS	skycitybox-bidarbash.sbs	443
-FAIL	NO	NO			4003	104		🇳🇱104Mb | Oracle	141.144.207.185	62145
-WORKS	NO	NO			745	103		🇳🇱103Mb | Play2go International Limited	seal-nl1.bypassme.online	443
-WORKS	YES	YES	81.90.21.89	SE	852	99	15	🇸🇪99Mb | Node Host Limited	81.90.21.89	8443
-FAIL	NO	NO			4002	86		🇳🇱86Mb | Play2go International Limited	31.77.157.178	8443
-WORKS	NO	NO			563	73		🇳🇱73Mb | Play2go International Limited	2.27.21.85	443
-FAIL	NO	NO			384	71		🇷🇺71Mb | Kviktel	78.159.246.179	2053
-WORKS	YES	YES	148.113.246.163	CA	1117	68	18	🇨🇦68Mb | OVH SAS	milo.rubinaz.xyz	8080
-FAIL	NO	NO			2301	67		🇩🇪67Mb | H2nexus Cloud Services - Fzco	185.125.50.181	443
-FAIL	NO	NO			4003	55		🇨🇿55Mb | Host-Telecomcom sro	195.133.35.171	443
-WORKS	YES	YES	136.148.222.236	SE	2482	53	19	🇸🇪53Mb | Hostup AB	se3.h1cloud.net	25119
-WORKS	YES	YES	95.140.153.248	DE	1024	53	6	🇩🇪53Mb | Timeweb LLP	13.143.137.180	8443
-FAIL	NO	NO			4002	51		🇨🇿51Mb | Host-Telecomcom sro	seal-cz.bypassme.online	443
+WORKS	YES	NO			1022	344		🇷🇺344Mb | Delta	103.24.207.39	444
+WORKS	YES	NO			673	297		🇷🇺297Mb | Cloudru	176.109.109.17	443
+WORKS	YES	YES	77.239.126.231	EE	580	247	21	🇪🇪247Mb | Oc Networks Limited	hv0pfq.ilovecats.space	443
+FAIL	NO	NO			349	227		🇷🇺227Mb | Kviktel	78.159.246.179	2053
+FAIL	NO	NO			2220	224		🇩🇪224Mb | Zenlayer	chatgpt.com	443
+WORKS	YES	YES	50.7.177.133	NL	480	215	13	🇺🇸215Mb | FDCserversnet	50.7.176.123	443
+WORKS	YES	YES	87.120.84.22	DE	525	204	8	🇩🇪204Mb | Play2go International Limited	87.120.84.22	443
+FAIL	NO	NO			4002	192		🇦🇹192Mb | netcup GmbH	159.195.240.82	443
+FAIL	NO	NO			578	190		🇷🇺190Mb | Kviktel	randomquaint.net	2053
+WORKS	YES	YES	153.76.202.21	SE	676	188	29	🇦🇪188Mb | Oy Crea Nova Hosting Solution	140.225.199.212	443
+WORKS	YES	YES	177.1.188.96	FI	598	186	22	🇫🇮186Mb | Senko Digital	144.31.232.104	443
+WORKS	YES	YES	141.144.207.185	NL	318	185	12	🇳🇱185Mb | Oracle	141.144.207.185	62145
+FAIL	NO	NO			463	185		🇳🇱185Mb | Datagio Systems	94.228.166.86	8443
+FAIL	NO	NO			596	184		🇷🇺184Mb | VK	randomquaint.net	2053
+WORKS	YES	YES	50.7.248.219	PL	607	175	24	🇵🇱175Mb | FDCserversnet	189.74.116.37	443
+FAIL	NO	NO			358	173		🇷🇺173Mb | Kviktel	78.159.246.85	2053
+WORKS	YES	YES	177.1.188.96	FI	575	170	20	🇫🇮170Mb | Senko Digital	fl1.balancer.vbuste-bot.com	443
+WORKS	NO	YES			805	169		🇳🇱169Mb | Play2go International Limited	seal-nl1.bypassme.online	443
+FAIL	NO	NO			2213	169		🇳🇱169Mb | Railway	chatgpt.com	443
+FAIL	NO	NO			602	166		🇳🇱166Mb | Servers Tech Fzco	tamiiiiz.aryan-sport.ir	443
+WORKS	YES	YES	64.188.78.252	EE	533	164	17	🇪🇪164Mb | Oc Networks Limited	31.59.218.33	443
+WORKS	YES	YES	31.76.11.243	DE	668	164	10	🇩🇪164Mb | Play2go International Limited	seal-de1.bypassme.online	443
+WORKS	YES	YES	138.124.100.37	EE	602	162	23	🌐162Mb | 🇪🇪 🚀 Эстония [🏴BL/SNI] | 🥭🔥	138.124.100.29	443
+WORKS	YES	YES	50.7.226.2	GB	550	160	6	🇺🇸160Mb | FDCserversnet	api.mediasvyaz.cc	443
+WORKS	YES	YES	50.7.248.219	PL	728	160	31	🇵🇱160Mb | FDCserversnet	api.oblachnyservis.cc	443
+FAIL	NO	NO			4002	156		🇧🇬156Mb | Belcloud LTD	78.159.246.179	8443
+WORKS	YES	YES	153.76.202.21	SE	646	155	26	🇦🇪155Mb | Oy Crea Nova Hosting Solution	140.225.199.230	443
+WORKS	YES	YES	153.76.202.21	SE	661	154	28	🇦🇪154Mb | Oy Crea Nova Hosting Solution	140.225.199.225	443
+WORKS	YES	YES	89.125.212.82	GB	541	153	5	🇬🇧153Mb | Hostkey Bv	31.76.11.243	443
+WORKS	YES	YES	151.242.161.186	DE	495	151	7	🇦🇪151Mb | HOSTES LTD	94.183.253.211	443
+FAIL	NO	NO			568	148		🇷🇺148Mb | Kviktel	fitindoor.net	2053
+WORKS	YES	YES	2.27.19.157	DE	1071	142	11	🇩🇪142Mb | International Hosting Company Limited	2.27.19.157	443
+WORKS	YES	YES	151.241.166.130	PL	550	137	19	🇦🇪137Mb | HOSTES LTD	151.241.166.137	443
+WORKS	YES	YES	177.1.186.43	DE	577	136	9	🇩🇪136Mb | Senko Digital	de5.srv.vbuste-bot.com	443
+FAIL	NO	NO			427	131		🇺🇸131Mb | Route 95	193.233.220.203	8443
+WORKS	YES	YES			714	131		🌐131Mb | [OpenRay] 🌐XX-3534	qcloudge1.exitvpn.shop	20268
+WORKS	NO	YES			982	125		🇫🇷125Mb | OVH SAS	skycitybox-bidarbash.sbs	443
+WORKS	YES	YES	217.144.188.200	FI	636	125	25	🇫🇮125Mb | Aeza Group	91.103.140.11	8443
+WORKS	YES	YES	50.7.226.2	GB	505	123	4	🇺🇸123Mb | FDCserversnet	50.7.154.75	443
+FAIL	NO	NO			442	122		🇷🇺122Mb | Cloudru	176.108.253.120	8443
+WORKS	YES	YES	151.241.166.130	PL	555	121		🇦🇪121Mb | HOSTES LTD	151.241.166.137	443
+WORKS	YES	YES	151.242.161.186	DE	482	110		🇦🇪110Mb | HOSTES LTD	94.183.253.211	443
+FAIL	NO	NO			642	110		🇺🇸110Mb | Route 95	us-05.avroraservice.online	8443
+FAIL	NO	NO			2272	103		🇩🇪103Mb | H2nexus Cloud Services - Fzco	185.125.50.181	443
+WORKS	YES	YES	191.44.113.196	PL	509	102	15	🇵🇱102Mb | Node Host Limited	191.44.113.196	443
+FAIL	NO	NO			135	101		🇺🇸101Mb | System In Place	us7-2.998998.best	443
+WORKS	NO	YES			863	99		🇧🇬99Mb | MAXKO doo	bg4.univesalsrv.com	443
+WORKS	YES	YES	178.236.251.175	RU	647	93	27	🇷🇺93Mb | Aeza Group	178.236.251.175	8443
+WORKS	NO	YES			830	92		🇧🇬92Mb | MAXKO doo	45.9.156.24	443
+WORKS	NO	YES			464	85		🇳🇱85Mb | Play2go International Limited	2.27.21.85	443
+FAIL	NO	NO			630	82		🇺🇸82Mb | Route 95	us-04.avroraservice.online	8443
+WORKS	YES	YES	201.10.90.201	PL	525	79	16	🇵🇱79Mb | Moskalev Georgiy	201.10.90.201	443
+WORKS	YES	YES	193.25.216.99	SE	682	78	30	🇸🇪78Mb | Play2go International Limited	sweedenqfds777.qcloud.surf	21221
+WORKS	NO	YES			808	76		🇧🇬76Mb | MAXKO doo	45.9.156.28	443
+WORKS	NO	YES			797	73		🇧🇬73Mb | MAXKO doo	45.9.156.42	443
+WORKS	NO	YES			727	73		🇧🇬73Mb | MAXKO doo	45.9.156.27	443
+FAIL	NO	NO			649	73		🇷🇺73Mb | VK	summerculture.net	2053
+WORKS	YES	YES	141.98.165.154	EE	1061	72	33	🇪🇪72Mb | Baykov Ilya Sergeevich	edge-lab-relay-c.10media.top	443
+FAIL	NO	NO			199	71		🇺🇸71Mb | BAGE CLOUD	23.172.40.108	20808
+WORKS	NO	YES			809	71		🇧🇬71Mb | MAXKO doo	bg3.univesalsrv.com	443
+WORKS	YES	YES	144.31.3.58	PL	547	70	18	🇵🇱70Mb | H2nexus Cloud Services - Fzco	144.31.4.234	443
+WORKS	NO	YES			761	69		🇧🇬69Mb | MAXKO doo	bg5.univesalsrv.com	443
+FAIL	NO	NO			2208	69		🇸🇬69Mb | Akamai Connected Cloud	104.24.11.68	443
+WORKS	NO	YES			571	69		🇺🇸69Mb | hostoff Csl	191.217.244.16	443
+WORKS	YES	YES	192.241.126.174	US	197	68	1	🇺🇸68Mb | B2 Net Solutions	152.232.57.10	443
+WORKS	YES	YES	192.241.126.174	US	306	67	2	🇺🇸67Mb | B2 Net Solutions	api.videobereg.cc	443
+FAIL	NO	NO			500	64		🇺🇸64Mb | Route 95	80.66.65.251	8443
+WORKS	NO	YES			815	62		🇧🇬62Mb | MAXKO doo	bg2.univesalsrv.com	443
+WORKS	YES	YES	166.0.19.111	US	1559	52	3	🇺🇸52Mb | FiberState	funagfrdfs.alixxplay.com	47691
+WORKS	YES	YES	150.251.143.170	NL	1047	51	14	🇳🇱51Mb | Paul Sagov	150.251.143.170	443
+WORKS	YES	YES	148.113.246.163	CA	960	50	32	🇨🇦50Mb | OVH SAS	milo.rubinaz.xyz	8080
+FAIL	NO	NO			440	49		🇫🇷49Mb | YottaSrc	sdttr.azad0namah.ir	8080
