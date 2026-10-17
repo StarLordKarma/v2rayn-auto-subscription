@@ -1,4 +1,3 @@
-vless://f8f23b48-57e6-4a87-9ff5-a086ec1b1803@94.183.253.211:443?flow=xtls-rprx-vision&pbk=uLuPk7Ee7W9BcvjgM2FJHYG2NJxEeEkP7QVL8jYudhI&security=reality&sid=aa9bfaebd76d8b95&sni=germ2.serverslocal.ru&type=raw&fp=chrome#🇩🇪DE | 122Mb | 932ms | HOSTES LTD
-vless://f8f23b48-57e6-4a87-9ff5-a086ec1b1803@151.241.166.137:443?flow=xtls-rprx-vision&pbk=HhY8AOOPbY7Aah3XHlAUYYbXR8kSncqslAvY8iUbnUc&security=reality&sid=90265b4bea0f563a&sni=151.241.166.137.sslip.io&type=raw&fp=chrome#🇵🇱PL | 131Mb | 672ms | HOSTES LTD
-vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@178.236.251.175:8443?type=raw&security=reality&fp=firefox&pbk=IwFiMbtqTA9Xhb3sVPbrfXPanaPLxMqg896uQUlNzAI&sid=29bbf531&sni=npdev.uk#🇷🇺RU | 52Mb | 1009ms | Aeza Group
-vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@147.45.148.6:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&sni=yoy-api.bachidze.com#🇷🇺RU | 124Mb | 1033ms | Jsc timeweb
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?type=ws&path=%2F&host=openapi.pure-ai.us.ci#🇺🇸US | 61Mb | 257ms | Microsoft
+vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@samgeez.online:8443?security=reality&pbk=RcXsA7OGsbBAG_4Xs5jQ1YaLlq3oglNHEvyRphqbHko&fp=chrome&spx=%2F0f6ac3bda1db9c4&type=raw&sni=npdev.uk&sid=26c4e208f355#🇫🇮FI | 71Mb | 905ms | Aeza Group
+vless://2bdcf0ac-f84e-471f-98dc-a1807acab1cb@skycitybox-bidarbash.sbs:443?path=%2Fzoodi&security=tls&alpn=http%2F1.1&host=skycitybox-bidarbash.sbs&type=ws&sni=skycitybox-bidarbash.sbs#🇫🇷FR | 119Mb | 980ms | OVH SAS
