@@ -1,59 +1,45 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4002	390		🇷🇺390Mb | PVimpelCom	yt.noooo.win	8443
-FAIL	NO	NO			385	316		🇷🇺316Mb | Cloudru	176.108.253.120	8443
-WORKS	YES	YES	147.45.148.6	RU	531	278	11	🇷🇺278Mb | Jsc timeweb	147.45.148.6	443
-FAIL	NO	NO			652	266		🇪🇪266Mb | ExpressHost	ee-2e06d85dc0.shamanapp.online	34451
-WORKS	NO	YES			550	265		🇷🇺265Mb | Jsc timeweb	yoy-api.bachidze.com	443
-FAIL	NO	NO			4002	202		🇷🇺202Mb | Kviktel	randomquaint.net	2053
-FAIL	NO	NO			222	195		🇳🇱195Mb | Servers Tech Fzco	104.21.91.244	443
-FAIL	NO	NO			4002	191		🇷🇺191Mb | VK	fitindoor.net	2053
-WORKS	YES	YES	157.228.149.211	DE	547	190	5	🇦🇪190Mb | First Server Limited	157.228.149.211	2054
-WORKS	YES	NO			555	184		🇫🇮184Mb | Aeza Group	91.103.140.11	8443
-WORKS	NO	NO			2562	182		🇩🇪182Mb | Andris Jakovlevs	ert105.slovovpn.com	33351
-FAIL	NO	NO			171	166		🇳🇱166Mb | Servers Tech Fzco	188.114.96.2	443
-WORKS	YES	YES	178.32.235.51	FR	783	164	14	🇫🇷164Mb | OVH SAS	redcloudport-bidarbash.sbs	443
-FAIL	NO	NO			4002	161		🇩🇪161Mb | Andris Jakovlevs	ert105.slovovpn.com	443
-FAIL	NO	NO			364	157		🇸🇪157Mb | Hostup AB	sweden.grizzlysite.space	443
-WORKS	YES	NO			712	153		🇫🇮153Mb | Aeza Group	samgeez.online	8443
-FAIL	NO	NO			3412	153		🇩🇪153Mb | Oc Networks Limited	77.110.105.122	443
-FAIL	NO	NO			270	145		🇩🇪145Mb | Mitelis Security Limited	194.87.156.131	443
-FAIL	NO	NO			4002	144		🇫🇮144Mb | Senko Digital	144.31.232.104	443
-FAIL	NO	NO			2779	142		🇨🇿142Mb | Mastersoft SRL	cl-glb6e059ee.gcdn.co	443
-FAIL	NO	NO			2567	142		🇳🇱142Mb | Railway	victory-production-76fc.up.railway.app	443
-FAIL	NO	NO			4002	141		🇫🇮141Mb | Andris Jakovlevs	ert140.slovovpn.com	443
-WORKS	NO	YES			3783	137		🇪🇪137Mb | Paul Sagov	ee.h1cloud.net	25895
-WORKS	NO	YES			2119	134		🇷🇺134Mb | Aeza Group	178.236.251.175	23202
-FAIL	NO	NO			4003	130		🇫🇮130Mb | Andris Jakovlevs	ert140.slovovpn.com	31540
-WORKS	YES	YES	95.85.228.88	NL	3545	129	7	🇬🇧129Mb | Oc Networks Limited	31.59.217.164	443
-WORKS	YES	YES	151.242.161.186	DE	381	128	4	🇦🇪128Mb | HOSTES LTD	94.183.253.211	443
-WORKS	YES	YES	151.241.166.130	PL	465	125	9	🇦🇪125Mb | HOSTES LTD	151.241.166.137	443
-FAIL	NO	NO			1346	125		🇵🇱125Mb | Illia Kravtsov	pl.grizzlysite.buzz	443
-FAIL	NO	NO			313	124		🇷🇺124Mb | Kviktel	78.159.246.179	2053
-FAIL	NO	NO			258	122		🇳🇱122Mb | Mitelis Security Limited	2.27.137.132	443
-FAIL	NO	NO			257	121		🇩🇪121Mb | Mitelis Security Limited	194.87.156.122	443
-FAIL	NO	NO			3174	113		🇪🇪113Mb | Orion Network Limited	196.198.111.138	8443
-FAIL	NO	NO			409	113		🇳🇱113Mb | Servers Tech Fzco	tamiiiiz.aryan-sport.ir	443
-FAIL	NO	NO			402	112		🇪🇪112Mb | Stencloud	est.grizzlysite.site	443
-WORKS	YES	YES	144.31.3.58	PL	483	108	10	🇺🇸108Mb | FDCserversnet	direct-nl.bachidze.com	443
-FAIL	NO	NO			1622	108		🇨🇭108Mb | Infomaniak Network SA	switz.grizzlyvpn.biz	443
-WORKS	YES	YES	144.31.3.58	PL	447	105	8	🇵🇱105Mb | H2nexus Cloud Services - Fzco	144.31.4.234	443
-WORKS	YES	YES	50.7.177.133	NL	537	101	6	🇺🇸101Mb | FDCserversnet	50.7.176.123	443
-FAIL	NO	NO			1588	100		🇧🇬100Mb | Belcloud LTD	78.159.246.179	8443
-WORKS	YES	YES	52.230.164.53	US	288	98	2	🇺🇸98Mb | Microsoft	www.epicgames.com	2095
-FAIL	NO	NO			750	96		🇦🇹96Mb | netcup GmbH	188.225.76.193	443
-FAIL	NO	NO			4002	94		🇧🇬94Mb | Belcloud LTD	78.159.246.85	8443
-WORKS	NO	YES			2177	93		🇷🇺93Mb | Aeza Group	178.236.251.175	8443
-FAIL	NO	NO			1301	92		🇮🇱92Mb | Kamatera	site.grizzlyvpn.biz	443
-FAIL	NO	NO			49	86		🇺🇸86Mb | HostPapa	104.18.5.82	443
-FAIL	NO	NO			4002	73		🇧🇬73Mb | MAXKO doo	45.9.156.28	443
-WORKS	YES	NO			1418	70		🇱🇻70Mb | Baykov Ilya Sergeevich	edge-lab-lv.10media.top	443
-FAIL	NO	NO			4003	64		🇧🇬64Mb | MAXKO doo	45.9.156.42	443
-FAIL	NO	NO			4002	64		🇩🇪64Mb | Fzco	31.77.11.171	443
-FAIL	NO	NO			4002	62		🇺🇸62Mb | Ace Data Centers II	finkawwwbroy5.qcloud.surf	20324
-WORKS	NO	YES			3329	61		🇧🇬61Mb | MAXKO doo	45.9.156.27	443
-FAIL	NO	NO			4003	57		🇧🇬57Mb | MAXKO doo	45.9.156.24	443
-WORKS	YES	YES	162.35.126.130	US	381	56	3	🇺🇸56Mb | Interserver	us-4bf85a22b1.shamanapp.online	10453
-WORKS	YES	YES	162.35.126.130	US	80	56	1	🇺🇸56Mb | Interserver	162.35.126.130	10453
-WORKS	NO	YES			2894	50		🇧🇬50Mb | MAXKO doo	bg5.univesalsrv.com	443
-WORKS	YES	YES	196.245.52.146	ES	622	50	13	🇪🇸50Mb | Orion Network Limited	196.245.52.149	25535
-WORKS	YES	YES	85.193.85.231	RU	580	49	12	🇷🇺49Mb | Jsc timeweb	85.193.85.231	443
+WORKS	NO	NO			1042	418		🇷🇺418Mb | Delta	103.24.207.39	444
+WORKS	YES	NO			1030	336		🇷🇺336Mb | Delta	rus.puflino.com	444
+WORKS	YES	YES	31.76.66.173	FI	607	301	12	🇺🇸301Mb | Servhost Group	31.76.66.173	8443
+FAIL	NO	NO			264	206		🇩🇪206Mb | Senko Digital	146.75.32.8	443
+WORKS	YES	YES	193.31.127.2	UA	1120	192	16	🇺🇸192Mb | Global Transit Systems	122.8.45.3	443
+FAIL	NO	NO			2174	191		🇬🇧191Mb | Leaseweb UK Limited	188.114.98.0	443
+FAIL	NO	NO			397	185		🇳🇱185Mb | Datagio Systems	176.124.223.176	8443
+WORKS	YES	YES	177.1.188.96	FI	442	183	7	🇫🇮183Mb | Senko Digital	144.31.232.104	443
+WORKS	YES	YES	152.55.184.151	NL	452	181	6	🇳🇱181Mb | Railway	mkoshjs-production.up.railway.app	443
+FAIL	NO	NO			2702	179		🇳🇱179Mb | Railway	p2.nanebaget.dpdns.org	443
+FAIL	NO	NO			2177	167		🇳🇱167Mb | RoyaleHosting BV	188.114.97.6	443
+FAIL	NO	NO			2671	165		🇳🇱165Mb | Railway	p3.nanebaget.dpdns.org	443
+FAIL	NO	NO			749	165		🇪🇪165Mb | ExpressHost	ee-2e06d85dc0.shamanapp.online	34451
+WORKS	YES	YES	50.7.193.146	GB	357	165	2	🇬🇧165Mb | FDCserversnet	50.7.193.147	443
+FAIL	NO	NO			2288	164		🇳🇱164Mb | RoyaleHosting BV	uk1-2.998998.best	443
+FAIL	NO	NO			2968	162		🇳🇱162Mb | Railway	p1.nanebaget.dpdns.org	443
+WORKS	YES	YES	50.7.193.146	GB	511	158	3	🇬🇧158Mb | FDCserversnet	match.betust.net	443
+WORKS	YES	YES	217.144.188.200	FI	650	152	13	🇫🇮152Mb | Aeza Group	samgeez.online	8443
+FAIL	NO	NO			494	149		🇳🇱149Mb | Servers Tech Fzco	tamiiiiz.aryan-sport.ir	443
+FAIL	NO	NO			183	147		🇫🇷147Mb | OVH SAS	188.114.97.6	443
+WORKS	YES	YES			452	147		🇫🇮147Mb | Senko Digital	fl1.balancer.vbuste-bot.com	443
+WORKS	YES	YES	151.241.166.130	PL	446	145	8	🇦🇪145Mb | HOSTES LTD	151.241.166.137	443
+FAIL	NO	NO			24	143		🇳🇱143Mb | Servers Tech Fzco	188.114.96.2	443
+FAIL	NO	NO			28	143		🇳🇱143Mb | Servers Tech Fzco	104.21.91.244	443
+FAIL	NO	NO			2360	142		🇳🇱142Mb | Railway	p4.nanebaget.dpdns.org	443
+FAIL	NO	NO			463	142		🇵🇱142Mb | ExpressHost	pl-a50baf0d7f.shamanapp.online	443
+WORKS	YES	YES	159.195.240.82	AT	463	138	9	🇦🇹138Mb | netcup GmbH	159.195.240.82	443
+WORKS	YES	YES	151.241.166.130	PL	574	137	11	🇦🇪137Mb | HOSTES LTD	151.241.166.137.sslip.io	443
+WORKS	YES	YES	151.242.161.186	DE	372	134	4	🇦🇪134Mb | HOSTES LTD	94.183.253.211	443
+WORKS	YES	YES	54.38.1.209	FR	711	131	14	🇫🇷131Mb | OVH SAS	redcloudport-bidarbash.sbs	443
+FAIL	NO	NO			459	131		🇰🇿131Mb | VK Tech Kazakhstan LLP	93.183.87.107	443
+FAIL	NO	NO			373	131		🇺🇦131Mb | Route 95	185.220.223.105	8443
+WORKS	YES	YES	151.242.161.186	DE	601	126	5	🇦🇪126Mb | HOSTES LTD	germ2.serverslocal.ru	443
+WORKS	YES	YES	217.144.188.200	FI	532	122	10	🇫🇮122Mb | Aeza Group	91.103.140.11	8443
+WORKS	YES	YES	57.154.6.40	US	429	113	1	🇺🇸113Mb | Microsoft	www.wto.org	2095
+FAIL	NO	NO			3089	111		🇵🇱111Mb | ExpressHost	45.198.0.252	443
+FAIL	NO	NO			4001	110		🇬🇧110Mb | Leaseweb UK Limited	reaza.localip.ir	443
+FAIL	NO	NO			496	108		🇫🇮108Mb | Cloudflare	45.81.33.194	443
+FAIL	NO	NO			301	98		🇷🇺98Mb | VK	78.159.246.85	2053
+FAIL	NO	NO			535	91		🇷🇺91Mb | YandexCloud	rus1.justnable.xyz	8443
+WORKS	YES	YES	13.143.239.240	EE	1890	87	18	🇪🇪87Mb | Paul Sagov	ee.h1cloud.net	25895
+FAIL	NO	NO			2277	64		🇩🇪64Mb | IONOS SE	45.12.63.96	443
+WORKS	YES	YES	137.74.169.140	FR	1188	64	17	🇫🇷64Mb | OVH SAS	46.105.38.220	26451
+WORKS	YES	YES	84.21.172.7	LV	935	56	15	🇱🇻56Mb | Baykov Ilya Sergeevich	edge-lab-lv.10media.top	443
