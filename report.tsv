@@ -1,53 +1,33 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			516	294		🇷🇺294Mb | Cloudru	176.108.253.120	8443
-WORKS	YES	YES	147.45.148.6	RU	832	281	15	🇷🇺281Mb | Jsc timeweb	147.45.148.6	443
-WORKS	NO	YES			874	244		🇷🇺244Mb | Jsc timeweb	yoy-api.bachidze.com	443
-FAIL	NO	NO			662	233		🇪🇪233Mb | ExpressHost	ee-2e06d85dc0.shamanapp.online	34451
-WORKS	YES	YES	50.7.193.146	GB	506	215	3	🇬🇧215Mb | FDCserversnet	50.7.193.147	443
-FAIL	NO	NO			4002	174		🇷🇺174Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			4002	172		🇸🇪172Mb | Hostup AB	se3.h1cloud.net	25119
-WORKS	YES	YES	217.144.188.200	FI	2115	155	19	🇫🇮155Mb | Aeza Group	91.103.140.11	8443
-WORKS	YES	YES	50.7.193.146	GB	662	152	4	🇬🇧152Mb | FDCserversnet	match.betust.net	443
-WORKS	YES	YES	77.238.234.170	NL	575	151	8	🇳🇱151Mb | Servers Tech Fzco	ss2.soreanapanel.com	8080
-FAIL	NO	NO			4003	150		🇷🇺150Mb | VK	randomquaint.net	2053
-FAIL	NO	NO			512	146		🇳🇱146Mb | Datagio Systems	176.124.223.176	8443
-WORKS	YES	YES	77.110.121.185	SE	750	146	14	🇸🇪146Mb | Aeza Group	se.ataloqe.com	8443
-WORKS	NO	YES			573	136		🇳🇱136Mb | Servers Tech Fzco	ss3.soreanapanel.com	8080
-FAIL	NO	NO			4002	132		🇸🇪132Mb | Hostup AB	136.148.222.226	25119
-WORKS	YES	YES	152.53.113.246	AT	862	131	16	🇦🇹131Mb | netcup GmbH	contouratlas.10media.top	443
-WORKS	NO	YES			559	130		🇮🇪130Mb | RS Computers	217.60.144.2	443
-FAIL	NO	NO			4002	128		🇳🇱128Mb | Play2go International Limited	31.77.157.178	8443
-FAIL	NO	NO			699	128		🇩🇪128Mb | Hetzner Online GmbH	rm4.ehsanazizi-speed-server.com	443
-FAIL	NO	NO			4003	126		🇧🇬126Mb | Belcloud LTD	78.159.246.85	8443
-WORKS	YES	YES	150.241.80.166	SE	516	126	11	🇳🇱126Mb | hostoff Csl	150.241.80.166	8443
-WORKS	YES	YES	72.56.52.50	LV	884	125	17	🇺🇸125Mb | SIA GOOD	lv2.ataloqe.com	8443
-FAIL	NO	NO			329	123		🇷🇺123Mb | VK	78.159.246.179	2053
-WORKS	YES	YES	82.22.77.130	FR	1793	121	18	🇫🇷121Mb | Verycloud SAS	wpbkgi5ov.vpvr4ib84nuv6hdkt.ru	3392
-WORKS	YES	YES	2.26.124.218	SE	606	121	12	🇸🇪121Mb | Node Host Limited	2.26.124.218	443
-FAIL	NO	NO			472	120		🇫🇷120Mb | G-Core Labs SA	frn8.mobileemdad.top	443
-WORKS	YES	YES	3.131.98.27	US	224	117	2	🇺🇸117Mb | Amazoncom	3.131.98.27	443
-WORKS	YES	YES	82.22.77.130	FR	470	114	10	🇫🇷114Mb | Verycloud SAS	82.22.77.130	3392
-WORKS	YES	YES	31.56.18.67	DE	2739	103	7	🇩🇪103Mb | Akenai Products LTD	31.56.18.67	2083
-FAIL	NO	NO			4003	99		🇷🇺99Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			4003	98		🇷🇺98Mb | VK	fitindoor.net	2053
-WORKS	YES	NO			1616	97		🇷🇺97Mb | YandexCloud	rus1.justnable.xyz	443
-WORKS	YES	YES	191.217.255.119	PL	652	91	13	🇵🇱91Mb | hostoff Csl	pl.ataloqe.com	8443
-FAIL	NO	NO			4002	90		🇷🇺90Mb | YandexCloud	81.26.182.128	443
-FAIL	NO	NO			956	90		🇷🇺90Mb | YandexCloud	rus1.justnable.xyz	8443
-FAIL	NO	NO			2256	85		🇩🇪85Mb | H2nexus Cloud Services - Fzco	185.125.50.181	443
-WORKS	YES	YES	31.56.18.68	DE	542	84	5	🇩🇪84Mb | Akenai Products LTD	31.56.18.68	2083
-FAIL	NO	NO			4002	78		🇧🇬78Mb | Belcloud LTD	78.159.246.85	8443
-WORKS	YES	YES	89.169.54.163	DE	796	78	6	🇩🇪78Mb | Aeza Group	de.ataloqe.com	8443
-FAIL	NO	NO			489	75		🇳🇱75Mb | Datagio Systems	94.228.166.86	8443
-WORKS	YES	NO			1072	72		🇷🇺72Mb | Global Internet Solutions	77.110.113.206	8444
-FAIL	NO	NO			4002	72		🇷🇺72Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			2313	68		🇱🇻68Mb | Baykov Ilya Sergeevich	201.34.133.44	443
-FAIL	NO	NO			4003	66		🇩🇪66Mb | OVH SAS	135.125.248.200	27250
-WORKS	YES	YES	31.77.28.118	NL	4159	66	9	🇳🇱66Mb | Akenai Products LTD	31.77.28.118	2083
-FAIL	NO	NO			4002	65		🇩🇪65Mb | Hetzner Online GmbH	c2bed40df22c9917.tunvi.w-ert.org	448
-FAIL	NO	NO			4002	61		🇷🇺61Mb | VK	78.159.246.179	2053
-WORKS	YES	YES	77.42.73.93	FI	3626	60	20	🇫🇮60Mb | Hetzner Online GmbH	77.42.73.93	8080
-FAIL	NO	NO			4002	55		🇩🇪55Mb | Servhost Group	app-ss-64.ecom-ai-search.com	443
-FAIL	NO	NO			4003	53		🇷🇺53Mb | Jsc timeweb	85.193.85.231	443
-WORKS	NO	YES			1391	51		🇧🇬51Mb | MAXKO doo	bg5.univesalsrv.com	443
-WORKS	YES	YES	86.109.75.132	US	185	51	1	🇺🇸51Mb | GorillaServers	86.109.75.132	443
+WORKS	YES	YES	147.45.148.6	RU	518	235	8	🇷🇺235Mb | Jsc timeweb	147.45.148.6	443
+WORKS	YES	YES	50.7.193.146	GB	354	194	1	🇬🇧194Mb | FDCserversnet	50.7.193.147	443
+FAIL	NO	NO			4003	194		🇪🇪194Mb | Eternity International Limited	xnodtwx.artemida.live	443
+FAIL	NO	NO			1978	187		🇷🇺187Mb | VK	randomquaint.net	2053
+WORKS	YES	YES	217.144.188.200	FI	676	175	10	🇫🇮175Mb | Aeza Group	samgeez.online	8443
+WORKS	YES	YES	50.7.193.146	GB	491	162	2	🇬🇧162Mb | FDCserversnet	match.betust.net	443
+FAIL	NO	NO			1343	161		🇳🇱161Mb | Datagio Systems	176.124.223.176	8443
+FAIL	NO	NO			602	156		🇪🇪156Mb | ExpressHost	ee-2e06d85dc0.shamanapp.online	34451
+WORKS	YES	YES	217.144.188.200	FI	516	153	7	🇫🇮153Mb | Aeza Group	91.103.140.11	8443
+FAIL	NO	NO			2327	149		🇫🇷149Mb | OVH SAS	speedtest.org	8443
+FAIL	NO	NO			4003	149		🇺🇸149Mb | Node Host Limited	144.31.28.35	443
+FAIL	NO	NO			433	147		🇳🇱147Mb | Datagio Systems	94.228.166.86	8443
+FAIL	NO	NO			4003	125		🇺🇸125Mb | Amazoncom	3.131.98.27	443
+WORKS	YES	YES			1037	118		🇫🇷118Mb | Verycloud SAS	wpbkgi5ov.vpvr4ib84nuv6hdkt.ru	3392
+WORKS	YES	YES	51.68.92.170	FR	671	117	9	🇫🇷117Mb | OVH SAS	redcloudport-bidarbash.sbs	443
+FAIL	NO	NO			982	106		🇷🇺106Mb | VK	78.159.246.179	2053
+FAIL	NO	NO			405	93		🇪🇸93Mb | Green Floid	176.109.108.24	8443
+WORKS	YES	NO			653	92		🇷🇺92Mb | YandexCloud	81.26.182.128	443
+FAIL	NO	NO			561	91		🇷🇺91Mb | VK	fitindoor.net	2053
+FAIL	NO	NO			482	86		🇷🇺86Mb | YandexCloud	rus1.justnable.xyz	8443
+WORKS	YES	YES	143.246.213.128	MD	3715	80	12	🇲🇩80Mb | Ava Host Srl	143.246.213.128	443
+WORKS	YES	YES	23.81.34.74	GB	4165	78	3	🇬🇧78Mb | Leaseweb UK Limited	tun2.w-ert.org	44512
+FAIL	NO	NO			3336	75		🇮🇪75Mb | RS Computers	217.60.144.2	443
+FAIL	NO	NO			381	71		🇺🇸71Mb | FranTech Solutions	us2-2.998998.best	443
+FAIL	NO	NO			4003	68		🇺🇸68Mb | Node Host Limited	144.31.28.137	443
+WORKS	YES	YES	31.77.59.233	PL	977	67	11	🇵🇱67Mb | Paul Sagov	72.56.241.75	24443
+WORKS	YES	NO			647	61		🇷🇺61Mb | YandexCloud	rus1.justnable.xyz	443
+WORKS	YES	YES	89.169.54.163	DE	605	60	5	🇩🇪60Mb | Aeza Group	89.169.54.163	8443
+FAIL	NO	NO			4002	56		🇫🇷56Mb | Verycloud SAS	82.22.77.130	3392
+FAIL	NO	NO			2268	53		🇱🇻53Mb | Baykov Ilya Sergeevich	201.34.133.44	443
+WORKS	YES	YES	109.122.198.14	DE	2393	49	6	🇷🇺49Mb | WAIcore	213.165.56.102	443
+WORKS	YES	YES	109.122.198.14	DE	427	48	4	🇷🇺48Mb | WAIcore	freede.aiage.work	443
