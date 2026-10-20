@@ -1,37 +1,30 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			1831	235		🇪🇸235Mb | Green Floid	176.109.108.24	8443
-WORKS	YES	YES	147.45.148.6	RU	859	224	8	🇷🇺224Mb | Jsc timeweb	147.45.148.6	443
-WORKS	YES	YES	177.3.222.100	US	959	223	1	🇩🇪223Mb | Fzco	ge-s-1.pythonmakemigreat.wiki	443
-WORKS	YES	YES	65.109.28.164	FI	706	223	6	🇫🇮223Mb | Hetzner Online GmbH	65.109.28.164	443
-FAIL	NO	NO			1110	207		🇷🇺207Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			889	194		🇷🇺194Mb | VK	78.159.246.179	2053
-FAIL	NO	NO			900	194		🇷🇺194Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			643	184		🇷🇺184Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			1236	182		🇷🇺182Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			1632	172		🇷🇺172Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			848	171		🇪🇪171Mb | ExpressHost	ee-2e06d85dc0.shamanapp.online	34451
-FAIL	NO	NO			4002	165		🇪🇪165Mb | Andris Jakovlevs	132.243.65.82	443
-FAIL	NO	NO			3678	162		🇩🇪162Mb | Hetzner Online GmbH	91.107.188.129	2083
-FAIL	NO	NO			621	155		🇳🇱155Mb | Datagio Systems	94.228.166.86	8443
-FAIL	NO	NO			637	150		🇳🇱150Mb | Datagio Systems	176.124.223.176	8443
-WORKS	YES	YES	152.55.184.104	NL	950	146	4	🇳🇱146Mb | Railway	uitestytrio-production.up.railway.app	443
-WORKS	YES	YES	50.7.177.133	NL	1137	145	5	🇺🇸145Mb | FDCserversnet	50.7.176.123	443
-WORKS	YES	YES	2.27.248.195	DE	1729	144	3	🇩🇪144Mb | Dedik Services Limited	2.27.248.195	443
-FAIL	NO	NO			601	142		🇺🇸142Mb | Route 95	80.66.65.251	8443
-FAIL	NO	NO			1398	141		🇪🇪141Mb | Paul Sagov	188.225.72.65	27443
-FAIL	NO	NO			864	137		🇳🇱137Mb | Datagio Systems	nl-05.avroraservice.online	8443
-WORKS	YES	YES	85.193.85.231	RU	886	125	9	🇷🇺125Mb | Jsc timeweb	yoy-api.bachidze.com	443
-FAIL	NO	NO			4003	118		🇧🇬118Mb | Belcloud LTD	78.159.246.85	8443
-WORKS	YES	YES	85.193.85.231	RU	858	102	7	🇷🇺102Mb | Jsc timeweb	85.193.85.231	443
-FAIL	NO	NO			4002	102		🇳🇱102Mb | Nurmukan Zhantorin	nl.cachevault.net	443
-FAIL	NO	NO			562	99		🇫🇮99Mb | Aeza Group	91.103.140.11	8443
-FAIL	NO	NO			336	90		🇺🇸90Mb | FranTech Solutions	us2-2.998998.best	443
-WORKS	YES	YES	2.27.254.7	DE	1072	79	2	🇩🇪79Mb | Oc Networks Limited	77.110.105.122	443
-FAIL	NO	NO			2056	79		🇫🇷79Mb | OVH SAS	172.67.171.33	443
-FAIL	NO	NO			1275	75		🇫🇮75Mb | Hetzner Online GmbH	dl3.uploadeliasiran03.ir	443
-FAIL	NO	NO			2714	72		🇮🇪72Mb | Amazoncom	18.169.146.8	22222
-WORKS	NO	YES			2124	68		🇫🇷68Mb | OVH SAS	82.202.182.42	3443
-FAIL	NO	NO			1315	59		🇫🇮59Mb | Hetzner Online GmbH	dl2.uploadeliasiran03.ir	443
-FAIL	NO	NO			906	59		🇪🇪59Mb | Paul Sagov	188.225.72.65	27443
-FAIL	NO	NO			184	59		🇷🇺59Mb | YandexCloud	81.26.182.128	8443
-WORKS	NO	NO			1276	54		🇺🇸54Mb | netcup GmbH	78.17.178.125	443
+WORKS	YES	NO			1193	147		🇷🇺147Mb | Delta	103.24.207.40	444
+FAIL	NO	NO			4003	136		🇮🇪136Mb | RS Computers	217.60.144.2	443
+WORKS	YES	YES	177.3.222.100	US	554	130	2	🇩🇪130Mb | Fzco	64.188.66.181	443
+FAIL	NO	NO			470	128		🇳🇱128Mb | Datagio Systems	176.124.223.176	8443
+FAIL	NO	NO			2386	126		🇳🇱126Mb | RoyaleHosting BV	188.114.97.6	443
+WORKS	NO	YES			1935	119		🇷🇺119Mb | VK	de.puflino.com	443
+FAIL	NO	NO			2464	88		🇫🇷88Mb | OVH SAS	172.67.171.33	443
+WORKS	NO	YES			983	84		🇧🇬84Mb | MAXKO doo	bg5.univesalsrv.com	443
+WORKS	YES	YES	107.150.27.178	US	499	75	1	🇺🇸75Mb | HostPapa	107.150.27.178	8443
+FAIL	NO	NO			4002	73		🇷🇺73Mb | VK	78.159.246.179	2053
+WORKS	NO	YES			1081	70		🇧🇬70Mb | MAXKO doo	bg4.univesalsrv.com	443
+WORKS	YES	YES	194.87.143.19	RU	880	68	5	🇷🇺68Mb | Jsc timeweb	rusx2.braidx.tech	443
+WORKS	NO	YES			917	64		🇧🇬64Mb | MAXKO doo	45.9.156.42	443
+FAIL	NO	NO			541	63		🇷🇺63Mb | YandexCloud	81.26.182.128	8443
+WORKS	NO	YES			3386	63		🇷🇺63Mb | VK	pl.puflino.com	443
+FAIL	NO	NO			182	62		🇺🇸62Mb | ReliableSiteNet	104.243.44.241	443
+FAIL	NO	NO			938	61		🇩🇪61Mb | dataforest GmbH	fr.duolingoo.ir	2053
+WORKS	YES	YES			621	61		🇸🇪61Mb | Fzco	201.58.177.135	443
+WORKS	NO	YES			2880	60		🇧🇬60Mb | MAXKO doo	45.9.156.28	443
+WORKS	NO	YES			1132	59		🇧🇬59Mb | MAXKO doo	45.9.156.24	443
+FAIL	NO	NO			4002	59		🇸🇪59Mb | Hostup AB	se1.h1cloud.net	26100
+FAIL	NO	NO			1455	59		🇪🇪59Mb | ExpressHost	ee-2e06d85dc0.shamanapp.online	34451
+FAIL	NO	NO			4003	59		🇷🇺59Mb | VK	78.159.246.85	2053
+FAIL	NO	NO			485	58		🇹🇷58Mb | Datacamp Limited	177.202.96.106	443
+FAIL	NO	NO			4002	57		🇧🇬57Mb | Belcloud LTD	78.159.246.85	8443
+WORKS	YES	YES	195.189.98.120	NL	648	55	4	🇳🇱55Mb | UAB Cherry Servers	book.jarbook.net	443
+WORKS	NO	YES			3163	54		🇧🇬54Mb | MAXKO doo	bg2.univesalsrv.com	443
+FAIL	NO	NO			1065	49		🇩🇪49Mb | Hetzner Online GmbH	32831f83b52565c1.tunvi.w-ert.org	448
+WORKS	YES	YES	195.189.98.120	NL	571	49	3	🇳🇱49Mb | UAB Cherry Servers	195.189.98.121	443
