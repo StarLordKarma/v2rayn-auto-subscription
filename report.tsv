@@ -1,33 +1,57 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	147.45.148.6	RU	518	235	8	🇷🇺235Mb | Jsc timeweb	147.45.148.6	443
-WORKS	YES	YES	50.7.193.146	GB	354	194	1	🇬🇧194Mb | FDCserversnet	50.7.193.147	443
-FAIL	NO	NO			4003	194		🇪🇪194Mb | Eternity International Limited	xnodtwx.artemida.live	443
-FAIL	NO	NO			1978	187		🇷🇺187Mb | VK	randomquaint.net	2053
-WORKS	YES	YES	217.144.188.200	FI	676	175	10	🇫🇮175Mb | Aeza Group	samgeez.online	8443
-WORKS	YES	YES	50.7.193.146	GB	491	162	2	🇬🇧162Mb | FDCserversnet	match.betust.net	443
-FAIL	NO	NO			1343	161		🇳🇱161Mb | Datagio Systems	176.124.223.176	8443
-FAIL	NO	NO			602	156		🇪🇪156Mb | ExpressHost	ee-2e06d85dc0.shamanapp.online	34451
-WORKS	YES	YES	217.144.188.200	FI	516	153	7	🇫🇮153Mb | Aeza Group	91.103.140.11	8443
-FAIL	NO	NO			2327	149		🇫🇷149Mb | OVH SAS	speedtest.org	8443
-FAIL	NO	NO			4003	149		🇺🇸149Mb | Node Host Limited	144.31.28.35	443
-FAIL	NO	NO			433	147		🇳🇱147Mb | Datagio Systems	94.228.166.86	8443
-FAIL	NO	NO			4003	125		🇺🇸125Mb | Amazoncom	3.131.98.27	443
-WORKS	YES	YES			1037	118		🇫🇷118Mb | Verycloud SAS	wpbkgi5ov.vpvr4ib84nuv6hdkt.ru	3392
-WORKS	YES	YES	51.68.92.170	FR	671	117	9	🇫🇷117Mb | OVH SAS	redcloudport-bidarbash.sbs	443
-FAIL	NO	NO			982	106		🇷🇺106Mb | VK	78.159.246.179	2053
-FAIL	NO	NO			405	93		🇪🇸93Mb | Green Floid	176.109.108.24	8443
-WORKS	YES	NO			653	92		🇷🇺92Mb | YandexCloud	81.26.182.128	443
-FAIL	NO	NO			561	91		🇷🇺91Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			482	86		🇷🇺86Mb | YandexCloud	rus1.justnable.xyz	8443
-WORKS	YES	YES	143.246.213.128	MD	3715	80	12	🇲🇩80Mb | Ava Host Srl	143.246.213.128	443
-WORKS	YES	YES	23.81.34.74	GB	4165	78	3	🇬🇧78Mb | Leaseweb UK Limited	tun2.w-ert.org	44512
-FAIL	NO	NO			3336	75		🇮🇪75Mb | RS Computers	217.60.144.2	443
-FAIL	NO	NO			381	71		🇺🇸71Mb | FranTech Solutions	us2-2.998998.best	443
-FAIL	NO	NO			4003	68		🇺🇸68Mb | Node Host Limited	144.31.28.137	443
-WORKS	YES	YES	31.77.59.233	PL	977	67	11	🇵🇱67Mb | Paul Sagov	72.56.241.75	24443
-WORKS	YES	NO			647	61		🇷🇺61Mb | YandexCloud	rus1.justnable.xyz	443
-WORKS	YES	YES	89.169.54.163	DE	605	60	5	🇩🇪60Mb | Aeza Group	89.169.54.163	8443
-FAIL	NO	NO			4002	56		🇫🇷56Mb | Verycloud SAS	82.22.77.130	3392
-FAIL	NO	NO			2268	53		🇱🇻53Mb | Baykov Ilya Sergeevich	201.34.133.44	443
-WORKS	YES	YES	109.122.198.14	DE	2393	49	6	🇷🇺49Mb | WAIcore	213.165.56.102	443
-WORKS	YES	YES	109.122.198.14	DE	427	48	4	🇷🇺48Mb | WAIcore	freede.aiage.work	443
+FAIL	NO	NO			2411	299		🇫🇷299Mb | OVH SAS	speedtest.org	8443
+FAIL	NO	NO			402	270		🇷🇺270Mb | VK	78.159.246.85	2053
+WORKS	YES	YES	147.45.148.6	RU	584	268	12	🇷🇺268Mb | Jsc timeweb	147.45.148.6	443
+FAIL	NO	NO			852	233		🇪🇪233Mb | ExpressHost	ee-2e06d85dc0.shamanapp.online	34451
+FAIL	NO	NO			616	213		🇷🇺213Mb | VK	randomquaint.net	2053
+FAIL	NO	NO			587	211		🇷🇺211Mb | VK	fitindoor.net	2053
+FAIL	NO	NO			594	209		🇷🇺209Mb | VK	fitindoor.net	2053
+WORKS	YES	YES	144.31.3.58	PL	550	199	10	🇵🇱199Mb | H2nexus Cloud Services - Fzco	144.31.4.234	443
+FAIL	NO	NO			397	198		🇷🇺198Mb | VK	78.159.246.85	2053
+FAIL	NO	NO			366	195		🇷🇺195Mb | VK	78.159.246.179	2053
+WORKS	YES	YES	217.144.188.200	FI	1540	184	20	🇫🇮184Mb | Aeza Group	samgeez.online	8443
+WORKS	YES	YES	50.7.177.133	NL	485	183	7	🇺🇸183Mb | FDCserversnet	50.7.176.123	443
+FAIL	NO	NO			463	176		🇵🇱176Mb | Paul Sagov	pl-p1.h1cloud.net	25178
+WORKS	YES	YES	217.144.188.200	FI	1362	171	19	🇫🇮171Mb | Aeza Group	91.103.140.11	8443
+WORKS	YES	YES	82.22.77.130	FR	551	168	11	🇫🇷168Mb | Verycloud SAS	wpbkgi5ov.vpvr4ib84nuv6hdkt.ru	3392
+FAIL	NO	NO			487	166		🇳🇱166Mb | Datagio Systems	94.228.166.86	8443
+WORKS	YES	YES	82.22.77.130	FR	467	159	9	🇫🇷159Mb | Verycloud SAS	82.22.77.130	3392
+FAIL	NO	NO			4002	156		🇧🇬156Mb | Belcloud LTD	78.159.246.179	8443
+WORKS	YES	YES	77.110.121.185	SE	610	156	13	🇸🇪156Mb | Aeza Group	77.110.121.185	8443
+FAIL	NO	NO			565	145		🇳🇱145Mb | Servers Tech Fzco	50d9ab69755390c8.wgse.info	443
+WORKS	YES	YES	77.238.234.170	NL	566	144	8	🇳🇱144Mb | Servers Tech Fzco	ss3.soreanapanel.com	8080
+WORKS	YES	YES	147.135.224.146	FR	953	143	17	🇫🇷143Mb | OVH SAS	redcloudport-bidarbash.sbs	443
+FAIL	NO	NO			479	139		🇳🇱139Mb | Datagio Systems	176.124.223.176	8443
+WORKS	NO	YES			1187	136		🇫🇮136Mb | Hetzner Online GmbH	72.56.241.75	7443
+FAIL	NO	NO			450	134		🇺🇸134Mb | Route 95	193.233.220.203	8443
+WORKS	YES	YES	143.246.213.128	MD	837	133	16	🇲🇩133Mb | Ava Host Srl	143.246.213.128	443
+WORKS	NO	YES			1110	131		🇵🇱131Mb | Paul Sagov	72.56.241.75	24443
+WORKS	YES	YES	178.236.251.175	RU	668	123	14	🇷🇺123Mb | Aeza Group	178.236.251.175	8443
+WORKS	YES	YES	2.27.248.195	DE	542	117	5	🇩🇪117Mb | Dedik Services Limited	2.27.248.195	443
+WORKS	YES	YES	143.246.213.128	MD	780	114		🇲🇩114Mb | Ava Host Srl	143.246.213.128	443
+WORKS	YES	YES	172.235.58.21	US	184	110	1	🇺🇸110Mb | Akamai Connected Cloud	172.235.58.21	443
+FAIL	NO	NO			298	108		🇺🇸108Mb | FranTech Solutions	us2-2.998998.best	443
+FAIL	NO	NO			402	106		🇫🇮106Mb | Hetzner Online GmbH	s9-pan.redmbred.ir	52491
+FAIL	NO	NO			362	106		🇦🇲106Mb | BitCommand	185.202.113.108	443
+WORKS	YES	YES	178.236.251.175	RU	1346	105	18	🇷🇺105Mb | Aeza Group	178.236.251.175	23202
+WORKS	NO	YES			831	101		🇧🇬101Mb | MAXKO doo	bg2.univesalsrv.com	443
+FAIL	NO	NO			4002	86		🇷🇺86Mb | YandexCloud	rus1.justnable.xyz	8443
+WORKS	NO	YES			801	84		🇧🇬84Mb | MAXKO doo	45.9.156.24	443
+FAIL	NO	NO			935	80		🇩🇪80Mb | Akamai Connected Cloud	tun4.krizor.ir	8018
+WORKS	NO	YES			775	80		🇧🇬80Mb | MAXKO doo	45.9.156.28	443
+WORKS	NO	YES			764	79		🇧🇬79Mb | MAXKO doo	45.9.156.27	443
+FAIL	NO	NO			825	78		🇱🇻78Mb | Baykov Ilya Sergeevich	edge-lab-lv.10media.top	443
+FAIL	NO	NO			2319	78		🇱🇻78Mb | Baykov Ilya Sergeevich	201.34.133.44	443
+WORKS	NO	YES			794	76		🇧🇬76Mb | MAXKO doo	bg3.univesalsrv.com	443
+WORKS	NO	YES			817	70		🇧🇬70Mb | MAXKO doo	bg5.univesalsrv.com	443
+WORKS	YES	YES	87.121.33.130	AU	1911	66	21	🇦🇺66Mb | G-Core Labs SA	191.44.46.37	25570
+WORKS	NO	YES			759	63		🇧🇬63Mb | MAXKO doo	45.9.156.42	443
+WORKS	YES	NO			1013	63		🇸🇨63Mb | WULDI	72.56.241.75	1443
+WORKS	YES	YES	85.193.85.231	RU	687	58	15	🇷🇺58Mb | Jsc timeweb	yoy-api.bachidze.com	443
+WORKS	YES	YES	201.58.177.153	US	711	58	3	🇸🇪58Mb | Fzco	sweedenqfds777.qcloud.surf	21221
+WORKS	YES	YES	89.169.54.163	DE	617	57	6	🇩🇪57Mb | Aeza Group	89.169.54.163	8443
+WORKS	NO	YES			666	57		🇦🇪57Mb | Oy Crea Nova Hosting Solution	140.225.199.246	443
+WORKS	YES	YES	162.35.126.130	US	372	55	2	🇺🇸55Mb | Interserver	us-4bf85a22b1.shamanapp.online	10453
+WORKS	NO	YES			642	50		🇦🇪50Mb | Oy Crea Nova Hosting Solution	140.225.199.212	443
+WORKS	YES	YES	109.122.198.14	DE	503	48	4	🇷🇺48Mb | WAIcore	freede.aiage.work	443
+WORKS	NO	YES			722	48		🇦🇪48Mb | Oy Crea Nova Hosting Solution	140.225.199.234	443
