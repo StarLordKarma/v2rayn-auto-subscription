@@ -1,20 +1,8 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			2208	81		🇫🇷81Mb | Regxa Company for Information Technology	104.20.45.23	443
-FAIL	NO	NO			2144	81		🇳🇱81Mb | RoyaleHosting BV	188.114.97.6	443
-FAIL	NO	NO			4002	79		🇳🇱79Mb | Servers Tech Fzco	ss3.soreanapanel.com	8080
-FAIL	NO	NO			513	78		🇫🇮78Mb | Hostkey Bv	uk9.998998.best	443
-FAIL	NO	NO			387	74		🇸🇪74Mb | Akamai Connected Cloud	www.visa.com.hk	443
-WORKS	YES	YES	169.128.68.55	US	585	69	1	🇳🇱69Mb | Victor Polenok	169.128.68.55	3488
-FAIL	NO	NO			284	68		🇺🇸68Mb | FranTech Solutions	us2-2.998998.best	443
-FAIL	NO	NO			4002	66		🇷🇺66Mb | VK	randomquaint.net	2053
-FAIL	NO	NO			765	66		🇳🇱66Mb | Datagio Systems	nl-05.avroraservice.online	8443
-FAIL	NO	NO			3981	66		🇩🇪66Mb | Servhost Group	e1-ee.edgemedia.lol	443
-WORKS	YES	YES	95.217.128.44	FI	810	61	4	🇫🇮61Mb | Hetzner Online GmbH	static.44.128.217.95.clients.your-server.de	8443
-WORKS	NO	YES			1040	60		🇩🇪60Mb | Servhost Group	e1-cz.edgemedia.lol	22443
-WORKS	YES	YES	177.3.222.100	US	1032	59	3	🇩🇪59Mb | Fzco	64.188.66.181	443
-FAIL	NO	NO			4002	54		🇷🇺54Mb | VK	78.159.246.179	2053
-FAIL	NO	NO			557	54		🇩🇪54Mb | Hetzner Online GmbH	kala.bestsellers1.site	443
-FAIL	NO	NO			2395	54		🇳🇱54Mb | RoyaleHosting BV	uk1-2.998998.best	443
-FAIL	NO	NO			300	52		🇫🇮52Mb | Hetzner Online GmbH	tamiiiiz.aryan-sport.ir	2053
-WORKS	YES	YES	169.128.68.55	US	991	48	2	🇳🇱48Mb | Victor Polenok	nl3-gkv6mb.vpvr4ib84nuv6hdkt.ru	3488
-FAIL	NO	NO			4002	48		🇩🇪48Mb | dataforest GmbH	193.148.253.226	25362
+WORKS	YES	YES	132.243.66.17	EE	1621	86	1	🇪🇪86Mb | Paul Sagov	132.243.66.17	443
+FAIL	NO	NO			2191	85		🇩🇪85Mb | Hetzner Online GmbH	188.114.97.6	443
+FAIL	NO	NO			2365	83		🇳🇱83Mb | RoyaleHosting BV	uk1-2.998998.best	443
+FAIL	NO	NO			485	80		🇪🇸80Mb | Green Floid	176.109.108.24	8443
+FAIL	NO	NO			613	73		🇷🇺73Mb | YandexCloud	rus1.justnable.xyz	8443
+FAIL	NO	NO			356	66		🇷🇺66Mb | VK	78.159.246.179	2053
+FAIL	NO	NO			577	64		🇷🇺64Mb | VK	randomquaint.net	2053
