@@ -1,86 +1,11 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4002	287		🇷🇺287Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			4003	280		🇪🇪280Mb | Astrec Data OU	176.112.152.147	443
-FAIL	NO	NO			379	265		🇷🇺265Mb | VK	81.94.148.232	2053
-FAIL	NO	NO			4003	260		🇷🇺260Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			4001	258		🇷🇺258Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			2247	253		🇩🇪253Mb | Hetzner Online GmbH	188.114.97.6	443
-FAIL	NO	NO			3706	251		🇷🇺251Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			3102	251		🇩🇪251Mb | Leaseweb Deutschland GmbH	shortbig.ir	443
-FAIL	NO	NO			823	238		🇷🇺238Mb | VK	randomquaint.net	2053
-FAIL	NO	NO			1360	237		🇷🇺237Mb | VK	78.159.246.179	2053
-FAIL	NO	NO			478	236		🇷🇺236Mb | VK	78.159.246.179	2053
-WORKS	NO	YES			604	235		🇩🇪235Mb | SIA GOOD	test.wolf-moose.test-cdn-kkk.com	443
-WORKS	YES	YES	132.243.65.0	EE	532	228	14	🇪🇪228Mb | Andris Jakovlevs	132.243.65.82	443
-WORKS	NO	YES			1663	218		🇳🇱218Mb | WorldStream BV	floweroom.vip	443
-FAIL	NO	NO			4002	211		🇧🇬211Mb | Belcloud LTD	78.159.246.179	8443
-FAIL	NO	NO			636	195		🇷🇺195Mb | VK	windytrout.net	2053
-WORKS	YES	YES	50.7.193.146	GB	489	194	3	🇬🇧194Mb | FDCserversnet	50.7.193.147	443
-FAIL	NO	NO			663	192		🇳🇱192Mb | Datagio Systems	nl-05.avroraservice.online	8443
-FAIL	NO	NO			3632	188		🇳🇱188Mb | WorldStream BV	46.243.142.2	443
-FAIL	NO	NO			4003	186		🇰🇿186Mb | VK	de.puflino.com	443
-FAIL	NO	NO			517	184		🇳🇱184Mb | Datagio Systems	176.124.223.176	8443
-WORKS	YES	YES	84.32.177.108	NL	599	180	9	🇳🇱180Mb | UAB Cherry Servers	snow.betust.net	443
-FAIL	NO	NO			4003	178		🇧🇬178Mb | Belcloud LTD	81.94.148.232	8443
-WORKS	NO	NO			2357	177		🇦🇪177Mb | Oy Crea Nova Hosting Solution	nl1.fluxorvpn.net	443
-FAIL	NO	NO			4003	174		🇷🇺174Mb | VK	50.7.157.237	443
-FAIL	NO	NO			4003	174		🇧🇬174Mb | Belcloud LTD	windytrout.net	8443
-WORKS	YES	YES	50.7.95.195	NL	472	174	6	🇺🇸174Mb | FDCserversnet	50.7.95.195	443
-FAIL	NO	NO			360	171		🇨🇭171Mb | Baykov Ilya Sergeevich	138.124.2.239	443
-WORKS	YES	YES	84.32.177.108	NL	478	170	7	🇳🇱170Mb | UAB Cherry Servers	195.189.98.197	443
-FAIL	NO	NO			2112	167		🇺🇸167Mb | Hurricane Electric	45.130.125.151	443
-FAIL	NO	NO			4003	166		🇧🇬166Mb | Belcloud LTD	78.159.246.179	8443
-FAIL	NO	NO			439	165		🇧🇬165Mb | Belcloud LTD	78.159.246.85	8443
-FAIL	NO	NO			426	164		🇳🇱164Mb | Servers Tech Fzco	88.216.62.196	443
-WORKS	YES	YES	50.7.95.195	NL	642	157	11	🇺🇸157Mb | FDCserversnet	servise.betust.net	443
-FAIL	NO	NO			1148	156		🇪🇪156Mb | Eternity International Limited	xnodtwx.artemida.live	443
-WORKS	NO	YES			731	155		🇰🇿155Mb | VK	pl.puflino.com	443
-FAIL	NO	NO			4003	153		🇦🇪153Mb | Oy Crea Nova Hosting Solution	140.225.199.234	443
-WORKS	NO	YES			926	152		🇷🇴152Mb | Shock Hosting	109.104.106.101	443
-FAIL	NO	NO			4001	152		🇦🇪152Mb | Oy Crea Nova Hosting Solution	140.225.199.225	443
-FAIL	NO	NO			451	150		🇧🇬150Mb | Belcloud LTD	78.159.246.85	8443
-FAIL	NO	NO			4002	150		🇦🇪150Mb | Oy Crea Nova Hosting Solution	140.225.199.210	443
-FAIL	NO	NO			4002	150		🇦🇪150Mb | Oy Crea Nova Hosting Solution	140.225.199.241	443
-FAIL	NO	NO			4003	144		🇮🇪144Mb | RS Computers	217.60.144.2	443
-WORKS	NO	YES			657	140		🇱🇹140Mb | UAB Cherry Servers	84.32.215.96	443
-WORKS	NO	YES			726	138		🇰🇿138Mb | VK	103.246.248.20	443
-FAIL	NO	NO			4002	136		🇦🇪136Mb | Oy Crea Nova Hosting Solution	140.225.199.236	443
-WORKS	YES	YES	82.139.231.3	NO	951	136	13	🇵🇱136Mb | H1cloud	pl1.h1cloud.net	27591
-FAIL	NO	NO			2192	136		🇳🇱136Mb | RoyaleHosting BV	188.114.97.6	443
-WORKS	NO	YES			847	135		🇧🇬135Mb | MAXKO doo	bg5.univesalsrv.com	443
-FAIL	NO	NO			4002	133		🇩🇪133Mb | UAB Cherry Servers	84.32.98.214	443
-WORKS	YES	YES	50.7.95.173	NL	481	133	8	🇺🇸133Mb | FDCserversnet	50.7.95.171	443
-FAIL	NO	NO			4003	126		🇦🇪126Mb | Oy Crea Nova Hosting Solution	140.225.199.212	443
-WORKS	YES	YES	5.199.171.123	LT	598	124	15	🇱🇹124Mb | UAB Cherry Servers	84.32.151.218	443
-WORKS	YES	YES	93.183.87.107	KZ	901	120	20	🇰🇿120Mb | VK Tech Kazakhstan LLP	93.183.87.107	443
-FAIL	NO	NO			4002	118		🇦🇪118Mb | Oy Crea Nova Hosting Solution	140.225.199.230	443
-FAIL	NO	NO			486	116		🇺🇸116Mb | Route 95	193.233.220.203	8443
-FAIL	NO	NO			4003	112		🇩🇪112Mb | First Server Limited	92.118.9.166	27439
-FAIL	NO	NO			264	99		🇺🇸99Mb | FDCserversnet	50.7.28.211	443
-WORKS	YES	YES	103.126.51.135	DE	1128	98	5	🇷🇴98Mb | Interkvm Host Srl	sisipisi.yandex-api.com	443
-WORKS	YES	YES	195.189.98.120	NL	601	98	10	🇳🇱98Mb | UAB Cherry Servers	195.189.98.121	443
-WORKS	YES	YES	196.245.52.137	ES	664	96	17	🇪🇸96Mb | Orion Network Limited	196.245.52.137	443
-WORKS	YES	YES	50.7.28.210	DE	911	96	4	🇺🇸96Mb | FDCserversnet	de.vmagnum.win	443
-FAIL	NO	NO			437	94		🇪🇸94Mb | Orion Network Limited	api.ferrin.uk	443
-WORKS	YES	YES	195.189.98.120	NL	651	93	12	🇳🇱93Mb | UAB Cherry Servers	book.jarbook.net	443
-WORKS	NO	YES			737	89		🇧🇬89Mb | MAXKO doo	45.9.156.42	443
-FAIL	NO	NO			37	89		🇺🇸89Mb | HostPapa	104.18.4.82	443
-FAIL	NO	NO			610	82		🇷🇺82Mb | YandexCloud	rus1.justnable.xyz	8443
-WORKS	NO	YES			854	82		🇧🇬82Mb | MAXKO doo	45.9.156.24	443
-WORKS	YES	YES	169.128.68.55	US	573	81	2	🇳🇱81Mb | Victor Polenok	nl3-gkv6mb.vpvr4ib84nuv6hdkt.ru	3488
-WORKS	YES	YES	89.125.166.205	RO	764	79	19	🇷🇴79Mb | Hostox Group Srl	pub-07h33f.mydevelopertool.xyz	8000
-WORKS	NO	YES			820	76		🇧🇬76Mb | MAXKO doo	45.9.156.28	443
-FAIL	NO	NO			176	73		🇺🇸73Mb | Newserverlife	38.107.237.80	443
-WORKS	NO	YES			1034	71		🇧🇬71Mb | MAXKO doo	bg3.univesalsrv.com	443
-WORKS	YES	YES	87.58.205.8	RO	713	70	18	🇷🇴70Mb | Hostox Group Srl	87.58.205.8	443
-WORKS	NO	YES			924	68		🇧🇬68Mb | MAXKO doo	45.9.156.27	443
-WORKS	YES	YES	89.125.166.205	RO	657	67	16	🇷🇴67Mb | Hostox Group Srl	89.125.166.205	8000
-FAIL	NO	NO			463	66		🇷🇺66Mb | Delta	45.81.33.16	443
-WORKS	NO	YES			826	65		🇧🇬65Mb | MAXKO doo	bg4.univesalsrv.com	443
-WORKS	NO	YES			829	63		🇧🇬63Mb | MAXKO doo	bg2.univesalsrv.com	443
-WORKS	NO	YES			993	61		🇲🇩61Mb | Moldtelecom SA	md2.univesalsrv.com	443
-WORKS	YES	NO			769	57		🇷🇺57Mb | YandexCloud	rus1.justnable.xyz	443
-WORKS	NO	YES			768	57		🇵🇱57Mb | Kabat OU	site.teslamotor.site	20001
-WORKS	NO	YES			977	55		🇲🇩55Mb | Moldtelecom SA	md4.univesalsrv.com	443
-FAIL	NO	NO			579	50		🇷🇺50Mb | YandexCloud	81.26.182.128	8443
-WORKS	YES	YES	107.150.27.178	US	495	50	1	🇺🇸50Mb | HostPapa	107.150.27.178	8443
+FAIL	NO	NO			2212	78		🇳🇱78Mb | RoyaleHosting BV	188.114.97.6	443
+FAIL	NO	NO			658	78		🇷🇴78Mb | Interkvm Host Srl	sisipisi.yandex-api.com	443
+WORKS	YES	YES	84.32.177.108	NL	2362	74	1	🇳🇱74Mb | UAB Cherry Servers	snow.betust.net	443
+FAIL	NO	NO			685	72		🇪🇸72Mb | Green Floid	176.109.108.24	8443
+FAIL	NO	NO			633	71		🇷🇺71Mb | YandexCloud	rus1.justnable.xyz	8443
+FAIL	NO	NO			178	69		🇫🇮69Mb | Hostkey Bv	uk9.998998.best	443
+FAIL	NO	NO			4002	69		🇧🇬69Mb | Belcloud LTD	randomquaint.net	8443
+WORKS	NO	YES			667	67		🇱🇹67Mb | UAB Cherry Servers	84.32.215.96	443
+FAIL	NO	NO			426	63		🇪🇸63Mb | Orion Network Limited	api.ferrin.uk	443
+FAIL	NO	NO			350	62		🇩🇪62Mb | Ints Danebergs	177.1.194.5	443
