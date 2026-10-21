@@ -1,11 +1,20 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			2212	78		🇳🇱78Mb | RoyaleHosting BV	188.114.97.6	443
-FAIL	NO	NO			658	78		🇷🇴78Mb | Interkvm Host Srl	sisipisi.yandex-api.com	443
-WORKS	YES	YES	84.32.177.108	NL	2362	74	1	🇳🇱74Mb | UAB Cherry Servers	snow.betust.net	443
-FAIL	NO	NO			685	72		🇪🇸72Mb | Green Floid	176.109.108.24	8443
-FAIL	NO	NO			633	71		🇷🇺71Mb | YandexCloud	rus1.justnable.xyz	8443
-FAIL	NO	NO			178	69		🇫🇮69Mb | Hostkey Bv	uk9.998998.best	443
-FAIL	NO	NO			4002	69		🇧🇬69Mb | Belcloud LTD	randomquaint.net	8443
-WORKS	NO	YES			667	67		🇱🇹67Mb | UAB Cherry Servers	84.32.215.96	443
-FAIL	NO	NO			426	63		🇪🇸63Mb | Orion Network Limited	api.ferrin.uk	443
-FAIL	NO	NO			350	62		🇩🇪62Mb | Ints Danebergs	177.1.194.5	443
+FAIL	NO	NO			2208	81		🇫🇷81Mb | Regxa Company for Information Technology	104.20.45.23	443
+FAIL	NO	NO			2144	81		🇳🇱81Mb | RoyaleHosting BV	188.114.97.6	443
+FAIL	NO	NO			4002	79		🇳🇱79Mb | Servers Tech Fzco	ss3.soreanapanel.com	8080
+FAIL	NO	NO			513	78		🇫🇮78Mb | Hostkey Bv	uk9.998998.best	443
+FAIL	NO	NO			387	74		🇸🇪74Mb | Akamai Connected Cloud	www.visa.com.hk	443
+WORKS	YES	YES	169.128.68.55	US	585	69	1	🇳🇱69Mb | Victor Polenok	169.128.68.55	3488
+FAIL	NO	NO			284	68		🇺🇸68Mb | FranTech Solutions	us2-2.998998.best	443
+FAIL	NO	NO			4002	66		🇷🇺66Mb | VK	randomquaint.net	2053
+FAIL	NO	NO			765	66		🇳🇱66Mb | Datagio Systems	nl-05.avroraservice.online	8443
+FAIL	NO	NO			3981	66		🇩🇪66Mb | Servhost Group	e1-ee.edgemedia.lol	443
+WORKS	YES	YES	95.217.128.44	FI	810	61	4	🇫🇮61Mb | Hetzner Online GmbH	static.44.128.217.95.clients.your-server.de	8443
+WORKS	NO	YES			1040	60		🇩🇪60Mb | Servhost Group	e1-cz.edgemedia.lol	22443
+WORKS	YES	YES	177.3.222.100	US	1032	59	3	🇩🇪59Mb | Fzco	64.188.66.181	443
+FAIL	NO	NO			4002	54		🇷🇺54Mb | VK	78.159.246.179	2053
+FAIL	NO	NO			557	54		🇩🇪54Mb | Hetzner Online GmbH	kala.bestsellers1.site	443
+FAIL	NO	NO			2395	54		🇳🇱54Mb | RoyaleHosting BV	uk1-2.998998.best	443
+FAIL	NO	NO			300	52		🇫🇮52Mb | Hetzner Online GmbH	tamiiiiz.aryan-sport.ir	2053
+WORKS	YES	YES	169.128.68.55	US	991	48	2	🇳🇱48Mb | Victor Polenok	nl3-gkv6mb.vpvr4ib84nuv6hdkt.ru	3488
+FAIL	NO	NO			4002	48		🇩🇪48Mb | dataforest GmbH	193.148.253.226	25362
