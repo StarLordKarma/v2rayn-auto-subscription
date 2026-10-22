@@ -1,10 +1,11 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			2087	84		🇩🇪84Mb | Unesty Company	104.21.5.128	2053
-WORKS	YES	YES	62.238.36.91	FI	964	81	3	🇫🇮81Mb | Hetzner Online GmbH	87.239.104.232	8643
-FAIL	NO	NO			244	80		🇳🇱80Mb | Railway	alivpn.up.railway.app	443
-WORKS	YES	YES	84.32.177.74	NL	637	70	1	🇳🇱70Mb | UAB Cherry Servers	84.32.177.63	443
-FAIL	NO	NO			1023	63		🇷🇺63Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			2093	60		🇩🇪60Mb | Hetzner Online GmbH	188.114.97.6	443
-WORKS	YES	YES	84.32.215.66	LT	772	54	2	🇱🇹54Mb | UAB Cherry Servers	84.32.215.96	443
-WORKS	NO	YES			857	53		🇦🇪53Mb | Oy Crea Nova Hosting Solution	140.225.199.230	443
-FAIL	NO	NO			580	49		🇳🇱49Mb | Datagio Systems	94.228.166.86	8443
+FAIL	NO	NO			652	80		🇫🇮80Mb | Hetzner Online GmbH	87.239.104.232	8643
+WORKS	NO	NO			2554	77		🇳🇱77Mb | UpCloud	94.237.46.104	443
+FAIL	NO	NO			371	74		🇷🇺74Mb | VK	78.159.246.179	2053
+WORKS	YES	YES	84.32.177.68	NL	634	68	2	🇳🇱68Mb | UAB Cherry Servers	game.betust.net	443
+FAIL	NO	NO			638	67		🇷🇺67Mb | YandexCloud	rus1.justnable.xyz	8443
+FAIL	NO	NO			4003	62		🇧🇬62Mb | Belcloud LTD	78.159.246.85	8443
+FAIL	NO	NO			429	60		🇰🇿60Mb | VK	de.puflino.com	443
+FAIL	NO	NO			2230	54		🇩🇪54Mb | Hetzner Online GmbH	188.114.97.6	443
+WORKS	YES	YES	84.32.177.74	NL	624	54	1	🇳🇱54Mb | UAB Cherry Servers	app.betust.net	443
+WORKS	YES	YES	84.32.215.66	LT	628	52	3	🇱🇹52Mb | UAB Cherry Servers	app26.betust.net	443
