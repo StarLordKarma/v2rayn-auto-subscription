@@ -1,11 +1,6 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			652	80		🇫🇮80Mb | Hetzner Online GmbH	87.239.104.232	8643
-WORKS	NO	NO			2554	77		🇳🇱77Mb | UpCloud	94.237.46.104	443
-FAIL	NO	NO			371	74		🇷🇺74Mb | VK	78.159.246.179	2053
-WORKS	YES	YES	84.32.177.68	NL	634	68	2	🇳🇱68Mb | UAB Cherry Servers	game.betust.net	443
-FAIL	NO	NO			638	67		🇷🇺67Mb | YandexCloud	rus1.justnable.xyz	8443
-FAIL	NO	NO			4003	62		🇧🇬62Mb | Belcloud LTD	78.159.246.85	8443
-FAIL	NO	NO			429	60		🇰🇿60Mb | VK	de.puflino.com	443
-FAIL	NO	NO			2230	54		🇩🇪54Mb | Hetzner Online GmbH	188.114.97.6	443
-WORKS	YES	YES	84.32.177.74	NL	624	54	1	🇳🇱54Mb | UAB Cherry Servers	app.betust.net	443
-WORKS	YES	YES	84.32.215.66	LT	628	52	3	🇱🇹52Mb | UAB Cherry Servers	app26.betust.net	443
+WORKS	YES	YES	84.32.98.246	DE	623	76	1	🇩🇪76Mb | UAB Cherry Servers	84.32.100.207	443
+FAIL	NO	NO			4003	65		🇩🇪65Mb | PIO-Hosting GmbH	upperdown.syntaxsquad.ir	8447
+FAIL	NO	NO			4002	57		🇷🇺57Mb | YandexCloud	81.26.182.128	8443
+FAIL	NO	NO			54	48		🇳🇱48Mb | Servers Tech Fzco	104.21.91.244	443
+WORKS	NO	NO			1405	48		🇺🇸48Mb | FDCserversnet	selek3.gamma-kvn.com	443
