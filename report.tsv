@@ -1,6 +1,13 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	84.32.98.246	DE	623	76	1	🇩🇪76Mb | UAB Cherry Servers	84.32.100.207	443
-FAIL	NO	NO			4003	65		🇩🇪65Mb | PIO-Hosting GmbH	upperdown.syntaxsquad.ir	8447
-FAIL	NO	NO			4002	57		🇷🇺57Mb | YandexCloud	81.26.182.128	8443
-FAIL	NO	NO			54	48		🇳🇱48Mb | Servers Tech Fzco	104.21.91.244	443
-WORKS	NO	NO			1405	48		🇺🇸48Mb | FDCserversnet	selek3.gamma-kvn.com	443
+FAIL	NO	NO			2144	84		🇩🇪84Mb | Unesty Company	172.67.133.118	2053
+FAIL	NO	NO			2461	83		🇩🇪83Mb | Unesty Company	undef.network	2053
+FAIL	NO	NO			725	80		🇷🇺80Mb | VK	fitindoor.net	2053
+FAIL	NO	NO			412	78		🇷🇺78Mb | VK	78.159.246.85	2053
+FAIL	NO	NO			1790	71		🇧🇬71Mb | Belcloud LTD	randomquaint.net	8443
+FAIL	NO	NO			391	63		🇷🇺63Mb | VK	78.159.246.179	2053
+FAIL	NO	NO			1754	63		🇩🇪63Mb | Hetzner Online GmbH	de2-tun.dnetopps.ir	10020
+FAIL	NO	NO			515	62		🇩🇪62Mb | dataforest GmbH	277f9fx.de22.h1clayd.click	443
+FAIL	NO	NO			511	56		🌐56Mb | 2234 | 🇬🇧 United Kingdom | VLE	163.245.41.52	2096
+WORKS	YES	YES	185.81.128.224	LV	684	56	2	🇱🇻56Mb | Sia Nano IT	185.81.129.197	443
+WORKS	YES	YES	15.224.143.133	FR	401	52	1	🇫🇷52Mb | Amazoncom	15.224.143.133	22223
+FAIL	NO	NO			2481	51		🇳🇱51Mb | RoyaleHosting BV	uk1-2.998998.best	443
