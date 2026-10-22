@@ -1,8 +1,13 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	132.243.66.17	EE	1621	86	1	🇪🇪86Mb | Paul Sagov	132.243.66.17	443
-FAIL	NO	NO			2191	85		🇩🇪85Mb | Hetzner Online GmbH	188.114.97.6	443
-FAIL	NO	NO			2365	83		🇳🇱83Mb | RoyaleHosting BV	uk1-2.998998.best	443
-FAIL	NO	NO			485	80		🇪🇸80Mb | Green Floid	176.109.108.24	8443
-FAIL	NO	NO			613	73		🇷🇺73Mb | YandexCloud	rus1.justnable.xyz	8443
-FAIL	NO	NO			356	66		🇷🇺66Mb | VK	78.159.246.179	2053
-FAIL	NO	NO			577	64		🇷🇺64Mb | VK	randomquaint.net	2053
+FAIL	NO	NO			649	87		🇫🇮87Mb | Play2go International Limited	ivx-ivy-al0.whitenetwork.cloud	7445
+FAIL	NO	NO			2170	82		🇩🇪82Mb | Unesty Company	104.21.5.128	2053
+FAIL	NO	NO			1331	79		🇷🇺79Mb | VK	fitindoor.net	2053
+FAIL	NO	NO			98	78		🇩🇪78Mb | Leaseweb Deutschland GmbH	188.114.98.0	443
+FAIL	NO	NO			549	78		🇫🇮78Mb | Hetzner Online GmbH	37.27.145.188	443
+FAIL	NO	NO			2481	76		🇳🇱76Mb | RoyaleHosting BV	uk1-2.998998.best	443
+FAIL	NO	NO			626	73		🇫🇮73Mb | Play2go International Limited	37.18.14.190	7445
+FAIL	NO	NO			739	72		🇫🇮72Mb | Snowd Security OU	panel.cloud-net-new.ru	41969
+WORKS	YES	YES	132.243.65.0	EE	1690	72	2	🇪🇪72Mb | Andris Jakovlevs	132.243.65.82	443
+FAIL	NO	NO			426	68		🇷🇺68Mb | VK	78.159.246.179	2053
+WORKS	NO	YES			851	50		🇪🇪50Mb | Paul Sagov	193.233.90.93	27443
+WORKS	YES	YES	50.7.95.196	NL	1103	48	1	🇺🇸48Mb | FDCserversnet	servise.betust.net	443

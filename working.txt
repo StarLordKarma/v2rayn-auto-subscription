@@ -1,1 +1,2 @@
-vless://697386bb-c121-4933-b426-ad701cae90d8@132.243.66.17:443?type=raw&security=reality&sni=ee.shapka-global.com&fp=qq&flow=xtls-rprx-vision&pbk=nH6ZEj8w9tsiRI7_0dco42KKil48EksTnuCs1OcN2B0&sid=2036c1b147c5d31e#🇪🇪EE | 86Mb | 1621ms | Paul Sagov
+vless://3b1fa839-2cb9-4511-9711-08800450aea3@servise.betust.net:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=8HYqDHdQ1IuLPhAOENT70_j0prAi1PNkwlT6venYAEM&sid=a78da1f7&sni=servise.betust.net#🇳🇱NL | 48Mb | 1103ms | FDCserversnet
+vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?mode=auto&security=reality&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&type=xhttp&sni=player.vimeo.com#🇪🇪EE | 72Mb | 1690ms | Andris Jakovlevs
