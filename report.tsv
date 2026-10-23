@@ -1,13 +1,10 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			2136	84		🇩🇪84Mb | Unesty Company	172.67.133.118	2053
-FAIL	NO	NO			2250	83		🇩🇪83Mb | Unesty Company	undef.network	2053
-FAIL	NO	NO			554	80		🇷🇺80Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			357	78		🇷🇺78Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			4001	71		🇧🇬71Mb | Belcloud LTD	randomquaint.net	8443
-FAIL	NO	NO			348	63		🇷🇺63Mb | VK	78.159.246.179	2053
-FAIL	NO	NO			1277	63		🇩🇪63Mb | Hetzner Online GmbH	de2-tun.dnetopps.ir	10020
-FAIL	NO	NO			401	62		🇩🇪62Mb | dataforest GmbH	277f9fx.de22.h1clayd.click	443
-FAIL	NO	NO			391	56		🌐56Mb | 2234 | 🇬🇧 United Kingdom | VLE	163.245.41.52	2096
-WORKS	YES	YES	185.81.128.224	LV	1683	56	1	🇱🇻56Mb | Sia Nano IT	185.81.129.197	443
-WORKS	NO	YES			340	52		🇫🇷52Mb | Amazoncom	15.224.143.133	22223
-FAIL	NO	NO			2701	51		🇳🇱51Mb | RoyaleHosting BV	uk1-2.998998.best	443
+WORKS	YES	NO			760	162		🇷🇺162Mb | YandexCloud	rus1.justnable.xyz	443
+FAIL	NO	NO			478	91		🇷🇺91Mb | YandexCloud	81.26.182.128	8443
+FAIL	NO	NO			3206	85		🇪🇪85Mb | Cloudflare	114.129.9.132	8443
+WORKS	YES	YES	185.81.128.224	LV	782	79	3	🇱🇻79Mb | Sia Nano IT	185.81.129.197	443
+FAIL	NO	NO			568	71		🌐71Mb | Channel id: @ShadowProxy66 🇩🇪	163.245.41.48	2096
+FAIL	NO	NO			269	59		🇳🇱59Mb | NovoServe BV	89.105.199.53	443
+FAIL	NO	NO			3291	54		🇦🇱54Mb | Cloudflare	193.108.112.65	443
+WORKS	YES	YES	16.60.44.179	GB	261	53	2	🇮🇪53Mb | Amazoncom	16.60.44.179	22222
+WORKS	YES	YES	196.196.208.14	US	2097	48	1	🇫🇮48Mb | Orion Network Limited	196.196.208.14	443
