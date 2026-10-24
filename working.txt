@@ -1,2 +1,1 @@
-vless://2f5cfa10-43e5-4912-800d-557308a26a29@185.119.81.7:10443?flow=xtls-rprx-vision&type=raw&security=tls&fp=chrome#🇫🇮FI | 67Mb | 690ms | DigitalEra Tech OU
-vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?security=tls&fp=chrome&alpn=http%2F1.1&sni=hw3.divarkhaghazi.com.&type=ws&host=hw3.divarkhaghazi.com.&path=%2F#🇫🇮FI | 63Mb | 930ms | Hetzner Online GmbH
+vless://1ef7d97f-3aa5-0001-8521-84cf4794bf7a@92.53.119.212:40849?type=raw&flow=xtls-rprx-vision&security=reality&sni=ru-hub10.lovely.my&pbk=jkVcZ_b3iWs2FcSjC8Mb1NoRuwPgCH9HpeOOYAXBSU0#🇬🇧GB | 92Mb | 922ms | Jakub Witkowski
