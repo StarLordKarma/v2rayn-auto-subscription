@@ -1,12 +1,4 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	201.4.72.158	GB	922	92	1	🇵🇱92Mb | Jakub Witkowski	92.53.119.212	40849
-FAIL	NO	NO			552	78		🇱🇻78Mb | Sia Nano IT	lite.3apes.online	443
-FAIL	NO	NO			3616	65		🇩🇪65Mb | Cloudflare	77.239.104.229	443
-FAIL	NO	NO			3595	60		🇩🇪60Mb | Cloudflare	45.157.233.109	2087
-FAIL	NO	NO			567	56		🇸🇪56Mb | Melbikomas UAB	135.106.143.114	443
-FAIL	NO	NO			2105	55		🇸🇪55Mb | Cloudflare	104.18.33.14	443
-FAIL	NO	NO			2113	51		🇸🇪51Mb | Cloudflare	104.18.236.11	443
-FAIL	NO	NO			466	50		🇳🇱50Mb | NovoServe BV	xuthnybd.himoy.space	443
-FAIL	NO	NO			2110	49		🇸🇪49Mb | Cloudflare	172.64.154.211	443
-FAIL	NO	NO			219	49		🇳🇱49Mb | Akamai Connected Cloud	www.visa.com.hk	443
-FAIL	NO	NO			3640	48		🇩🇪48Mb | Cloudflare	213.226.71.16	443
+FAIL	NO	NO			2105	156		🇷🇺156Mb | Cloudflare	104.18.33.14	443
+FAIL	NO	NO			2091	117		🇸🇪117Mb | Cloudflare	104.18.47.73	443
+WORKS	YES	YES	201.58.182.153	US	692	52	1	🇳🇱52Mb | Fzco	vb41fwol.himoy.space	443
