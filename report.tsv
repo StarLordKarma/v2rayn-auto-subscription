@@ -1,16 +1,6 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	144.31.3.97	PL	1602	170	6	🇵🇱170Mb | H2nexus Cloud Services - Fzco	46.254.19.148	3443
-FAIL	NO	NO			2111	127		🇸🇪127Mb | Cloudflare	188.114.97.6	2087
-FAIL	NO	NO			4003	112		🇩🇪112Mb | Cloudflare	213.165.46.55	443
-FAIL	NO	NO			800	92		🇷🇺92Mb | VK	fitindoor.net	2053
-WORKS	YES	YES	206.189.59.226	DE	434	64	4	🇩🇪64Mb | DigitalOcean	wifi13.jzxc.digital	443
-FAIL	NO	NO			3250	59		🇱🇻59Mb | Cloudflare	185.135.86.41	443
-FAIL	NO	NO			4002	57		🇸🇬57Mb | Cloudflare	194.127.192.179	443
-WORKS	YES	YES	177.3.220.229	US	713	56	1	🇫🇮56Mb | Fzco	fin3.himoy.space	443
-FAIL	NO	NO			2160	56		🇸🇪56Mb | Cloudflare	104.24.79.205	443
-WORKS	YES	YES	191.217.211.94	US	749	54	2	🇵🇱54Mb | Kochedykov Egor Aleksandrovich	pl1.song69.fun	20268
-WORKS	YES	YES	31.76.119.231	DE	394	53	3	🇩🇪53Mb | Akenai Products LTD	31.76.119.231	443
-FAIL	NO	NO			155	53		🇸🇪53Mb | Play2go International Limited	188.114.98.0	443
-FAIL	NO	NO			4002	50		🇦🇲50Mb | Cloudflare	88.218.92.205	443
-WORKS	YES	YES	94.183.167.93	NL	475	49	5	🇦🇪49Mb | Vladislav Doniy	play.3apes.online	443
-FAIL	NO	NO			3113	49		🇩🇪49Mb | Cloudflare	213.226.71.16	443
+FAIL	NO	NO			105	73		🇳🇱73Mb | Akamai Connected Cloud	www.visa.com.hk	443
+WORKS	YES	YES	185.119.81.7	FI	690	67	1	🇫🇮67Mb | DigitalEra Tech OU	185.119.81.7	10443
+WORKS	YES	YES	65.109.212.121	FI	930	63	2	🇫🇮63Mb | Hetzner Online GmbH	hw3.divarkhaghazi.com	465
+FAIL	NO	NO			4002	53		🇧🇬53Mb | Cloudflare	155.103.70.33	443
+FAIL	NO	NO			4002	50		🇫🇷50Mb | OVH SAS	103.91.147.218	443
