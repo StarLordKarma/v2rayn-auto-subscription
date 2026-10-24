@@ -1,4 +1,8 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			2105	156		🇷🇺156Mb | Cloudflare	104.18.33.14	443
-FAIL	NO	NO			2091	117		🇸🇪117Mb | Cloudflare	104.18.47.73	443
-WORKS	YES	YES	201.58.182.153	US	692	52	1	🇳🇱52Mb | Fzco	vb41fwol.himoy.space	443
+FAIL	NO	NO			659	101		🇷🇺101Mb | VK	windytrout.net	2053
+WORKS	YES	YES	86.54.42.39	GB	712	87	3	🇮🇷87Mb | OVH SAS	s10.redmbred.ir	37857
+WORKS	YES	YES	179.254.163.120	DE	683	62	4	🇩🇪62Mb | U1 Digital Services	179.254.163.120.sslip.io	443
+FAIL	NO	NO			485	60		🌐60Mb | 0445 | 🇬🇧 United Kingdom | VLE	163.245.41.48	2096
+WORKS	YES	YES	201.58.177.237	US	677	57	1	🇸🇪57Mb | Fzco	201.58.177.237	443
+FAIL	NO	NO			459	50		🇩🇪50Mb | Play2go International Limited	31.76.29.149	443
+WORKS	YES	YES	201.58.176.194	US	715	50	2	🇫🇮50Mb | Fzco	fin3.himoy.space	443
