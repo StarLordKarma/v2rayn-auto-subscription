@@ -1,14 +1,16 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			388	94		🌐94Mb | 2346 | 🇬🇧 United Kingdom | VLE	163.245.41.48	2096
-FAIL	NO	NO			4002	86		🇳🇱86Mb | Senko Digital	netherlands01.azotvpn.xyz	9443
-FAIL	NO	NO			4003	78		🇰🇬78Mb | Cloudflare	193.36.95.34	443
-WORKS	YES	YES	179.254.163.120	DE	609	57	1	🇩🇪57Mb | U1 Digital Services	179.254.163.120.sslip.io	443
-FAIL	NO	NO			3333	56		🇩🇪56Mb | Cloudflare	77.239.104.229	443
-WORKS	YES	YES	147.78.1.73	MX	265	56	2	🇲🇽56Mb | BrainStorm Network	mx1.accessboy.com	443
-FAIL	NO	NO			4003	53		🇩🇪53Mb | Cloudflare	213.165.46.55	443
-FAIL	NO	NO			3330	53		🇩🇪53Mb | Cloudflare	77.91.66.41	8443
-FAIL	NO	NO			2208	53		🇸🇪53Mb | Cloudflare	104.18.89.52	443
-FAIL	NO	NO			154	53		🇸🇪53Mb | Play2go International Limited	188.114.98.0	443
-FAIL	NO	NO			375	52		🇸🇪52Mb | Play2go International Limited	31.77.158.132	443
-FAIL	NO	NO			3874	52		🇷🇸52Mb | Cloudflare	178.208.86.182	443
-FAIL	NO	NO			3380	49		🇩🇪49Mb | Cloudflare	77.90.45.250	443
+WORKS	YES	YES	144.31.3.97	PL	1602	170	6	🇵🇱170Mb | H2nexus Cloud Services - Fzco	46.254.19.148	3443
+FAIL	NO	NO			2111	127		🇸🇪127Mb | Cloudflare	188.114.97.6	2087
+FAIL	NO	NO			4003	112		🇩🇪112Mb | Cloudflare	213.165.46.55	443
+FAIL	NO	NO			800	92		🇷🇺92Mb | VK	fitindoor.net	2053
+WORKS	YES	YES	206.189.59.226	DE	434	64	4	🇩🇪64Mb | DigitalOcean	wifi13.jzxc.digital	443
+FAIL	NO	NO			3250	59		🇱🇻59Mb | Cloudflare	185.135.86.41	443
+FAIL	NO	NO			4002	57		🇸🇬57Mb | Cloudflare	194.127.192.179	443
+WORKS	YES	YES	177.3.220.229	US	713	56	1	🇫🇮56Mb | Fzco	fin3.himoy.space	443
+FAIL	NO	NO			2160	56		🇸🇪56Mb | Cloudflare	104.24.79.205	443
+WORKS	YES	YES	191.217.211.94	US	749	54	2	🇵🇱54Mb | Kochedykov Egor Aleksandrovich	pl1.song69.fun	20268
+WORKS	YES	YES	31.76.119.231	DE	394	53	3	🇩🇪53Mb | Akenai Products LTD	31.76.119.231	443
+FAIL	NO	NO			155	53		🇸🇪53Mb | Play2go International Limited	188.114.98.0	443
+FAIL	NO	NO			4002	50		🇦🇲50Mb | Cloudflare	88.218.92.205	443
+WORKS	YES	YES	94.183.167.93	NL	475	49	5	🇦🇪49Mb | Vladislav Doniy	play.3apes.online	443
+FAIL	NO	NO			3113	49		🇩🇪49Mb | Cloudflare	213.226.71.16	443
