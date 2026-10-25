@@ -1,8 +1,11 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			710	101		🇷🇺101Mb | VK	windytrout.net	2053
-WORKS	YES	YES	86.54.42.39	GB	930	87	3	🇮🇷87Mb | OVH SAS	s10.redmbred.ir	37857
-WORKS	YES	YES	179.254.163.120	DE	810	62	4	🇩🇪62Mb | U1 Digital Services	179.254.163.120.sslip.io	443
-FAIL	NO	NO			484	60		🌐60Mb | 0445 | 🇬🇧 United Kingdom | VLE	163.245.41.48	2096
-WORKS	YES	YES	201.58.177.237	US	667	57	1	🇸🇪57Mb | Fzco	201.58.177.237	443
-FAIL	NO	NO			469	50		🇩🇪50Mb | Play2go International Limited	31.76.29.149	443
-WORKS	YES	YES	201.58.176.194	US	727	50	2	🇫🇮50Mb | Fzco	fin3.himoy.space	443
+FAIL	NO	NO			894	229		🇷🇺229Mb | VK	fitindoor.net	2053
+FAIL	NO	NO			2163	144		🇷🇺144Mb | Cloudflare	172.64.150.18	443
+FAIL	NO	NO			2152	121		🇺🇸121Mb | Cloudflare	188.114.97.6	443
+FAIL	NO	NO			438	75		🇷🇺75Mb | VK	78.159.246.85	2053
+FAIL	NO	NO			2151	75		🇩🇪75Mb | Cloudflare	172.67.75.133	443
+WORKS	YES	YES	94.183.221.197	NL	478	67	2	🇳🇱67Mb | HOSTES LTD	94.183.152.160	443
+WORKS	YES	YES	179.254.163.120	DE	672	64	1	🇩🇪64Mb | U1 Digital Services	179.254.163.120.sslip.io	443
+FAIL	NO	NO			2135	60		🇳🇱60Mb | Play2go International Limited	45.130.125.151	443
+FAIL	NO	NO			2173	60		🇫🇮60Mb | Cloudflare	172.67.155.1	443
+WORKS	NO	NO			1056	49		🇺🇸49Mb | Great Flower	168.222.193.184.sslip.io	443
