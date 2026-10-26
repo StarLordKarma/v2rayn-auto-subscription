@@ -1,55 +1,73 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	144.31.166.55	DE	701	302	8	🇩🇪302Mb | Play2go International Limited	144.31.166.55	443
-FAIL	NO	NO			644	231		🇺🇸231Mb | WEYRO LTD	217.199.252.184	443
-WORKS	YES	NO			1468	222		🇵🇱222Mb | Netgrid Host	router.hermit.pw	27020
-FAIL	NO	NO			661	219		🇺🇸219Mb | WEYRO LTD	193.160.208.106	443
-FAIL	NO	NO			2314	210		🇩🇪210Mb | Unesty Company	undef.network	2053
-WORKS	YES	YES	45.145.40.130	DE	2563	194	9	🇩🇪194Mb | dataforest GmbH	lvi.su	443
-FAIL	NO	NO			2223	170		🇸🇪170Mb | Cloudflare	104.19.145.48	443
-FAIL	NO	NO			1007	168		🇱🇻168Mb | Netgrid Host	router.hermit.pw	28963
-FAIL	NO	NO			4002	162		🇷🇺162Mb | Neurosignal	193.160.141.22	443
-WORKS	YES	NO			2978	160		🇷🇺160Mb | Jsc timeweb	213.226.127.71	2066
-WORKS	YES	YES	91.196.163.150	NL	1084	152	10	🇺🇦152Mb | NetCrafters OU	94.228.173.227	443
-FAIL	NO	NO			1176	151		🇺🇸151Mb | Servhost Group	e2865c20.con.rasterparcel.tech	443
-WORKS	YES	YES	185.72.10.211	CZ	726	146	12	🇨🇿146Mb | Iron Hosting Centre LTD	178.208.80.70	443
-FAIL	NO	NO			4002	143		🇹🇷143Mb | G-Core Labs SA	93.114.98.23	443
-FAIL	NO	NO			4002	142		🇷🇺142Mb | Aeza Group	193.233.230.107	443
-FAIL	NO	NO			2227	133		🇺🇸133Mb | DigitalOcean	104.17.127.42	443
-WORKS	YES	NO			3195	131		🇩🇪131Mb | netcup GmbH	176.108.253.204	443
-WORKS	YES	YES	51.77.108.218	GB	647	130	4	🇫🇷130Mb | OVH SAS	147.45.47.170	443
-FAIL	NO	NO			4002	125		🇩🇪125Mb | netcup GmbH	rumos.yandex-api.com	443
-FAIL	NO	NO			4003	124		🇷🇺124Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			4002	123		🇷🇺123Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			4002	122		🇺🇸122Mb | HostPapa	cdn.8211992.xyz	443
-FAIL	NO	NO			332	114		🇩🇪114Mb | Hetzner Online GmbH	91.107.191.188	443
-FAIL	NO	NO			1369	110		🇺🇸110Mb | Servhost Group	823bcb90.con.fernarchive.online	443
-FAIL	NO	NO			2157	110		🇸🇪110Mb | Cloudflare	104.17.216.31	443
-FAIL	NO	NO			4002	109		🇷🇺109Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			4001	107		🇮🇶107Mb | WAIcore	212.34.128.120	2083
-WORKS	YES	YES	87.121.33.130	AU	2116	107	14	🇦🇺107Mb | G-Core Labs SA	191.44.46.37	25570
-FAIL	NO	NO			616	105		🇳🇱105Mb | Datagio Systems	176.124.223.176	8443
-WORKS	YES	YES	87.121.33.130	AU	2119	104		🇦🇺104Mb | G-Core Labs SA	191.44.46.37	25570
-FAIL	NO	NO			4003	103		🇮🇱103Mb | U1 Digital Services	168.113.172.128	443
-FAIL	NO	NO			4001	100		🇸🇬100Mb | The Constant Company	45.77.40.28	443
-WORKS	YES	YES	51.77.108.218	GB	665	100	5	🇫🇷100Mb | OVH SAS	147.45.47.169	443
-WORKS	YES	YES	45.43.75.111	GB	2658	99	7	🇬🇧99Mb | YottaSrc	213.159.209.66	443
-WORKS	YES	YES	193.160.141.50	RU	612	97	11	🌐97Mb | 1499 | 🇷🇺 Russia | 🏳️ SNI-Ozon	193.160.141.50	443
-WORKS	NO	NO			3760	97		🇷🇺97Mb | Aeza Group	193.233.221.86	443
-FAIL	NO	NO			4003	93		🇸🇬93Mb | The Constant Company	45.32.117.217	443
-FAIL	NO	NO			616	93		🇵🇱93Mb | MEVSPACE sp z oo	79.137.192.13	8443
-WORKS	YES	YES	51.89.225.90	GB	717	92	6	🇬🇧92Mb | OVH SAS	193.160.140.152	443
-FAIL	NO	NO			644	89		🇷🇺89Mb | VK	37.18.14.43	2053
-WORKS	YES	YES			2423	82		🇫🇮82Mb | Hetzner Online GmbH	6.bmi.ir.asopardaz.ir	8443
-FAIL	NO	NO			4003	79		🇷🇺79Mb | Neurosignal	147.45.47.130	443
-FAIL	NO	NO			1154	77		🇵🇱77Mb | MEVSPACE sp z oo	plnext-01.avroraservice.online	8443
-FAIL	NO	NO			702	76		🇫🇷76Mb | WEYRO LTD	185.173.36.92	443
-WORKS	YES	YES	51.77.108.218	GB	630	76	2	🇫🇷76Mb | OVH SAS	147.45.47.140	443
-FAIL	NO	NO			573	70		🇷🇺70Mb | VK	81.94.148.232	2053
-FAIL	NO	NO			692	69		🇬🇧69Mb | Servhost Group	6d160a52.con.fernarchive.online	443
-WORKS	YES	YES	45.77.40.28	SG	1213	68	13	🇸🇬68Mb | The Constant Company	sg003.zestapp778.com	443
-WORKS	YES	YES	201.58.182.19	US	708	68	1	🇳🇱68Mb | Fzco	netherafteraventura.site	443
-WORKS	YES	NO			1495	66		🇮🇷66Mb | Mahdiar Rafiee	198.16.113.219	8443
-FAIL	NO	NO			3545	66		🇺🇸66Mb | U1 Digital Services	2.26.114.147	8443
-WORKS	YES	YES	51.77.108.218	GB	643	57	3	🇫🇷57Mb | OVH SAS	147.45.47.142	443
-FAIL	NO	NO			3876	54		🇹🇭54Mb | LIGHT NODE LIMITED	38.60.254.50	22222
-FAIL	NO	NO			2880	52		🇺🇸52Mb | Servhost Group	883f1393.con.rasterparcel.tech	443
+FAIL	NO	NO			674	359		🇫🇷359Mb | WEYRO LTD	201.24.54.216	443
+FAIL	NO	NO			482	344		🇺🇸344Mb | WEYRO LTD	193.160.208.106	443
+WORKS	YES	YES	94.228.162.222	AT	833	340	12	🇷🇺340Mb | Aeza Group	vena.solomon-planet.ru	443
+FAIL	NO	NO			463	274		🇳🇱274Mb | Erik Omarov	176.124.223.176	8443
+WORKS	NO	YES			511	273		🇩🇪273Mb | Play2go International Limited	144.31.166.55	443
+WORKS	YES	YES	157.173.7.17	DE	860	268	7	🇩🇪268Mb | Pipe Networks GmbH	node-fra03.rkitman.ru	443
+FAIL	NO	NO			360	268		🇫🇷268Mb | Scaleway SAS	51.158.36.16	443
+FAIL	NO	NO			466	259		🇺🇸259Mb | WEYRO LTD	193.160.208.171	443
+FAIL	NO	NO			2175	230		🇺🇸230Mb | DigitalOcean	172.64.146.204	443
+FAIL	NO	NO			396	229		🇫🇷229Mb | Scaleway SAS	fr1.accessboy.com	443
+WORKS	YES	YES	92.42.201.107	SI	972	222	16	🇸🇮222Mb | Pipe Networks GmbH	node-slo05.rkitman.ru	443
+FAIL	NO	NO			374	222		🇷🇺222Mb | VK	78.159.246.179	2053
+FAIL	NO	NO			510	220		🇧🇬220Mb | Belcloud LTD	78.159.246.85	8443
+FAIL	NO	NO			784	214		🇧🇬214Mb | Belcloud LTD	randomquaint.net	8443
+WORKS	YES	YES	45.145.40.130	DE	1386	213	8	🇩🇪213Mb | dataforest GmbH	lvi.su	443
+FAIL	NO	NO			513	210		🇧🇬210Mb | Belcloud LTD	78.159.246.179	8443
+WORKS	YES	YES	132.243.166.22	NL	864	197	9	🇳🇱197Mb | Alexhost Srl	node-nd02.rkitman.ru	443
+WORKS	YES	YES	185.224.3.51	AT	634	197	10	🇦🇹197Mb | PipeHost eU	softice.net	443
+FAIL	NO	NO			655	192		🇵🇱192Mb | ExpressHost	pl-cfe6b10b7f.shamanapp.online	34451
+FAIL	NO	NO			349	185		🇮🇶185Mb | WAIcore	212.34.128.120	2083
+FAIL	NO	NO			267	182		🇵🇱182Mb | ExpressHost	31.59.143.242	34451
+WORKS	YES	YES	45.43.75.111	GB	783	178	4	🇬🇧178Mb | YottaSrc	213.159.209.66	443
+FAIL	NO	NO			353	178		🇳🇱178Mb | The Infrastructure Group BV	5.255.121.109	5983
+WORKS	YES	YES	45.151.180.220	CZ	843	176	13	🇨🇿176Mb | Mastersoft SRL	201.51.9.137	443
+FAIL	NO	NO			482	169		🇵🇹169Mb | BrainStorm Network	pt1.accessboy.com	443
+WORKS	YES	YES	45.43.75.111	GB	890	166	5	🇬🇧166Mb | YottaSrc	ru11.oshost.network	443
+FAIL	NO	NO			476	162		🇷🇺162Mb | VK	randomquaint.net	2053
+FAIL	NO	NO			2166	160		🇷🇺160Mb | Cloudflare	104.19.146.104	443
+FAIL	NO	NO			629	158		🇺🇸158Mb | Servhost Group	e2865c20.con.rasterparcel.tech	443
+FAIL	NO	NO			905	157		🇬🇧157Mb | Servhost Group	6d160a52.con.fernarchive.online	443
+FAIL	NO	NO			136	157		🇲🇽157Mb | BrainStorm Network	147.78.1.73	443
+WORKS	YES	YES	87.120.126.12	DE	552	154	6	🇩🇪154Mb | H2nexus Cloud Services - Fzco	87.120.126.12	443
+FAIL	NO	NO			330	145		🇷🇺145Mb | VK	78.159.246.85	2053
+FAIL	NO	NO			401	144		🇵🇹144Mb | BrainStorm Network	185.231.233.139	443
+FAIL	NO	NO			601	143		🇫🇮143Mb | Hetzner Online GmbH	131.123.42.250	8443
+FAIL	NO	NO			550	143		🇷🇺143Mb | VK	fitindoor.net	2053
+FAIL	NO	NO			677	136		🇮🇶136Mb | WAIcore	podcasts.blog-forme.ru	2083
+WORKS	YES	YES	85.90.207.158	AM	899	134	15	🇦🇲134Mb | G-Core Labs SA	45.151.182.120	443
+FAIL	NO	NO			609	134		🇺🇸134Mb | Servhost Group	883f1393.con.rasterparcel.tech	443
+WORKS	YES	YES	92.42.201.102	SI	989	128	17	🇸🇮128Mb | Pipe Networks GmbH	node-slo04.rkitman.ru	443
+WORKS	NO	YES			715	123		🇫🇮123Mb | Oc Networks Limited	initialcase.net	443
+FAIL	NO	NO			50	116		🇺🇸116Mb | UAB Cherry Servers	88.216.57.148	443
+FAIL	NO	NO			182	115		🇲🇽115Mb | BrainStorm Network	mx1.accessboy.com	443
+FAIL	NO	NO			312	115		🇷🇺115Mb | VK	78.159.246.85	2053
+WORKS	YES	YES	152.53.242.98	US	1113	115	3	🇺🇸115Mb | netcup GmbH	78.17.178.125	443
+WORKS	YES	YES	31.76.91.227	JP	1591	113	22	🇯🇵113Mb | Akenai Products LTD	185.76.241.52	9590
+WORKS	YES	YES			254	107		🇩🇪107Mb | Cloudflare	ccc.010304.xyz	443
+FAIL	NO	NO			2159	107		🇺🇸107Mb | DigitalOcean	104.17.216.31	443
+FAIL	NO	NO			4002	104		🇺🇸104Mb | HostPapa	cdn.8211992.xyz	443
+WORKS	YES	YES	185.4.180.84	KZ	1392	101	20	🇰🇿101Mb | PS Internet Company LLP	ru-kz2.bsh-net.ru	443
+WORKS	YES	YES	81.180.93.172	RO	686	100	11	🇷🇴100Mb | Alexhost Srl	81.180.93.171	443
+FAIL	NO	NO			2129	99		🇷🇺99Mb | Cloudflare	104.17.209.75	443
+FAIL	NO	NO			553	96		🇷🇺96Mb | VK	fitindoor.net	2053
+FAIL	NO	NO			2164	95		🇺🇸95Mb | DigitalOcean	104.17.186.75	443
+FAIL	NO	NO			4002	94		🇧🇾94Mb | Itglobalcom Bel	140.225.199.56	443
+FAIL	NO	NO			450	92		🇧🇷92Mb | BrainStorm Network	109.104.155.121	443
+FAIL	NO	NO			3308	91		🇩🇪91Mb | OVH SAS	51.75.67.209	8443
+FAIL	NO	NO			2119	89		🇷🇺89Mb | Cloudflare	104.19.35.46	443
+WORKS	YES	YES	85.237.211.236	AE	1344	83	19	🇦🇪83Mb | Zenlayer	5.129.198.34	443
+FAIL	NO	NO			521	82		🇧🇷82Mb | BrainStorm Network	br1.accessboy.com	443
+WORKS	NO	NO			650	81		🇷🇺81Mb | Aeza Group	193.233.221.86	443
+FAIL	NO	NO			423	72		🇳🇱72Mb | Nurmukan Zhantorin	nl.cachevault.net	443
+FAIL	NO	NO			475	72		🇪🇸72Mb | Orion Network Limited	api.ferrin.uk	443
+FAIL	NO	NO			739	72		🇧🇬72Mb | Belcloud LTD	windytrout.net	8443
+FAIL	NO	NO			342	68		🇷🇺68Mb | VK	81.94.148.232	2053
+WORKS	YES	YES	2.26.191.53	FI	1021	67	18	🇫🇮67Mb | H2nexus Cloud Services - Fzco	185.76.241.51	9601
+FAIL	NO	NO			1207	64		🇦🇺64Mb | BrainStorm Network	88.216.211.130	443
+WORKS	YES	YES	201.58.182.19	US	489	64	1	🇳🇱64Mb | Fzco	201.58.182.19	443
+WORKS	YES	YES	45.151.180.220	CZ	897	64	14	🇨🇿64Mb | Mastersoft SRL	109.237.98.234	443
+FAIL	NO	NO			358	63		🇳🇱63Mb | Nurmukan Zhantorin	191.217.214.50	443
+WORKS	YES	YES	201.58.182.19	US	549	53	2	🇳🇱53Mb | Fzco	netherafteraventura.site	443
+WORKS	YES	YES	103.80.48.158	TH	1457	52	21	🇹🇭52Mb | PTE Group Co	109.237.98.213	443
