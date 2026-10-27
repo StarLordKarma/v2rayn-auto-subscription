@@ -1,139 +1,105 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			2181	458		🇷🇺458Mb | Cloudflare	104.19.150.163	443
-FAIL	NO	NO			111	323		🇸🇪323Mb | Cloudflare	188.114.97.6	8080
-WORKS	YES	YES	93.115.24.136	LT	1171	306	47	🇱🇹306Mb | UAB Cherry Servers	admin.betust.net	443
-FAIL	NO	NO			2179	291		🇺🇸291Mb | DigitalOcean	104.18.33.3	443
-FAIL	NO	NO			2183	291		🇩🇪291Mb | Cloudflare	104.17.100.185	443
-WORKS	YES	YES			169	288		🇷🇺288Mb | Cloudflare	104.19.174.68	8080
-FAIL	NO	NO			2163	283		🇺🇸283Mb | DigitalOcean	172.64.146.204	443
-WORKS	YES	YES	45.43.75.111	GB	1036	281	8	🇬🇧281Mb | YottaSrc	ru11.oshost.network	443
-WORKS	YES	YES	201.58.182.19	US	627	273	4	🇳🇱273Mb | Fzco	netherafteraventura.site	443
-FAIL	NO	NO			2850	273		🇧🇬273Mb | Belcloud LTD	randomquaint.net	8443
-WORKS	YES	YES	132.243.231.100	SE	903	263	39	🇸🇪263Mb | Andris Jakovlevs	92.246.138.68	443
-WORKS	YES	YES			139	263		🇩🇪263Mb | Cloudflare	104.26.12.31	8080
-WORKS	YES	YES	170.168.96.2	PL	727	259	31	🇵🇱259Mb | Alex Largman	104.245.243.2	443
-FAIL	NO	NO			4003	258		🇷🇺258Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			423	256		🇷🇺256Mb | VK	78.159.246.179	2053
-FAIL	NO	NO			4003	254		🇷🇺254Mb | VK	78.159.246.85	2053
-WORKS	YES	YES			420	254		🇩🇪254Mb | Cloudflare	www.gov.se	8080
-WORKS	YES	YES	203.23.179.141	DE	566	249	11	🇩🇪249Mb | GSL Networks Pty LTD	94.183.197.40	443
-FAIL	NO	NO			2214	238		🇷🇺238Mb | Cloudflare	104.17.213.236	443
-WORKS	YES	NO			190	233		🇩🇪233Mb | Cloudflare	104.21.70.21	8080
-WORKS	YES	YES			99	225		🇷🇺225Mb | Cloudflare	104.19.173.68	8080
-WORKS	YES	YES	31.76.110.96	NL	733	205	21	🇳🇱205Mb | EdgeSec Technologies Limited	nl-1.viralforge.ru	443
-FAIL	NO	NO			686	204		🇧🇬204Mb | Belcloud LTD	78.159.246.85	8443
-WORKS	YES	YES	188.255.163.131	PL	1429	203	49	🇵🇱203Mb | Netgrid Host	router.hermit.pw	27020
-FAIL	NO	NO			2157	203		🇺🇸203Mb | DigitalOcean	162.159.152.154	443
-WORKS	YES	YES	185.4.180.84	KZ	1789	203	51	🇰🇿203Mb | PS Internet Company LLP	ru-kz2.bsh-net.ru	443
-FAIL	NO	NO			509	201		🇧🇬201Mb | Belcloud LTD	81.94.148.232	8443
-FAIL	NO	NO			2121	201		🇳🇱201Mb | Play2go International Limited	45.130.125.151	443
-WORKS	YES	YES	83.136.209.31	FR	768	201	33	🇫🇷201Mb | PETROSKY CLOUD	fra.viralforge.ru	443
-WORKS	YES	YES	157.22.16.2	GB	671	198	5	🇬🇧198Mb | Global Transit Systems	122.8.45.6	443
-WORKS	YES	YES	96.62.103.24	FI	623	197	25	🇫🇮197Mb | Dedik Services Limited	96.62.103.24	443
-WORKS	YES	YES	89.47.55.2	AE	663	196	28	🇦🇪196Mb | Fast Servers (Pty)	122.8.46.3	443
-WORKS	YES	YES	130.78.190.179	LT	896	190	38	🇪🇪190Mb | Takehost Ou	103.88.243.28	443
-FAIL	NO	NO			1858	186		🇧🇬186Mb | Belcloud LTD	78.159.246.179	8443
-FAIL	NO	NO			397	186		🇳🇱186Mb | Servers Tech Fzco	91.84.115.36	443
-WORKS	YES	YES			176	186		🇷🇺186Mb | Cloudflare	www.digitalocean.com	8080
-FAIL	NO	NO			2138	186		🇺🇸186Mb | Cloudflare	172.67.155.1	443
-FAIL	NO	NO			3491	184		🇦🇹184Mb | PipeHost eU	188.137.158.169	443
-FAIL	NO	NO			665	184		🇺🇸184Mb | Servhost Group	e2865c20.con.rasterparcel.tech	443
-FAIL	NO	NO			796	184		🇨🇭184Mb | WAIcore	clips.blog-forme.ru	2083
-WORKS	YES	YES			1146	182		🇩🇪182Mb | Cloudflare	ip.sb	8080
-FAIL	NO	NO			4002	181		🇦🇱181Mb | Cloudflare	130.49.189.56	443
-FAIL	NO	NO			2136	179		🇷🇺179Mb | Cloudflare	104.18.33.194	443
-FAIL	NO	NO			2262	177		🇺🇸177Mb | Amazoncom	mybb.com	443
-FAIL	NO	NO			751	176		🇷🇺176Mb | VK	randomquaint.net	2053
-WORKS	YES	YES	201.58.182.19	US	552	173	2	🇳🇱173Mb | Fzco	201.58.182.19	443
-WORKS	YES	YES	179.255.176.31	FR	910	171	40	🇸🇨171Mb | Host Telecom	94.228.173.212	443
-WORKS	YES	YES	45.43.75.111	GB	823	167	7	🇬🇧167Mb | YottaSrc	213.159.209.66	443
-FAIL	NO	NO			802	166		🇧🇬166Mb | Belcloud LTD	windytrout.net	8443
-FAIL	NO	NO			2135	166		🇷🇺166Mb | Ihor Hosting	162.159.153.217	443
-WORKS	YES	YES	92.42.201.102	SI	1047	163	44	🇸🇮163Mb | Pipe Networks GmbH	node-slo04.rkitman.ru	443
-WORKS	YES	YES	132.243.166.22	NL	604	162	20	🇳🇱162Mb | Alexhost Srl	132.243.166.22	443
-WORKS	YES	YES	130.78.190.145	LT	638	160	26	🇳🇱160Mb | 'Ghita Telekom'	130.78.190.163	443
-WORKS	YES	YES	92.42.201.107	SI	1052	160	45	🇸🇮160Mb | Pipe Networks GmbH	node-slo05.rkitman.ru	443
-WORKS	YES	YES			102	159		🇳🇱159Mb | Cloudflare	104.18.26.94	8080
-FAIL	NO	NO			419	158		🇳🇱158Mb | Nurmukan Zhantorin	191.217.214.50	443
-FAIL	NO	NO			308	157		🇵🇱157Mb | ExpressHost	31.59.143.242	34451
-WORKS	YES	YES	176.65.144.42	CH	640	156	17	🇨🇭156Mb | Dedik Services Limited	176.65.144.42	443
-FAIL	NO	NO			695	155		🇩🇪155Mb | Servhost Group	9187bd6f.con.fernarchive.online	443
-FAIL	NO	NO			3606	154		🇫🇮154Mb | Oc Networks Limited	176.125.254.9	443
-WORKS	YES	YES	132.243.231.100	SE	1207	153	48	🇸🇪153Mb | Andris Jakovlevs	ru17.oshost.network	443
-FAIL	NO	NO			999	152		🇺🇸152Mb | Servhost Group	597dad6b.con.fernarchive.online	443
-WORKS	YES	YES			90	152		🇩🇪152Mb | Cloudflare	104.26.13.31	8080
-FAIL	NO	NO			2147	152		🇩🇪152Mb | Cloudflare	172.67.155.222	443
-FAIL	NO	NO			34	151		🇳🇱151Mb | Cloudflare	104.21.227.134	80
-WORKS	YES	YES	157.173.7.17	DE	1120	148	16	🇩🇪148Mb | Pipe Networks GmbH	node-fra03.rkitman.ru	443
-WORKS	YES	YES	45.159.23.2	GB	677	148	6	🇺🇸148Mb | Global Transit Systems	45.88.13.7	443
-FAIL	NO	NO			4002	148		🇧🇾148Mb | Itglobalcom Bel	140.225.199.56	443
-FAIL	NO	NO			28	147		🇩🇪147Mb | OVH SAS	188.114.98.0	443
-FAIL	NO	NO			2445	147		🇷🇺147Mb | Cloudflare	help1.digikala-aparat-zula.com	443
-WORKS	YES	YES	194.238.42.183	KZ	1122	146	46	🇰🇿146Mb | Newserverlife	201.34.136.78	443
-WORKS	YES	YES			132	144		🇷🇺144Mb | Cloudflare	ccc.010304.xyz	443
-WORKS	YES	NO			235	143		🇩🇪143Mb | Cloudflare	104.25.199.149	80
-WORKS	NO	YES			548	143		🇩🇪143Mb | Play2go International Limited	144.31.166.55	443
-WORKS	YES	YES	31.76.110.96	NL	559	143	19	🇳🇱143Mb | EdgeSec Technologies Limited	31.76.110.65	443
-FAIL	NO	NO			2212	143		🇷🇺143Mb | Cloudflare	188.114.98.112	80
-WORKS	YES	YES	87.120.126.12	DE	667	142	14	🇩🇪142Mb | H2nexus Cloud Services - Fzco	87.120.126.12	443
-FAIL	NO	NO			1371	141		🇷🇺141Mb | VK	fitindoor.net	2053
-WORKS	NO	YES			689	137		🇦🇹137Mb | PipeHost eU	softice.net	443
-WORKS	NO	YES			724	136		🇫🇮136Mb | Oc Networks Limited	initialcase.net	443
-WORKS	YES	YES	201.58.182.216	US	557	136	3	🇳🇱136Mb | Fzco	201.58.182.216	443
-FAIL	NO	NO			755	135		🇮🇶135Mb | WAIcore	podcasts.blog-forme.ru	2083
-WORKS	YES	YES	92.42.201.102	SI	682	135	30	🇸🇮135Mb | Pipe Networks GmbH	92.42.201.155	443
-WORKS	YES	YES	96.62.103.24	FI	809	135	34	🇫🇮135Mb | Dedik Services Limited	fi.viralforge.ru	443
-WORKS	YES	NO			109	134		🇸🇪134Mb | Cloudflare	172.67.75.172	8080
-WORKS	YES	YES	31.58.46.124	LV	1497	133	50	🇱🇻133Mb | Netgrid Host	router.hermit.pw	28963
-WORKS	YES	NO			722	130		🇩🇪130Mb | HFM SRL	188.241.241.36	8443
-FAIL	NO	NO			2135	130		🇷🇺130Mb | Cloudflare	8.39.125.92	2096
-WORKS	YES	YES	157.173.7.17	DE	619	126	13	🇩🇪126Mb | Pipe Networks GmbH	157.173.7.17	443
-FAIL	NO	NO			2135	124		🇩🇪124Mb | Cloudflare	188.114.97.6	2087
-FAIL	NO	NO			2128	123		🇷🇺123Mb | BitWeb	162.159.153.194	443
-FAIL	NO	NO			1286	123		🇷🇺123Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			2123	123		🇳🇱123Mb | Cloudflare	104.21.46.14	443
-FAIL	NO	NO			349	118		🇷🇺118Mb | VK	81.94.148.232	2053
-WORKS	YES	YES	5.42.96.76	RU	810	117	35	🇷🇺117Mb | Jsc timeweb	5.42.96.76	443
-FAIL	NO	NO			54	117		🇷🇺117Mb | Cloudflare	172.64.147.85	80
-FAIL	NO	NO			733	116		🇳🇱116Mb | Servers Tech Fzco	lectures.blog-forme.ru	443
-WORKS	YES	YES	45.142.106.110	DE	561	113	9	🇩🇪113Mb | Florian Kolb	45.142.106.113	443
-WORKS	YES	YES	94.228.162.222	AT	990	112	41	🇬🇧112Mb | Aeza Group	vena.solomon-planet.ru	443
-WORKS	YES	YES	130.78.190.145	LT	671	110	29	🇳🇱110Mb | 'Ghita Telekom'	ee.viralforge.ru	443
-WORKS	YES	YES	45.77.40.28	SG	821	110	36	🇸🇬110Mb | The Constant Company	sg003.zestapp778.com	443
-WORKS	NO	YES			814	110		🇺🇸110Mb | FDCserversnet	188.120.234.199	443
-WORKS	NO	NO			754	109		🇷🇺109Mb | Aeza Group	193.233.221.86	443
-FAIL	NO	NO			3483	107		🇦🇹107Mb | PipeHost eU	188.137.158.179	443
-FAIL	NO	NO			971	103		🇺🇸103Mb | Servhost Group	4ac8b281.con.rasterparcel.tech	443
-FAIL	NO	NO			654	103		🇺🇸103Mb | Servhost Group	883f1393.con.rasterparcel.tech	443
-WORKS	YES	YES	176.65.144.42	CH	718	103	18	🇨🇭103Mb | Dedik Services Limited	ch.viralforge.ru	443
-FAIL	NO	NO			61	102		🇷🇺102Mb | Cloudflare	medium.com	443
-WORKS	YES	YES	132.243.166.22	NL	814	101	22	🇳🇱101Mb | Alexhost Srl	node-nd02.rkitman.ru	443
-FAIL	NO	NO			3463	98		🇺🇸98Mb | GTHost	91.99.148.150	443
-WORKS	YES	YES	45.142.106.109	DE	573	93	12	🇩🇪93Mb | Florian Kolb	dlx.viralforge.ru	443
-FAIL	NO	NO			3501	93		🇦🇹93Mb | PipeHost eU	188.137.158.189	443
-WORKS	YES	YES	83.136.209.31	FR	555	90	24	🇫🇷90Mb | PETROSKY CLOUD	83.136.209.31	443
-FAIL	NO	NO			641	87		🇬🇧87Mb | Servhost Group	6d160a52.con.fernarchive.online	443
-FAIL	NO	NO			32	86		🇩🇪86Mb | OVH SAS	8.6.112.0	443
-FAIL	NO	NO			496	85		🇳🇱85Mb | Nurmukan Zhantorin	nl.cachevault.net	443
-WORKS	YES	YES	2.27.5.172	PL	2005	84	52	🇺🇸84Mb | Great Flower	168.222.193.184	443
-FAIL	NO	NO			4002	81		🇯🇵81Mb | The Constant Company	107.191.53.86	4798
-WORKS	YES	YES	94.228.162.222	AT	650	78	27	🇷🇺78Mb | Aeza Group	94.228.162.222	443
-FAIL	NO	NO			4002	76		🇷🇺76Mb | PVimpelCom	81.222.148.104	443
-WORKS	YES	YES	45.142.106.109	DE	561	75	10	🇩🇪75Mb | Florian Kolb	45.142.106.121	443
-FAIL	NO	NO			2135	71		🇺🇸71Mb | DigitalOcean	104.17.173.208	443
-WORKS	YES	YES	83.143.106.2	IL	1020	71	43	🇮🇱71Mb | Limestone Networks	83.143.106.9	8443
-FAIL	NO	NO			3817	70		🇸🇬70Mb | The Constant Company	45.77.40.28	443
-FAIL	NO	NO			3477	70		🇦🇹70Mb | PipeHost eU	188.137.158.199	443
-FAIL	NO	NO			4002	69		🇫🇮69Mb | Oc Networks Limited	83.219.97.20	443
-FAIL	NO	NO			3451	68		🇺🇸68Mb | GTHost	152.53.229.84	443
-FAIL	NO	NO			3799	67		🇸🇬67Mb | The Constant Company	45.32.117.217	443
-FAIL	NO	NO			452	65		🇨🇭65Mb | WAIcore	138.124.36.136	2083
-WORKS	YES	YES	130.49.112.2	TR	832	62	37	🇹🇷62Mb | Fast Servers (Pty)	122.8.46.6	8443
-WORKS	YES	YES	147.78.180.2	US	395	60	1	🇷🇺60Mb | PureVoltage Hosting	147.78.182.6	8443
-FAIL	NO	NO			684	58		🇺🇸58Mb | Servhost Group	823bcb90.con.fernarchive.online	443
-WORKS	YES	YES	77.42.12.225	FI	1020	57	42	🇫🇮57Mb | Hetzner Online GmbH	fi3.h1cloud.net	25090
-WORKS	YES	YES	103.126.51.135	DE	948	55	15	🇷🇴55Mb | Interkvm Host Srl	45.132.176.176	443
-WORKS	YES	YES	91.196.163.150	NL	974	55	23	🇺🇦55Mb | NetCrafters OU	94.228.173.227	443
-FAIL	NO	NO			4002	55		🇪🇸55Mb | Green Floid	168.113.171.84	443
-FAIL	NO	NO			3426	54		🇬🇧54Mb | OVH SAS	51.38.71.147	8443
-WORKS	YES	YES	93.115.24.136	LT	748	50	32	🇱🇹50Mb | UAB Cherry Servers	93.115.24.135	443
+FAIL	NO	NO			400	410		🇮🇶410Mb | WAIcore	213.165.54.59	8443
+FAIL	NO	NO			204	372		🇩🇪372Mb | Fzco	www.canva.com	443
+WORKS	YES	YES	130.78.190.179	LT	707	315	29	🇪🇪315Mb | Takehost Ou	103.88.243.28	443
+FAIL	NO	NO			207	306		🇫🇷306Mb | OVH SAS	146.75.35.41	443
+WORKS	YES	YES	170.168.96.2	PL	513	302	25	🇵🇱302Mb | Alex Largman	104.245.243.2	443
+WORKS	YES	YES	45.43.75.111	GB	982	300	6	🇬🇧300Mb | YottaSrc	ru11.oshost.network	443
+WORKS	NO	NO			667	297		🇷🇺297Mb | Aeza Group	193.233.221.86	443
+FAIL	NO	NO			2130	264		🇺🇸264Mb | Cloudflare	172.67.155.1	443
+WORKS	YES	YES	89.47.55.2	AE	494	254	22	🇦🇪254Mb | Fast Servers (Pty)	122.8.46.3	443
+FAIL	NO	NO			2136	243		🇸🇪243Mb | Cloudflare	104.25.199.149	443
+WORKS	YES	YES	201.58.182.216	US	376	238	2	🇳🇱238Mb | Fzco	201.58.182.216	443
+WORKS	NO	NO			1827	237		🇪🇪237Mb | Andris Jakovlevs	ru16.oshost.network	443
+WORKS	NO	YES			982	231		🇹🇯231Mb | H2nexus Cloud Services - Fzco	80.66.84.114	443
+WORKS	YES	NO			1114	227		🇩🇪227Mb | netcup GmbH	rumos.yandex-api.com	443
+WORKS	YES	YES	93.115.24.136	LT	580	224	26	🇱🇹224Mb | UAB Cherry Servers	93.115.24.135	443
+FAIL	NO	NO			4002	222		🇷🇺222Mb | Aeza Group	vena.solomon-planet.ru	443
+WORKS	YES	YES	93.115.24.136	LT	685	217	28	🇱🇹217Mb | UAB Cherry Servers	admin.betust.net	443
+WORKS	YES	YES	31.76.110.96	NL	392	215	16	🇳🇱215Mb | EdgeSec Technologies Limited	31.76.110.65	443
+WORKS	YES	YES	92.42.201.102	SI	790	210	30	🇸🇮210Mb | Pipe Networks GmbH	node-slo04.rkitman.ru	443
+FAIL	NO	NO			3073	208		🇦🇹208Mb | PipeHost eU	188.137.158.169	443
+WORKS	YES	YES	31.77.129.151	DE	415	208	11	🇩🇪208Mb | Play2go International Limited	ge-s-1.pythonmakemigreat.wiki	443
+WORKS	NO	YES			518	207		🇦🇹207Mb | PipeHost eU	softice.net	443
+FAIL	NO	NO			2114	203		🇳🇱203Mb | Cloudflare	104.25.199.149	80
+FAIL	NO	NO			4003	201		🇷🇺201Mb | KVANTA	212.193.31.221	443
+WORKS	YES	YES	45.159.23.2	GB	593	200	5	🇺🇸200Mb | Global Transit Systems	45.88.13.7	443
+WORKS	YES	YES	91.196.163.150	NL	453	199	17	🇺🇦199Mb | NetCrafters OU	91.196.163.150	8443
+FAIL	NO	NO			278	197		🇳🇱197Mb | Nurmukan Zhantorin	191.217.214.50	443
+FAIL	NO	NO			3030	195		🇦🇹195Mb | PipeHost eU	188.137.158.199	443
+FAIL	NO	NO			2047	195		🇺🇸195Mb | DigitalOcean	188.164.248.246	443
+WORKS	YES	YES	83.136.209.31	FR	405	194	20	🇫🇷194Mb | PETROSKY CLOUD	83.136.209.31	443
+WORKS	YES	YES	201.58.182.19	US	387	192	3	🇳🇱192Mb | Fzco	netherafteraventura.site	443
+WORKS	YES	YES	92.42.201.102	SI	502	187	23	🇸🇮187Mb | Pipe Networks GmbH	92.42.201.155	443
+FAIL	NO	NO			4002	186		🇸🇪186Mb | Andris Jakovlevs	92.246.138.68	443
+FAIL	NO	NO			2047	186		🇩🇪186Mb | Cloudflare	172.67.77.54	443
+FAIL	NO	NO			2044	183		🇳🇱183Mb | Play2go International Limited	45.130.125.151	443
+FAIL	NO	NO			568	180		🇺🇸180Mb | Servhost Group	823bcb90.con.fernarchive.online	443
+WORKS	YES	YES	201.58.182.19	US	366	180	1	🇳🇱180Mb | Fzco	201.58.182.19	443
+FAIL	NO	NO			2051	179		🇺🇸179Mb | DigitalOcean	104.17.184.104	443
+WORKS	YES	YES	103.83.87.127	TR	829	178	33	🇹🇷178Mb | Fiba Cloud Operation Company	147.45.213.56	443
+WORKS	YES	YES	132.243.166.22	NL	1850	178	19	🇳🇱178Mb | Alexhost Srl	132.243.166.22	443
+WORKS	YES	YES	194.238.42.183	KZ	967	178	36	🇰🇿178Mb | Newserverlife	201.34.136.78	443
+FAIL	NO	NO			432	177		🇷🇺177Mb | VK	78.159.246.179	2053
+FAIL	NO	NO			4002	174		🇩🇪174Mb | netcup GmbH	176.108.253.204	443
+FAIL	NO	NO			507	171		🇩🇪171Mb | Hetzner Online GmbH	port.irantech.online	20841
+WORKS	YES	YES	31.76.39.197	GB	1084	163	7	🇬🇧163Mb | Akenai Products	92.53.97.27	443
+FAIL	NO	NO			4002	161		🇧🇬161Mb | Belcloud	randomquaint.net	8443
+WORKS	YES	YES	94.228.162.222	AT	2580	157	38	🇷🇺157Mb | Aeza Group	94.228.162.222	443
+WORKS	YES	YES	157.173.7.17	DE	370	154	8	🇩🇪154Mb | Pipe Networks GmbH	157.173.7.17	443
+FAIL	NO	NO			2074	150		🇺🇸150Mb | DigitalOcean	104.19.2.99	443
+FAIL	NO	NO			3016	150		🇦🇹150Mb | PipeHost eU	188.137.158.179	443
+FAIL	NO	NO			3054	149		🇺🇸149Mb | GTHost	152.53.229.84	443
+FAIL	NO	NO			226	146		🇵🇱146Mb | ExpressHost	31.59.143.242	34451
+FAIL	NO	NO			4002	144		🇷🇸144Mb | MAXKO doo	150.40.126.24	443
+FAIL	NO	NO			2151	143		🇺🇸143Mb | GTHost	gtssgk4cnw.dev.ap-jt.com	443
+FAIL	NO	NO			4002	139		🇺🇦139Mb | NetCrafters OU	94.228.173.227	443
+WORKS	YES	YES	132.243.166.22	NL	1640	137	18	🇳🇱137Mb | Alexhost Srl	node-nd02.rkitman.ru	443
+FAIL	NO	NO			2073	130		🇸🇪130Mb | Cloudflare	104.17.148.182	443
+WORKS	NO	NO			586	129		🇦🇱129Mb | Cloudflare	130.49.189.56	443
+WORKS	YES	YES	92.42.201.107	SI	502	127	24	🇸🇮127Mb | Pipe Networks GmbH	92.42.201.160	443
+FAIL	NO	NO			3014	127		🇦🇹127Mb | PipeHost eU	188.137.158.189	443
+WORKS	NO	YES			2729	123		🇺🇸123Mb | FDCserversnet	188.120.234.199	443
+FAIL	NO	NO			460	123		🇺🇸123Mb | Servhost Group	4ac8b281.con.rasterparcel.tech	443
+FAIL	NO	NO			1831	122		🇷🇺122Mb | VK	randomquaint.net	2053
+WORKS	YES	YES	2.27.5.172	PL	3601	121	39	🇺🇸121Mb | Great Flower	168.222.193.184	443
+WORKS	YES	YES	45.142.106.109	DE	689	119	13	🇩🇪119Mb | Florian Kolb	dlx.viralforge.ru	443
+FAIL	NO	NO			736	118		🇩🇪118Mb | Servhost Group	9187bd6f.con.fernarchive.online	443
+FAIL	NO	NO			3062	118		🇺🇸118Mb | GTHost	178.17.48.78	443
+FAIL	NO	NO			287	112		🇨🇭112Mb | WAIcore	138.124.36.136	2083
+FAIL	NO	NO			549	112		🇺🇸112Mb | Servhost Group	597dad6b.con.fernarchive.online	443
+WORKS	NO	YES			726	111		🇮🇱111Mb | Limestone Networks	83.143.106.9	8443
+FAIL	NO	NO			554	110		🇨🇭110Mb | WAIcore	clips.blog-forme.ru	2083
+FAIL	NO	NO			2056	110		🇷🇺110Mb | Cloudflare	172.64.156.156	443
+FAIL	NO	NO			4003	108		🇷🇺108Mb | PVimpelCom	81.222.148.104	443
+FAIL	NO	NO			2592	106		🇳🇱106Mb | Servers Tech Fzco	91.84.115.36	443
+FAIL	NO	NO			3068	101		🇺🇸101Mb | GTHost	91.99.148.150	443
+FAIL	NO	NO			602	99		🇺🇸99Mb | Servhost Group	883f1393.con.rasterparcel.tech	443
+WORKS	YES	YES	92.42.201.107	SI	792	98	31	🇸🇮98Mb | Pipe Networks GmbH	node-slo05.rkitman.ru	443
+FAIL	NO	NO			3085	94		🇯🇵94Mb | SAKURA Internet	79.137.199.52	21
+FAIL	NO	NO			4002	92		🇫🇮92Mb | Play2go International Limited	94.228.167.12	443
+WORKS	YES	YES	45.142.106.109	DE	402	88	9	🇩🇪88Mb | Florian Kolb	45.142.106.121	443
+WORKS	YES	YES	96.62.103.24	FI	414	82	21	🇫🇮82Mb | Dedik Services Limited	96.62.103.24	443
+WORKS	YES	YES	176.65.144.42	CH	682	82	15	🇨🇭82Mb | Dedik Services Limited	ch.viralforge.ru	443
+FAIL	NO	NO			2045	80		🇩🇪80Mb | Cloudflare	162.159.228.255	443
+FAIL	NO	NO			352	80		🇺🇸80Mb | Alexhost Srl	1e626999.con.metricdraft.tech	443
+WORKS	YES	YES	185.4.180.84	KZ	1268	78	37	🇰🇿78Mb | PS Internet Company LLP	ru-kz2.bsh-net.ru	443
+FAIL	NO	NO			315	78		🇳🇱78Mb | Nurmukan Zhantorin	nl.cachevault.net	443
+WORKS	YES	YES			2549	77		🇫🇷77Mb | OVH SAS	178.250.157.231	443
+WORKS	YES	YES	96.62.103.24	FI	597	76	27	🇫🇮76Mb | Dedik Services Limited	fi.viralforge.ru	443
+FAIL	NO	NO			2047	75		🇫🇮75Mb | Cloudflare	188.164.248.181	443
+WORKS	YES	YES	89.19.220.19	RU	811	74	32	🇷🇺74Mb | Sysect Doo	89.19.220.19	443
+WORKS	YES	YES	87.120.126.12	DE	486	73	12	🇩🇪73Mb | H2nexus Cloud Services - Fzco	87.120.126.12	443
+WORKS	YES	YES	136.148.211.243	SE	940	73	35	🇸🇪73Mb | Hostup AB	se1-cl3.vless-fiberstasis.top	443
+FAIL	NO	NO			432	71		🇪🇸71Mb | Orion Network Limited	api.ferrin.uk	443
+WORKS	YES	YES	176.65.144.42	CH	508	70	14	🇨🇭70Mb | Dedik Services Limited	176.65.144.42	443
+FAIL	NO	NO			2065	68		🇩🇪68Mb | OVH SAS	104.17.71.206	8443
+FAIL	NO	NO			4003	66		🇷🇺66Mb | Jsc timeweb	213.226.127.71	2066
+FAIL	NO	NO			3081	63		🇫🇮63Mb | Oc Networks Limited	176.125.254.9	443
+WORKS	YES	YES			1024	62		🇰🇿62Mb | PS Internet Company LLP	62.113.36.79	443
+WORKS	YES	YES	91.107.128.44	DE	413	60	10	🇩🇪60Mb | Hetzner Online GmbH	91.107.128.44	46928
+FAIL	NO	NO			4001	56		🇸🇬56Mb | The Constant Company	45.32.117.217	443
+WORKS	NO	YES			396	54		🇩🇪54Mb | Play2go International Limited	144.31.166.55	443
+WORKS	YES	YES	147.78.180.2	US	447	53	4	🇷🇺53Mb | PureVoltage Hosting	147.78.182.6	8443
+FAIL	NO	NO			4002	48		🇷🇺48Mb | VK	fitindoor.net	2053
+WORKS	YES	YES	2.26.191.53	FI	851	48	34	🇫🇮48Mb | H2nexus Cloud Services - Fzco	185.76.241.51	9601
