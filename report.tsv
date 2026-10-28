@@ -1,54 +1,42 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	NO	YES			1634	547		🇺🇸547Mb | NetCrafters OU	ru17.oshost.network	443
-WORKS	NO	NO			9405	468		🇺🇸468Mb | NetCrafters OU	92.246.138.68	443
-WORKS	NO	YES			8384	324		🇳🇱324Mb | Servers Tech Fzco	193.5.250.131	443
-WORKS	YES	YES	203.17.244.189	NL	482	324	4	🇳🇱324Mb | GSL Networks Pty	94.183.196.2	8443
-WORKS	YES	YES			1406	312		🇩🇪312Mb | Akenai Products	185.76.241.20	8443
-FAIL	NO	NO			3430	309		🇵🇱309Mb | FDCserversnet	50.7.249.163	443
-FAIL	NO	NO			263	301		🇸🇪301Mb | Cloudflare	172.64.150.200	443
-FAIL	NO	NO			4002	301		🇩🇪301Mb | Hetzner Online GmbH	areal3.greewebservices.ir	4445
-WORKS	YES	YES	50.7.248.234	PL	1028	299	9	🇵🇱299Mb | FDCserversnet	poland-new-new.failspace.top	443
-WORKS	YES	YES			1666	288		🇳🇱288Mb | Servers Tech Fzco	ru16.oshost.network	443
-FAIL	NO	NO			4002	280		🇵🇱280Mb | Mitelis Security Limited	poland.beinprime.ru	21443
-FAIL	NO	NO			201	276		🇷🇺276Mb | Cloudflare	172.64.151.90	443
-FAIL	NO	NO			542	261		🇩🇪261Mb | Hetzner Online GmbH	static.19.212.12.49.clients.your-server.de	8443
-FAIL	NO	NO			237	260		🇸🇪260Mb | Cloudflare	172.64.152.87	443
-FAIL	NO	NO			479	253		🇩🇪253Mb | WAIcore	213.165.54.59	8443
-FAIL	NO	NO			741	252		🇺🇸252Mb | Servhost Group	a91b8e.rasterparcel.tech	443
-FAIL	NO	NO			219	248		🇸🇪248Mb | Cloudflare	172.64.153.234	443
-FAIL	NO	NO			231	240		🇸🇪240Mb | Cloudflare	172.64.144.121	443
-WORKS	YES	YES	45.43.75.111	GB	2277	211	2	🇬🇧211Mb | YottaSrc	213.159.209.66	443
-FAIL	NO	NO			228	201		🇷🇺201Mb | Cloudflare	172.64.145.241	443
-FAIL	NO	NO			268	196		🇩🇪196Mb | ExpressHost	217.60.183.95	443
-FAIL	NO	NO			3631	194		🇮🇪194Mb | FDCserversnet	50.7.5.188	443
-FAIL	NO	NO			69	189		🇸🇪189Mb | Cloudflare	172.64.154.9	443
-WORKS	YES	YES	50.7.4.66	IE	1089	185	10	🇮🇪185Mb | FDCserversnet	ir-new-ded.failspace.top	443
-WORKS	YES	YES	45.43.75.111	GB	2084	183	1	🇬🇧183Mb | YottaSrc	ru11.oshost.network	443
-FAIL	NO	NO			196	174		🇺🇸174Mb | Black Mesa	pq.us07.yydjc.top	443
-WORKS	YES	YES	93.152.223.244	DE	1428	171	3	🇧🇬171Mb | RMP Protection Limited	93.152.223.244	443
-FAIL	NO	NO			42	167		🇸🇪167Mb | Cloudflare	104.18.34.214	443
-FAIL	NO	NO			446	165		🇯🇵165Mb | Amazoncom	pq.aws53.yydjc.top	443
-FAIL	NO	NO			4003	155		🇷🇺155Mb | PVimpelCom	81.222.148.104	443
-FAIL	NO	NO			1566	150		🇩🇪150Mb | Servhost Group	9187bd6f.con.fernarchive.online	443
-WORKS	YES	YES	85.11.187.68	NO	593	149	5	🇳🇴149Mb | Sino Worldwide Trading Limited	85.11.187.68	8443
-WORKS	NO	YES			713	148		🇫🇷148Mb | FDCserversnet	213.152.165.206	2092
-FAIL	NO	NO			459	128		🇯🇵128Mb | Amazoncom	pq.aws55.yydjc.top	443
-WORKS	YES	YES	76.164.203.230	ES	682	114	6	🇪🇸114Mb | Interkvm Host Srl	156.252.229.11	8443
-FAIL	NO	NO			1653	113		🇬🇧113Mb | Servhost Group	6d160a52.con.fernarchive.online	443
-FAIL	NO	NO			4002	105		🇦🇱105Mb | Cloudflare	al.reus.lol	443
-WORKS	NO	YES			972	101		🇨🇦101Mb | FDCserversnet	213.152.165.206	2093
-WORKS	YES	YES	46.243.183.2	BY	1166	91	11	🇧🇾91Mb | Itglobalcom Bel	46.243.183.2	443
-FAIL	NO	NO			594	86		🇺🇸86Mb | Servhost Group	883f1393.con.rasterparcel.tech	443
-WORKS	NO	NO			2505	85		🇨🇿85Mb | Datacamp Limited	cz-prg.dontblockmepls.com	2063
-FAIL	NO	NO			489	82		🇺🇸82Mb | Servhost Group	bl1.nexfile.net	4443
-FAIL	NO	NO			318	75		🇺🇸75Mb | Alexhost Srl	1e626999.con.metricdraft.tech	443
-FAIL	NO	NO			656	75		🇺🇸75Mb | Servhost Group	597dad6b.con.fernarchive.online	443
-FAIL	NO	NO			2149	72		🇫🇷72Mb | OVH SAS	104.17.81.147	443
-WORKS	YES	NO			1177	63		🇷🇺63Mb | Aeza Group	94.228.173.227	8443
-FAIL	NO	NO			687	63		🇺🇸63Mb | Servhost Group	823bcb90.con.fernarchive.online	443
-FAIL	NO	NO			4002	63		🇷🇸63Mb | MAXKO doo	rs2.univesalsrv.com	443
-WORKS	YES	YES	89.35.14.32	MD	1013	62	8	🇲🇩62Mb | Moldtelecom SA	md3.univesalsrv.com	443
-WORKS	YES	YES	45.9.156.42	BG	997	62	7	🇧🇬62Mb | MAXKO doo	bg5.univesalsrv.com	443
-WORKS	NO	YES			949	57		🇲🇩57Mb | Moldtelecom SA	md4.univesalsrv.com	443
-FAIL	NO	NO			4002	54		🇬🇧54Mb | Servhost Group	13.143.180.104	443
-FAIL	NO	NO			4003	54		🇩🇪54Mb | Dedik Services Limited	ded.bsh-net.ru	443
+FAIL	NO	NO			4003	304		🇳🇱304Mb | Timeweb LLP	79.174.84.19	8443
+FAIL	NO	NO			4002	264		🇩🇪264Mb | Hetzner Online GmbH	areal3.greewebservices.ir	4445
+FAIL	NO	NO			719	256		🇺🇸256Mb | Servhost Group	a91b8e.rasterparcel.tech	443
+WORKS	YES	YES	91.84.107.201	NL	891	237	2	🇳🇱237Mb | Servers Tech Fzco	193.5.250.131	443
+FAIL	NO	NO			508	237		🇵🇱237Mb | FDCserversnet	poland-new-new.failspace.top	443
+FAIL	NO	NO			587	222		🇩🇪222Mb | Cloud Software - FZCO	fl.privatevip.ir	27039
+FAIL	NO	NO			3424	207		🇵🇱207Mb | FDCserversnet	50.7.249.163	443
+FAIL	NO	NO			509	195		🇩🇪195Mb | Hetzner Online GmbH	static.77.119.140.128.clients.your-server.de	8443
+FAIL	NO	NO			423	193		🇷🇺193Mb | VK	78.159.246.179	2053
+FAIL	NO	NO			4002	190		🇳🇱190Mb | NovoServe BV	84.201.180.13	443
+FAIL	NO	NO			3142	188		🇮🇪188Mb | FDCserversnet	50.7.5.188	443
+FAIL	NO	NO			320	187		🇩🇪187Mb | ExpressHost	217.60.183.95	443
+FAIL	NO	NO			474	173		🇮🇶173Mb | WAIcore	213.165.54.59	8443
+FAIL	NO	NO			423	166		🇮🇪166Mb | FDCserversnet	ir-new-ded.failspace.top	443
+FAIL	NO	NO			4002	166		🇺🇸166Mb | Servhost Group	s12.bsh-net.ru	443
+FAIL	NO	NO			170	152		🇸🇪152Mb | Cloudflare	172.64.152.87	443
+FAIL	NO	NO			680	152		🇺🇸152Mb | Servhost Group	e2865c20.con.rasterparcel.tech	443
+WORKS	NO	NO			794	150		🇩🇪150Mb | Hetzner Online GmbH	hw7.divarkhaghazi.com	465
+WORKS	YES	YES	65.109.209.124	FI	800	123	5	🇫🇮123Mb | Hetzner Online GmbH	hw3.divarkhaghazi.com.	465
+WORKS	YES	YES	201.58.177.219	US	642	117	1	🇸🇪117Mb | Fzco	201.58.177.219	443
+WORKS	YES	YES	2.29.97.103	FI	884	117	6	🇫🇮117Mb | Hetzner Online GmbH	131.123.42.250	8443
+WORKS	NO	YES			804	100		🇩🇪100Mb | Hetzner Online GmbH	fly.lumexa.ir	443
+FAIL	NO	NO			1059	98		🇷🇺98Mb | VK	fitindoor.net	2053
+FAIL	NO	NO			4002	92		🇨🇿92Mb | Datacamp Limited	cz-prg.dontblockmepls.com	2063
+FAIL	NO	NO			2683	89		🇳🇱89Mb | Cloudflare	104.21.71.249	443
+WORKS	YES	NO			745	88		🇷🇺88Mb | Aeza Group	94.228.173.227	8443
+FAIL	NO	NO			400	86		🇺🇸86Mb | Alexhost Srl	1e626999.con.metricdraft.tech	443
+FAIL	NO	NO			4003	85		🇦🇱85Mb | Cloudflare	130.49.189.56	443
+FAIL	NO	NO			2700	85		🇨🇳85Mb | Tencent Building Kejizhongyi Avenue	188.114.98.0	443
+FAIL	NO	NO			632	85		🇺🇸85Mb | Servhost Group	597dad6b.con.fernarchive.online	443
+FAIL	NO	NO			381	76		🇷🇺76Mb | VK	78.159.246.85	2053
+FAIL	NO	NO			4002	75		🇳🇱75Mb | Hostkey Bv	72.56.35.251	443
+WORKS	YES	YES	2.29.97.103	FI	1107	74	7	🇫🇮74Mb | Hetzner Online GmbH	6.bmi.ir.asopardaz.ir	8443
+WORKS	YES	YES	91.84.107.201	NL	1147	69	3	🇳🇱69Mb | Servers Tech Fzco	ru16.oshost.network	443
+FAIL	NO	NO			4003	69		🇨🇿69Mb | Datacamp Limited	31.77.13.22	2063
+FAIL	NO	NO			348	64		🇷🇺64Mb | VK	78.159.246.85	2053
+WORKS	YES	NO			3011	64		🇳🇱64Mb | Racktech Co	138.16.140.168	443
+WORKS	YES	YES	94.26.41.47	BG	559	62	4	🇩🇪62Mb | Dedik Services Limited	94.26.41.47	443
+FAIL	NO	NO			642	53		🇺🇸53Mb | Servhost Group	883f1393.con.rasterparcel.tech	443
+FAIL	NO	NO			566	53		🇷🇺53Mb | VK	fitindoor.net	2053
+FAIL	NO	NO			520	51		🇺🇸51Mb | Servhost Group	fl3.nexfile.net	4443
