@@ -1,33 +1,9 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4003	411		🇷🇺411Mb | Delta	188.130.209.222	443
-FAIL	NO	NO			373	380		🇷🇺380Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			361	357		🇷🇺357Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			607	347		🇷🇺347Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			570	347		🇷🇺347Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			2181	345		🇨🇭345Mb | Baykov Ilya Sergeevich	8.6.112.0	2087
-FAIL	NO	NO			299	282		🇩🇪282Mb | WAIcore	178.17.52.236	2083
-FAIL	NO	NO			322	271		🇩🇪271Mb | ExpressHost	217.60.183.95	443
-FAIL	NO	NO			624	253		🇺🇸253Mb | Servhost Group	a91b8e.rasterparcel.tech	443
-FAIL	NO	NO			4019	235		🇷🇺235Mb | Aeza Group	94.228.162.222	443
-WORKS	NO	YES			2902	225		🇷🇺225Mb | Aeza Group	vena.solomon-planet.ru	443
-FAIL	NO	NO			554	217		🇧🇬217Mb | Belcloud	78.159.246.85	8443
-FAIL	NO	NO			2339	206		🇺🇸206Mb | Akamai Connected Cloud	www.visa.com.hk	443
-WORKS	YES	YES	89.105.203.228	NL	677	177	3	🇳🇱177Mb | NovoServe BV	84.201.146.8	443
-FAIL	NO	NO			2566	175		🇨🇳175Mb | Tencent Building Kejizhongyi Avenue	188.114.98.0	443
-FAIL	NO	NO			642	173		🇪🇪173Mb | ExpressHost	ee-2e06d85dc0.shamanapp.online	34451
-WORKS	YES	YES	65.109.211.81	FI	749	147	4	🇫🇮147Mb | Hetzner Online GmbH	hw6.divarkhaghazi.com	465
-WORKS	YES	YES	193.223.107.109	DE	813	145	2	🇹🇷145Mb | Tabunscic Anatoli	79.137.192.88	8443
-FAIL	NO	NO			385	142		🇮🇶142Mb | WAIcore	213.165.54.59	8443
-WORKS	YES	NO			755	138		🇷🇺138Mb | Aeza Group	94.228.173.227	8443
-WORKS	YES	YES	201.58.183.147	US	1248	127	1	🇩🇪127Mb | Fzco	201.58.183.147	443
-FAIL	NO	NO			315	124		🇫🇷124Mb | OVH SAS	edge.bookmai.com	443
-WORKS	NO	NO			2751	121		🇩🇪121Mb | dataforest GmbH	3f5489t.de13.h1clayd.click	443
-WORKS	YES	YES	172.237.88.103	SG	906	115	5	🇸🇬115Mb | Akamai Connected Cloud	172.237.88.103	443
-FAIL	NO	NO			780	114		🇫🇮114Mb | Fzco	177.3.214.133	443
-FAIL	NO	NO			4002	97		🇸🇪97Mb | Fzco	swidenafterlanzerotte.space	443
-FAIL	NO	NO			470	93		🇺🇸93Mb | Servhost Group	883f1393.con.rasterparcel.tech	443
-FAIL	NO	NO			542	81		🇩🇪81Mb | Servhost Group	9187bd6f.con.fernarchive.online	443
-FAIL	NO	NO			4002	76		🇷🇺76Mb | Cloudflare	www.5199dy.com	443
-FAIL	NO	NO			475	63		🇬🇧63Mb | Servhost Group	6d160a52.con.fernarchive.online	443
-FAIL	NO	NO			4003	56		🇹🇭56Mb | LIGHT NODE LIMITED	38.60.233.38	22222
-WORKS	NO	YES			2548	54		🇵🇱54Mb | Korbank S A	185.32.6.26	443
+FAIL	NO	NO			2260	73		🇨🇳73Mb | Tencent Building Kejizhongyi Avenue	188.114.98.0	443
+WORKS	YES	YES	130.49.177.193	DE	1012	72	1	🇷🇺72Mb | Baykov Ilya Sergeevich	130.49.177.193	443
+WORKS	YES	YES	45.137.201.240	IT	572	70	3	🇮🇹70Mb | Julian Achter	45.137.201.74	443
+FAIL	NO	NO			507	68		🇹🇷68Mb | Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi	185.227.137.69	443
+FAIL	NO	NO			626	63		🇵🇱63Mb | Korbank S A	45.132.176.198	8444
+WORKS	YES	NO			1311	59		🇷🇺59Mb | Delta	188.130.209.222	443
+FAIL	NO	NO			60	56		🇰🇷56Mb | Oracle	172.64.158.47	443
+WORKS	YES	YES	130.49.177.193	DE	1038	54	2	🇷🇺54Mb | Baykov Ilya Sergeevich	de-2.ffpn.pro	443
