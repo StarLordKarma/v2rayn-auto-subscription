@@ -1,42 +1,85 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4003	304		🇳🇱304Mb | Timeweb LLP	79.174.84.19	8443
-FAIL	NO	NO			4002	264		🇩🇪264Mb | Hetzner Online GmbH	areal3.greewebservices.ir	4445
-FAIL	NO	NO			719	256		🇺🇸256Mb | Servhost Group	a91b8e.rasterparcel.tech	443
-WORKS	YES	YES	91.84.107.201	NL	891	237	2	🇳🇱237Mb | Servers Tech Fzco	193.5.250.131	443
-FAIL	NO	NO			508	237		🇵🇱237Mb | FDCserversnet	poland-new-new.failspace.top	443
-FAIL	NO	NO			587	222		🇩🇪222Mb | Cloud Software - FZCO	fl.privatevip.ir	27039
-FAIL	NO	NO			3424	207		🇵🇱207Mb | FDCserversnet	50.7.249.163	443
-FAIL	NO	NO			509	195		🇩🇪195Mb | Hetzner Online GmbH	static.77.119.140.128.clients.your-server.de	8443
-FAIL	NO	NO			423	193		🇷🇺193Mb | VK	78.159.246.179	2053
-FAIL	NO	NO			4002	190		🇳🇱190Mb | NovoServe BV	84.201.180.13	443
-FAIL	NO	NO			3142	188		🇮🇪188Mb | FDCserversnet	50.7.5.188	443
-FAIL	NO	NO			320	187		🇩🇪187Mb | ExpressHost	217.60.183.95	443
-FAIL	NO	NO			474	173		🇮🇶173Mb | WAIcore	213.165.54.59	8443
-FAIL	NO	NO			423	166		🇮🇪166Mb | FDCserversnet	ir-new-ded.failspace.top	443
-FAIL	NO	NO			4002	166		🇺🇸166Mb | Servhost Group	s12.bsh-net.ru	443
-FAIL	NO	NO			170	152		🇸🇪152Mb | Cloudflare	172.64.152.87	443
-FAIL	NO	NO			680	152		🇺🇸152Mb | Servhost Group	e2865c20.con.rasterparcel.tech	443
-WORKS	NO	NO			794	150		🇩🇪150Mb | Hetzner Online GmbH	hw7.divarkhaghazi.com	465
-WORKS	YES	YES	65.109.209.124	FI	800	123	5	🇫🇮123Mb | Hetzner Online GmbH	hw3.divarkhaghazi.com.	465
-WORKS	YES	YES	201.58.177.219	US	642	117	1	🇸🇪117Mb | Fzco	201.58.177.219	443
-WORKS	YES	YES	2.29.97.103	FI	884	117	6	🇫🇮117Mb | Hetzner Online GmbH	131.123.42.250	8443
-WORKS	NO	YES			804	100		🇩🇪100Mb | Hetzner Online GmbH	fly.lumexa.ir	443
-FAIL	NO	NO			1059	98		🇷🇺98Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			4002	92		🇨🇿92Mb | Datacamp Limited	cz-prg.dontblockmepls.com	2063
-FAIL	NO	NO			2683	89		🇳🇱89Mb | Cloudflare	104.21.71.249	443
-WORKS	YES	NO			745	88		🇷🇺88Mb | Aeza Group	94.228.173.227	8443
-FAIL	NO	NO			400	86		🇺🇸86Mb | Alexhost Srl	1e626999.con.metricdraft.tech	443
-FAIL	NO	NO			4003	85		🇦🇱85Mb | Cloudflare	130.49.189.56	443
-FAIL	NO	NO			2700	85		🇨🇳85Mb | Tencent Building Kejizhongyi Avenue	188.114.98.0	443
-FAIL	NO	NO			632	85		🇺🇸85Mb | Servhost Group	597dad6b.con.fernarchive.online	443
-FAIL	NO	NO			381	76		🇷🇺76Mb | VK	78.159.246.85	2053
-FAIL	NO	NO			4002	75		🇳🇱75Mb | Hostkey Bv	72.56.35.251	443
-WORKS	YES	YES	2.29.97.103	FI	1107	74	7	🇫🇮74Mb | Hetzner Online GmbH	6.bmi.ir.asopardaz.ir	8443
-WORKS	YES	YES	91.84.107.201	NL	1147	69	3	🇳🇱69Mb | Servers Tech Fzco	ru16.oshost.network	443
-FAIL	NO	NO			4003	69		🇨🇿69Mb | Datacamp Limited	31.77.13.22	2063
-FAIL	NO	NO			348	64		🇷🇺64Mb | VK	78.159.246.85	2053
-WORKS	YES	NO			3011	64		🇳🇱64Mb | Racktech Co	138.16.140.168	443
-WORKS	YES	YES	94.26.41.47	BG	559	62	4	🇩🇪62Mb | Dedik Services Limited	94.26.41.47	443
-FAIL	NO	NO			642	53		🇺🇸53Mb | Servhost Group	883f1393.con.rasterparcel.tech	443
-FAIL	NO	NO			566	53		🇷🇺53Mb | VK	fitindoor.net	2053
-FAIL	NO	NO			520	51		🇺🇸51Mb | Servhost Group	fl3.nexfile.net	4443
+FAIL	NO	NO			690	430		🇺🇸430Mb | NetCrafters OU	ru17.oshost.network	443
+FAIL	NO	NO			653	416		🇺🇸416Mb | NetCrafters OU	92.246.138.68	443
+FAIL	NO	NO			486	385		🇳🇱385Mb | Servers Tech Fzco	193.5.250.131	443
+FAIL	NO	NO			4002	355		🇸🇪355Mb | M247 Europe SRL	144.31.129.174	443
+FAIL	NO	NO			509	347		🇳🇱347Mb | Servers Tech Fzco	ru16.oshost.network	443
+FAIL	NO	NO			415	320		🇩🇪320Mb | Hetzner Online GmbH	static.77.119.140.128.clients.your-server.de	8443
+FAIL	NO	NO			425	317		🇫🇮317Mb | DigitalEra Tech OU	185.119.81.20	443
+FAIL	NO	NO			528	310		🇺🇸310Mb | Servhost Group	a91b8e.rasterparcel.tech	443
+FAIL	NO	NO			758	309		🇺🇸309Mb | Servhost Group	e2865c20.con.rasterparcel.tech	443
+FAIL	NO	NO			511	303		🇷🇺303Mb | VK	randomquaint.net	2053
+WORKS	YES	YES	130.49.189.77	AL	593	302	12	🇷🇺302Mb | Global Connectivity Solutions Llp	131.123.25.51	443
+FAIL	NO	NO			708	301		🇧🇬301Mb | Belcloud	randomquaint.net	8443
+FAIL	NO	NO			517	293		🇩🇪293Mb | Hetzner Online GmbH	areal3.greewebservices.ir	4445
+WORKS	YES	YES	94.228.162.222	AT	2621	280	24	🇷🇺280Mb | Aeza Group	vena.solomon-planet.ru	443
+FAIL	NO	NO			327	266		🇳🇴266Mb | Sino Worldwide Trading Limited	no.undeadcorporation.art	8443
+FAIL	NO	NO			338	263		🇷🇺263Mb | VK	78.159.246.85	2053
+FAIL	NO	NO			1825	262		🇩🇪262Mb | Need LLC-FZ	vivozim.vyvoz-musora.cc	443
+FAIL	NO	NO			3229	261		🇫🇮261Mb | Hetzner Online GmbH	65.109.209.124	465
+FAIL	NO	NO			583	254		🇩🇪254Mb | Servhost Group	9187bd6f.con.fernarchive.online	443
+FAIL	NO	NO			503	251		🇷🇺251Mb | VK	fitindoor.net	2053
+FAIL	NO	NO			194	247		🇩🇪247Mb | ExpressHost	217.60.183.95	443
+WORKS	YES	YES	201.58.183.147	US	400	232	5	🇩🇪232Mb | Fzco	201.58.183.147	443
+FAIL	NO	NO			346	223		🇳🇱223Mb | Digital Hosting Provider	nl3.undeadcorporation.art	8443
+FAIL	NO	NO			21	220		🇹🇷220Mb | YottaSrc	146.75.35.80	443
+FAIL	NO	NO			441	219		🇷🇺219Mb | VK	fitindoor.net	2053
+FAIL	NO	NO			357	218		🇺🇸218Mb | Servhost Group	bl1.nexfile.net	4443
+FAIL	NO	NO			520	202		🇩🇪202Mb | WAIcore	podcasts.blog-forme.ru	2083
+FAIL	NO	NO			295	202		🇩🇪202Mb | WAIcore	178.17.52.236	2083
+FAIL	NO	NO			261	200		🇷🇺200Mb | VK	78.159.246.85	2053
+WORKS	YES	YES	93.152.223.244	DE	368	198	6	🇧🇬198Mb | RMP Protection Limited	93.152.223.244	443
+FAIL	NO	NO			4002	198		🇲🇽198Mb | BrainStorm Network	mx1.accessboy.com	443
+FAIL	NO	NO			407	193		🇧🇬193Mb | Belcloud	78.159.246.179	8443
+WORKS	YES	YES	76.164.203.105	ES	610	190	13	🇪🇸190Mb | Interkvm Host Srl	156.252.229.136	8443
+WORKS	YES	YES	201.58.186.175	US	386	190	4	🌐190Mb | 0247 | 🌐 Unknown | VLESS | TG:	hollandlanzerotte.xyz	443
+FAIL	NO	NO			442	187		🇬🇧187Mb | Servhost Group	6d160a52.con.fernarchive.online	443
+WORKS	YES	NO			1071	185		🇲🇽185Mb | BrainStorm Network	147.78.1.73	443
+FAIL	NO	NO			4002	181		🇷🇺181Mb | VK	78.159.246.179	2053
+WORKS	YES	YES	94.228.162.222	AT	1594	177	23	🇷🇺177Mb | Aeza Group	94.228.162.222	443
+FAIL	NO	NO			526	172		🇺🇸172Mb | Servhost Group	597dad6b.con.fernarchive.online	443
+FAIL	NO	NO			445	171		🇺🇸171Mb | Servhost Group	883f1393.con.rasterparcel.tech	443
+FAIL	NO	NO			2580	168		🇨🇳168Mb | Tencent Building Kejizhongyi Avenue	188.114.98.0	443
+WORKS	YES	YES	84.32.34.32	US	154	167	2	🇺🇸167Mb | UAB Cherry Servers	us2.accessboy.com	443
+WORKS	YES	YES	104.28.251.13	AL	1021	165	21	🇦🇱165Mb | Cloudflare	al.reus.lol	443
+FAIL	NO	NO			414	165		🇧🇬165Mb | Belcloud	78.159.246.85	8443
+WORKS	YES	YES			450	154		🇳🇱154Mb | Racktech Co	138.16.140.168	443
+WORKS	YES	YES	201.58.186.175	US	362	154	3	🌐154Mb | 🇺🇸 США 62 Ace Data Centers II,	201.58.186.175	443
+FAIL	NO	NO			575	148		🇫🇮148Mb | Fzco	planktonmanager.xyz	443
+FAIL	NO	NO			2809	144		🇩🇪144Mb | WAIcore	213.165.54.59	8443
+WORKS	YES	NO			578	139		🇷🇺139Mb | Aeza Group	94.228.173.227	8443
+FAIL	NO	NO			486	136		🇩🇪136Mb | Akenai Products	185.76.241.20	8443
+WORKS	YES	YES	2.26.93.152	SE	878	131	18	🇺🇸131Mb | Servhost Group	s12.bsh-net.ru	443
+WORKS	YES	YES	2.29.97.103	FI	715	130	15	🇫🇮130Mb | Hetzner Online GmbH	131.123.42.250	8443
+WORKS	YES	YES	109.104.155.121	BR	549	129	9	🇧🇷129Mb | BrainStorm Network	br1.accessboy.com	443
+FAIL	NO	NO			567	126		🇪🇪126Mb | ExpressHost	ee-2e06d85dc0.shamanapp.online	34451
+FAIL	NO	NO			4002	120		🇸🇬120Mb | The Constant Company	45.32.117.217	443
+FAIL	NO	NO			345	117		🇺🇸117Mb | Alexhost Srl	1e626999.con.metricdraft.tech	443
+WORKS	YES	YES	185.231.233.139	PT	552	114	10	🇵🇹114Mb | BrainStorm Network	pt1.accessboy.com	443
+WORKS	YES	YES	185.231.233.139	PT	481	113	8	🇵🇹113Mb | BrainStorm Network	185.231.233.139	443
+FAIL	NO	NO			539	106		🇯🇵106Mb | Leaseweb Japan KK	jp.vpber.info	443
+FAIL	NO	NO			340	105		🇩🇪105Mb | WAIcore	212.34.128.120	2083
+WORKS	YES	YES	104.28.251.13	AL	830	100	17	🇦🇱100Mb | Cloudflare	130.49.189.56	443
+WORKS	YES	YES	185.4.180.84	KZ	1386	98	22	🇰🇿98Mb | PS Internet Company LLP	ru-kz2.bsh-net.ru	443
+FAIL	NO	NO			369	96		🇷🇺96Mb | Baxet	9792205ac100.fuhuovps.xyz	443
+FAIL	NO	NO			402	93		🇩🇪93Mb | WAIcore	132.243.230.251	443
+FAIL	NO	NO			561	88		🇷🇺88Mb | Baxet	d9def735c462.fuhuovps.xyz	443
+FAIL	NO	NO			270	85		🇷🇺85Mb | VK	81.94.148.232	2053
+FAIL	NO	NO			4002	84		🇫🇷84Mb | M247 Europe SRL	fr.privatevip.ir	451
+FAIL	NO	NO			576	84		🇳🇱84Mb | Servers Tech Fzco	podcasts.blog-forme.ru	443
+WORKS	YES	YES	2.29.97.103	FI	879	83	19	🇫🇮83Mb | Hetzner Online GmbH	6.bmi.ir.asopardaz.ir	8443
+FAIL	NO	NO			4002	77		🇫🇮77Mb | UpCloud	de.privatevip.ir	443
+WORKS	YES	YES	185.32.6.26	PL	3004	76	25	🇵🇱76Mb | Korbank S A	185.32.6.26	443
+WORKS	YES	YES	185.4.180.84	KZ	1021	73	20	🇰🇿73Mb | PS Internet Company LLP	62.113.36.79	443
+WORKS	YES	YES	91.107.180.176	DE	578	72	7	🇩🇪72Mb | Hetzner Online GmbH	hw7.divarkhaghazi.com	465
+FAIL	NO	NO			2585	70		🇹🇭70Mb | Bangmod Enterprise Co	188.114.97.6	443
+FAIL	NO	NO			401	68		🇳🇱68Mb | Servers Tech Fzco	radio.blog-forme.ru	443
+WORKS	YES	YES	38.60.206.51	US	74	63	1	🇺🇸63Mb | LIGHT NODE LIMITED	us001.zestapp778.com	54857
+WORKS	YES	YES	130.49.189.77	AL	588	62	11	🇷🇺62Mb | Global Connectivity Solutions Llp	131.123.25.47	443
+FAIL	NO	NO			376	58		🇫🇮58Mb | UpCloud	de.privatevip.ir	446
+FAIL	NO	NO			4003	58		🇧🇬58Mb | M247 Europe SRL	gb.privatevip.ir	449
+WORKS	YES	YES	150.40.126.19	RS	648	56	14	🇷🇸56Mb | MAXKO doo	150.40.126.19	443
+WORKS	YES	YES	89.35.14.32	MD	821	56	16	🇲🇩56Mb | Moldtelecom SA	md3.univesalsrv.com	443
+WORKS	NO	YES			935	56		🇸🇬56Mb | The Constant Company	sg003.zestapp778.com	443
+FAIL	NO	NO			297	52		🇷🇺52Mb | Baxet	69d2cbcdc461.fuhuovps.xyz	443
+FAIL	NO	NO			4003	51		🇩🇪51Mb | dataforest GmbH	lvi.su	443
