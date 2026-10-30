@@ -1,9 +1,17 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			2260	73		🇨🇳73Mb | Tencent Building Kejizhongyi Avenue	188.114.98.0	443
-WORKS	YES	YES	130.49.177.193	DE	1012	72	1	🇷🇺72Mb | Baykov Ilya Sergeevich	130.49.177.193	443
-WORKS	YES	YES	45.137.201.240	IT	572	70	3	🇮🇹70Mb | Julian Achter	45.137.201.74	443
-FAIL	NO	NO			507	68		🇹🇷68Mb | Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi	185.227.137.69	443
-FAIL	NO	NO			626	63		🇵🇱63Mb | Korbank S A	45.132.176.198	8444
-WORKS	YES	NO			1311	59		🇷🇺59Mb | Delta	188.130.209.222	443
-FAIL	NO	NO			60	56		🇰🇷56Mb | Oracle	172.64.158.47	443
-WORKS	YES	YES	130.49.177.193	DE	1038	54	2	🇷🇺54Mb | Baykov Ilya Sergeevich	de-2.ffpn.pro	443
+FAIL	NO	NO			3321	87		🇷🇺87Mb | Kviktel	185.147.27.164	8443
+FAIL	NO	NO			2386	77		🇺🇸77Mb | HostPapa	lat.wawojk.dpdns.org	443
+WORKS	YES	YES	144.31.140.125	DE	413	73	3	🇩🇪73Mb | DpkgSoft International Limited	144.31.140.125	8443
+FAIL	NO	NO			2132	72		🇨🇳72Mb | Tencent Building Kejizhongyi Avenue	188.114.98.0	443
+WORKS	YES	YES	45.137.201.240	IT	499	65	4	🇮🇹65Mb | Julian Achter	45.137.201.74	443
+FAIL	NO	NO			2172	63		🇸🇬63Mb | Akamai Connected Cloud	support.zoom.us	8080
+WORKS	YES	YES	93.152.223.244	DE	389	62	2	🇧🇬62Mb | RMP Protection Limited	93.152.223.244	443
+FAIL	NO	NO			480	62		🇫🇮62Mb | Hetzner Online GmbH	static.44.128.217.95.clients.your-server.de	8443
+WORKS	YES	YES	201.58.183.99	US	396	58	1	🇩🇪58Mb | Fzco	201.58.183.99	443
+FAIL	NO	NO			298	55		🇩🇪55Mb | WAIcore	178.17.52.236	2083
+FAIL	NO	NO			513	53		🇺🇸53Mb | Servhost Group	a91b8e.rasterparcel.tech	443
+WORKS	YES	YES	188.130.209.137	RU	620	53	6	🇷🇺53Mb | Delta	188.130.209.222	443
+WORKS	NO	YES			436	52		🇩🇪52Mb | Fzco	201.58.183.147	443
+WORKS	NO	YES			709	52		🇨🇿52Mb | Datacamp Limited	cz-prg.dontblockmepls.com	2063
+FAIL	NO	NO			375	51		🇷🇺51Mb | Global Connectivity Solutions Llp	friren.iki-servers.com	443
+WORKS	YES	YES	104.28.251.13	AL	583	50	5	🇦🇱50Mb | Cloudflare	130.49.189.56	443
