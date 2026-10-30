@@ -1,17 +1,17 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			3321	87		🇷🇺87Mb | Kviktel	185.147.27.164	8443
-FAIL	NO	NO			2386	77		🇺🇸77Mb | HostPapa	lat.wawojk.dpdns.org	443
-WORKS	YES	YES	144.31.140.125	DE	413	73	3	🇩🇪73Mb | DpkgSoft International Limited	144.31.140.125	8443
-FAIL	NO	NO			2132	72		🇨🇳72Mb | Tencent Building Kejizhongyi Avenue	188.114.98.0	443
-WORKS	YES	YES	45.137.201.240	IT	499	65	4	🇮🇹65Mb | Julian Achter	45.137.201.74	443
-FAIL	NO	NO			2172	63		🇸🇬63Mb | Akamai Connected Cloud	support.zoom.us	8080
-WORKS	YES	YES	93.152.223.244	DE	389	62	2	🇧🇬62Mb | RMP Protection Limited	93.152.223.244	443
-FAIL	NO	NO			480	62		🇫🇮62Mb | Hetzner Online GmbH	static.44.128.217.95.clients.your-server.de	8443
-WORKS	YES	YES	201.58.183.99	US	396	58	1	🇩🇪58Mb | Fzco	201.58.183.99	443
-FAIL	NO	NO			298	55		🇩🇪55Mb | WAIcore	178.17.52.236	2083
-FAIL	NO	NO			513	53		🇺🇸53Mb | Servhost Group	a91b8e.rasterparcel.tech	443
-WORKS	YES	YES	188.130.209.137	RU	620	53	6	🇷🇺53Mb | Delta	188.130.209.222	443
-WORKS	NO	YES			436	52		🇩🇪52Mb | Fzco	201.58.183.147	443
-WORKS	NO	YES			709	52		🇨🇿52Mb | Datacamp Limited	cz-prg.dontblockmepls.com	2063
-FAIL	NO	NO			375	51		🇷🇺51Mb | Global Connectivity Solutions Llp	friren.iki-servers.com	443
-WORKS	YES	YES	104.28.251.13	AL	583	50	5	🇦🇱50Mb | Cloudflare	130.49.189.56	443
+WORKS	YES	NO			1878	71		🇦🇱71Mb | Cloudflare	al.reus.lol	443
+FAIL	NO	NO			2168	66		🇨🇭66Mb | Baykov Ilya Sergeevich	8.6.112.0	2087
+WORKS	YES	YES	144.31.171.52	PL	1242	66	3	🇵🇱66Mb | Oc Networks Limited	plhd.sonicservice.digital	443
+FAIL	NO	NO			4001	64		🇷🇺64Mb | Delta	188.130.209.222	443
+FAIL	NO	NO			341	63		🇪🇪63Mb | ExpressHost	31.56.187.35	34451
+FAIL	NO	NO			2144	60		🇸🇪60Mb | Cloudflare	172.67.184.45	443
+FAIL	NO	NO			2267	60		🇷🇺60Mb | Cloudflare	www.speedtest.net	443
+FAIL	NO	NO			2130	59		🇩🇪59Mb | Cloudflare	172.67.75.194	2096
+FAIL	NO	NO			4002	58		🇩🇪58Mb | ExpressHost	217.60.151.187	47443
+WORKS	NO	YES			761	57		🇨🇿57Mb | Datacamp Limited	cz-prg.dontblockmepls.com	2063
+FAIL	NO	NO			361	56		🇩🇪56Mb | H2nexus Cloud Services - Fzco	109.120.137.98	443
+FAIL	NO	NO			242	55		🇷🇺55Mb | Baxet	69d2cbcdc461.fuhuovps.xyz	443
+WORKS	YES	YES	5.175.134.67	RU	496	53	1	🇷🇺53Mb | Yanislav Basiuk	94.249.148.20	443
+FAIL	NO	NO			2097	51		🇩🇪51Mb | Cloudflare	104.26.13.31	8080
+WORKS	NO	YES			2101	51		🇰🇿51Mb | JSC Kazakhtelecom	95.56.251.12	47443
+WORKS	YES	YES	45.137.201.240	IT	819	51	2	🇮🇹51Mb | Julian Achter	bg.reus.lol	443
