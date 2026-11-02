@@ -1,48 +1,16 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	88.216.127.164	LT	692	383	13	🇱🇹383Mb | UAB Cherry Servers	admin.betust.net	443
-FAIL	NO	NO			231	371		🇩🇪371Mb | Hetzner Online GmbH	167.82.76.27	80
-FAIL	NO	NO			276	365		🇷🇺365Mb | VK	50.7.157.238	443
-WORKS	YES	YES	185.66.68.201	BY	2033	312	17	🇧🇾312Mb | Republican Unitary Telecommunication Enterprise Beltelecom	185.66.68.201	8080
-FAIL	NO	NO			4000	271		🇩🇪271Mb | Scalaxy BV	renderer-bridge-2-129.mirra.now	443
-FAIL	NO	NO			567	261		🇳🇱261Mb | Servers Tech Fzco	shorts.blog-forme.ru	443
-FAIL	NO	NO			2364	258		🇩🇪258Mb | Scalaxy BV	89.169.47.96	443
-WORKS	YES	YES	50.7.193.149	GB	695	256	3	🇬🇧256Mb | FDCserversnet	50.7.193.131	443
-FAIL	NO	NO			1321	226		🇬🇧226Mb | FDCserversnet	prime.jarbook.net	443
-WORKS	NO	YES			1963	214		🇺🇸214Mb | Servhost Group	150.241.74.29	443
-WORKS	NO	NO			830	200		🇩🇪200Mb | HFM SRL	188.241.241.36	8443
-WORKS	YES	YES	147.45.148.6	RU	685	199	12	🇷🇺199Mb | Jsc timeweb	147.45.148.6	443
-FAIL	NO	NO			1589	194		🇺🇸194Mb | Servhost Group	swo2.nexfile.net	4443
-FAIL	NO	NO			4001	193		🇪🇪193Mb | Stencloud	132.243.74.100	2087
-FAIL	NO	NO			744	189		🇷🇺189Mb | NetCrafters OU	82.40.62.112	443
-FAIL	NO	NO			2183	189		🇸🇪189Mb | Cloudflare	172.64.229.72	443
-WORKS	YES	YES	88.216.182.0	DE	521	187	5	🇩🇪187Mb | UAB Cherry Servers	88.216.70.39	443
-WORKS	YES	YES	84.32.217.29	SE	1092	184	15	🇸🇪184Mb | UAB Cherry Servers	88.216.223.100	443
-WORKS	YES	YES	52.14.25.60	US	350	183	2	🇺🇸183Mb | Amazoncom	uso.zqpm.ir	8443
-FAIL	NO	NO			2181	179		🇸🇬179Mb | Datacamp Limited	104.17.3.81	443
-FAIL	NO	NO			4002	161		🇮🇶161Mb | WAIcore	213.165.54.59	8443
-WORKS	YES	YES			3666	159		🇺🇸159Mb | FDCserversnet	50.7.176.123	443
-FAIL	NO	NO			2074	158		🇫🇮158Mb | Cloudflare	188.164.248.216	443
-WORKS	YES	YES	45.43.75.111	GB	775	156	4	🇬🇧156Mb | YottaSrc	213.159.209.66	443
-FAIL	NO	NO			395	149		🇩🇪149Mb | WAIcore	132.243.230.251	443
-FAIL	NO	NO			2057	149		🇸🇪149Mb | Cloudflare	104.19.90.200	443
-FAIL	NO	NO			1756	147		🇸🇨147Mb | BitCommand	n1.fllow.ir	25457
-FAIL	NO	NO			1339	146		🇫🇷146Mb | YottaSrc	mojif.fusetea.ir	1080
-WORKS	YES	YES	84.32.151.248	LT	765	143	14	🇱🇹143Mb | UAB Cherry Servers	lorettmay.top	443
-WORKS	NO	YES			539	143		🇱🇹143Mb | UAB Cherry Servers	93.115.24.135	443
-WORKS	YES	YES	31.76.5.153	NO	751	138	10	🇺🇸138Mb | Servhost Group	144.31.217.148	443
-FAIL	NO	NO			4003	136		🇷🇺136Mb | Global Connectivity Solutions Llp	friren.iki-servers.com	443
-WORKS	YES	YES	31.76.5.153	NO	3084	136	11	🇺🇸136Mb | Servhost Group	norvegia29838199399293838.izzzyvpn.space	443
-WORKS	YES	YES	84.32.177.74	NL	392	135	7	🇳🇱135Mb | UAB Cherry Servers	84.32.177.63	443
-FAIL	NO	NO			2073	114		🇸🇪114Mb | Cloudflare	104.16.34.14	443
-WORKS	YES	YES	195.189.97.12	NL	486	102	8	🇳🇱102Mb | UAB Cherry Servers	book.jarbook.net	443
-FAIL	NO	NO			3272	93		🇵🇱93Mb | Podaon SIA	145.63.143.205	8444
-FAIL	NO	NO			3281	89		🇵🇱89Mb | Podaon SIA	145.63.143.205	8444
-WORKS	YES	YES	85.193.85.231	RU	1319	87	16	🇷🇺87Mb | Jsc timeweb	85.193.85.231	443
-WORKS	YES	YES	32.199.151.91	US	30	81	1	🇺🇸81Mb | Amazoncom	32.199.151.91	80
-FAIL	NO	NO			4003	79		🇩🇪79Mb | Hostox Group Srl	163.245.41.49	2096
-WORKS	YES	NO			528	74		🇳🇱74Mb | UAB Cherry Servers	app.betust.net	443
-WORKS	YES	YES	195.189.97.12	NL	530	73	9	🇳🇱73Mb | UAB Cherry Servers	84.32.101.84	443
-FAIL	NO	NO			346	73		🇰🇿73Mb | VK	185.155.55.3	8443
-FAIL	NO	NO			335	71		🇷🇺71Mb | VK	103.246.248.20	443
-FAIL	NO	NO			2252	68		🇷🇺68Mb | Global Connectivity Solutions Llp	147.45.126.220	443
-WORKS	YES	YES	84.32.177.108	NL	364	49	6	🇳🇱49Mb | UAB Cherry Servers	195.189.98.197	443
+WORKS	YES	YES	88.216.127.164	LT	687	77	9	🇱🇹77Mb | UAB Cherry Servers	admin.betust.net	443
+FAIL	NO	NO			286	74		🇩🇪74Mb | WAIcore	178.17.52.236	2083
+WORKS	NO	NO			973	73		🇩🇪73Mb | Need LLC-FZ	vivozim.vyvoz-musora.cc	443
+WORKS	YES	YES	5.35.37.162	NL	395	73	5	🇳🇱73Mb | Servers Tech Fzco	vvsvvs.soreanapanel.com	443
+WORKS	YES	YES	88.216.182.0	DE	533	71	3	🇩🇪71Mb | UAB Cherry Servers	tickets.betust.net	443
+WORKS	YES	YES	88.216.182.0	DE	407	68	2	🇩🇪68Mb | UAB Cherry Servers	88.216.70.39	443
+WORKS	YES	YES	191.217.211.161	PL	442	68	7	🇵🇱68Mb | Kochedykov Egor Aleksandrovich	191.217.211.161	443
+WORKS	YES	YES	50.7.193.149	GB	382	67	1	🇬🇧67Mb | FDCserversnet	prime.jarbook.net	443
+WORKS	YES	YES	177.3.219.120	NL	393	62	4	🇳🇱62Mb | Fzco	hollandlanzerotte.xyz	443
+FAIL	NO	NO			398	60		🇮🇶60Mb | WAIcore	213.165.54.59	8443
+WORKS	YES	YES	45.86.60.174	EE	334	57	6	🇨🇾57Mb | Edge Core FZE	45.86.60.174	16443
+WORKS	YES	YES	88.216.127.164	LT	567	55	8	🇱🇹55Mb | UAB Cherry Servers	93.115.24.135	443
+WORKS	YES	YES			529	52		🇺🇸52Mb | Servhost Group	150.241.74.29	443
+FAIL	NO	NO			285	52		🇪🇪52Mb | ExpressHost	31.56.187.35	34451
+FAIL	NO	NO			595	50		🇸🇪50Mb | Andris Jakovlevs	se-5060f39afb.shamanapp.online	33744
