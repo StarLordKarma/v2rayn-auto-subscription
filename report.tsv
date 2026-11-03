@@ -1,51 +1,83 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	50.7.95.198	NL	355	399		🇺🇸399Mb | FDCserversnet	50.7.95.196	443
-WORKS	NO	YES			966	362		🇱🇹362Mb | UAB Cherry Servers	admin.betust.net	443
-WORKS	YES	YES	84.32.177.74	NL	659	354	7	🇳🇱354Mb | UAB Cherry Servers	app.betust.net	443
-WORKS	YES	YES	84.32.154.110	SE	768	353	15	🇸🇪353Mb | UAB Cherry Servers	81.163.22.143	443
-WORKS	YES	YES	50.7.95.198	NL	366	344	5	🇺🇸344Mb | FDCserversnet	50.7.95.196	443
-WORKS	NO	YES			3993	317		🇸🇪317Mb | UAB Cherry Servers	81.163.22.194	443
-FAIL	NO	NO			295	316		🇬🇧316Mb | FDCserversnet	prime.jarbook.net	443
-FAIL	NO	NO			259	310		🇬🇧310Mb | FDCserversnet	50.7.193.131	443
-FAIL	NO	NO			4002	304		🇺🇸304Mb | Servhost Group	cdn.izzzyvpn.space	443
-WORKS	YES	YES	88.216.182.0	DE	589	289	3	🇩🇪289Mb | UAB Cherry Servers	tickets.betust.net	443
-WORKS	YES	YES	84.32.177.74	NL	365	275	4	🇳🇱275Mb | UAB Cherry Servers	84.32.177.63	443
-WORKS	YES	YES	45.141.202.67	NL	538	268	6	🇳🇱268Mb | RoyaleHosting BV	45.141.202.69	443
-WORKS	YES	YES	65.109.185.208	FI	1349	263	19	🇫🇮263Mb | Hetzner Online GmbH	ams.zovip2.ir	443
-WORKS	NO	YES			528	259		🇱🇹259Mb | UAB Cherry Servers	93.115.24.135	443
-WORKS	YES	YES	191.217.211.161	PL	642	255	13	🇵🇱255Mb | Kochedykov Egor Aleksandrovich	191.217.211.161	443
-FAIL	NO	NO			129	251		🇫🇮251Mb | Hetzner Online GmbH	104.21.224.197	2086
-WORKS	NO	YES			582	243		🇱🇹243Mb | UAB Cherry Servers	93.115.24.135	443
-FAIL	NO	NO			287	240		🇸🇪240Mb | Andris Jakovlevs	89.125.37.175	33744
-WORKS	YES	YES	191.217.211.228	PL	939	212	17	🇵🇱212Mb | Kochedykov Egor Aleksandrovich	217.19.122.170	2096
-WORKS	YES	YES	84.32.217.29	SE	2359	210	20	🇸🇪210Mb | UAB Cherry Servers	smart.bachidze.com	443
-FAIL	NO	NO			264	208		🇪🇪208Mb | ExpressHost	31.56.187.35	34451
-FAIL	NO	NO			2070	206		🇸🇪206Mb | Cloudflare	104.20.61.103	443
-WORKS	NO	YES			2401	202		🇺🇸202Mb | Servhost Group	150.241.74.29	443
-WORKS	YES	YES	88.216.182.0	DE	460	198	2	🇩🇪198Mb | UAB Cherry Servers	88.216.70.39	443
-WORKS	YES	YES	144.31.3.58	PL	466	197	11	🇵🇱197Mb | H2nexus Cloud Services - Fzco	144.31.4.234	443
-WORKS	YES	YES	147.45.148.6	RU	597	192	12	🇷🇺192Mb | Jsc timeweb	yoy-api.bachidze.com	443
-WORKS	YES	YES	193.36.132.169	NL	1427	183	9	🇳🇱183Mb | Hollander & Jacobsen UG (haftungsbeschraenkt)	cdn372.whitenw.net	12443
-FAIL	NO	NO			2083	168		🇸🇪168Mb | Cloudflare	104.18.51.110	443
-WORKS	YES	YES	209.141.48.157	US	502	155	1	🇺🇸155Mb | FranTech Solutions	209.141.49.243	443
-WORKS	YES	NO			594	140		🇷🇺140Mb | Jsc timeweb	147.45.148.6	443
-WORKS	YES	YES	195.189.97.12	NL	868	134	8	🇳🇱134Mb | UAB Cherry Servers	84.32.101.84	443
-WORKS	YES	YES	31.76.5.153	NO	820	133	10	🇺🇸133Mb | Servhost Group	144.31.217.148	443
-WORKS	YES	YES			83	124		🇷🇺124Mb | Cloudflare	ccc.010304.xyz	443
-FAIL	NO	NO			604	117		🇺🇸117Mb | Nekobyte International Limited	191.217.231.90	8448
-FAIL	NO	NO			2177	114		🇨🇳114Mb | Tencent Building Kejizhongyi Avenue	188.114.98.0	443
-FAIL	NO	NO			2171	111		🇨🇳111Mb | Tencent Building Kejizhongyi Avenue	172.67.166.188	443
-FAIL	NO	NO			4003	105		🇩🇪105Mb | WAIcore	132.243.230.251	443
-FAIL	NO	NO			97	103		🇷🇺103Mb | Cloudflare	www.visa.com.sg	8443
-FAIL	NO	NO			71	102		🇺🇸102Mb | HostPapa	192.227.169.125	443
-WORKS	YES	YES	150.251.112.45	PL	1231	101	18	🇵🇱101Mb | Regxa Company for Information Technology	150.251.112.45	2066
-FAIL	NO	NO			81	98		🇺🇸98Mb | HostPapa	s482.sspcccdn.xyz	443
-FAIL	NO	NO			155	93		🇺🇸93Mb | FranTech Solutions	s1292.sspcccdn.xyz	443
-FAIL	NO	NO			544	84		🇷🇺84Mb | NetCrafters OU	82.40.62.112	443
-WORKS	YES	YES	31.76.91.98	JP	655	84	14	🇯🇵84Mb | Akenai Products	fuji.etherhub.cc	443
-FAIL	NO	NO			4002	77		🇸🇬77Mb | The Constant Company	sg003.zestapp778.com	443
-FAIL	NO	NO			2068	76		🇨🇳76Mb | Tencent Building Kejizhongyi Avenue	104.17.11.191	443
-WORKS	YES	YES	91.108.239.16	FI	934	71	16	🇫🇮71Mb | Inios Oy	dedsec1523plus.ru	11157
-FAIL	NO	NO			2052	68		🇸🇪68Mb | Cloudflare	104.18.41.86	443
-FAIL	NO	NO			163	65		🇩🇪65Mb | Timeweb LLP	31.130.151.160	18443
-FAIL	NO	NO			4003	53		🇺🇦53Mb | Baxet Group	s281.wagahaha.xyz	443
+WORKS	YES	YES	50.7.193.149	GB	456	393	4	🇬🇧393Mb | FDCserversnet	prime.jarbook.net	443
+FAIL	NO	NO			4002	380		🇮🇶380Mb | WAIcore	213.165.54.59	8443
+FAIL	NO	NO			146	377		🇫🇮377Mb | Hetzner Online GmbH	188.114.97.6	2086
+WORKS	YES	YES	84.32.110.129	LT	560	373	26	🇱🇹373Mb | UAB Cherry Servers	88.216.127.115	443
+WORKS	NO	YES			1664	371		🇸🇪371Mb | UAB Cherry Servers	join.betust.net	443
+WORKS	YES	YES	88.216.182.0	DE	448	296	5	🇩🇪296Mb | UAB Cherry Servers	88.216.70.39	443
+FAIL	NO	NO			4002	293		🇳🇱293Mb | Senko Digital	144.31.122.46	8443
+WORKS	YES	YES	185.246.131.55	BG	577	291	27	🇧🇬291Mb | BrainStorm Network	185.246.131.55	443
+WORKS	NO	YES			572	290		🇱🇹290Mb | UAB Cherry Servers	84.32.215.96	443
+FAIL	NO	NO			4002	273		🇳🇴273Mb | BrainStorm Network	185.90.61.65	443
+FAIL	NO	NO			483	269		🇩🇪269Mb | Hetzner Online GmbH	static.229.163.46.78.clients.your-server.de	8443
+WORKS	YES	YES			988	267		🇩🇪267Mb | Cloudflare	rm2.rmastore.ir	443
+FAIL	NO	NO			3216	263		🇸🇰263Mb | eServer sro	185.112.249.7	443
+WORKS	YES	YES	88.216.182.0	DE	873	262	8	🇩🇪262Mb | UAB Cherry Servers	tickets.betust.net	443
+FAIL	NO	NO			3084	262		🇳🇱262Mb | Digital City FZE	150.237.76.231	443
+WORKS	YES	YES	144.31.3.58	PL	521	254	22	🇵🇱254Mb | H2nexus Cloud Services - Fzco	144.31.4.234	443
+WORKS	YES	YES	109.122.196.223	DE	607	254	7	🇳🇱254Mb | HNielsen Technologies ApS	nl-modx-roy.nodexphere.net	443
+WORKS	YES	YES	143.246.182.103	GB	416	252	3	🇺🇸252Mb | WEYRO	5.104.74.5	8443
+WORKS	NO	YES			1416	238		🇸🇪238Mb | UAB Cherry Servers	81.163.22.143	443
+FAIL	NO	NO			3257	234		🇨🇿234Mb | Iron Hosting Centre	178.208.89.21	443
+FAIL	NO	NO			355	225		🇳🇱225Mb | Servers Tech Fzco	91.84.115.36	443
+WORKS	YES	YES	84.32.217.29	SE	721	210	31	🇸🇪210Mb | UAB Cherry Servers	88.216.223.100	443
+WORKS	YES	YES	143.246.182.199	GB	412	210	2	🇺🇸210Mb | WEYRO	5.104.74.25	8443
+WORKS	YES	NO			613	206		🇷🇺206Mb | KVANTA	89.19.223.227	443
+WORKS	YES	YES	78.17.93.30	CA	142	206	19	🇨🇦206Mb | Rica Web Services	78.17.93.30	443
+WORKS	YES	YES	152.114.194.147	ES	726	203	32	🇪🇸203Mb | Hostkey Bv	es1.fox-lisa.ru	443
+WORKS	YES	YES	86.54.83.33	IE	1864	200	41	🇮🇪200Mb | BrainStorm Network	ie1.fox-lisa.ru	443
+FAIL	NO	NO			377	199		🇪🇪199Mb | ExpressHost	31.56.187.235	443
+FAIL	NO	NO			2285	198		🇨🇳198Mb | Tencent Building Kejizhongyi Avenue	172.67.166.188	443
+WORKS	YES	YES	163.245.52.41	EE	763	195	33	🇪🇪195Mb | Andris Jakovlevs	ee.frgcdn.xyz	443
+WORKS	YES	YES	191.217.211.228	PL	907	194	35	🇵🇱194Mb | Kochedykov Egor Aleksandrovich	217.19.122.170	2096
+FAIL	NO	NO			3338	192		🇺🇸192Mb | Baxet Group	177.3.193.43	443
+FAIL	NO	NO			2074	187		🇷🇺187Mb | Cloudflare	104.18.41.86	443
+WORKS	YES	YES	31.76.55.42	EE	1119	185	37	🇺🇸185Mb | Servhost Group	cdn.izzzyvpn.space	443
+WORKS	YES	YES	217.60.52.143	BG	557	178	25	🇧🇬178Mb | AdaptGroup	217.60.52.143	443
+WORKS	YES	YES	84.32.188.204	NL	434	177	11	🇳🇱177Mb | UAB Cherry Servers	84.32.101.107	443
+WORKS	YES	YES	78.17.93.30	CA	301	174	20	🇨🇦174Mb | Rica Web Services	ca1.fox-lisa.ru	443
+FAIL	NO	NO			3637	173		🇺🇸173Mb | Baxet Group	177.3.193.191	443
+WORKS	YES	YES	84.32.177.68	NL	414	169	9	🇳🇱169Mb | UAB Cherry Servers	195.189.98.123	443
+WORKS	YES	YES	143.246.182.103	GB	420	168		🇺🇸168Mb | WEYRO	5.104.74.5	8443
+FAIL	NO	NO			861	167		🇳🇱167Mb | Servers Tech Fzco	shorts.blog-forme.ru	443
+WORKS	YES	YES	84.32.154.110	SE	1141	165	38	🇸🇪165Mb | UAB Cherry Servers	apply.betust.net	443
+WORKS	YES	YES	130.49.189.36	AL	688	159	29	🇷🇺159Mb | Global Connectivity Solutions Llp	130.49.189.36	443
+FAIL	NO	NO			470	155		🇺🇸155Mb | Servhost Group	swo2.nexfile.net	4443
+WORKS	YES	YES	104.28.222.18	FI	533	154	23	🇫🇮154Mb | Cloudflare	178.17.60.69	443
+WORKS	YES	YES	31.76.5.153	NO	606	146	17	🇺🇸146Mb | Servhost Group	144.31.217.148	443
+FAIL	NO	NO			3317	144		🇳🇱144Mb | Railway	anaconda-production-20be.up.railway.app	443
+WORKS	YES	YES	144.31.3.58	PL	515	143	21	🇵🇱143Mb | H2nexus Cloud Services - Fzco	direct-nl.bachidze.com	443
+FAIL	NO	NO			375	142		🇷🇺142Mb | Cloudflare	www.visa.com.sg	8443
+WORKS	YES	YES	147.45.148.6	RU	670	140	28	🇷🇺140Mb | Jsc timeweb	147.45.148.6	443
+WORKS	YES	YES	209.141.48.157	US	427	136	1	🇺🇸136Mb | FranTech Solutions	209.141.49.243	443
+WORKS	YES	YES	104.28.197.9	DE	463	129	6	🇩🇪129Mb | Cloudflare	91.92.33.230	443
+FAIL	NO	NO			4002	128		🇵🇱128Mb | Regxa Company for Information Technology	150.251.112.45	2066
+FAIL	NO	NO			348	125		🇫🇮125Mb | Cloudflare	2.27.13.42	443
+WORKS	YES	YES	84.32.217.29	SE	1639	123	40	🇸🇪123Mb | UAB Cherry Servers	smart.bachidze.com	443
+FAIL	NO	NO			436	123		🇳🇱123Mb | Timeweb LLP	201.34.142.108	443
+FAIL	NO	NO			2285	122		🇬🇧122Mb | Cloudflare	104.21.71.249	443
+FAIL	NO	NO			480	119		🇩🇪119Mb | Hetzner Online GmbH	static.241.103.99.91.clients.your-server.de	8443
+FAIL	NO	NO			437	117		🇳🇱117Mb | Timeweb LLP	201.34.142.108	443
+WORKS	YES	YES	130.49.189.36	AL	854	117	34	🇷🇺117Mb | Global Connectivity Solutions Llp	alb-4vp.fast-cdn24.com	443
+WORKS	YES	YES	195.189.97.12	NL	562	115	13	🇳🇱115Mb | UAB Cherry Servers	book.jarbook.net	443
+WORKS	YES	YES	191.217.211.161	PL	548	106	24	🇵🇱106Mb | Kochedykov Egor Aleksandrovich	191.217.211.161	443
+WORKS	YES	YES	31.76.5.153	NO	1191	105	18	🇺🇸105Mb | Servhost Group	norvegia29838199399293838.izzzyvpn.space	443
+WORKS	YES	YES	195.189.97.12	NL	556	104	12	🇳🇱104Mb | UAB Cherry Servers	84.32.101.84	443
+WORKS	YES	YES	144.31.57.44	NL	821	104	15	🇬🇧104Mb | Servhost Group	89.169.13.161	443
+WORKS	YES	YES	193.36.132.169	NL	4242	103	16	🇳🇱103Mb | Hollander & Jacobsen UG (haftungsbeschraenkt)	cdn372.whitenw.net	12443
+WORKS	YES	YES	104.28.198.244	RU	714	103	30	🇷🇺103Mb | Cloudflare	84.252.101.6	443
+FAIL	NO	NO			133	101		🇺🇸101Mb | Google	45.77.121.70	443
+WORKS	YES	YES	143.246.182.103	GB	412	100		🇺🇸100Mb | WEYRO	5.104.74.5	8443
+FAIL	NO	NO			315	89		🇷🇺89Mb | Baxet	9792205ac100.fuhuovps.xyz	443
+WORKS	YES	YES	104.28.248.2	NL	430	89	10	🇳🇱89Mb | Cloudflare	150.129.9.126	443
+WORKS	YES	YES	177.3.193.191	FI	1015	89	36	🇺🇸89Mb | Baxet Group	debik2.vethilis.ru	443
+WORKS	YES	YES	84.32.177.68	NL	569	83	14	🇳🇱83Mb | UAB Cherry Servers	game.betust.net	443
+WORKS	YES	YES	84.32.154.110	SE	1247	78	39	🇸🇪78Mb | UAB Cherry Servers	81.163.22.194	443
+FAIL	NO	NO			556	76		🇷🇺76Mb | NetCrafters OU	82.40.62.112	443
+FAIL	NO	NO			3445	74		🇷🇺74Mb | Delta	185.229.9.135	443
+WORKS	YES	NO			713	73		🇷🇺73Mb | Jsc timeweb	ru-manager.nodexphere.net	443
+WORKS	YES	YES	143.246.182.199	GB	428	60		🇺🇸60Mb | WEYRO	5.104.74.25	8443
+FAIL	NO	NO			2082	60		🇫🇷60Mb | OVH SAS	104.17.182.143	8443
+FAIL	NO	NO			470	59		🇩🇪59Mb | Hetzner Online GmbH	static.69.71.203.116.clients.your-server.de	8443
+WORKS	YES	YES	150.40.126.21	RS	1921	54	42	🇷🇸54Mb | MAXKO doo	rs3.univesalsrv.com	443
+FAIL	NO	NO			4002	49		🇺🇸49Mb | Servhost Group	13.143.184.226	443
