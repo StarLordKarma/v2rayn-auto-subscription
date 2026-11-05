@@ -1,62 +1,31 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	88.216.127.41	LT	741	402	16	🇱🇹402Mb | UAB Cherry Servers	84.32.215.96	443
-WORKS	YES	YES	50.7.193.149	GB	659	365	4	🇬🇧365Mb | FDCserversnet	prime.jarbook.net	443
-FAIL	NO	NO			486	363		🇸🇪363Mb | Oc Networks Limited	179.254.109.90	443
-WORKS	YES	YES	144.31.3.58	PL	1357	355	25	🇵🇱355Mb | H2nexus Cloud Services - Fzco	144.31.4.234	443
-WORKS	YES	YES	50.7.95.198	NL	579	354	9	🇺🇸354Mb | FDCserversnet	50.7.95.197	443
-WORKS	NO	YES			1420	339		🇵🇱339Mb | H2nexus Cloud Services - Fzco	direct-nl.bachidze.com	443
-WORKS	YES	YES	191.217.211.161	PL	706	317	15	🇵🇱317Mb | Kochedykov Egor Aleksandrovich	191.217.211.161	443
-FAIL	NO	NO			565	316		🇩🇪316Mb | Hetzner Online GmbH	static.197.56.233.167.clients.your-server.de	8443
-FAIL	NO	NO			615	308		🇩🇪308Mb | Hetzner Online GmbH	static.229.163.46.78.clients.your-server.de	8443
-FAIL	NO	NO			4002	302		🇩🇪302Mb | Global Connectivity Solutions Llp	at1.japancase.site	443
-FAIL	NO	NO			2252	301		🇷🇺301Mb | Cloudflare	104.17.177.160	8443
-FAIL	NO	NO			2194	299		🇸🇪299Mb | Cloudflare	104.19.52.70	8443
-WORKS	YES	YES	88.216.127.41	LT	1116	290	22	🇱🇹290Mb | UAB Cherry Servers	app26.betust.net	443
-WORKS	YES	YES	147.45.126.97	PL	826	286	17	🇷🇺286Mb | Global Connectivity Solutions Llp	147.45.126.97	443
-WORKS	YES	YES	185.86.13.248	NL	553	284	8	🇳🇱284Mb | Cyberlab	185.86.13.248	443
-WORKS	NO	YES			2662	279		🇨🇿279Mb | Datacamp Limited	cz-prg.dontblockmepls.com	2063
-WORKS	YES	YES	88.216.70.39	DE	652	260	5	🇩🇪260Mb | UAB Cherry Servers	88.216.70.128	443
-WORKS	YES	YES	89.125.234.79	PL	662	252	14	🇵🇱252Mb | Paul Sagov	pl79.mech-pro.online	443
-WORKS	YES	YES	147.45.126.97	PL	1379	251	26	🇷🇺251Mb | Global Connectivity Solutions Llp	pl3.japancase.site	443
-FAIL	NO	NO			10003	250		🇳🇱250Mb | Cyberlab	185.86.13.217	443
-WORKS	YES	YES	147.45.67.173	DE	3956	247	7	🇩🇪247Mb | Global Connectivity Solutions Llp	178.22.31.72	443
-WORKS	YES	YES	191.217.211.161	PL	1764	242		🇵🇱242Mb | Kochedykov Egor Aleksandrovich	191.217.211.161	443
-WORKS	YES	YES	132.243.74.48	EE	3810	228	31	🇪🇪228Mb | Stencloud	ee.song69.fun	2087
-FAIL	NO	NO			4002	219		🇮🇪219Mb | Imagine Communications Group Limited	83.141.75.193	443
-WORKS	YES	YES	147.45.221.5	AL	585	213	13	🇷🇺213Mb | Global Connectivity Solutions Llp	147.45.221.5	443
-WORKS	YES	YES	88.216.70.39	DE	856	206	6	🇩🇪206Mb | UAB Cherry Servers	tickets.betust.net	443
-FAIL	NO	NO			2145	204		🇳🇱204Mb | Play2go International Limited	104.18.151.231	2053
-WORKS	YES	YES	198.105.123.224	TR	844	197	18	🇹🇷197Mb | YottaSrc	198.105.123.224	443
-WORKS	YES	YES	81.177.215.220	TR	1265	195	23	🇷🇺195Mb | Global Connectivity Solutions Llp	tr3.japancase.site	443
-WORKS	YES	YES	81.177.215.220	TR	1025	168	19	🇷🇺168Mb | Global Connectivity Solutions Llp	81.177.215.220	443
-WORKS	YES	YES	209.141.48.157	US	142	164	3	🇺🇸164Mb | FranTech Solutions	209.141.49.243	443
-WORKS	YES	YES	198.105.123.224	TR	1403	163	27	🇹🇷163Mb | YottaSrc	tr1.japancase.site	443
-FAIL	NO	NO			4002	162		🇷🇸162Mb | eServer	185.72.11.43	443
-WORKS	YES	YES	84.32.154.110	SE	1069	158	21	🇸🇪158Mb | UAB Cherry Servers	81.163.22.143	443
-WORKS	YES	YES	67.216.204.136	US	55	151	1	🇺🇸151Mb | IT7 Networks	67.216.204.136	39811
-WORKS	YES	YES			706	149		🇳🇱149Mb | Hollander & Jacobsen UG (haftungsbeschraenkt)	api-nl.mimowhat.online	443
-FAIL	NO	NO			4003	147		🇮🇪147Mb | Imagine Communications Group Limited	fi-94-10.cdn-lab.online	443
-WORKS	YES	YES	84.32.154.110	SE	1660	145	28	🇸🇪145Mb | UAB Cherry Servers	join.betust.net	443
-FAIL	NO	NO			2116	131		🇸🇪131Mb | Cloudflare	188.114.98.0	443
-FAIL	NO	NO			4002	125		🇳🇱125Mb | UAB Cherry Servers	book.jarbook.net	443
-FAIL	NO	NO			564	119		🇩🇪119Mb | Hetzner Online GmbH	static.105.32.99.88.clients.your-server.de	8443
-WORKS	YES	YES	185.148.14.129	US	105	117	2	🇺🇸117Mb | Kirino	185.148.14.129	43312
-FAIL	NO	NO			567	115		🇩🇪115Mb | Hetzner Online GmbH	static.216.7.245.188.clients.your-server.de	8443
-FAIL	NO	NO			4002	103		🇳🇱103Mb | UAB Cherry Servers	84.32.101.84	443
-FAIL	NO	NO			2346	98		🇷🇺98Mb | Global Connectivity Solutions Llp	147.45.126.220	443
-FAIL	NO	NO			2329	96		🇷🇺96Mb | Global Connectivity Solutions Llp	147.45.126.220	443
-WORKS	NO	NO			3990	94		🇸🇪94Mb | UAB Cherry Servers	apply.betust.net	443
-WORKS	YES	YES	193.36.132.169	NL	2376	93	10	🇳🇱93Mb | Hollander & Jacobsen UG (haftungsbeschraenkt)	cdn372.whitenw.net	12443
-FAIL	NO	NO			543	92		🇷🇺92Mb | NetCrafters OU	82.40.62.112	443
-FAIL	NO	NO			4002	88		🇪🇪88Mb | Stencloud	132.243.74.105	2087
-WORKS	NO	YES			1800	82		🇸🇪82Mb | UAB Cherry Servers	81.163.22.194	443
-FAIL	NO	NO			4002	73		🇵🇱73Mb | Kochedykov Egor Aleksandrovich	217.19.122.170	2087
-WORKS	YES	YES	193.36.132.169	NL	2659	71	11	🇳🇱71Mb | Hollander & Jacobsen UG (haftungsbeschraenkt)	87.242.127.237	12443
-WORKS	YES	YES	150.40.126.24	RS	1694	66	29	🇷🇸66Mb | MAXKO doo	rs5.univesalsrv.com	443
-WORKS	YES	YES	31.76.91.98	JP	450	66	12	🇯🇵66Mb | Akenai Products	31.76.91.70	443
-WORKS	NO	YES			1039	65		🇲🇩65Mb | Moldtelecom SA	89.35.14.33	443
-FAIL	NO	NO			4002	64		🇵🇱64Mb | Kochedykov Egor Aleksandrovich	217.19.122.170	8443
-WORKS	YES	YES	150.40.126.24	RS	2217	63	30	🇷🇸63Mb | MAXKO doo	150.40.126.24	443
-WORKS	YES	YES	169.40.47.26	AT	1062	55	20	🇩🇪55Mb | X-zone It Srl	201.10.90.113	443
-WORKS	YES	YES	38.47.122.54	HK	1329	53	24	🇭🇰53Mb | Cloudie Limited	38.47.122.54	13779
-FAIL	NO	NO			826	52		🇫🇮52Mb | Orion Network Limited	196.196.204.151	443
+WORKS	YES	NO			520	352		🇬🇧352Mb | FDCserversnet	50.7.193.132	443
+WORKS	YES	YES	50.7.193.149	GB	517	324	2	🇬🇧324Mb | FDCserversnet	50.7.193.132	443
+FAIL	NO	NO			4001	318		🇷🇺318Mb | Jsc timeweb	yoy-api.bachidze.com	443
+WORKS	YES	NO			607	297		🇬🇧297Mb | FDCserversnet	prime.jarbook.net	443
+WORKS	YES	YES	50.7.95.198	NL	563	290	8	🇺🇸290Mb | FDCserversnet	main.jarbook.net	443
+FAIL	NO	NO			4001	275		🇪🇪275Mb | Stencloud	ee.song69.fun	2087
+FAIL	NO	NO			4002	266		🇷🇺266Mb | Jsc timeweb	83.147.246.12	443
+WORKS	YES	YES	66.154.109.61	CA	322	254	11	🇺🇸254Mb | CYBERCON INC	sub.vicdn.dev	8080
+WORKS	YES	YES	200.96.106.2	DE	559	248	4	🇩🇪248Mb | Nutraver	200.96.106.2	9889
+WORKS	YES	YES	50.7.95.172	NL	1171	233	9	🇺🇸233Mb | FDCserversnet	panel.betust.net	443
+WORKS	YES	YES	185.8.107.23	US	234	231	1	🇺🇸231Mb | UAB Cherry Servers	84.32.129.184	443
+FAIL	NO	NO			2341	225		🇺🇸225Mb | Cloudflare	104.16.230.132	443
+FAIL	NO	NO			771	224		🇩🇪224Mb | UAB Cherry Servers	91.185.83.105	9443
+FAIL	NO	NO			681	220		🇩🇪220Mb | UAB Cherry Servers	185.86.145.216	32944
+WORKS	YES	YES	50.7.95.198	NL	526	192	6	🇺🇸192Mb | FDCserversnet	50.7.38.245	443
+FAIL	NO	NO			2013	160		🇩🇪160Mb | UAB Cherry Servers	185.86.145.112	10452
+WORKS	YES	YES	50.7.95.172	NL	539	150	7	🇺🇸150Mb | FDCserversnet	50.7.95.174	443
+WORKS	YES	YES	143.246.182.103	GB	523	147	3	🇺🇸147Mb | WEYRO	5.104.74.137	8443
+FAIL	NO	NO			789	145		🇩🇪145Mb | UAB Cherry Servers	185.86.147.143	7443
+WORKS	YES	YES	91.196.34.198	DE	4155	133	5	🇩🇪133Mb | Servhost Group	13.143.192.200	443
+FAIL	NO	NO			1011	129		🇹🇷129Mb | Big Core	saleh.tehranionliine.ir	80
+WORKS	YES	YES	143.246.182.103	GB	507	129		🇺🇸129Mb | WEYRO	5.104.74.137	8443
+WORKS	YES	YES	5.182.86.84	NL	3148	110	10	🇳🇱110Mb | Aeza Group	213.108.21.173	443
+WORKS	NO	YES			1081	104		🇫🇷104Mb | Fast Servers (Pty)	122.8.47.4	8443
+WORKS	NO	YES			951	100		🇳🇱100Mb | UAB Cherry Servers	84.32.101.112	443
+WORKS	YES	YES	191.217.211.161	PL	697	98	12	🇵🇱98Mb | Kochedykov Egor Aleksandrovich	177.3.252.10	443
+WORKS	NO	YES			660	94		🇳🇱94Mb | UAB Cherry Servers	book.jarbook.net	443
+FAIL	NO	NO			685	89		🇩🇪89Mb | UAB Cherry Servers	185.86.147.184	9449
+WORKS	YES	YES	132.243.74.48	EE	1850	71	13	🇪🇪71Mb | Stencloud	132.243.74.115	2087
+WORKS	YES	YES	144.31.243.166	LT	1909	65	14	🇺🇸65Mb | Servhost Group	31.76.83.1	443
