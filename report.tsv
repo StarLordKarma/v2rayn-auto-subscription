@@ -1,37 +1,51 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	50.7.95.198	NL	660	349	7	🇺🇸349Mb | FDCserversnet	main.jarbook.net	443
-FAIL	NO	NO			831	345		🇩🇪345Mb | UAB Cherry Servers	185.86.145.216	32944
-WORKS	YES	YES	104.171.132.129	RU	1226	332	20	🇷🇺332Mb | Jsc timeweb	104.171.132.129	443
-WORKS	YES	YES	185.236.20.222	NL	1051	306	9	🇳🇱306Mb | Global Connectivity Solutions Llp	nl4.japancase.site	443
-WORKS	YES	YES	5.199.170.86	LT	734	303	10	🇱🇹303Mb | UAB Cherry Servers	84.32.209.132	443
-FAIL	NO	NO			4002	298		🇱🇻298Mb | Melbikomas UAB	161.104.38.107	443
-FAIL	NO	NO			4002	259		🌐259Mb | Rose | 🇬🇧 GB | VLESS | 1348	82.148.252.219	443
-WORKS	YES	YES	188.68.202.38	RU	886	243	13	🇷🇺243Mb | JSC Selectel	fduknew.titun.su	443
-WORKS	YES	YES	84.32.151.159	LT	1017	242	16	🇱🇹242Mb | UAB Cherry Servers	app26.betust.net	443
-WORKS	YES	YES	191.217.211.161	PL	1143	229	19	🇵🇱229Mb | Kochedykov Egor Aleksandrovich	pl1.song69.fun	443
-FAIL	NO	NO			4002	198		🇳🇱198Mb | Digital Hosting Provider	185.231.204.244	443
-WORKS	YES	YES	92.42.201.107	SI	1779	196	22	🇸🇮196Mb | Pipe Networks GmbH	92.42.201.160	14443
-WORKS	YES	YES	185.8.107.23	US	261	182	2	🇺🇸182Mb | UAB Cherry Servers	subscribe.goonars.com	443
-WORKS	YES	YES	50.7.95.198	NL	586	178	6	🇺🇸178Mb | FDCserversnet	50.7.95.226	443
-WORKS	YES	YES	188.68.202.36	RU	929	176	14	🇷🇺176Mb | JSC Selectel	novonl.subv.ru	443
-WORKS	YES	YES	185.236.20.222	NL	984	167	8	🇳🇱167Mb | Global Connectivity Solutions Llp	185.236.20.222	443
-WORKS	YES	YES	185.8.107.23	US	207	164	1	🇺🇸164Mb | UAB Cherry Servers	88.216.254.143	443
-WORKS	YES	YES	50.7.193.149	GB	613	158	4	🇬🇧158Mb | FDCserversnet	50.7.193.133	443
-FAIL	NO	NO			1932	150		🇩🇪150Mb | UAB Cherry Servers	185.86.147.143	7443
-FAIL	NO	NO			4003	149		🇺🇸149Mb | Interserver	35295cx.us9.h1clayd.click	443
-FAIL	NO	NO			2854	145		🇩🇪145Mb | UAB Cherry Servers	185.86.147.184	9449
-WORKS	YES	YES	54.66.18.239	AU	1858	140	23	🇦🇺140Mb | Amazoncom	159.195.197.145	443
-WORKS	YES	YES	191.217.211.161	PL	1422	140	21	🇵🇱140Mb | Kochedykov Egor Aleksandrovich	177.3.252.83	443
-WORKS	YES	NO			1162	135		🇩🇪135Mb | Cloud Solutions Global	194.87.118.30	447
-WORKS	YES	YES	84.32.151.159	LT	790	134	11	🇱🇹134Mb | UAB Cherry Servers	84.32.151.159	443
-WORKS	YES	YES			2868	132		🇷🇴132Mb | Hostox Group Srl	212.193.0.105	443
-WORKS	YES	YES	188.68.202.34	RU	949	127	15	🇷🇺127Mb | JSC Selectel	prvtch.titun.su	443
-FAIL	NO	NO			4001	127		🇺🇸127Mb | Interserver	04535dt.us9.h1clayd.click	443
-WORKS	NO	YES			798	116		🇳🇱116Mb | UAB Cherry Servers	84.32.96.250	443
-WORKS	YES	YES	213.165.63.125	LV	1107	116	18	🇱🇻116Mb | Global Connectivity Solutions Llp	81.177.215.122	443
-WORKS	YES	YES	92.42.201.102	SI	1052	116	17	🇸🇮116Mb | Pipe Networks GmbH	92.42.201.155	14443
-WORKS	YES	YES	2.31.39.87	DE	1045	104	5	🇩🇪104Mb | Hetzner Online GmbH	zibanabz.jonsonvip.ir	3939
-FAIL	NO	NO			2379	101		🇮🇳101Mb | G-Core Labs SA	95.143.188.113	443
-WORKS	NO	YES			836	99		🇳🇱99Mb | UAB Cherry Servers	book.jarbook.net	443
-WORKS	YES	YES	13.143.197.221	TR	874	83	12	🇺🇸83Mb | Servhost Group	turk.worldfly.io	443
-WORKS	YES	YES	177.202.74.60	US	768	60	3	🇺🇸60Mb | Ace Data Centers II	gembeforeshoping.space	443
+WORKS	YES	YES	5.199.170.86	LT	612	411	19	🇱🇹411Mb | UAB Cherry Servers	84.32.209.132	443
+WORKS	YES	YES	50.7.95.198	NL	479	374	10	🇺🇸374Mb | FDCserversnet	50.7.95.226	443
+WORKS	YES	YES	82.148.252.219	GB	700	353	5	🌐353Mb | Rose | 🇬🇧 GB | VLESS | 1339	at1.fox-lisa.ru	443
+WORKS	YES	YES	84.32.208.214	SE	869	341	27	🇸🇪341Mb | UAB Cherry Servers	art-media.live	443
+WORKS	YES	YES	84.32.151.159	LT	1138	337	29	🇱🇹337Mb | UAB Cherry Servers	app26.betust.net	443
+FAIL	NO	NO			2171	333		🇫🇷333Mb | OVH SAS	212.183.88.53	443
+FAIL	NO	NO			4002	333		🇨🇾333Mb | Belcloud	168.113.128.70	20105
+WORKS	YES	YES	50.7.95.198	NL	534	329	11	🇺🇸329Mb | FDCserversnet	main.jarbook.net	443
+WORKS	YES	YES	50.7.193.149	GB	507	304	3	🇬🇧304Mb | FDCserversnet	prime.jarbook.net	443
+WORKS	YES	YES	193.151.108.240	CH	696	304	8	🇷🇺304Mb | Servhost Group	bananapococoho.izzzyvpn.space	443
+WORKS	YES	YES	188.68.202.38	RU	509	293	13	🇷🇺293Mb | JSC Selectel	50.7.227.77	443
+WORKS	YES	YES	138.124.64.236	PL	855	280	26	🇨🇭280Mb | Global Connectivity Solutions Llp	pl3.japancase.site	443
+WORKS	YES	YES	82.148.252.219	GB	558	279	4	🌐279Mb | Бесплатный VPN tg:VLESSFORU 🇬🇧	82.148.252.219	443
+WORKS	YES	YES	132.243.74.48	EE	661	270	22	🇪🇪270Mb | Stencloud	ee.song69.fun	2087
+WORKS	YES	YES			756	245		🇷🇴245Mb | Hostox Group Srl	212.193.0.105	443
+WORKS	YES	YES	84.32.151.159	LT	647	235	21	🇱🇹235Mb | UAB Cherry Servers	84.32.151.159	443
+FAIL	NO	NO			342	204		🇬🇧204Mb | Aeza Group	82.148.253.27	8444
+WORKS	YES	YES	191.217.211.161	PL	552	199	16	🇵🇱199Mb | Kochedykov Egor Aleksandrovich	pl1.song69.fun	443
+WORKS	YES	YES	50.7.193.149	GB	481	198	2	🇬🇧198Mb | FDCserversnet	50.7.193.133	443
+WORKS	YES	YES	188.68.202.36	RU	633	193	20	🇷🇺193Mb | JSC Selectel	fduknew.titun.su	443
+WORKS	YES	YES	191.217.211.161	PL	530	186	14	🇵🇱186Mb | Kochedykov Egor Aleksandrovich	177.3.252.83	443
+WORKS	YES	YES	188.68.202.36	RU	608	185	17	🇷🇺185Mb | JSC Selectel	179.43.166.190	443
+FAIL	NO	NO			4002	181		🇦🇲181Mb | Interphone	91.192.157.154	8444
+FAIL	NO	NO			4003	180		🇷🇴180Mb | Hostox Group Srl	cdn-rum-keno-prsv.keno.su	443
+FAIL	NO	NO			502	178		🇵🇱178Mb | Cloud Solutions Global	ru.starkclaude.top	443
+WORKS	YES	NO			710	169		🌐169Mb | Бесплатный VPN tg:VLESSFORU 🇬🇧	at-87-10.cdn-lab.online	443
+FAIL	NO	NO			687	166		🇩🇪166Mb | Hetzner Online GmbH	svrtop.fars-remen.ir	8080
+WORKS	YES	YES	213.21.253.33	DE	940	162	7	🇩🇪162Mb | DpkgSoft International Limited	177.1.183.114	443
+WORKS	NO	YES			552	159		🇳🇱159Mb | UAB Cherry Servers	84.32.96.250	443
+WORKS	YES	YES	188.68.202.44	RU	745	158	23	🇷🇺158Mb | JSC Selectel	prvtch.titun.su	443
+FAIL	NO	NO			558	157		🌐157Mb | Бесплатный VPN tg:VLESSFORU 🇬🇧	at-87-10.cdn-lab.online	8444
+WORKS	YES	YES	185.236.20.222	NL	472	146	9	🇳🇱146Mb | Global Connectivity Solutions Llp	185.236.20.222	443
+WORKS	YES	YES	92.42.201.107	SI	610	142	18	🇸🇮142Mb | Pipe Networks GmbH	92.42.201.160	14443
+WORKS	YES	YES	83.141.67.164	IE	1541	139	31	🇮🇪139Mb | Imagine Communications Group Limited	83.141.67.164	8443
+WORKS	YES	YES	93.115.29.53	LT	831	134	25	🇱🇹134Mb | UAB Cherry Servers	aiartstudios.best	443
+FAIL	NO	NO			1114	122		🇩🇪122Mb | Hetzner Online GmbH	2.31.39.87	8080
+WORKS	YES	YES	88.216.182.56	DE	783	114	6	🇩🇪114Mb | UAB Cherry Servers	tickets.betust.net	443
+WORKS	YES	YES	188.68.202.34	RU	937	110	28	🇷🇺110Mb | JSC Selectel	46.19.138.214	443
+WORKS	YES	YES	5.199.170.86	LT	776	106	24	🇱🇹106Mb | UAB Cherry Servers	litauto.plus-hit.ru	443
+WORKS	YES	YES	185.231.204.244	RU	488	104	12	🇳🇱104Mb | Digital Hosting Provider	185.231.204.244	443
+FAIL	NO	NO			4003	97		🇺🇸97Mb | Ace Data Centers II	177.202.74.60	443
+FAIL	NO	NO			2135	91		🇸🇬91Mb | Akamai Connected Cloud	104.17.117.137	443
+WORKS	YES	YES	177.202.74.60	US	614	89	1	🇺🇸89Mb | Ace Data Centers II	gembeforeshoping.space	443
+FAIL	NO	NO			3371	85		🇬🇧85Mb | Google	34.39.80.57	50818
+FAIL	NO	NO			581	77		🇷🇺77Mb | Servhost Group	schweic.worldfly.io	443
+WORKS	NO	YES			573	63		🇳🇱63Mb | UAB Cherry Servers	book.jarbook.net	443
+FAIL	NO	NO			367	62		🇺🇸62Mb | Servhost Group	179.254.133.25	443
+WORKS	NO	YES			513	58		🇩🇪58Mb | Play2go International Limited	144.31.166.12	443
+WORKS	YES	YES	62.182.193.228	SE	545	52	15	🇸🇪52Mb | SIA VEESP	62.182.193.228	8443
+WORKS	YES	YES	132.243.66.79	EE	1157	50	30	🌐50Mb | LTE/5G Все операторы 🇪🇺	rapira-dof.whitenw.net	8445
