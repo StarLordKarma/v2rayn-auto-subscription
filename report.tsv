@@ -1,115 +1,37 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			1852	403		🇱🇹403Mb | UAB Cherry Servers	admin.betust.net	443
-WORKS	YES	YES	50.7.95.172	NL	675	336	14	🇺🇸336Mb | FDCserversnet	panel.betust.net	443
-WORKS	NO	YES			500	328		🇬🇧328Mb | Datacamp Limited	178.214.109.1	443
-FAIL	NO	NO			229	325		🇸🇪325Mb | Cloudflare	www.speedtest.net	443
-WORKS	YES	YES	50.7.193.149	GB	475	316	5	🇬🇧316Mb | FDCserversnet	50.7.193.132	443
-FAIL	NO	NO			470	315		🇺🇸315Mb | WEYRO	176.108.246.180	443
-FAIL	NO	NO			514	307		🇷🇺307Mb | Delta	5536b5x.msk2.h1clayd.click	443
-FAIL	NO	NO			2161	306		🇩🇪306Mb | Cloudflare	104.18.26.94	8080
-FAIL	NO	NO			455	298		🇦🇪298Mb | Fast Servers (Pty)	122.8.46.9	443
-FAIL	NO	NO			4003	296		🇪🇪296Mb | Stencloud	ee.song69.fun	2087
-FAIL	NO	NO			1421	296		🇳🇱296Mb | EdgeSec Technologies Limited	nl-3.it-crp.ru	443
-FAIL	NO	NO			427	295		🇺🇸295Mb | Global Transit Systems	122.8.47.2	443
-FAIL	NO	NO			440	295		🇦🇪295Mb | Fast Servers (Pty)	122.8.46.9	443
-FAIL	NO	NO			2188	286		🇸🇪286Mb | Cloudflare	104.17.140.88	2083
-FAIL	NO	NO			370	280		🇮🇱280Mb | Limestone Networks	178.20.28.2	443
-WORKS	YES	YES	194.33.40.67	MD	773	279	17	🇲🇩279Mb | Inovare-Prim SRL	194.33.40.67	443
-FAIL	NO	NO			4002	272		🌐272Mb | 0807 | 🇬🇧 United Kingdom | VLE	82.148.225.244	8443
-FAIL	NO	NO			4003	269		🌐269Mb | 🇬🇧 AetrisVPN	at-86-10.cdn-lab.online	443
-FAIL	NO	NO			382	269		🇺🇸269Mb | FDCserversnet	50.7.42.43	443
-FAIL	NO	NO			489	266		🇷🇺266Mb | Delta	45.91.53.246	443
-WORKS	YES	YES	50.7.95.172	NL	488	266	12	🇺🇸266Mb | FDCserversnet	50.7.95.174	443
-WORKS	YES	YES	5.199.170.34	LT	1003	265	18	🇱🇹265Mb | UAB Cherry Servers	88.216.127.165	443
-FAIL	NO	NO			2557	262		🇳🇱262Mb | Cloudflare	www.gov.se	8080
-WORKS	YES	YES	82.148.251.245	GB	3628	260	6	🇬🇧260Mb | Aeza Group	82.148.251.245	443
-WORKS	NO	YES			673	259		🇪🇪259Mb | ESTOXY OU	185.209.15.44	443
-WORKS	YES	YES	13.143.176.114	EE	596	255	16	🇪🇪255Mb | 'Ghita Telekom'	5.175.178.214	8445
-WORKS	YES	NO			1066	254		🌐254Mb | 1616 | 🇬🇧 United Kingdom | VLE	82.148.240.74	443
-FAIL	NO	NO			2159	244		🇳🇱244Mb | Cloudflare	104.21.70.21	8080
-FAIL	NO	NO			339	241		🇨🇿241Mb | WAIcore	saas.sin.fan	443
-FAIL	NO	NO			2134	238		🇷🇺238Mb | Cloudflare	162.159.152.58	2087
-WORKS	YES	YES	5.231.28.118	DE	1682	236	8	🇩🇪236Mb | PFWeb Solutions	82.148.240.81	443
-WORKS	NO	YES			3562	235		🇪🇪235Mb | Stencloud	132.243.74.115	2087
-FAIL	NO	NO			467	234		🇵🇱234Mb | Alex Largman	122.8.47.5	443
-WORKS	YES	YES	50.7.95.198	NL	472	231	11	🇺🇸231Mb | FDCserversnet	50.7.38.245	443
-FAIL	NO	NO			2150	231		🇸🇪231Mb | Cloudflare	104.18.27.94	8080
-FAIL	NO	NO			4002	227		🇷🇺227Mb | Global Connectivity Solutions Llp	193.233.252.155	443
-WORKS	YES	NO			791	225		🇺🇸225Mb | Servhost Group	144.31.213.216	443
-FAIL	NO	NO			2360	224		🇷🇺224Mb | Cloudflare	saas.sin.fan	443
-FAIL	NO	NO			422	213		🇩🇪213Mb | dataforest GmbH	185.255.115.12	443
-FAIL	NO	NO			35	212		🇷🇺212Mb | Cloudflare	94.247.142.1	2095
-FAIL	NO	NO			347	210		🇮🇱210Mb | Limestone Networks	178.20.28.2	443
-WORKS	YES	YES	3.14.68.63	US	362	207	4	🇺🇸207Mb | Amazoncom	msma-hfgetway.hf.space	443
-FAIL	NO	NO			844	205		🇬🇧205Mb | Aeza Group	at-86-10.cdn-lab.online	8444
-WORKS	YES	YES	194.33.40.67	MD	1272	203	19	🇲🇩203Mb | Inovare-Prim SRL	md.flicker.work	443
-FAIL	NO	NO			2372	202		🇬🇧202Mb | Oracle	www.farahghanizadeh.ir	443
-FAIL	NO	NO			577	202		🇨🇳202Mb | Alex Largman	122.8.46.7	443
-FAIL	NO	NO			371	201		🇩🇪201Mb | Akenai Products	31.56.18.191	443
-WORKS	NO	NO			782	194		🇪🇪194Mb | ESTOXY OU	nl2.botfight.fun	443
-FAIL	NO	NO			365	194		🇬🇧194Mb | Aeza Group	82.148.251.245	8444
-FAIL	NO	NO			2182	191		🇸🇪191Mb | Cloudflare	www.speedtest.net	443
-WORKS	YES	YES	88.216.70.39	DE	513	187	7	🇩🇪187Mb | UAB Cherry Servers	88.216.70.128	443
-FAIL	NO	NO			4003	183		🇩🇪183Mb | Servhost Group	13.143.192.200	443
-FAIL	NO	NO			4003	183		🇺🇸183Mb | Ace Data Centers II	177.202.74.214	443
-WORKS	YES	YES	185.8.107.23	US	92	179	2	🇺🇸179Mb | UAB Cherry Servers	subscribe.goonars.com	443
-WORKS	YES	YES	185.8.107.23	US	73	178	1	🇺🇸178Mb | UAB Cherry Servers	84.32.129.184	443
-FAIL	NO	NO			445	176		🇺🇸176Mb | Global Transit Systems	45.88.13.8	443
-FAIL	NO	NO			695	173		🇷🇴173Mb | Interkvm Host Srl	sisipisi.yandex-api.com	443
-WORKS	YES	YES	50.7.193.149	GB	486	170		🇬🇧170Mb | FDCserversnet	50.7.193.132	443
-FAIL	NO	NO			699	162		🇷🇺162Mb | Delta	0487ddg.msk2.h1clayd.click	443
-FAIL	NO	NO			470	162		🇬🇧162Mb | Global Transit Systems	122.8.46.8	443
-FAIL	NO	NO			4003	161		🌐161Mb | 1550 | 🇬🇧 United Kingdom | VLE	82.148.225.244	443
-FAIL	NO	NO			849	161		🇰🇿161Mb | Alex Largman	122.8.46.8	8443
-FAIL	NO	NO			417	160		🇺🇸160Mb | Global Transit Systems	122.8.47.2	443
-FAIL	NO	NO			596	158		🇨🇳158Mb | Alex Largman	122.8.46.7	443
-WORKS	YES	YES	5.182.86.84	NL	3853	154	15	🇳🇱154Mb | Aeza Group	213.108.21.173	443
-FAIL	NO	NO			173	152		🇸🇨152Mb | PureVoltage Hosting	103.175.79.5	443
-FAIL	NO	NO			2112	148		🇷🇺148Mb | Cloudflare	162.159.152.4	443
-FAIL	NO	NO			503	147		🇬🇧147Mb | Global Transit Systems	122.8.46.8	443
-FAIL	NO	NO			634	145		🇩🇪145Mb | dataforest GmbH	1659c4t.de2.h1clayd.click	443
-FAIL	NO	NO			2149	145		🇳🇱145Mb | Cloudflare	104.25.0.1	2096
-FAIL	NO	NO			4003	145		🇷🇺145Mb | Global Connectivity Solutions Llp	swedenvet.vetryx.shop	443
-WORKS	YES	YES	136.148.77.248	US	271	145	3	🇺🇸145Mb | YottaSrc	136.148.77.248	443
-FAIL	NO	NO			4002	144		🇦🇹144Mb | Aeza Group	185.244.43.99	443
-WORKS	NO	YES			1336	141		🇷🇺141Mb | Global Connectivity Solutions Llp	193.233.199.84	443
-FAIL	NO	NO			132	141		🇷🇺141Mb | PureVoltage Hosting	147.78.182.7	443
-FAIL	NO	NO			180	140		🇮🇱140Mb | PureVoltage Hosting	140.235.168.7	443
-FAIL	NO	NO			4002	135		🇩🇪135Mb | dataforest GmbH	136.234.9.11	443
-FAIL	NO	NO			481	132		🇮🇱132Mb | Limestone Networks	178.20.28.3	8443
-FAIL	NO	NO			619	132		🇫🇷132Mb | OVH SAS	netherlands.vpnserverhub.com	443
-FAIL	NO	NO			577	130		🇺🇸130Mb | Global Transit Systems	122.8.47.2	8443
-FAIL	NO	NO			607	129		🇵🇱129Mb | Alex Largman	122.8.47.5	8443
-FAIL	NO	NO			545	129		🇵🇱129Mb | Alex Largman	122.8.47.5	8443
-FAIL	NO	NO			422	128		🇸🇨128Mb | Orion Network Limited	c767c1t.es4.h1clayd.click	443
-FAIL	NO	NO			4002	127		🇩🇪127Mb | dataforest GmbH	5abad7g.de13.h1clayd.click	443
-FAIL	NO	NO			142	127		🇷🇺127Mb | PureVoltage Hosting	147.78.182.7	443
-FAIL	NO	NO			461	123		🇵🇱123Mb | Alex Largman	122.8.47.5	443
-FAIL	NO	NO			396	119		🇸🇨119Mb | Orion Network Limited	196.196.149.7	443
-WORKS	NO	YES			1313	117		🇷🇺117Mb | Global Connectivity Solutions Llp	fi3game.japancase.site	443
-FAIL	NO	NO			4003	105		🌐105Mb | 3346 | 🇬🇧 United Kingdom | VLE	82.148.225.244	8445
-FAIL	NO	NO			3427	103		🇯🇵103Mb | Akamai Connected Cloud	107.191.53.86	4798
-FAIL	NO	NO			164	102		🇷🇺102Mb | PureVoltage Hosting	147.78.182.7	8443
-WORKS	YES	YES	138.124.245.102	NL	523	101	13	🇳🇱101Mb | Oc Networks Limited	138.124.245.102	443
-FAIL	NO	NO			302	101		🇸🇨101Mb | PureVoltage Hosting	103.175.79.5	443
-FAIL	NO	NO			476	100		🇮🇱100Mb | Limestone Networks	178.20.28.3	8443
-FAIL	NO	NO			181	96		🇷🇺96Mb | PureVoltage Hosting	147.78.182.7	8443
-WORKS	YES	YES	193.151.108.255	CH	2218	93	10	🇷🇺93Mb | Servhost Group	193.151.108.255	443
-FAIL	NO	NO			530	93		🇺🇸93Mb | Global Transit Systems	122.8.47.2	8443
-WORKS	YES	NO			2483	91		🇪🇪91Mb | Stencloud	132.243.74.115	2087
-FAIL	NO	NO			540	87		🇺🇸87Mb | Global Transit Systems	45.88.13.8	8443
-FAIL	NO	NO			1334	85		🇰🇿85Mb | Alex Largman	122.8.46.8	8443
-FAIL	NO	NO			4002	80		🇷🇺80Mb | Jsc timeweb	213.171.12.100	443
-FAIL	NO	NO			428	76		🇷🇴76Mb | Interkvm Host Srl	45.132.176.176	443
-FAIL	NO	NO			566	74		🇩🇪74Mb | Alex Largman	122.8.46.9	8443
-FAIL	NO	NO			3150	70		🇳🇱70Mb | EdgeSec Technologies Limited	31.76.110.231	443
-FAIL	NO	NO			869	69		🇨🇭69Mb | Private Layer INC	185.255.115.183	443
-FAIL	NO	NO			1229	67		🇨🇳67Mb | Alex Largman	122.8.46.7	8443
-FAIL	NO	NO			542	66		🇩🇪66Mb | Alex Largman	122.8.46.9	8443
-WORKS	YES	YES	176.65.144.221	CH	593	59	9	🇨🇭59Mb | Dedik Services Limited	176.65.144.221	8443
-FAIL	NO	NO			353	59		🇨🇭59Mb | Dedik Services Limited	176.65.144.221	443
-FAIL	NO	NO			1139	58		🇺🇸58Mb | Interserver	185.255.115.81	443
-FAIL	NO	NO			1549	58		🇨🇳58Mb | Alex Largman	122.8.46.7	8443
-FAIL	NO	NO			353	56		🇸🇨56Mb | PureVoltage Hosting	103.175.79.5	8443
-FAIL	NO	NO			481	53		🇳🇱53Mb | Alexhost Srl	176.116.0.110	2087
-FAIL	NO	NO			229	53		🇮🇱53Mb | PureVoltage Hosting	140.235.168.7	8443
+WORKS	YES	YES	50.7.95.198	NL	660	349	7	🇺🇸349Mb | FDCserversnet	main.jarbook.net	443
+FAIL	NO	NO			831	345		🇩🇪345Mb | UAB Cherry Servers	185.86.145.216	32944
+WORKS	YES	YES	104.171.132.129	RU	1226	332	20	🇷🇺332Mb | Jsc timeweb	104.171.132.129	443
+WORKS	YES	YES	185.236.20.222	NL	1051	306	9	🇳🇱306Mb | Global Connectivity Solutions Llp	nl4.japancase.site	443
+WORKS	YES	YES	5.199.170.86	LT	734	303	10	🇱🇹303Mb | UAB Cherry Servers	84.32.209.132	443
+FAIL	NO	NO			4002	298		🇱🇻298Mb | Melbikomas UAB	161.104.38.107	443
+FAIL	NO	NO			4002	259		🌐259Mb | Rose | 🇬🇧 GB | VLESS | 1348	82.148.252.219	443
+WORKS	YES	YES	188.68.202.38	RU	886	243	13	🇷🇺243Mb | JSC Selectel	fduknew.titun.su	443
+WORKS	YES	YES	84.32.151.159	LT	1017	242	16	🇱🇹242Mb | UAB Cherry Servers	app26.betust.net	443
+WORKS	YES	YES	191.217.211.161	PL	1143	229	19	🇵🇱229Mb | Kochedykov Egor Aleksandrovich	pl1.song69.fun	443
+FAIL	NO	NO			4002	198		🇳🇱198Mb | Digital Hosting Provider	185.231.204.244	443
+WORKS	YES	YES	92.42.201.107	SI	1779	196	22	🇸🇮196Mb | Pipe Networks GmbH	92.42.201.160	14443
+WORKS	YES	YES	185.8.107.23	US	261	182	2	🇺🇸182Mb | UAB Cherry Servers	subscribe.goonars.com	443
+WORKS	YES	YES	50.7.95.198	NL	586	178	6	🇺🇸178Mb | FDCserversnet	50.7.95.226	443
+WORKS	YES	YES	188.68.202.36	RU	929	176	14	🇷🇺176Mb | JSC Selectel	novonl.subv.ru	443
+WORKS	YES	YES	185.236.20.222	NL	984	167	8	🇳🇱167Mb | Global Connectivity Solutions Llp	185.236.20.222	443
+WORKS	YES	YES	185.8.107.23	US	207	164	1	🇺🇸164Mb | UAB Cherry Servers	88.216.254.143	443
+WORKS	YES	YES	50.7.193.149	GB	613	158	4	🇬🇧158Mb | FDCserversnet	50.7.193.133	443
+FAIL	NO	NO			1932	150		🇩🇪150Mb | UAB Cherry Servers	185.86.147.143	7443
+FAIL	NO	NO			4003	149		🇺🇸149Mb | Interserver	35295cx.us9.h1clayd.click	443
+FAIL	NO	NO			2854	145		🇩🇪145Mb | UAB Cherry Servers	185.86.147.184	9449
+WORKS	YES	YES	54.66.18.239	AU	1858	140	23	🇦🇺140Mb | Amazoncom	159.195.197.145	443
+WORKS	YES	YES	191.217.211.161	PL	1422	140	21	🇵🇱140Mb | Kochedykov Egor Aleksandrovich	177.3.252.83	443
+WORKS	YES	NO			1162	135		🇩🇪135Mb | Cloud Solutions Global	194.87.118.30	447
+WORKS	YES	YES	84.32.151.159	LT	790	134	11	🇱🇹134Mb | UAB Cherry Servers	84.32.151.159	443
+WORKS	YES	YES			2868	132		🇷🇴132Mb | Hostox Group Srl	212.193.0.105	443
+WORKS	YES	YES	188.68.202.34	RU	949	127	15	🇷🇺127Mb | JSC Selectel	prvtch.titun.su	443
+FAIL	NO	NO			4001	127		🇺🇸127Mb | Interserver	04535dt.us9.h1clayd.click	443
+WORKS	NO	YES			798	116		🇳🇱116Mb | UAB Cherry Servers	84.32.96.250	443
+WORKS	YES	YES	213.165.63.125	LV	1107	116	18	🇱🇻116Mb | Global Connectivity Solutions Llp	81.177.215.122	443
+WORKS	YES	YES	92.42.201.102	SI	1052	116	17	🇸🇮116Mb | Pipe Networks GmbH	92.42.201.155	14443
+WORKS	YES	YES	2.31.39.87	DE	1045	104	5	🇩🇪104Mb | Hetzner Online GmbH	zibanabz.jonsonvip.ir	3939
+FAIL	NO	NO			2379	101		🇮🇳101Mb | G-Core Labs SA	95.143.188.113	443
+WORKS	NO	YES			836	99		🇳🇱99Mb | UAB Cherry Servers	book.jarbook.net	443
+WORKS	YES	YES	13.143.197.221	TR	874	83	12	🇺🇸83Mb | Servhost Group	turk.worldfly.io	443
+WORKS	YES	YES	177.202.74.60	US	768	60	3	🇺🇸60Mb | Ace Data Centers II	gembeforeshoping.space	443
