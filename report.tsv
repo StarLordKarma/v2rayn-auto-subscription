@@ -1,41 +1,63 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			306	347		🇳🇱347Mb | Railway	multipanel-production-f5dd.up.railway.app	443
-WORKS	YES	NO			2439	318		🇷🇺318Mb | Delta	188.130.209.201	443
-FAIL	NO	NO			4002	315		🇩🇪315Mb | Hetzner Online GmbH	fast.mo-chephosting.ir	53421
-WORKS	YES	YES	188.68.202.34	RU	727	306	17	🇷🇺306Mb | JSC Selectel	50.7.227.77	443
-WORKS	YES	YES	192.209.62.43	NL	2505	287	13	🇳🇱287Mb | YottaSrc	192.209.62.43	443
-WORKS	YES	YES	50.7.95.198	NL	498	282	7	🇺🇸282Mb | FDCserversnet	50.7.95.226	443
-WORKS	YES	YES	177.3.252.25	US	558	266	2	🇺🇸266Mb | Ace Data Centers II	pl1.song69.fun	443
-WORKS	YES	YES	84.32.209.117	LT	599	261	14	🇱🇹261Mb | UAB Cherry Servers	5.199.174.117	443
-FAIL	NO	NO			416	248		🇮🇪248Mb | Imagine Communications Group Limited	83.141.74.243	443
-WORKS	YES	YES	50.7.193.149	GB	538	233	6	🇬🇧233Mb | FDCserversnet	prime.jarbook.net	443
-WORKS	YES	YES	50.7.95.198	NL	537	231	9	🇺🇸231Mb | FDCserversnet	main.jarbook.net	443
-WORKS	YES	YES	188.68.202.38	RU	764	219	18	🇷🇺219Mb | JSC Selectel	fdat.titun.su	443
-FAIL	NO	NO			431	219		🇮🇪219Mb | Imagine Communications Group Limited	83.141.74.243	8443
-WORKS	YES	YES	188.68.202.38	RU	631	198	15	🇷🇺198Mb | JSC Selectel	66.90.106.28	443
-FAIL	NO	NO			3164	189		🇩🇪189Mb | PIO-Hosting GmbH	87.248.149.50	443
-WORKS	YES	YES	192.209.62.43	NL	2454	189	12	🇳🇱189Mb | YottaSrc	nl3.japancase.site	443
-WORKS	YES	YES	185.8.107.23	US	158	174	1	🇺🇸174Mb | UAB Cherry Servers	subscribe.goonars.com	443
-FAIL	NO	NO			728	159		🇬🇧159Mb | Thg Hosting Limited	static.66.192.105.178.clients.your-server.de.savfasf.ir	41432
-FAIL	NO	NO			538	152		🇮🇪152Mb | Imagine Communications Group Limited	83.141.74.243	8444
-FAIL	NO	NO			2178	144		🇨🇦144Mb | Datacamp Limited	172.67.219.189	443
-WORKS	YES	YES	213.165.63.125	LV	1018	133	19	🇱🇻133Mb | Global Connectivity Solutions Llp	81.177.215.122	443
-FAIL	NO	NO			4003	129		🇷🇴129Mb | Hostox Group Srl	cdn-rum-keno-prsv.keno.su	443
-FAIL	NO	NO			1318	128		🇳🇱128Mb | EdgeSec Technologies Limited	144.31.225.12	443
-FAIL	NO	NO			4003	127		🇦🇱127Mb | Cloudflare	157.228.66.160	443
-WORKS	YES	YES	50.7.193.149	GB	500	124	5	🇬🇧124Mb | FDCserversnet	50.7.193.133	443
-WORKS	YES	YES	93.115.29.53	LT	642	116	16	🇱🇹116Mb | UAB Cherry Servers	5.199.174.25	443
-WORKS	YES	YES	176.65.136.38	NL	522	116	8	🇩🇪116Mb | PIO-Hosting GmbH	base.hosamobenl.co.uk	443
-WORKS	YES	YES	84.32.96.250	NL	628	114	10	🇳🇱114Mb | UAB Cherry Servers	84.32.96.251	443
-FAIL	NO	NO			4002	113		🇨🇿113Mb | FDCserversnet	194.26.229.241	443
-FAIL	NO	NO			4003	110		🇷🇴110Mb | Hostox Group Srl	212.193.0.105	443
-FAIL	NO	NO			4002	106		🇬🇧106Mb | Aeza Group	147.45.71.104	8443
-WORKS	YES	YES	5.253.233.248	US	776	104	4	🌐104Mb | @filembad	5.253.233.248	443
-WORKS	YES	NO			2022	99		🇩🇪99Mb | Bitsflowcloud	dddz-1-x.473221.xyz	43115
-FAIL	NO	NO			3237	81		🇺🇸81Mb | Unredacted	146.75.117.242	443
-WORKS	YES	YES	84.32.96.250	NL	1198	75	11	🇳🇱75Mb | UAB Cherry Servers	book.jarbook.net	443
-FAIL	NO	NO			2013	73		🇺🇸73Mb | Interserver	35295cx.us9.h1clayd.click	443
-FAIL	NO	NO			2174	73		🇩🇪73Mb | Fzco	ir-irn.maxuup.ir.maxuup.fun	48736
-WORKS	NO	YES			4219	70		🇹🇼70Mb | Data Communication Business Group	dddz-1-x.473221.xyz	13239
-WORKS	YES	YES	48.102.160.212	US	633	70	3	🌐70Mb | BR   VLESS-TCP-RLT - V tal  17	hollandlanzerotte.xyz	443
-WORKS	YES	YES	144.31.5.116	PL	1175	67	20	🇵🇱67Mb | H2nexus Cloud Services - Fzco	kla.xvanta.online	443
+WORKS	YES	YES	143.246.182.103	GB	422	356	6	🇺🇸356Mb | WEYRO	5.104.74.173	8443
+FAIL	NO	NO			2955	346		🇳🇱346Mb | Railway	multipanel-production-f5dd.up.railway.app	443
+WORKS	YES	YES	50.7.193.149	GB	391	340	5	🇬🇧340Mb | FDCserversnet	50.7.193.133	443
+WORKS	YES	YES	48.102.161.141	US	488	339	3	🌐339Mb | [OpenRay] 🇺🇸US-1383	48.102.161.141	443
+WORKS	YES	YES	50.7.193.149	GB	422	330	7	🇬🇧330Mb | FDCserversnet	prime.jarbook.net	443
+FAIL	NO	NO			4003	325		🇷🇺325Mb | Delta	188.130.209.201	443
+WORKS	YES	YES	192.209.62.43	NL	440	324	11	🇳🇱324Mb | YottaSrc	192.209.62.43	443
+WORKS	YES	YES	188.68.202.36	RU	423	301	15	🇷🇺301Mb | JSC Selectel	50.7.227.77	443
+FAIL	NO	NO			3194	294		🇺🇸294Mb | Ace Data Centers II	177.3.252.25	443
+WORKS	YES	YES	188.68.202.44	RU	527	275	18	🇷🇺275Mb | JSC Selectel	66.90.106.28	443
+WORKS	YES	YES	188.68.202.42	RU	663	265	23	🇷🇺265Mb | JSC Selectel	fdat.titun.su	443
+WORKS	YES	YES	84.32.209.117	LT	928	248	27	🇱🇹248Mb | UAB Cherry Servers	5.199.174.117	443
+WORKS	YES	YES	77.83.246.232	PL	647	231	22	🇵🇱231Mb | Global Connectivity Solutions Llp	pl3.japancase.site	443
+WORKS	YES	YES	192.209.62.43	NL	571	211	13	🇳🇱211Mb | YottaSrc	nl3.japancase.site	443
+WORKS	NO	YES			739	208		🇳🇱208Mb | Vladislav Doniy	94.183.164.80	7443
+WORKS	YES	YES	143.246.182.103	GB	420	206		🇺🇸206Mb | WEYRO	5.104.74.173	8443
+FAIL	NO	NO			363	205		🇵🇱205Mb | H2nexus Cloud Services - Fzco	144.31.4.30	443
+WORKS	YES	YES	213.165.63.125	LV	826	197	25	🇱🇻197Mb | Global Connectivity Solutions Llp	81.177.215.122	443
+FAIL	NO	NO			4001	197		🇷🇴197Mb | Hostox Group Srl	cdn-rum-keno-prsv.keno.su	443
+WORKS	YES	NO			534	195		🇳🇱195Mb | UAB Cherry Servers	84.32.96.251	443
+FAIL	NO	NO			403	188		🇨🇭188Mb | Global Connectivity Solutions Llp	138.124.252.24	443
+WORKS	YES	YES	185.8.107.23	US	140	181	2	🇺🇸181Mb | UAB Cherry Servers	subscribe.goonars.com	443
+WORKS	NO	YES			728	180		🇳🇱180Mb | Vladislav Doniy	94.183.164.80	7443
+FAIL	NO	NO			4003	177		🇺🇸177Mb | IT7 Networks	176.122.182.17	443
+WORKS	YES	YES	93.115.29.53	LT	1029	173	28	🇱🇹173Mb | UAB Cherry Servers	aiartstudios.best	443
+WORKS	YES	YES	77.83.246.232	PL	500	172	17	🇵🇱172Mb | Global Connectivity Solutions Llp	77.83.246.232	443
+WORKS	NO	YES			725	171		🇳🇱171Mb | Vladislav Doniy	94.183.164.80	7443
+WORKS	YES	YES	93.115.29.53	LT	614	160	21	🇱🇹160Mb | UAB Cherry Servers	5.199.174.25	443
+FAIL	NO	NO			4003	158		🇺🇸158Mb | IT7 Networks	176.122.142.143	443
+WORKS	NO	YES			731	156		🇳🇱156Mb | Vladislav Doniy	94.183.164.80	7443
+FAIL	NO	NO			4003	150		🇹🇷150Mb | YottaSrc	94.184.35.87	2092
+WORKS	YES	YES	185.8.107.23	US	113	149	1	🇺🇸149Mb | UAB Cherry Servers	88.216.57.210	443
+WORKS	NO	YES			730	148		🇳🇱148Mb | Vladislav Doniy	94.183.164.80	7443
+WORKS	YES	YES	48.102.161.141	US	633	148	4	🌐148Mb | [OpenRay] 🌐XX-1193	swedenafteraventura.space	443
+FAIL	NO	NO			910	144		🇵🇱144Mb | H2nexus Cloud Services - Fzco	kla.xvanta.online	443
+FAIL	NO	NO			4003	144		🇷🇴144Mb | Hostox Group Srl	212.193.0.105	443
+FAIL	NO	NO			402	142		🇨🇭142Mb | Global Connectivity Solutions Llp	138.124.252.24	443
+WORKS	YES	NO			3101	142		🇩🇪142Mb | dataforest GmbH	100497t.de18.h1clayd.click	443
+WORKS	NO	YES			732	137		🇳🇱137Mb | Vladislav Doniy	94.183.164.80	7443
+WORKS	YES	YES	84.32.96.250	NL	516	134	12	🇳🇱134Mb | UAB Cherry Servers	book.jarbook.net	443
+FAIL	NO	NO			2069	131		🇩🇪131Mb | OVH SAS	104.17.70.206	8443
+WORKS	YES	YES	61.228.90.248	TW	1499	124	29	🇹🇼124Mb | Data Communication Business Group	dddz-1-x.473221.xyz	13239
+WORKS	YES	YES	2.56.127.149	FR	465	124	16	🇬🇧124Mb | Aeza Group	2.56.127.149	443
+FAIL	NO	NO			131	124		🇬🇧124Mb | Aeza Group	www.speedtest.net	443
+WORKS	YES	YES	178.22.31.72	AT	609	119	20	🇦🇹119Mb | Global Connectivity Solutions Llp	at1.japancase.site	443
+FAIL	NO	NO			244	111		🇷🇺111Mb | Global Connectivity Solutions Llp	193.233.127.149	443
+WORKS	YES	YES	134.255.211.36	SG	891	110	26	🇸🇬110Mb | M247 Europe SRL	134.255.211.36	443
+FAIL	NO	NO			371	108		🇩🇪108Mb | dataforest GmbH	15c838x.de11.h1clayd.click	443
+FAIL	NO	NO			267	105		🇷🇺105Mb | Global Connectivity Solutions Llp	157.22.240.124	443
+WORKS	YES	YES	178.22.31.72	AT	535	97	19	🇦🇹97Mb | Global Connectivity Solutions Llp	178.22.31.171	443
+WORKS	NO	YES			1223	83		🇨🇦83Mb | OVH SAS	5.53.124.191	8008
+WORKS	YES	YES	185.125.103.234	RU	737	82	24	🇩🇪82Mb | Aeza Group	185.125.103.234	443
+WORKS	YES	YES	45.157.235.170	DE	1270	82	10	🇩🇪82Mb | dataforest GmbH	ac3f32g.de18.h1clayd.click	443
+WORKS	YES	YES	143.246.182.103	GB	419	77		🇺🇸77Mb | WEYRO	5.104.74.173	8443
+FAIL	NO	NO			446	77		🇳🇱77Mb | FDCserversnet	nl-ded2-2.gamma-kvn.com	443
+WORKS	YES	YES	159.200.230.2	DE	429	67	8	🇩🇪67Mb | dataforest GmbH	9e75c7t.de11.h1clayd.click	443
+WORKS	YES	NO			1320	66		🇰🇿66Mb | Jsc timeweb	kz-cdn-prsv-forum.keno.su	443
+FAIL	NO	NO			458	62		🇷🇺62Mb | Global Connectivity Solutions Llp	157.22.240.224	443
+WORKS	YES	NO			1037	62		🇰🇿62Mb | Jsc timeweb	90.156.230.179	443
+WORKS	YES	YES	81.19.140.181	CA	340	58	14	🇨🇦58Mb | Global Connectivity Solutions Llp	81.19.140.181	443
+WORKS	YES	YES	94.156.170.64	DE	640	57	9	🇩🇪57Mb | Play2go International Limited	gemsubbgem.world	443
+FAIL	NO	NO			252	55		🇷🇺55Mb | Global Connectivity Solutions Llp	193.233.127.149	443
