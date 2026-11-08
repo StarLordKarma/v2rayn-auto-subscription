@@ -1,52 +1,23 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	NO			932	400		🇷🇺400Mb | Jsc timeweb	kovalis-media.com	443
-FAIL	NO	NO			4001	374		🇩🇪374Mb | Hetzner Online GmbH	n4.topingr.ir	443
-WORKS	YES	YES	50.7.95.198	NL	590	373	11	🇺🇸373Mb | FDCserversnet	50.7.95.226	443
-FAIL	NO	NO			152	328		🇸🇪328Mb | Cloudflare	188.114.98.0	443
-WORKS	YES	YES	31.77.219.64	DE	228	319	4	🇸🇪319Mb | Cloudflare	fast-route-279ca1-gw.staging-api-c694f6.workers.dev	443
-WORKS	YES	NO			802	298		🇷🇺298Mb | Delta	188.130.209.212	443
-FAIL	NO	NO			3416	298		🇳🇱298Mb | Vladislav Doniy	185.178.208.167	443
-WORKS	YES	YES	50.7.95.198	NL	655	296	13	🇺🇸296Mb | FDCserversnet	main.jarbook.net	443
-WORKS	YES	YES	143.246.182.103	GB	558	296	2	🇺🇸296Mb | WEYRO	5.104.74.177	8443
-WORKS	YES	YES	188.68.202.34	RU	902	286	21	🇷🇺286Mb | JSC Selectel	fdat.titun.su	443
-FAIL	NO	NO			1450	285		🇬🇧285Mb | FDCserversnet	50.7.193.133	443
-WORKS	YES	NO			1300	285		🇬🇧285Mb | FDCserversnet	prime.jarbook.net	443
-FAIL	NO	NO			3683	281		🌐281Mb | 1093 | 🌐 Unknown | VLESS | TG:	pl1.song69.fun	443
-FAIL	NO	NO			403	276		🇺🇸276Mb | FDCserversnet	67.159.11.170	443
-WORKS	YES	YES	188.68.202.44	RU	1044	261	23	🇷🇺261Mb | JSC Selectel	66.90.106.28	443
-FAIL	NO	NO			3388	259		🇳🇱259Mb | Vladislav Doniy	185.178.208.167	443
-WORKS	YES	YES	188.68.202.40	RU	1851	258	25	🇷🇺258Mb | JSC Selectel	fduknew.titun.su	443
-FAIL	NO	NO			211	257		🇸🇪257Mb | Cloudflare	www.speedtest.net	443
-FAIL	NO	NO			1700	209		🇱🇹209Mb | UAB Cherry Servers	admin.betust.net	443
-FAIL	NO	NO			2228	200		🇸🇬200Mb | LEASEWEB SINGAPORE PTE	172.64.229.88	8443
-FAIL	NO	NO			2432	197		🇸🇬197Mb | LEASEWEB SINGAPORE PTE	sg01.cf.sh-cloudflare.sbs	8443
-FAIL	NO	NO			2114	197		🇱🇰197Mb | Cyberzone SA	170.114.45.6	2096
-FAIL	NO	NO			2121	196		🇱🇰196Mb | Cyberzone SA	170.114.46.6	2096
-WORKS	YES	YES	23.229.7.106	GB	601	189	3	🇬🇧189Mb | B2 Net Solutions	it.geconnecction.com	443
-WORKS	YES	YES	31.56.186.24	NL	560	184	10	🇳🇱184Mb | ExpressHost	31.56.186.24	443
-WORKS	YES	YES	144.31.135.195	NL	893	180	15	🇳🇱180Mb | Senko Digital	177.1.187.226	8443
-WORKS	YES	YES	185.8.107.23	US	320	169	1	🇺🇸169Mb | UAB Cherry Servers	subscribe.goonars.com	443
-WORKS	YES	YES	94.156.170.64	DE	1076	169	7	🇩🇪169Mb | Play2go International Limited	94.156.170.64	443
-WORKS	YES	YES	188.68.202.42	RU	1431	166	24	🇷🇺166Mb | JSC Selectel	50.7.227.77	443
-WORKS	YES	YES	68.209.56.6	NL	630	156	12	🇳🇱156Mb | B2 Net Solutions	2.nlconnectium.com	443
-WORKS	YES	YES	198.16.113.90	FR	682	146	19	🇫🇷146Mb | FDCserversnet	1.frconnectiusmeow.com	443
-WORKS	YES	YES	80.47.19.95	PL	661	141	18	🇵🇱141Mb | MEVSPACE sp z oo	pl2.flcplonnectius.com	443
-WORKS	YES	YES	192.241.95.150	CA	368	121	17	🇨🇦121Mb | B2 Net Solutions	1.canconnecction.com	443
-WORKS	YES	YES	170.231.236.54	DE	782	116	6	🇵🇦116Mb | GRUPO PANAGLOBAL 15 SA	2.swsconnecction.com	443
-WORKS	YES	YES	57.128.214.26	PL	995	103	22	🇵🇱103Mb | OVH SAS	poland.vpnserverhub.com	443
-WORKS	YES	YES	2.26.25.153	DE	1999	101	9	🇩🇪101Mb | Senko Digital	177.1.187.225	8443
-FAIL	NO	NO			1483	93		🇱🇹93Mb | UAB Cherry Servers	5.199.174.117	443
-WORKS	YES	YES	84.32.96.250	NL	1505	92	16	🇳🇱92Mb | UAB Cherry Servers	84.32.96.251	443
-FAIL	NO	NO			2152	92		🇦🇺92Mb | Amazoncom	170.114.52.22	443
-FAIL	NO	NO			4003	84		🇩🇪84Mb | Leaseweb Deutschland GmbH	109.70.74.213	8443
-WORKS	YES	YES	167.233.129.126	DE	442	76	5	🇩🇪76Mb | Hetzner Online GmbH	167.233.129.126	2474
-FAIL	NO	NO			1403	73		🇷🇺73Mb | Delta	9900edx.msk2.h1clayd.click	443
-WORKS	YES	NO			650	73		🇩🇪73Mb | SYNLINQ	yoni.dobryak.online	443
-FAIL	NO	NO			991	71		🇷🇺71Mb | Delta	9900edx.msk2.h1clayd.click	443
-FAIL	NO	NO			243	65		🇯🇵65Mb | Akamai Connected Cloud	162.159.160.44	443
-FAIL	NO	NO			467	62		🇩🇪62Mb | dataforest GmbH	15c838x.de11.h1clayd.click	443
-WORKS	YES	YES	84.32.96.250	NL	855	62	14	🇳🇱62Mb | UAB Cherry Servers	book.jarbook.net	443
-FAIL	NO	NO			491	56		🇩🇪56Mb | dataforest GmbH	159.200.230.2	443
-WORKS	YES	YES	91.192.158.121	FI	742	55	20	🇦🇲55Mb | NetCrafters OU	91.192.158.121	443
-WORKS	YES	YES	159.200.230.2	DE	1514	52	8	🇩🇪52Mb | dataforest GmbH	9e75c7t.de11.h1clayd.click	443
-WORKS	NO	YES			764	50		🇺🇸50Mb | Ace Data Centers II	hollandlanzerotte.xyz	443
+WORKS	YES	YES			1049	334		🇸🇪334Mb | UAB Cherry Servers	185.189.45.195	443
+FAIL	NO	NO			297	275		🇳🇱275Mb | Railway	whitepanel-ui-production-c905.up.railway.app	443
+WORKS	YES	YES	188.68.202.42	RU	807	274	7	🇷🇺274Mb | JSC Selectel	66.90.106.28	443
+WORKS	YES	YES			814	263		🇺🇸263Mb | FDCserversnet	user.betust.net	443
+WORKS	YES	YES	188.68.202.40	RU	1577	262	10	🇷🇺262Mb | JSC Selectel	fdat.titun.su	443
+WORKS	YES	YES	50.7.193.149	GB	674	247	3	🇬🇧247Mb | FDCserversnet	prime.jarbook.net	443
+WORKS	YES	YES	50.7.193.149	GB	601	235	2	🇬🇧235Mb | FDCserversnet	50.7.193.133	443
+WORKS	YES	YES	16.16.173.242	SE	821	224	9	🇸🇪224Mb | Amazoncom	16.16.173.242	443
+FAIL	NO	NO			4002	183		🇺🇸183Mb | Servhost Group	latvia1.banovano.space	57064
+FAIL	NO	NO			416	169		🇫🇮169Mb | Hetzner Online GmbH	www.2freenet.ddns.info	443
+WORKS	YES	YES	76.164.203.108	ES	808	160	8	🇪🇸160Mb | Interkvm Host Srl	156.252.229.203	8443
+FAIL	NO	NO			4002	157		🇬🇧157Mb | Servhost Group	2.27.210.198	57064
+FAIL	NO	NO			4002	154		🇺🇸154Mb | WEYRO	5.104.74.177	8443
+WORKS	YES	YES	193.23.202.113	NL	640	144	4	🇺🇸144Mb | Servhost Group	144.31.51.81	33517
+WORKS	YES	YES	177.3.208.67	NL	883	135	5	🇳🇱135Mb | Fzco	177.3.208.67	40238
+FAIL	NO	NO			4002	114		🇩🇪114Mb | Senko Digital	177.1.187.225	8443
+WORKS	NO	NO			437	80		🇩🇪80Mb | Hetzner Online GmbH	167.233.129.126	2474
+WORKS	NO	YES			4026	79		🇸🇪79Mb | Hostup AB	3fb2b6t.se1.h1clayd.click	443
+FAIL	NO	NO			4002	77		🇸🇪77Mb | Hostup AB	se1.h1cloud.net	443
+WORKS	YES	YES	79.182.70.192	BY	1929	70	11	🇳🇱70Mb | H1cloud	15d7fft.nl11.h1clayd.click	443
+WORKS	YES	YES	3.96.148.231	CA	245	62	6	🇨🇦62Mb | Amazoncom	3.96.148.231	80
+WORKS	YES	YES	162.35.101.177	US	1768	60	1	🇺🇸60Mb | Interserver	04535dt.us8.h1clayd.click	443
