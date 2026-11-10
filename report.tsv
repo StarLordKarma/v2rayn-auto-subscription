@@ -1,18 +1,56 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4002	429		🇷🇺429Mb | Delta	188.130.209.212	443
-FAIL	NO	NO			3697	360		🇷🇺360Mb | JSC Selectel	176.108.245.237	443
-FAIL	NO	NO			3843	355		🇩🇪355Mb | Cherry Servers	mstchgem2.jarvesitw.ru	443
-WORKS	YES	NO			3083	327		🇩🇪327Mb | Cherry Servers	84.32.98.162	443
-WORKS	YES	YES	50.7.193.149	GB	522	250		🇬🇧250Mb | FDCserversnet	prime.jarbook.net	443
-FAIL	NO	NO			372	248		🇨🇭248Mb | WAIcore	95.85.231.3	2087
-WORKS	YES	YES	50.7.193.149	GB	505	245	1	🇬🇧245Mb | FDCserversnet	prime.jarbook.net	443
-WORKS	YES	YES	76.164.203.230	ES	572	221	2	🇪🇸221Mb | Interkvm Host Srl	77.81.182.7	8443
-FAIL	NO	NO			4003	162		🇸🇨162Mb | DigitalEra Tech OU	vv9bo423qfvc.cloudymedia.click	443
-FAIL	NO	NO			4002	154		🇳🇱154Mb | Vladislav Doniy	94.183.164.119	443
-WORKS	YES	YES	76.164.203.111	ES	583	145	3	🇪🇸145Mb | Interkvm Host Srl	156.252.229.203	8443
-FAIL	NO	NO			1079	145		🇳🇱145Mb | AntiDDoS Networks	144.31.225.74	443
-FAIL	NO	NO			3231	125		🇷🇺125Mb | JSC Selectel	185.178.208.167	443
-WORKS	NO	YES			1021	114		🇸🇬114Mb | Eons Data Communications Limited	zfapi.zalolink.com	41295
-FAIL	NO	NO			159	97		🇺🇸97Mb | HostPapa	s2318.wagahaha.xyz	443
-FAIL	NO	NO			168	61		🇺🇸61Mb | HostPapa	s2317.gogocs.xyz	443
-FAIL	NO	NO			80	54		🇫🇷54Mb | OVH SAS	151.101.36.61	443
+WORKS	YES	YES	31.56.214.152	DE	1055	456	7	🇩🇪456Mb | HOSTES	lt.neuroblur.top	14443
+WORKS	YES	YES	188.130.209.213	RU	630	440	20	🇷🇺440Mb | Delta	188.130.209.212	443
+WORKS	YES	YES	50.7.193.149	GB	348	379	2	🇬🇧379Mb | FDCserversnet	50.7.193.149	443
+WORKS	YES	YES	50.7.193.149	GB	393	354	3	🇬🇧354Mb | FDCserversnet	prime.jarbook.net	443
+WORKS	YES	YES	138.124.80.212	FI	491	279	19	🇨🇭279Mb | Global Connectivity Solutions Llp	185.242.247.66	443
+WORKS	YES	YES	185.191.117.75	DE	624	275	5	🇩🇪275Mb | Cherry Servers	mstchgem2.jarvesitw.ru	443
+FAIL	NO	NO			3414	273		🇷🇺273Mb | JSC Selectel	176.108.245.237	443
+FAIL	NO	NO			372	266		🇳🇱266Mb | Fzco	201.58.186.29	3443
+FAIL	NO	NO			460	253		🇳🇱253Mb | DpkgSoft International Limited	mintbyte.online	443
+WORKS	YES	YES	50.7.169.213	NL	353	250	8	🇺🇸250Mb | FDCserversnet	50.7.169.242	443
+WORKS	YES	YES	13.143.175.47	NL	364	224	9	🇳🇱224Mb | Fzco	13.143.175.47	443
+FAIL	NO	NO			370	201		🇳🇱201Mb | Fzco	201.58.186.29	8443
+WORKS	YES	YES	172.213.24.16	IT	488	189	18	🇮🇹189Mb | Microsoft	172.213.24.16	2083
+WORKS	YES	YES	94.183.255.31	NL	1004	184	15	🇳🇱184Mb | HOSTES	ndfst11.neuroblur.top	14443
+WORKS	YES	YES	185.191.117.75	DE	378	182	4	🇩🇪182Mb | Cherry Servers	84.32.98.162	443
+FAIL	NO	NO			280	169		🇳🇱169Mb | Vladislav Doniy	94.183.164.119	443
+FAIL	NO	NO			2167	161		🇩🇪161Mb | Hetzner Online	190.93.247.95	8443
+WORKS	YES	YES	16.52.72.4	CA	163	145	17	🇨🇦145Mb | Amazoncom	16.52.72.4	80
+FAIL	NO	NO			3196	145		🇩🇪145Mb | Cloudflare	85.192.27.171	2053
+FAIL	NO	NO			318	145		🇸🇪145Mb | Amazoncom	13.53.216.223	443
+FAIL	NO	NO			4002	144		🇺🇸144Mb | Servhost Group	141.133.187.60	443
+FAIL	NO	NO			4003	144		🇦🇺144Mb | M247 Europe SRL	zfapi.zalolink.com	54528
+FAIL	NO	NO			4003	143		🇯🇵143Mb | IT7 Networks	45.78.49.22	443
+FAIL	NO	NO			45	139		🇫🇷139Mb | OVH SAS	151.101.36.111	443
+WORKS	YES	YES	217.60.68.60	DE	908	134	6	🇩🇪134Mb | HOSTES	germ.onlineai.pro	14443
+WORKS	YES	YES	146.103.124.79	NL	366	131	10	🇳🇱131Mb | Servers Tech Fzco	94.183.164.119	22843
+FAIL	NO	NO			23	128		🇫🇷128Mb | OVH SAS	151.101.36.61	443
+FAIL	NO	NO			25	125		🇷🇺125Mb | Baykov Ilya Sergeevich	188.114.98.0	443
+FAIL	NO	NO			4003	124		🇵🇱124Mb | Fzco	177.202.68.217	443
+WORKS	YES	YES	84.32.96.250	NL	564	119	14	🇳🇱119Mb | Cherry Servers	84.32.96.251	443
+FAIL	NO	NO			348	109		🇭🇷109Mb | Global Connectivity Solutions Llp	horrvv.qik-server.uk	443
+WORKS	YES	YES	50.7.193.149	GB	350	107		🇬🇧107Mb | FDCserversnet	prime.jarbook.net	443
+WORKS	NO	YES			717	106		🇳🇱106Mb | Vladislav Doniy	94.183.164.119	8443
+WORKS	YES	YES	173.242.119.115	US	414	100	1	🇺🇸100Mb | IT7 Networks	n03.jinggai.online	443
+WORKS	YES	YES	84.32.96.250	NL	522	99	12	🇳🇱99Mb | Cherry Servers	book.jarbook.net	443
+FAIL	NO	NO			798	95		🇳🇱95Mb | Layer7 Technologies	ndf31.onlineai.pro	443
+FAIL	NO	NO			25	93		🇫🇷93Mb | OVH SAS	151.101.36.246	443
+FAIL	NO	NO			3650	91		🇯🇵91Mb | The Constant Company	s2533.gogocs.xyz	443
+FAIL	NO	NO			266	85		🇳🇱85Mb | AntiDDoS Networks	144.31.225.74	443
+FAIL	NO	NO			23	81		🇫🇷81Mb | OVH SAS	151.101.36.201	443
+WORKS	YES	YES	84.32.96.250	NL	470	79		🇳🇱79Mb | Cherry Servers	84.32.96.251	443
+FAIL	NO	NO			2692	79		🇺🇸79Mb | Cloudflare	38.58.108.84	443
+WORKS	YES	YES	13.140.253.35	IN	1044	78	21	🇮🇳78Mb | Contabo Asia Private Limited	xray-m0642ki4-silver-nebula-10.cloady.io	443
+FAIL	NO	NO			3758	71		🇫🇷71Mb | OVH SAS	3.169.9.125	443
+WORKS	YES	YES	13.143.175.47	NL	500	68	11	🇳🇱68Mb | Fzco	hollandlanzerotte.xyz	443
+FAIL	NO	NO			35	67		🇫🇷67Mb | OVH SAS	151.101.36.61	443
+WORKS	YES	YES	89.105.195.157	NL	1028	66	16	🇳🇱66Mb | NovoServe	hub.mediacorphub.org	443
+FAIL	NO	NO			405	65		🇩🇪65Mb | Play2go International Limited	velvetwormhole.space	443
+WORKS	YES	YES	89.105.195.154	NL	529	59	13	🇳🇱59Mb | NovoServe	get.mediacorphub.org	443
+FAIL	NO	NO			30	55		🇫🇷55Mb | OVH SAS	151.101.36.201	443
+FAIL	NO	NO			2196	55		🇳🇱55Mb | NovoServe	89.105.195.148	443
+FAIL	NO	NO			260	54		🇳🇱54Mb | Dedik Services Limited	93.152.215.254	443
+FAIL	NO	NO			2190	52		🇳🇱52Mb | NovoServe	89.105.195.151	443
+FAIL	NO	NO			2875	51		🇷🇺51Mb | JSC Selectel	185.178.208.167	443
+FAIL	NO	NO			288	51		🇷🇺51Mb | Global Connectivity Solutions Llp	neshka2.kpt99.uk	443
