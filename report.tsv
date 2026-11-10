@@ -1,137 +1,18 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			3691	442		🇧🇪442Mb | M247 Europe SRL	eu90.cdn77.icu	20011
-FAIL	NO	NO			4001	414		🇩🇰414Mb | Global Connectivity Solutions Llp	eu90.cdn77.icu	20023
-FAIL	NO	NO			3658	412		🇷🇺412Mb | JSC Selectel	176.108.245.237	443
-FAIL	NO	NO			3648	408		🇨🇭408Mb | Route 95	eu90.cdn77.icu	20017
-FAIL	NO	NO			2207	391		🇷🇺391Mb | Cloudflare	radar.cloudflare.com	8080
-FAIL	NO	NO			4001	353		🇱🇻353Mb | Global Connectivity Solutions Llp	eu90.cdn77.icu	20047
-WORKS	YES	YES	48.102.166.220	US	554	351	3	🇺🇸351Mb | Ace Data Centers II	48.102.166.220	443
-FAIL	NO	NO			3645	349		🇲🇰349Mb | Akton doo	eu90.cdn77.icu	20049
-WORKS	YES	YES	50.7.88.234	DE	529	348	10	🇩🇪348Mb | FDCserversnet	189.74.106.30	443
-WORKS	YES	YES	84.32.209.32	LT	657	333	34	🇱🇹333Mb | Cherry Servers	84.32.209.32	443
-FAIL	NO	NO			495	309		🇨🇳309Mb | H2nexus Cloud Services - Fzco	eu120.cdn77.icu	20071
-FAIL	NO	NO			647	308		🇨🇭308Mb | WAIcore	guide.blog-forme.ru	2087
-WORKS	YES	YES	50.7.193.139	GB	544	296	8	🇬🇧296Mb | FDCserversnet	prime.jarbook.net	443
-FAIL	NO	NO			2846	290		🇩🇪290Mb | Cloudflare	www.gov.se	8080
-FAIL	NO	NO			4001	288		🇭🇷288Mb | Akton doo	eu90.cdn77.icu	20033
-FAIL	NO	NO			3579	281		🇬🇷281Mb | Green Floid	eu90.cdn77.icu	20031
-WORKS	YES	YES	50.7.193.139	GB	487	276	7	🇬🇧276Mb | FDCserversnet	50.7.193.139	443
-FAIL	NO	NO			3627	267		🇺🇸267Mb | Servhost Group	eu90.cdn77.icu	20045
-FAIL	NO	NO			2187	266		🇳🇱266Mb | Cloudflare	104.18.26.94	8080
-FAIL	NO	NO			712	263		🇨🇭263Mb | WAIcore	summit.blog-forme.ru	2087
-FAIL	NO	NO			383	261		🇵🇱261Mb | VPSPay Networks	31.76.251.48	443
-FAIL	NO	NO			4003	259		🇦🇲259Mb | NetCrafters OU	91.192.156.72	443
-WORKS	YES	YES	195.123.213.209	LV	4052	256	44	🇱🇻256Mb | Route 95	wj9xcq0lp4.apruxdomain.online	443
-FAIL	NO	NO			4002	249		🇩🇪249Mb | Play2go International Limited	178.215.236.220	443
-WORKS	YES	YES	13.143.190.108	SK	543	249	30	🇺🇸249Mb | Servhost Group	l82h3yu19yy.apruxdomain.online	443
-FAIL	NO	NO			2157	248		🇸🇪248Mb | Cloudflare	104.19.173.68	8080
-WORKS	YES	NO			1088	248		🇷🇺248Mb | Delta	188.130.209.212	443
-FAIL	NO	NO			3559	244		🇨🇦244Mb | Leaseweb Canada	eu90.cdn77.icu	20016
-FAIL	NO	NO			2160	244		🇩🇪244Mb | Cloudflare	104.26.6.109	2053
-FAIL	NO	NO			2111	239		🇸🇪239Mb | Cloudflare	188.114.97.3	443
-FAIL	NO	NO			56	238		🇩🇪238Mb | Servhost Group	172.66.47.166	443
-FAIL	NO	NO			2172	235		🇺🇸235Mb | Psychz Networks	23.227.38.99	443
-WORKS	YES	YES	13.143.190.108	SK	570	234	31	🇺🇸234Mb | Servhost Group	13.143.190.112	443
-WORKS	YES	YES	48.102.167.37	US	510	233	1	🇺🇸233Mb | Ace Data Centers II	48.102.167.37	443
-WORKS	YES	YES	50.7.169.213	NL	844	225	14	🇺🇸225Mb | FDCserversnet	50.7.169.242	443
-FAIL	NO	NO			43	220		🇫🇷220Mb | OVH SAS	151.101.36.253	443
-FAIL	NO	NO			779	219		🇦🇪219Mb | Sugailo Raitis	138.16.201.42	443
-FAIL	NO	NO			2147	218		🇸🇪218Mb | Cloudflare	104.18.27.94	8080
-WORKS	YES	YES	45.61.144.28	US	567	215	4	🇺🇸215Mb | RouterHosting	spring-pine-698a.mramzanian1375.workers.dev	443
-FAIL	NO	NO			387	214		🇳🇱214Mb | AntiDDoS Networks	144.31.225.74	443
-WORKS	YES	YES	213.199.57.127	FR	519	213	29	🇫🇷213Mb | Contabo	213.199.57.127	2087
-WORKS	YES	YES	150.241.82.27	SE	391	212	28	🇺🇸212Mb | Servhost Group	kaoruqqww.apruxdomain.online	443
-FAIL	NO	NO			2156	211		🇭🇺211Mb | ATW Internet Kft	172.67.131.125	2083
-WORKS	YES	YES	50.7.95.227	NL	503	210	12	🇺🇸210Mb | FDCserversnet	main.jarbook.net	443
-FAIL	NO	NO			3589	209		🇳🇬209Mb | Melbikomas	eu90.cdn77.icu	20052
-WORKS	YES	NO			2114	208		🇦🇹208Mb | Aeza Group	147.45.71.230	8443
-FAIL	NO	NO			3340	207		🇳🇱207Mb | Cloudflare	ip.sb	8080
-FAIL	NO	NO			3661	202		🇲🇽202Mb | Scalaxy	eu90.cdn77.icu	20050
-FAIL	NO	NO			3642	200		🇨🇴200Mb | EDGEUNO SAS	eu90.cdn77.icu	20019
-FAIL	NO	NO			2794	199		🇷🇺199Mb | Cloudflare	saas.sin.fan	443
-FAIL	NO	NO			2234	197		🇸🇪197Mb | Cloudflare	www.digitalocean.com	8080
-FAIL	NO	NO			2150	196		🇩🇪196Mb | Cloudflare	104.26.13.31	8080
-FAIL	NO	NO			2185	195		🇳🇱195Mb | Cloudflare	104.21.0.1	8080
-FAIL	NO	NO			2174	194		🇳🇱194Mb | Cloudflare	104.26.12.31	8080
-WORKS	YES	YES	48.102.167.37	US	541	193	2	🇺🇸193Mb | Ace Data Centers II	hollandlanzerotte.xyz	443
-WORKS	YES	YES			1983	187		🇩🇪187Mb | Play2go International Limited	gembeforeshoping.space	443
-FAIL	NO	NO			472	186		🇦🇪186Mb | Sugailo Raitis	lp.astralweb.tech	443
-FAIL	NO	NO			3601	174		🇫🇷174Mb | ESTOXY OU	eu90.cdn77.icu	20028
-WORKS	YES	YES	194.150.220.179	NL	492	172	11	🇺🇦172Mb | Global Connectivity Solutions Llp	194.150.220.179	443
-FAIL	NO	NO			522	168		🇸🇪168Mb | Node Host Limited	sweden2.banovano.space	2053
-WORKS	YES	YES	94.183.164.92	IR	583	167	33	🇳🇱167Mb | Vladislav Doniy	94.183.164.92	443
-WORKS	YES	YES	185.191.117.75	DE	501	161	9	🇩🇪161Mb | Cherry Servers	84.32.98.162	443
-FAIL	NO	NO			2136	159		🇳🇱159Mb | Cloudflare	172.67.75.172	8080
-WORKS	YES	YES	188.166.182.158	SG	844	157	38	🇸🇬157Mb | DigitalOcean	188.166.182.158	8443
-WORKS	YES	YES	84.32.209.32	LT	666	157	35	🇱🇹157Mb | Cherry Servers	ltmst1.goonars.com	443
-WORKS	YES	YES	89.105.195.158	NL	3764	157	26	🇳🇱157Mb | NovoServe	rpc.mediacorphub.org	443
-FAIL	NO	NO			3616	157		🇬🇧157Mb | GSL Networks Pty	eu90.cdn77.icu	20029
-WORKS	YES	YES	188.166.182.158	SG	820	148	37	🇲🇾148Mb | DigitalOcean	188.166.182.158	443
-WORKS	YES	YES	94.183.164.92	IR	578	147	32	🇳🇱147Mb | Vladislav Doniy	wr0ct1hfg.apruxdomain.online	443
-FAIL	NO	NO			2181	143		🇷🇺143Mb | Cloudflare	104.19.174.68	8080
-WORKS	NO	NO			1616	141		🌐141Mb | Бесплатный VPN tg:VLESSFORU 🇮🇳	217.60.148.153	443
-WORKS	YES	YES	176.123.11.42	MD	896	140	40	🇲🇩140Mb | Alexhost Srl	groupbackoff.ratethatrestaurant.org	443
-WORKS	YES	YES	84.32.96.250	NL	923	140	15	🇳🇱140Mb | Cherry Servers	84.32.96.251	443
-WORKS	YES	YES	48.102.166.220	US	604	139	6	🇺🇸139Mb | Ace Data Centers II	swedenafteraventura.space	443
-FAIL	NO	NO			1825	138		🇲🇽138Mb | Scalaxy	179.236.130.66	20050
-WORKS	YES	YES	89.105.195.156	NL	3788	138	27	🇳🇱138Mb | NovoServe	app.mediacorphub.org	443
-FAIL	NO	NO			45	138		🇫🇷138Mb | OVH SAS	151.101.36.61	443
-FAIL	NO	NO			2086	137		🇷🇺137Mb | Cloudflare	162.159.198.1	443
-FAIL	NO	NO			635	135		🇫🇮135Mb | Oy Crea Nova Hosting Solution	185.186.143.179	443
-FAIL	NO	NO			423	133		🇳🇱133Mb | AntiDDoS Networks	static-nl.song69.fun	443
-FAIL	NO	NO			4003	131		🇯🇵131Mb | Eons Data Communications Limited	n2jp.mateflora.com	443
-FAIL	NO	NO			3584	131		🇨🇱131Mb | iHosting Servicios Internet Ltda	eu90.cdn77.icu	20018
-FAIL	NO	NO			864	131		🇺🇸131Mb | Servhost Group	179.254.170.73	443
-FAIL	NO	NO			4002	131		🇷🇺131Mb | YandexCloud	158.160.190.15	8443
-FAIL	NO	NO			3631	130		🇭🇰130Mb | M247 Europe SRL	eu90.cdn77.icu	20032
-FAIL	NO	NO			4002	130		🇵🇱130Mb | HOSTES	94.183.157.205	443
-WORKS	YES	NO			2395	129		🇻🇳129Mb | ONLINE DATA COMPANY LIMITED	154.44.24.25	51279
-FAIL	NO	NO			4002	125		🇨🇴125Mb | EDGEUNO SAS	179.236.130.66	20019
-FAIL	NO	NO			3883	125		🇲🇾125Mb | M247 Europe SRL	eu120.cdn77.icu	20051
-FAIL	NO	NO			601	121		🇸🇪121Mb | Hostup AB	362c1eg.se1.h1clayd.click	443
-WORKS	YES	YES	84.32.96.250	NL	699	120	13	🇳🇱120Mb | Cherry Servers	book.jarbook.net	443
-WORKS	YES	NO			1486	118		🇳🇱118Mb | Servers Tech Fzco	88.210.14.234	8443
-FAIL	NO	NO			2285	117		🇳🇱117Mb | NovoServe	89.105.195.150	443
-FAIL	NO	NO			2141	112		🇩🇪112Mb | Hetzner Online	103.31.4.160	8443
-FAIL	NO	NO			100	111		🇺🇸111Mb | HostPapa	s2317.gogocs.xyz	443
-WORKS	YES	YES	89.105.195.156	NL	2299	108	20	🇳🇱108Mb | NovoServe	images.mediacorphub.org	443
-WORKS	YES	YES	89.105.195.157	NL	2300	107	21	🇳🇱107Mb | NovoServe	assets.mediacorphub.org	443
-WORKS	YES	YES	89.105.195.158	NL	2261	102	19	🇳🇱102Mb | NovoServe	relay.mediacorphub.org	443
-WORKS	YES	YES	89.105.195.153	NL	1605	96	17	🇳🇱96Mb | NovoServe	tracker.mediacorphub.org	443
-FAIL	NO	NO			2247	96		🇳🇱96Mb | NovoServe	89.105.195.152	443
-WORKS	YES	YES	64.118.145.56	JP	927	93	42	🇯🇵93Mb | Eons Data Communications Limited	64.118.145.56	443
-WORKS	YES	YES	89.105.195.158	NL	1444	91	16	🇳🇱91Mb | NovoServe	fetch.mediacorphub.org	443
-WORKS	NO	NO			564	88		🇩🇪88Mb | Fzco	sundaylanzgem.site	443
-WORKS	YES	YES	89.105.195.154	NL	2461	86	22	🇳🇱86Mb | NovoServe	api.mediacorphub.org	443
-WORKS	YES	YES	89.105.195.157	NL	1979	86	18	🇳🇱86Mb | NovoServe	edge.mediacorphub.org	443
-FAIL	NO	NO			340	85		🇺🇸85Mb | VPSPay Networks	191.217.239.30	443
-FAIL	NO	NO			3566	85		🇨🇱85Mb | iHosting Servicios Internet Ltda	eu90.cdn77.icu	20018
-FAIL	NO	NO			34	85		🇸🇪85Mb | Cloudflare	172.66.47.178	443
-FAIL	NO	NO			3610	84		🇭🇺84Mb | M247 Europe SRL	eu90.cdn77.icu	20034
-WORKS	YES	YES	89.105.195.153	NL	2790	84	23	🇳🇱84Mb | NovoServe	live.mediacorphub.org	443
-FAIL	NO	NO			2244	79		🇳🇱79Mb | NovoServe	89.105.195.148	443
-FAIL	NO	NO			2226	78		🇳🇱78Mb | NovoServe	89.105.195.147	443
-FAIL	NO	NO			3571	78		🇪🇬78Mb | LIGHT NODE LIMITED	eu90.cdn77.icu	20082
-WORKS	YES	YES	89.105.195.155	NL	3618	78	25	🇳🇱78Mb | NovoServe	data.mediacorphub.org	443
-WORKS	YES	YES	94.183.164.92	IR	917	74	41	🇳🇱74Mb | Vladislav Doniy	185.147.27.23	30106
-FAIL	NO	NO			37	74		🇫🇷74Mb | OVH SAS	151.101.36.201	443
-FAIL	NO	NO			3344	73		🇷🇺73Mb | JSC Selectel	185.178.208.167	443
-FAIL	NO	NO			43	73		🇫🇷73Mb | OVH SAS	151.101.36.246	443
-FAIL	NO	NO			2243	72		🇳🇱72Mb | NovoServe	89.105.195.151	443
-WORKS	YES	YES	89.105.195.155	NL	3298	71	24	🇳🇱71Mb | NovoServe	net.mediacorphub.org	443
-FAIL	NO	NO			4003	69		🇺🇦69Mb | Hivelocity	185.147.27.23	30103
-FAIL	NO	NO			3564	67		🇯🇵67Mb | The Constant Company	s2547.fuhuovps.xyz	443
-WORKS	YES	YES	201.58.139.66	US	598	66	5	🌐66Mb | 0346 | 🇺🇸 USA | VLESS | 📺 YT |	201.58.139.66	443
-WORKS	YES	YES	2.27.175.230	FI	853	66	39	🇫🇮66Mb | Senko Digital	2.27.175.229	446
-WORKS	YES	YES	195.123.213.209	LV	744	66	36	🇱🇻66Mb | Route 95	195.123.209.32	443
-FAIL	NO	NO			4003	66		🇪🇸66Mb | servinga	eu120.cdn77.icu	20026
-FAIL	NO	NO			1494	65		🇪🇸65Mb | servinga	179.236.130.66	20026
-FAIL	NO	NO			43	64		🇫🇷64Mb | OVH SAS	151.101.36.111	443
-WORKS	YES	YES	79.182.70.192	BY	1409	63	43	🇳🇱63Mb | H1cloud	196.245.217.70	443
-FAIL	NO	NO			390	60		🇰🇷60Mb | The Constant Company	s2449.gogocs.xyz	443
-FAIL	NO	NO			2127	60		🇺🇸60Mb | DigitalOcean	172.67.199.126	2053
-FAIL	NO	NO			376	58		🇩🇪58Mb | dataforest	45.157.235.218	443
-WORKS	YES	NO			700	56		🇷🇺56Mb | Kviktel	45.139.27.125	443
-FAIL	NO	NO			42	54		🇫🇷54Mb | OVH SAS	151.101.36.227	443
-FAIL	NO	NO			57	51		🇫🇷51Mb | OVH SAS	151.101.36.128	443
-FAIL	NO	NO			4003	51		🇺🇦51Mb | Hivelocity	185.147.27.23	2053
+FAIL	NO	NO			4002	429		🇷🇺429Mb | Delta	188.130.209.212	443
+FAIL	NO	NO			3697	360		🇷🇺360Mb | JSC Selectel	176.108.245.237	443
+FAIL	NO	NO			3843	355		🇩🇪355Mb | Cherry Servers	mstchgem2.jarvesitw.ru	443
+WORKS	YES	NO			3083	327		🇩🇪327Mb | Cherry Servers	84.32.98.162	443
+WORKS	YES	YES	50.7.193.149	GB	522	250		🇬🇧250Mb | FDCserversnet	prime.jarbook.net	443
+FAIL	NO	NO			372	248		🇨🇭248Mb | WAIcore	95.85.231.3	2087
+WORKS	YES	YES	50.7.193.149	GB	505	245	1	🇬🇧245Mb | FDCserversnet	prime.jarbook.net	443
+WORKS	YES	YES	76.164.203.230	ES	572	221	2	🇪🇸221Mb | Interkvm Host Srl	77.81.182.7	8443
+FAIL	NO	NO			4003	162		🇸🇨162Mb | DigitalEra Tech OU	vv9bo423qfvc.cloudymedia.click	443
+FAIL	NO	NO			4002	154		🇳🇱154Mb | Vladislav Doniy	94.183.164.119	443
+WORKS	YES	YES	76.164.203.111	ES	583	145	3	🇪🇸145Mb | Interkvm Host Srl	156.252.229.203	8443
+FAIL	NO	NO			1079	145		🇳🇱145Mb | AntiDDoS Networks	144.31.225.74	443
+FAIL	NO	NO			3231	125		🇷🇺125Mb | JSC Selectel	185.178.208.167	443
+WORKS	NO	YES			1021	114		🇸🇬114Mb | Eons Data Communications Limited	zfapi.zalolink.com	41295
+FAIL	NO	NO			159	97		🇺🇸97Mb | HostPapa	s2318.wagahaha.xyz	443
+FAIL	NO	NO			168	61		🇺🇸61Mb | HostPapa	s2317.gogocs.xyz	443
+FAIL	NO	NO			80	54		🇫🇷54Mb | OVH SAS	151.101.36.61	443
