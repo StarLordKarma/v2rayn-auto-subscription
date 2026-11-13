@@ -1,11 +1,35 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			2930	376		🇷🇺376Mb | JSC Selectel	185.178.208.167	443
-FAIL	NO	NO			4002	322		🇳🇱322Mb | Railway	whitepanel-ui-production-7ce942b9.up.railway.app	443
-WORKS	YES	YES	50.7.169.213	NL	499	292	2	🇺🇸292Mb | FDCserversnet	user.betust.net	443
-FAIL	NO	NO			2130	185		🇷🇺185Mb | Cloudflare	172.64.158.33	443
-FAIL	NO	NO			2233	134		🇳🇱134Mb | Cloudflare	172.67.167.207	443
-WORKS	YES	YES	69.17.3.150	US	391	114	1	🇺🇸114Mb | Quantumbeam Communications Limited	69.17.3.150	443
-WORKS	NO	YES			783	114		🇺🇸114Mb | Fzco	177.202.78.129	443
-FAIL	NO	NO			75	96		🇺🇸96Mb | Unredacted	162.216.231.214	443
-FAIL	NO	NO			191	93		🇺🇸93Mb | Unredacted	coughed-gongs.freevideochats.org	443
-WORKS	YES	NO			3512	78		🇳🇱78Mb | H1cloud	5d0319t.nl7.h1clayd.click	443
+WORKS	YES	NO			1031	475		🇷🇺475Mb | JSC Selectel	mbr.rkn-pediki.site	443
+WORKS	YES	YES	141.227.131.203	NL	515	387	14	🇫🇷387Mb | OVH SAS	cdn-nl.vpnserverhub.com	8080
+WORKS	YES	YES	129.101.98.60	RU	702	328	16	🇷🇺328Mb | Jsc timeweb	ru7e2bab87cc39.eu-cdn539.com	443
+WORKS	YES	YES	50.7.193.149	GB	406	312	5	🇬🇧312Mb | FDCserversnet	50.7.193.150	443
+FAIL	NO	NO			476	228		🇧🇬228Mb | Belcloud	78.159.250.83	8443
+WORKS	YES	YES	191.217.217.50	NL	485	208	13	🇳🇱208Mb | Akenai Products	nl5.soshelper.space	2053
+WORKS	YES	YES	81.90.24.204	PL	524	200	15	🇮🇶200Mb | Andrey Shemanin	81.90.24.204	2053
+WORKS	YES	YES	31.76.39.78	GB	403	195	4	🇬🇧195Mb | Akenai Products	94.183.179.64	443
+WORKS	YES	YES	31.77.114.217	NL	426	193		🇳🇱193Mb | Akenai Products	191.217.217.82	443
+WORKS	YES	YES	172.236.151.170	SG	920	191	17	🇸🇬191Mb | Akamai Connected Cloud	104.18.20.212	8080
+WORKS	YES	YES	85.204.107.13	RO	967	185	18	🇷🇴185Mb | Interkvm Host Srl	86.107.179.250	443
+WORKS	YES	YES	31.77.114.217	NL	448	182	9	🇳🇱182Mb | Akenai Products	191.217.217.82	443
+WORKS	YES	YES	191.217.217.50	NL	474	155	12	🇳🇱155Mb | Akenai Products	191.217.217.81	443
+WORKS	YES	YES	69.17.3.150	US	322	152	1	🇺🇸152Mb | Quantumbeam Communications Limited	69.17.3.150	443
+FAIL	NO	NO			4001	139		🇳🇱139Mb | Akenai Products	31.77.114.12	443
+WORKS	YES	YES	31.77.114.217	NL	455	129	10	🇳🇱129Mb | Akenai Products	nl6.soshelper.space	443
+FAIL	NO	NO			369	129		🇸🇪129Mb | Amazoncom	13.53.217.125	39053
+FAIL	NO	NO			4001	128		🇳🇱128Mb | Akenai Products	nl1.soshelper.space	2053
+FAIL	NO	NO			4001	126		🇳🇱126Mb | Akenai Products	31.77.28.68	443
+FAIL	NO	NO			4001	124		🇳🇱124Mb | Akenai Products	nl2.soshelper.space	2053
+WORKS	YES	YES	31.76.39.78	GB	422	122	6	🇬🇧122Mb | Akenai Products	gb2.soshelper.space	2053
+FAIL	NO	NO			381	118		🇸🇪118Mb | Amazoncom	13.53.217.125	443
+WORKS	YES	YES	79.182.70.220	AL	1372	117	19	🇳🇱117Mb | H1cloud	5d0319t.nl7.h1clayd.click	443
+FAIL	NO	NO			4002	113		🇳🇱113Mb | Akenai Products	31.77.28.83	443
+WORKS	YES	YES	31.76.39.123	GB	388	111	3	🇬🇧111Mb | Akenai Products	94.183.179.212	2053
+FAIL	NO	NO			374	106		🇸🇪106Mb | Amazoncom	13.53.217.125	8443
+WORKS	YES	YES	191.217.217.118	NL	457	102	11	🇳🇱102Mb | Akenai Products	nl4.soshelper.space	2053
+WORKS	YES	YES	191.217.217.118	NL	425	97	8	🇳🇱97Mb | Akenai Products	31.77.28.173	443
+FAIL	NO	NO			4002	94		🇳🇱94Mb | Akenai Products	nl3.soshelper.space	2053
+WORKS	YES	YES	31.76.39.78	GB	1074	91		🇬🇧91Mb | Akenai Products	94.183.179.64	443
+WORKS	YES	YES	209.126.7.194	US	434	86	2	🇺🇸86Mb | Contabo	xray-piox09gf-calm-maple-6.cloady.io	443
+WORKS	YES	YES	31.76.39.78	GB	451	79	7	🇬🇧79Mb | Akenai Products	94.183.179.64	2053
+FAIL	NO	NO			441	74		🇳🇱74Mb | H1cloud	fc82dfx.nl8.h1clayd.click	443
+WORKS	YES	YES	13.140.248.125	JP	1733	66	20	🇯🇵66Mb | Contabo Asia Private Limited	xray-p1vi234h-lunar-forest-6.cloady.io	443
