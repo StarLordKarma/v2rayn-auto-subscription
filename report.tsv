@@ -1,45 +1,50 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4002	362		🇵🇱362Mb | Fzco	177.202.76.129	9443
-FAIL	NO	NO			4002	343		🇩🇪343Mb | Play2go International Limited	27septgerm.site	444
-FAIL	NO	NO			4003	336		🇬🇧336Mb | FDCserversnet	50.7.193.150	443
-FAIL	NO	NO			4003	336		🇳🇱336Mb | Cherry Servers	84.32.177.87	443
-FAIL	NO	NO			314	311		🇫🇷311Mb | OVH SAS	cdn-nl.vpnserverhub.com	8080
-WORKS	YES	YES	129.101.98.60	RU	595	296	3	🇷🇺296Mb | Jsc timeweb	129.101.98.60	443
-FAIL	NO	NO			440	290		🇳🇱290Mb | Play2go International Limited	netherafteraventura.site	444
-FAIL	NO	NO			4002	282		🌐282Mb | 3790 | 🇺🇸 USA | VLESS | 📺 YT |	48.102.167.110	443
-FAIL	NO	NO			2443	251		🇮🇹251Mb | Aruba SpA	203.23.179.123	443
-FAIL	NO	NO			462	234		🇵🇱234Mb | FDCserversnet	api.oblachnyservis.cc	443
-FAIL	NO	NO			2090	226		🇳🇱226Mb | Cloudflare	172.67.167.207	443
-FAIL	NO	NO			271	203		🇳🇱203Mb | AntiDDoS Networks	144.31.225.114	443
-FAIL	NO	NO			2351	191		🇳🇱191Mb | Railway	whitepanel-ui-production-493f7a3e.up.railway.app	443
-FAIL	NO	NO			540	186		🇷🇺186Mb | JSC Selectel	fduknew.titun.su	443
-FAIL	NO	NO			2097	179		🇸🇪179Mb | Cloudflare	104.18.40.33	443
-FAIL	NO	NO			2972	177		🇫🇷177Mb | OVH SAS	3.168.218.14	443
-FAIL	NO	NO			354	165		🇵🇱165Mb | MEVSPACE sp z oo	195.3.223.124	443
-FAIL	NO	NO			327	164		🇵🇱164Mb | FDCserversnet	189.74.116.37	443
-FAIL	NO	NO			4002	162		🇺🇸162Mb | WEYRO	5.104.74.50	8443
-WORKS	YES	YES	143.246.182.103	GB	344	153	2	🇺🇸153Mb | WEYRO	212.69.135.226	8443
-FAIL	NO	NO			242	147		🇷🇺147Mb | JSC Selectel	50.7.227.82	443
-FAIL	NO	NO			2189	143		🇫🇷143Mb | HZ Hosting	89.150.45.246	443
-FAIL	NO	NO			2455	140		🇦🇹140Mb | Interkvm Host Srl	185.104.63.62	8443
-FAIL	NO	NO			4003	123		🇷🇺123Mb | Kviktel	45.139.27.164	443
-FAIL	NO	NO			279	121		🇺🇸121Mb | B2 Net Solutions	api.videobereg.cc	443
-FAIL	NO	NO			4002	119		🇫🇮119Mb | Cloudflare	138.124.49.108	8443
-FAIL	NO	NO			2181	107		🇩🇪107Mb | WAIcore	109.122.196.166	443
-FAIL	NO	NO			4003	97		🇮🇱97Mb | Kamatera	185.139.228.50	443
-FAIL	NO	NO			4002	96		🇩🇪96Mb | Cherry Servers	84.32.100.166	443
-FAIL	NO	NO			2240	88		🇨🇾88Mb | Belcloud	91.92.137.165	443
-FAIL	NO	NO			2347	85		🇳🇱85Mb | Paul Sagov	129.101.98.24	8443
-FAIL	NO	NO			4002	77		🇳🇱77Mb | ESTOXY OU	37.49.225.85	443
-FAIL	NO	NO			2121	76		🇲🇩76Mb | Alexhost Srl	217.156.123.33	443
-FAIL	NO	NO			4002	73		🇺🇸73Mb | Cherry Servers	84.32.61.133	443
-FAIL	NO	NO			332	73		🇳🇱73Mb | H1cloud	8bbc65x.nl18.h1clayd.click	443
-FAIL	NO	NO			4002	72		🇸🇪72Mb | Cherry Servers	88.216.130.236	443
-FAIL	NO	NO			2370	72		🇳🇱72Mb | H1cloud	c411acg.nl18.h1clayd.click	443
-FAIL	NO	NO			667	62		🇭🇰62Mb | Akari Networks	125.230.104.155	30101
-FAIL	NO	NO			708	60		🇹🇼60Mb | AKILE	125.230.104.155	30202
-FAIL	NO	NO			2065	59		🇸🇪59Mb | Cloudflare	104.26.13.54	443
-WORKS	YES	YES	48.102.170.205	US	549	55		🇺🇸55Mb | Ace Data Centers II	48.102.170.205	8443
-FAIL	NO	NO			678	55		🇭🇰55Mb | HKT Limited	125.230.104.155	30103
-FAIL	NO	NO			327	52		🇲🇨52Mb | H2nexus Cloud Services - Fzco	107.189.23.205	443
-WORKS	YES	YES	48.102.170.205	US	533	51	1	🇺🇸51Mb | Ace Data Centers II	48.102.170.205	8443
+FAIL	NO	NO			486	425		🇫🇷425Mb | OVH SAS	cdn-nl.vpnserverhub.com	8080
+WORKS	YES	YES	84.32.186.198	NL	483	369	3	🇳🇱369Mb | Cherry Servers	84.32.185.6	443
+FAIL	NO	NO			4002	342		🇺🇸342Mb | Geodema Cloud Limited	laska.crabdance.com	8443
+FAIL	NO	NO			4003	340		🇫🇮340Mb | Play2go International Limited	177.3.220.53	443
+FAIL	NO	NO			3279	329		🇳🇱329Mb | Vladislav Doniy	94.183.164.190	443
+WORKS	YES	NO			2430	320		🇷🇺320Mb | Jsc timeweb	129.101.98.60	443
+WORKS	NO	NO			748	318		🇷🇺318Mb | Jsc timeweb	ru7e2bab87cc39.eu-cdn539.com	443
+FAIL	NO	NO			388	318		🇷🇺318Mb | VK	46.243.234.17	2053
+FAIL	NO	NO			658	306		🇷🇺306Mb | VK	windytrout.net	2053
+WORKS	YES	YES	50.7.169.213	NL	654	289	6	🇺🇸289Mb | FDCserversnet	user.betust.net	443
+WORKS	YES	YES	84.32.96.64	NL	491	288	5	🇳🇱288Mb | Cherry Servers	84.32.101.0	443
+WORKS	YES	YES	50.7.169.213	NL	490	259	4	🇺🇸259Mb | FDCserversnet	50.7.169.243	443
+FAIL	NO	NO			4002	244		🇧🇪244Mb | VERIXI	109.69.218.163	443
+FAIL	NO	NO			4002	236		🇳🇱236Mb | Railway	tamaralt-production.up.railway.app	443
+FAIL	NO	NO			4002	229		🇮🇪229Mb | NetCrafters OU	83.141.69.189	443
+WORKS	YES	YES	31.59.105.137	FR	464	227	7	🇫🇷227Mb | Cgi Global Limited	31.59.105.137	443
+FAIL	NO	NO			2240	225		🇩🇪225Mb | Cloudflare	104.21.41.243	443
+FAIL	NO	NO			504	224		🇫🇮224Mb | UpCloud	109.71.245.99	8443
+FAIL	NO	NO			2289	206		🇺🇸206Mb | FDCserversnet	189.74.114.99	443
+FAIL	NO	NO			4003	204		🇷🇺204Mb | Jsc timeweb	200.102.183.115	443
+FAIL	NO	NO			398	198		🇦🇹198Mb | FDCserversnet	189.74.115.24	443
+FAIL	NO	NO			45	178		🇳🇱178Mb | Cloudflare	104.20.63.254	443
+FAIL	NO	NO			4003	171		🇦🇹171Mb | Evolus IT Solutions	amber.lalibobi.online	443
+FAIL	NO	NO			4002	160		🇳🇱160Mb | Ap Interactive Solutions Sl	8a2e72t.nl11.h1clayd.click	443
+FAIL	NO	NO			988	157		🇺🇸157Mb | Unredacted	87.120.106.95	443
+FAIL	NO	NO			4002	151		🇺🇸151Mb | Geodema Cloud Limited	193.233.231.32	8443
+WORKS	YES	YES	130.49.189.178	AL	1183	144	13	🇷🇺144Mb | Global Connectivity Solutions Llp	176.108.240.45	443
+FAIL	NO	NO			2158	137		🇸🇪137Mb | Cloudflare	172.64.155.209	443
+WORKS	YES	NO			3999	136		🇺🇸136Mb | Servhost Group	31.76.114.22	443
+WORKS	YES	NO			787	130		🇷🇺130Mb | JSC Selectel	82.148.17.66	443
+FAIL	NO	NO			44	126		🇸🇪126Mb | Cloudflare	104.18.38.33	443
+FAIL	NO	NO			2141	126		🇺🇸126Mb | B2 Net Solutions	152.232.57.14	443
+FAIL	NO	NO			4002	125		🇳🇱125Mb | Ap Interactive Solutions Sl	153.52.85.198	443
+WORKS	NO	NO			4460	122		🇦🇹122Mb | Evolus IT Solutions	188.137.153.199	443
+FAIL	NO	NO			3742	115		🇯🇵115Mb | Dromatics Systems Pte	166.0.22.246	2053
+WORKS	YES	YES	31.59.105.137	FR	636	113	9	🇫🇷113Mb | Cgi Global Limited	paris.freegate.win	443
+WORKS	YES	YES	150.241.75.103	SE	611	111	8	🇺🇸111Mb | Servhost Group	150.241.75.103	443
+WORKS	YES	NO			3250	109		🇺🇸109Mb | Servhost Group	finland.freegate.win	443
+WORKS	YES	YES	46.8.226.4	HK	791	106	10	🇭🇰106Mb | Cgi Global Limited	46.8.226.4	443
+WORKS	YES	YES	31.58.226.75	US	578	98	2	🇺🇸98Mb | Cgi Global Limited	31.58.226.75	443
+FAIL	NO	NO			1412	98		🇺🇸98Mb | FDCserversnet	189.74.117.30	443
+WORKS	YES	YES	69.17.3.150	US	285	92	1	🇺🇸92Mb | Quantumbeam Communications Limited	69.17.3.150	443
+FAIL	NO	NO			3834	89		🇯🇵89Mb | Dromatics Systems Pte	166.0.22.238	2053
+FAIL	NO	NO			1015	84		🇺🇸84Mb | Unredacted	homestead-walloping.sports-streams.org	443
+WORKS	NO	YES			4391	72		🇯🇵72Mb | Akenai Products	hinoki.lalibobi.online	443
+WORKS	YES	YES	45.192.194.104	HK	1118	68	12	🇭🇰68Mb | LSHIY	45.192.194.104	35600
+FAIL	NO	NO			3263	60		🇫🇷60Mb | OVH SAS	3.168.219.0	443
+FAIL	NO	NO			4003	56		🇭🇰56Mb | LSHIY	45.192.193.54	35600
+WORKS	YES	YES	150.241.75.103	SE	813	51	11	🇺🇸51Mb | Servhost Group	riga.freegate.win	443
