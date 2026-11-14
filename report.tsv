@@ -1,41 +1,28 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4002	377		🇬🇧377Mb | Packet Star Networks Limited	212.115.55.158	43000
-WORKS	YES	YES	85.31.148.207	NL	413	353	5	🇳🇱353Mb | ClearStack	85.31.148.250	446
-WORKS	YES	YES	88.216.36.75	DE	457	345	4	🇩🇪345Mb | Cherry Servers	84.32.98.180	443
-WORKS	YES	YES	176.57.214.184	RU	495	325	7	🇷🇺325Mb | Jsc timeweb	200.102.183.104	443
-FAIL	NO	NO			4003	320		🇬🇧320Mb | FDCserversnet	50.7.193.133	443
-WORKS	NO	NO			516	317		🇳🇱317Mb | Cherry Servers	84.32.185.6	443
-FAIL	NO	NO			107	294		🇩🇪294Mb | Oc Networks Limited	172.67.235.78	443
-FAIL	NO	NO			4003	281		🇺🇸281Mb | FDCserversnet	50.7.95.229	443
-FAIL	NO	NO			4001	262		🇷🇺262Mb | Jsc timeweb	129.101.98.60	443
-FAIL	NO	NO			271	242		🇫🇮242Mb | Hetzner Online	108.156.65.62	443
-WORKS	YES	YES	176.57.214.184	RU	522	214	8	🇷🇺214Mb | Jsc timeweb	200.102.183.115	443
-WORKS	YES	YES	109.69.218.164	BE	457	214	6	🇧🇪214Mb | VERIXI	109.69.218.163	443
-WORKS	YES	YES	67.159.44.194	FR	590	197	10	🇺🇸197Mb | FDCserversnet	api.videodolina.cc	443
-WORKS	YES	YES	191.217.211.145	PL	587	175	9	🇵🇱175Mb | Kochedykov Egor Aleksandrovich	191.217.211.145	444
-WORKS	YES	YES	48.102.165.235	US	513	148	1	🇺🇸148Mb | Fzco	48.102.165.235	443
-FAIL	NO	NO			1253	147		🇫🇷147Mb | Wedeploy SAS	cdn.snyalby.ru	17014
-WORKS	YES	YES			2608	138		🇱🇻138Mb | Global Connectivity Solutions Llp	83.141.68.185	443
-FAIL	NO	NO			4002	137		🇷🇺137Mb | VK	windytrout.net	2053
-WORKS	YES	YES	48.102.165.235	US	601	129	2	🇺🇸129Mb | Fzco	northline.15min.club	443
-WORKS	NO	YES			779	126		🇭🇰126Mb | Cgi Global Limited	217.60.38.196	443
-WORKS	NO	NO			4438	124		🇦🇪124Mb | H2nexus Cloud Services - Fzco	144.31.128.146	443
-WORKS	YES	YES	201.8.71.186	US	1035	122	3	🇩🇪122Mb | Paul Sagov	ru-gr1.fluxnode777.ru	443
-WORKS	NO	YES			512	121		🇳🇱121Mb | Timeweb LLP	147.45.111.214	443
-WORKS	YES	YES	217.60.148.152	IN	2001	120	14	🇮🇳120Mb | AdaptGroup	217.60.148.152	443
-FAIL	NO	NO			4002	118		🇳🇱118Mb | Ap Interactive Solutions Sl	8a2e72t.nl11.h1clayd.click	443
-FAIL	NO	NO			4002	117		🇳🇱117Mb | Ap Interactive Solutions Sl	153.52.85.198	443
-FAIL	NO	NO			4002	117		🇹🇷117Mb | Netlen Internet Hizmetleri Sti	206.1.103.172	8443
-WORKS	NO	YES			810	117		🇭🇰117Mb | Cgi Global Limited	hkg1.angelsleep9.com	443
-WORKS	YES	NO			2291	108		🇨🇭108Mb | Private Layer INC	a813d5t.ch5.h1clayd.click	443
-FAIL	NO	NO			4002	96		🇵🇱96Mb | MatHosteu	145.79.141.215	3299
-WORKS	YES	YES	136.148.220.7	SE	1414	92	13	🇸🇪92Mb | Hostup AB	132.243.163.114	443
-FAIL	NO	NO			4002	82		🇩🇪82Mb | PIO-Hosting	194.60.228.97	443
-WORKS	YES	YES	136.148.220.7	SE	806	78	11	🇸🇪78Mb | Hostup AB	se1.h1cloud.net	443
-FAIL	NO	NO			252	69		🇺🇸69Mb | Interserver	us12.h1cloud.net	25155
-FAIL	NO	NO			4003	69		🇳🇱69Mb | Ap Interactive Solutions Sl	153.52.85.198	443
-WORKS	YES	YES	136.148.220.7	SE	961	65	12	🇸🇪65Mb | Hostup AB	3fb2b6t.se2.h1clayd.click	443
-FAIL	NO	NO			4003	65		🇺🇸65Mb | GTHost	185.100.159.129	443
-WORKS	NO	YES			5404	65		🇫🇮65Mb | Hetzner Online	fi4.h1cloud.net	25749
-FAIL	NO	NO			279	63		🇺🇸63Mb | Interserver	162.35.38.156	25155
-FAIL	NO	NO			3287	61		🇺🇸61Mb | GTHost	87.120.126.127	443
+FAIL	NO	NO			258	335		🇫🇮335Mb | Hetzner Online	108.156.65.62	443
+WORKS	YES	YES	50.7.169.213	NL	342	270	1	🇺🇸270Mb | FDCserversnet	50.7.169.243	443
+WORKS	YES	NO			1689	270		🇷🇺270Mb | Jsc timeweb	129.101.98.60	443
+WORKS	YES	YES	50.7.169.213	NL	499	264	5	🇺🇸264Mb | FDCserversnet	user.betust.net	443
+FAIL	NO	NO			331	252		🇫🇮252Mb | Orion Network Limited	107.150.93.18	443
+WORKS	YES	YES	141.227.131.203	NL	482	213	4	🇫🇷213Mb | OVH SAS	cdn-nl.vpnserverhub.com	8080
+FAIL	NO	NO			3187	204		🇫🇮204Mb | Global Connectivity Solutions Llp	185.242.247.177	2096
+FAIL	NO	NO			4002	201		🇳🇱201Mb | Railway	mtndderwtede-production.up.railway.app	443
+WORKS	NO	YES			705	194		🇩🇪194Mb | PFWeb Solutions	5.175.211.247	443
+WORKS	NO	YES			693	183		🇩🇪183Mb | PFWeb Solutions	5.175.171.30	8444
+WORKS	YES	NO			499	171		🇵🇱171Mb | Paul Sagov	d58daft.plp1.h1cloud.net	443
+FAIL	NO	NO			144	129		🇺🇸129Mb | Unredacted	162.216.231.214	443
+FAIL	NO	NO			755	123		🇧🇬123Mb | Belcloud	earlytrain.net	8443
+WORKS	NO	YES			2371	114		🇩🇪114Mb | Paul Sagov	217.12.38.4	443
+WORKS	YES	YES	213.165.63.247	LV	814	112	6	🇱🇻112Mb | Global Connectivity Solutions Llp	83.141.68.185	443
+WORKS	NO	YES			578	105		🇸🇪105Mb | Hostup AB	se1.h1cloud.net	443
+FAIL	NO	NO			197	104		🇺🇸104Mb | Unredacted	coughed-gongs.freevideochats.org	443
+WORKS	YES	NO			677	95		🇵🇱95Mb | Paul Sagov	13e1cfg.plp1.h1cloud.net	443
+FAIL	NO	NO			305	93		🇺🇸93Mb | Unredacted	coughed-gongs.freevideochats.org	443
+FAIL	NO	NO			193	86		🇺🇸86Mb | Unredacted	162.216.231.214	443
+FAIL	NO	NO			137	79		🇺🇸79Mb | Unredacted	coughed-gongs.freevideochats.org	443
+FAIL	NO	NO			2277	73		🇵🇱73Mb | AdaptGroup	185.86.145.55	10470
+WORKS	YES	YES	157.173.30.95	NL	400	73	2	🇦🇹73Mb | Evolus IT Solutions	157.173.30.95	443
+FAIL	NO	NO			4003	63		🇹🇷63Mb | Netlen Internet Hizmetleri Sti	77.92.151.84	8080
+WORKS	YES	YES	157.173.30.95	NL	450	60	3	🇦🇹60Mb | Evolus IT Solutions	timete.hagrid-connected.com	443
+WORKS	NO	YES			1225	56		🇭🇺56Mb | HostingBazis Beteti Tarsasag	212.41.8.76	11443
+WORKS	YES	NO			748	52		🇷🇺52Mb | JSC Selectel	212.41.8.76	13443
