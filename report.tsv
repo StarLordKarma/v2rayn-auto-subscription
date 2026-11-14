@@ -1,45 +1,45 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
 FAIL	NO	NO			4002	362		🇵🇱362Mb | Fzco	177.202.76.129	9443
-FAIL	NO	NO			4004	343		🇩🇪343Mb | Play2go International Limited	27septgerm.site	444
-FAIL	NO	NO			4006	336		🇬🇧336Mb | FDCserversnet	50.7.193.150	443
-FAIL	NO	NO			4002	336		🇳🇱336Mb | Cherry Servers	84.32.177.87	443
-FAIL	NO	NO			319	311		🇫🇷311Mb | OVH SAS	cdn-nl.vpnserverhub.com	8080
-WORKS	YES	NO			3806	296		🇷🇺296Mb | Jsc timeweb	129.101.98.60	443
-WORKS	YES	YES	31.77.149.200	NL	449	290	2	🇳🇱290Mb | Play2go International Limited	netherafteraventura.site	444
+FAIL	NO	NO			4002	343		🇩🇪343Mb | Play2go International Limited	27septgerm.site	444
+FAIL	NO	NO			4003	336		🇬🇧336Mb | FDCserversnet	50.7.193.150	443
+FAIL	NO	NO			4003	336		🇳🇱336Mb | Cherry Servers	84.32.177.87	443
+FAIL	NO	NO			314	311		🇫🇷311Mb | OVH SAS	cdn-nl.vpnserverhub.com	8080
+WORKS	YES	YES	129.101.98.60	RU	595	296	3	🇷🇺296Mb | Jsc timeweb	129.101.98.60	443
+FAIL	NO	NO			440	290		🇳🇱290Mb | Play2go International Limited	netherafteraventura.site	444
 FAIL	NO	NO			4002	282		🌐282Mb | 3790 | 🇺🇸 USA | VLESS | 📺 YT |	48.102.167.110	443
-FAIL	NO	NO			271	251		🇮🇹251Mb | Aruba SpA	203.23.179.123	443
-FAIL	NO	NO			408	234		🇵🇱234Mb | FDCserversnet	api.oblachnyservis.cc	443
-FAIL	NO	NO			2242	226		🇳🇱226Mb | Cloudflare	172.67.167.207	443
-FAIL	NO	NO			272	203		🇳🇱203Mb | AntiDDoS Networks	144.31.225.114	443
-FAIL	NO	NO			2363	191		🇳🇱191Mb | Railway	whitepanel-ui-production-493f7a3e.up.railway.app	443
-FAIL	NO	NO			448	186		🇷🇺186Mb | JSC Selectel	fduknew.titun.su	443
-FAIL	NO	NO			2185	179		🇸🇪179Mb | Cloudflare	104.18.40.33	443
-FAIL	NO	NO			3104	177		🇫🇷177Mb | OVH SAS	3.168.218.14	443
-FAIL	NO	NO			306	165		🇵🇱165Mb | MEVSPACE sp z oo	195.3.223.124	443
-FAIL	NO	NO			307	164		🇵🇱164Mb | FDCserversnet	189.74.116.37	443
-FAIL	NO	NO			4003	162		🇺🇸162Mb | WEYRO	5.104.74.50	8443
-WORKS	YES	YES	143.246.182.103	GB	368	153	1	🇺🇸153Mb | WEYRO	212.69.135.226	8443
-FAIL	NO	NO			270	147		🇷🇺147Mb | JSC Selectel	50.7.227.82	443
-FAIL	NO	NO			2175	143		🇫🇷143Mb | HZ Hosting	89.150.45.246	443
-FAIL	NO	NO			321	140		🇦🇹140Mb | Interkvm Host Srl	185.104.63.62	8443
+FAIL	NO	NO			2443	251		🇮🇹251Mb | Aruba SpA	203.23.179.123	443
+FAIL	NO	NO			462	234		🇵🇱234Mb | FDCserversnet	api.oblachnyservis.cc	443
+FAIL	NO	NO			2090	226		🇳🇱226Mb | Cloudflare	172.67.167.207	443
+FAIL	NO	NO			271	203		🇳🇱203Mb | AntiDDoS Networks	144.31.225.114	443
+FAIL	NO	NO			2351	191		🇳🇱191Mb | Railway	whitepanel-ui-production-493f7a3e.up.railway.app	443
+FAIL	NO	NO			540	186		🇷🇺186Mb | JSC Selectel	fduknew.titun.su	443
+FAIL	NO	NO			2097	179		🇸🇪179Mb | Cloudflare	104.18.40.33	443
+FAIL	NO	NO			2972	177		🇫🇷177Mb | OVH SAS	3.168.218.14	443
+FAIL	NO	NO			354	165		🇵🇱165Mb | MEVSPACE sp z oo	195.3.223.124	443
+FAIL	NO	NO			327	164		🇵🇱164Mb | FDCserversnet	189.74.116.37	443
+FAIL	NO	NO			4002	162		🇺🇸162Mb | WEYRO	5.104.74.50	8443
+WORKS	YES	YES	143.246.182.103	GB	344	153	2	🇺🇸153Mb | WEYRO	212.69.135.226	8443
+FAIL	NO	NO			242	147		🇷🇺147Mb | JSC Selectel	50.7.227.82	443
+FAIL	NO	NO			2189	143		🇫🇷143Mb | HZ Hosting	89.150.45.246	443
+FAIL	NO	NO			2455	140		🇦🇹140Mb | Interkvm Host Srl	185.104.63.62	8443
 FAIL	NO	NO			4003	123		🇷🇺123Mb | Kviktel	45.139.27.164	443
-FAIL	NO	NO			287	121		🇺🇸121Mb | B2 Net Solutions	api.videobereg.cc	443
-FAIL	NO	NO			3580	119		🇫🇮119Mb | Cloudflare	138.124.49.108	8443
-FAIL	NO	NO			2203	107		🇩🇪107Mb | WAIcore	109.122.196.166	443
-FAIL	NO	NO			4002	97		🇮🇱97Mb | Kamatera	185.139.228.50	443
+FAIL	NO	NO			279	121		🇺🇸121Mb | B2 Net Solutions	api.videobereg.cc	443
+FAIL	NO	NO			4002	119		🇫🇮119Mb | Cloudflare	138.124.49.108	8443
+FAIL	NO	NO			2181	107		🇩🇪107Mb | WAIcore	109.122.196.166	443
+FAIL	NO	NO			4003	97		🇮🇱97Mb | Kamatera	185.139.228.50	443
 FAIL	NO	NO			4002	96		🇩🇪96Mb | Cherry Servers	84.32.100.166	443
-FAIL	NO	NO			2248	88		🇨🇾88Mb | Belcloud	91.92.137.165	443
-FAIL	NO	NO			2357	85		🇳🇱85Mb | Paul Sagov	129.101.98.24	8443
-FAIL	NO	NO			4003	77		🇳🇱77Mb | ESTOXY OU	37.49.225.85	443
-FAIL	NO	NO			2128	76		🇲🇩76Mb | Alexhost Srl	217.156.123.33	443
-FAIL	NO	NO			68	73		🇺🇸73Mb | Cherry Servers	84.32.61.133	443
-FAIL	NO	NO			352	73		🇳🇱73Mb | H1cloud	8bbc65x.nl18.h1clayd.click	443
-FAIL	NO	NO			2502	72		🇸🇪72Mb | Cherry Servers	88.216.130.236	443
-FAIL	NO	NO			2354	72		🇳🇱72Mb | H1cloud	c411acg.nl18.h1clayd.click	443
-FAIL	NO	NO			644	62		🇭🇰62Mb | Akari Networks	125.230.104.155	30101
-FAIL	NO	NO			700	60		🇹🇼60Mb | AKILE	125.230.104.155	30202
-FAIL	NO	NO			2046	59		🇸🇪59Mb | Cloudflare	104.26.13.54	443
-FAIL	NO	NO			4002	55		🇺🇸55Mb | Ace Data Centers II	48.102.170.205	8443
-FAIL	NO	NO			659	55		🇭🇰55Mb | HKT Limited	125.230.104.155	30103
-FAIL	NO	NO			319	52		🇲🇨52Mb | H2nexus Cloud Services - Fzco	107.189.23.205	443
-FAIL	NO	NO			4002	51		🇺🇸51Mb | Ace Data Centers II	48.102.170.205	8443
+FAIL	NO	NO			2240	88		🇨🇾88Mb | Belcloud	91.92.137.165	443
+FAIL	NO	NO			2347	85		🇳🇱85Mb | Paul Sagov	129.101.98.24	8443
+FAIL	NO	NO			4002	77		🇳🇱77Mb | ESTOXY OU	37.49.225.85	443
+FAIL	NO	NO			2121	76		🇲🇩76Mb | Alexhost Srl	217.156.123.33	443
+FAIL	NO	NO			4002	73		🇺🇸73Mb | Cherry Servers	84.32.61.133	443
+FAIL	NO	NO			332	73		🇳🇱73Mb | H1cloud	8bbc65x.nl18.h1clayd.click	443
+FAIL	NO	NO			4002	72		🇸🇪72Mb | Cherry Servers	88.216.130.236	443
+FAIL	NO	NO			2370	72		🇳🇱72Mb | H1cloud	c411acg.nl18.h1clayd.click	443
+FAIL	NO	NO			667	62		🇭🇰62Mb | Akari Networks	125.230.104.155	30101
+FAIL	NO	NO			708	60		🇹🇼60Mb | AKILE	125.230.104.155	30202
+FAIL	NO	NO			2065	59		🇸🇪59Mb | Cloudflare	104.26.13.54	443
+WORKS	YES	YES	48.102.170.205	US	549	55		🇺🇸55Mb | Ace Data Centers II	48.102.170.205	8443
+FAIL	NO	NO			678	55		🇭🇰55Mb | HKT Limited	125.230.104.155	30103
+FAIL	NO	NO			327	52		🇲🇨52Mb | H2nexus Cloud Services - Fzco	107.189.23.205	443
+WORKS	YES	YES	48.102.170.205	US	533	51	1	🇺🇸51Mb | Ace Data Centers II	48.102.170.205	8443
