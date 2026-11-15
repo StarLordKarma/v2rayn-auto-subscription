@@ -1,55 +1,33 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			2095	477		🇷🇺477Mb | Cloudflare	radar.cloudflare.com	8080
-FAIL	NO	NO			97	473		🇷🇺473Mb | Cloudflare	tally.so	2082
-WORKS	NO	NO			427	403		🇷🇺403Mb | VK	185.155.55.11	8443
-FAIL	NO	NO			4002	393		🇷🇺393Mb | Jsc timeweb	129.101.98.60	443
-FAIL	NO	NO			129	384		🇩🇪384Mb | Cloudflare	fast-route-4aa49d-gw.staging-api-05a87c.workers.dev	443
-WORKS	YES	YES	89.144.8.66	DE	1262	363	4	🇩🇪363Mb | PFWeb Solutions	5.231.28.130	443
-WORKS	YES	YES	85.93.9.224	DE	1681	363	5	🇩🇪363Mb | PFWeb Solutions	5.175.211.248	443
-FAIL	NO	NO			134	338		🇳🇱338Mb | Cloudflare	104.21.29.38	443
-FAIL	NO	NO			2093	325		🇳🇱325Mb | Cloudflare	104.18.27.94	8080
-WORKS	NO	YES			511	322		🇺🇸322Mb | FDCserversnet	user.betust.net	443
-WORKS	NO	NO			478	311		🇷🇺311Mb | VK	ee.puflino.com	8443
-WORKS	NO	YES			357	305		🇺🇸305Mb | FDCserversnet	50.7.169.243	443
-FAIL	NO	NO			2098	296		🇸🇪296Mb | Cloudflare	104.18.26.94	8080
-FAIL	NO	NO			2304	283		🇳🇱283Mb | Cloudflare	www.gov.se	8080
-WORKS	YES	YES	217.30.10.57	PL	1050	281	11	🇵🇱281Mb | Melbikomas	83.141.92.190	443
-WORKS	YES	YES	5.231.59.106	DE	861	276	3	🇩🇪276Mb | PFWeb Solutions	5.175.211.246	443
-WORKS	YES	YES	213.165.63.247	LV	3109	275	12	🇱🇻275Mb | Global Connectivity Solutions Llp	83.141.68.185	443
-FAIL	NO	NO			565	216		🇺🇸216Mb | Servhost Group	83.141.68.212	443
-FAIL	NO	NO			2080	214		🇸🇬214Mb | ACE	162.159.228.255	443
-FAIL	NO	NO			110	213		🇷🇺213Mb | Cloudflare	www.speedtest.net	443
-FAIL	NO	NO			365	211		🇫🇮211Mb | Hetzner Online	fi4.h1cloud.net	25749
-FAIL	NO	NO			2098	200		🇳🇱200Mb | Cloudflare	104.26.13.31	8080
-FAIL	NO	NO			289	198		🇳🇱198Mb | ESTOXY OU	37.49.226.222	443
-WORKS	NO	YES			345	192		🇩🇪192Mb | Hetzner Online	159.69.215.129	16472
-FAIL	NO	NO			897	189		🇺🇸189Mb | Unredacted	homestead-walloping.sports-streams.org	443
-FAIL	NO	NO			2042	183		🇳🇱183Mb | First Server Limited	104.25.5.52	443
-WORKS	YES	YES	45.141.202.67	NL	858	181	8	🇳🇱181Mb | RoyaleHosting	89.248.65.152	443
-FAIL	NO	NO			2074	178		🇱🇰178Mb | Cyberzone	www.canva.com	2096
-WORKS	YES	YES	5.175.178.98	EE	479	177	9	🇪🇪177Mb | Takehost Ou	13.143.176.250	443
-FAIL	NO	NO			15	168		🇫🇷168Mb | OVH SAS	151.101.36.201	443
-FAIL	NO	NO			2332	166		🇸🇪166Mb | Cloudflare	cf.090227.xyz	443
-FAIL	NO	NO			2095	163		🇳🇱163Mb | Cloudflare	104.21.0.1	8080
-FAIL	NO	NO			2114	144		🇸🇪144Mb | Cloudflare	172.67.75.172	8080
-FAIL	NO	NO			2099	143		🇩🇪143Mb | Cloudflare	ip.sb	8080
-WORKS	YES	YES	88.210.37.151	US	270	139	1	🇺🇸139Mb | Melbikomas	88.210.37.144	443
-FAIL	NO	NO			2042	133		🇩🇪133Mb | Cloudflare	104.26.6.109	2053
-FAIL	NO	NO			17	131		🇫🇷131Mb | OVH SAS	151.101.36.246	443
-FAIL	NO	NO			2101	131		🇩🇪131Mb | Cloudflare	104.26.12.31	8080
-FAIL	NO	NO			2317	126		🇫🇷126Mb | Wedeploy SAS	cdn.snyalby.ru	17014
-FAIL	NO	NO			2084	121		🇷🇺121Mb | Cloudflare	104.19.174.68	8080
-WORKS	YES	YES	94.26.35.241	CH	639	111	7	🇨🇭111Mb | Private Layer INC	a813d5t.ch5.h1clayd.click	443
-FAIL	NO	NO			2062	110		🇷🇺110Mb | Cloudflare	190.93.245.187	8443
-FAIL	NO	NO			16	108		🇫🇷108Mb | OVH SAS	151.101.36.111	443
-FAIL	NO	NO			2088	79		🇷🇺79Mb | Cloudflare	www.digitalocean.com	8080
-FAIL	NO	NO			3030	78		🇮🇸78Mb | Cloudflare	89.127.232.228	443
-WORKS	YES	YES	173.214.164.110	US	772	75	2	🇺🇸75Mb | Interserver	62981et.us11.h1clayd.click	443
-FAIL	NO	NO			2041	68		🇸🇪68Mb | Cloudflare	104.18.28.234	2053
-FAIL	NO	NO			2073	66		🇳🇱66Mb | DigitalOcean	104.19.46.30	2083
-WORKS	YES	YES	45.198.55.36	ES	615	65	10	🇪🇸65Mb | Ap Interactive Solutions Sl	b6d267t.es10.h1clayd.shop	443
-FAIL	NO	NO			4003	61		🇪🇸61Mb | Ap Interactive Solutions Sl	179.254.115.247	443
-WORKS	YES	YES	94.26.35.241	CH	539	60	6	🇨🇭60Mb | Private Layer INC	153.52.85.187	443
-FAIL	NO	NO			849	60		🇺🇸60Mb | Interserver	83.171.241.182	25155
-FAIL	NO	NO			355	59		🇩🇪59Mb | Paul Sagov	217.12.38.4	443
-FAIL	NO	NO			15	57		🇺🇸57Mb | HostPapa	104.21.1.150	2087
+FAIL	NO	NO			3224	367		🇩🇪367Mb | Cherry Servers	84.32.100.247	443
+WORKS	YES	YES	168.113.135.192	RU	766	361	4	🇺🇸361Mb | H2nexus Cloud Services - Fzco	109.120.183.40	8443
+FAIL	NO	NO			4003	314		🇺🇸314Mb | FDCserversnet	50.7.95.230	443
+FAIL	NO	NO			4002	307		🇩🇪307Mb | Play2go International Limited	31.77.12.3	443
+FAIL	NO	NO			4002	304		🇳🇱304Mb | Mastersoft SRL	144.48.10.243	443
+FAIL	NO	NO			3623	293		🇺🇸293Mb | Rocket & Marinica	82.148.14.101	52006
+FAIL	NO	NO			3187	250		🇺🇸250Mb | Banatsync Srl	31.77.227.151	52006
+FAIL	NO	NO			496	224		🇳🇱224Mb | AntiDDoS Networks	144.31.225.51	443
+FAIL	NO	NO			688	196		🇺🇸196Mb | Route 95	us-05.avroraservice.online	8443
+WORKS	YES	YES	200.102.95.7	EE	759	190	3	🇺🇸190Mb | Rocket & Marinica	168.113.132.167	52006
+FAIL	NO	NO			3373	179		🇬🇧179Mb | 'Ghita Telekom'	87.192.47.6	52006
+FAIL	NO	NO			3291	173		🇺🇸173Mb | 'Ghita Telekom'	179.254.71.100	52006
+FAIL	NO	NO			3846	171		🇺🇸171Mb | 'Ghita Telekom'	179.254.68.101	52006
+FAIL	NO	NO			249	166		🇫🇮166Mb | Hetzner Online	108.156.65.62	443
+WORKS	YES	NO			116	165		🇺🇸165Mb | HostPapa	155.94.251.229	443
+WORKS	NO	YES			191	151		🇺🇸151Mb | HostPapa	104.168.109.213	443
+FAIL	NO	NO			2458	149		🇺🇸149Mb | 'Ghita Telekom'	179.254.69.103	52006
+FAIL	NO	NO			3245	145		🇺🇸145Mb | 'Ghita Telekom'	13.143.178.150	52006
+FAIL	NO	NO			3583	134		🇦🇪134Mb | G-Core Labs	82.148.14.100	52006
+FAIL	NO	NO			3394	125		🇩🇪125Mb | dataforest	b1eb8et.de14.h1clayd.click	443
+WORKS	YES	YES	137.184.113.32	US	775	118	1	🇺🇸118Mb | DigitalOcean	ws137.mydosss.ccwu.cc	443
+FAIL	NO	NO			49	113		🇫🇷113Mb | OVH SAS	151.101.36.246	443
+FAIL	NO	NO			2147	113		🇸🇪113Mb | Fzco	177.202.72.194	443
+FAIL	NO	NO			4002	103		🇫🇮103Mb | Hetzner Online	78ec29x.fi2.h1clayd.click	443
+FAIL	NO	NO			3429	87		🇷🇺87Mb | JSC Selectel	185.178.208.167	443
+FAIL	NO	NO			3160	75		🇺🇸75Mb | Banatsync Srl	31.77.227.42	52006
+FAIL	NO	NO			4002	74		🇳🇱74Mb | Fzco	48.102.160.14	443
+FAIL	NO	NO			1610	72		🇸🇪72Mb | Hostup AB	132.243.163.114	25191
+WORKS	YES	YES	185.231.204.244	RU	471	72	2	🇳🇱72Mb | Digital Hosting Provider	185.231.204.244	443
+FAIL	NO	NO			4002	65		🇫🇮65Mb | Hetzner Online	f0f0bet.fi2.h1clayd.click	443
+FAIL	NO	NO			3365	64		🇺🇸64Mb | 'Ghita Telekom'	179.254.70.101	52006
+WORKS	YES	YES	177.202.65.6	FI	2429	60	5	🇫🇮60Mb | Fzco	177.202.65.6	443
