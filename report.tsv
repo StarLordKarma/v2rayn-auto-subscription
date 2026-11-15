@@ -1,33 +1,19 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			3224	367		🇩🇪367Mb | Cherry Servers	84.32.100.247	443
-WORKS	YES	YES	168.113.135.192	RU	766	361	4	🇺🇸361Mb | H2nexus Cloud Services - Fzco	109.120.183.40	8443
-FAIL	NO	NO			4003	314		🇺🇸314Mb | FDCserversnet	50.7.95.230	443
-FAIL	NO	NO			4002	307		🇩🇪307Mb | Play2go International Limited	31.77.12.3	443
-FAIL	NO	NO			4002	304		🇳🇱304Mb | Mastersoft SRL	144.48.10.243	443
-FAIL	NO	NO			3623	293		🇺🇸293Mb | Rocket & Marinica	82.148.14.101	52006
-FAIL	NO	NO			3187	250		🇺🇸250Mb | Banatsync Srl	31.77.227.151	52006
-FAIL	NO	NO			496	224		🇳🇱224Mb | AntiDDoS Networks	144.31.225.51	443
-FAIL	NO	NO			688	196		🇺🇸196Mb | Route 95	us-05.avroraservice.online	8443
-WORKS	YES	YES	200.102.95.7	EE	759	190	3	🇺🇸190Mb | Rocket & Marinica	168.113.132.167	52006
-FAIL	NO	NO			3373	179		🇬🇧179Mb | 'Ghita Telekom'	87.192.47.6	52006
-FAIL	NO	NO			3291	173		🇺🇸173Mb | 'Ghita Telekom'	179.254.71.100	52006
-FAIL	NO	NO			3846	171		🇺🇸171Mb | 'Ghita Telekom'	179.254.68.101	52006
-FAIL	NO	NO			249	166		🇫🇮166Mb | Hetzner Online	108.156.65.62	443
-WORKS	YES	NO			116	165		🇺🇸165Mb | HostPapa	155.94.251.229	443
-WORKS	NO	YES			191	151		🇺🇸151Mb | HostPapa	104.168.109.213	443
-FAIL	NO	NO			2458	149		🇺🇸149Mb | 'Ghita Telekom'	179.254.69.103	52006
-FAIL	NO	NO			3245	145		🇺🇸145Mb | 'Ghita Telekom'	13.143.178.150	52006
-FAIL	NO	NO			3583	134		🇦🇪134Mb | G-Core Labs	82.148.14.100	52006
-FAIL	NO	NO			3394	125		🇩🇪125Mb | dataforest	b1eb8et.de14.h1clayd.click	443
-WORKS	YES	YES	137.184.113.32	US	775	118	1	🇺🇸118Mb | DigitalOcean	ws137.mydosss.ccwu.cc	443
-FAIL	NO	NO			49	113		🇫🇷113Mb | OVH SAS	151.101.36.246	443
-FAIL	NO	NO			2147	113		🇸🇪113Mb | Fzco	177.202.72.194	443
-FAIL	NO	NO			4002	103		🇫🇮103Mb | Hetzner Online	78ec29x.fi2.h1clayd.click	443
-FAIL	NO	NO			3429	87		🇷🇺87Mb | JSC Selectel	185.178.208.167	443
-FAIL	NO	NO			3160	75		🇺🇸75Mb | Banatsync Srl	31.77.227.42	52006
-FAIL	NO	NO			4002	74		🇳🇱74Mb | Fzco	48.102.160.14	443
-FAIL	NO	NO			1610	72		🇸🇪72Mb | Hostup AB	132.243.163.114	25191
-WORKS	YES	YES	185.231.204.244	RU	471	72	2	🇳🇱72Mb | Digital Hosting Provider	185.231.204.244	443
-FAIL	NO	NO			4002	65		🇫🇮65Mb | Hetzner Online	f0f0bet.fi2.h1clayd.click	443
-FAIL	NO	NO			3365	64		🇺🇸64Mb | 'Ghita Telekom'	179.254.70.101	52006
-WORKS	YES	YES	177.202.65.6	FI	2429	60	5	🇫🇮60Mb | Fzco	177.202.65.6	443
+WORKS	YES	YES	141.227.131.203	NL	837	423	4	🇫🇷423Mb | OVH SAS	cdn-nl.vpnserverhub.com	8080
+FAIL	NO	NO			596	373		🇫🇷373Mb | OVH SAS	cdn-nl.vpnserverhub.com	8080
+FAIL	NO	NO			4003	367		🇺🇸367Mb | WEYRO	89.125.175.30	8443
+WORKS	YES	YES	50.7.95.228	NL	589	366	3	🇺🇸366Mb | FDCserversnet	50.7.95.230	443
+WORKS	YES	NO			809	331		🇷🇺331Mb | Jsc timeweb	129.101.98.60	443
+FAIL	NO	NO			4003	305		🇺🇸305Mb | WEYRO	89.125.175.66	8443
+WORKS	YES	YES	185.90.62.112	GB	1020	303	2	🇬🇧303Mb | Packet Star Networks Limited	englandssihcwpocj.whooisthebest.ir	10000
+FAIL	NO	NO			513	235		🇧🇬235Mb | AdaptGroup	187.54.4.43	443
+FAIL	NO	NO			487	169		🇺🇸169Mb | Route 95	193.233.90.115	8443
+FAIL	NO	NO			4002	136		🇺🇸136Mb | WEYRO	89.125.175.66	8443
+FAIL	NO	NO			534	133		🇩🇪133Mb | dataforest	54cc62x.de14.h1clayd.click	443
+WORKS	YES	YES	35.212.202.232	US	445	120	1	🇺🇸120Mb | Google	35.212.202.232	443
+WORKS	YES	YES	91.213.186.45	HK	665	101	5	🇭🇰101Mb | VMISS	91.213.186.45	46986
+WORKS	YES	YES	104.28.222.43	SG	799	78	6	🇸🇬78Mb | Cloudflare	91.213.186.45	38521
+FAIL	NO	NO			332	67		🇸🇪67Mb | Hostup AB	132.243.163.114	25191
+FAIL	NO	NO			385	67		🇸🇪67Mb | Hostup AB	se2.h1cloud.net	25191
+FAIL	NO	NO			4003	63		🇫🇮63Mb | Hetzner Online	f0f0bet.fi2.h1clayd.click	443
+FAIL	NO	NO			1021	57		🇬🇧57Mb | U1 Digital Services	77.239.123.49	443
