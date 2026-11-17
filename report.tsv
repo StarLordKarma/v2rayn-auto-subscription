@@ -1,13 +1,26 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	141.227.131.203	NL	461	434	1	🇫🇷434Mb | OVH SAS	cdn-nl.vpnserverhub.com	8080
-FAIL	NO	NO			4003	401		🇺🇸401Mb | Ace Data Centers II	193.233.246.203	443
-WORKS	NO	NO			3336	367		🇺🇸367Mb | Servhost Group	sw-part.cookie-line.cc	443
-FAIL	NO	NO			4001	332		🇩🇪332Mb | Hetzner Online	fast235.slopllex.app	443
-FAIL	NO	NO			4002	323		🇩🇪323Mb | Play2go International Limited	cloud-de01.dynv6.net	443
-FAIL	NO	NO			4003	216		🇨🇦216Mb | TECHPEAK	169.128.116.28	50973
-FAIL	NO	NO			188	184		🇮🇱184Mb | Kamatera	3.174.189.0	443
-WORKS	YES	YES	51.159.223.26	FR	676	179	2	🇫🇷179Mb | Scaleway SAS	fr-free.fastestrelay.com	443
-FAIL	NO	NO			4003	140		🇩🇪140Mb | Vladislav Doniy	music.3apes.online	443
-FAIL	NO	NO			1603	113		🇩🇪113Mb | Hetzner Online	mojigr.fusetea.ir	1102
-FAIL	NO	NO			4002	79		🇱🇹79Mb | Cherry Servers	84.32.248.124	443
-FAIL	NO	NO			4002	59		🇸🇪59Mb | Play2go International Limited	se-b1.golangwikito.cfd	443
+FAIL	NO	NO			4003	290		🇺🇸290Mb | WEYRO	89.125.175.107	8443
+FAIL	NO	NO			4002	265		🇬🇧265Mb | GSL Networks Pty	203.57.82.108	443
+FAIL	NO	NO			116	258		🇫🇷258Mb | OVH SAS	141.11.203.165	443
+FAIL	NO	NO			116	256		🇫🇷256Mb | OVH SAS	199.232.249.182	443
+WORKS	NO	NO			838	243		🇷🇺243Mb | Jsc timeweb	129.101.98.60	443
+FAIL	NO	NO			4003	219		🇳🇱219Mb | Play2go International Limited	2.26.2.201	443
+FAIL	NO	NO			4002	212		🇺🇸212Mb | WEYRO	89.125.175.116	8443
+FAIL	NO	NO			241	200		🇺🇸200Mb | Hetzner Online	5.161.131.202	2083
+WORKS	YES	YES	202.61.73.46	BR	857	183	5	🇺🇸183Mb | NetLab Global	platform103.golnamakcert.top	80
+FAIL	NO	NO			1614	181		🇸🇬181Mb | EN Technologies Pte	104.17.3.81	80
+FAIL	NO	NO			4003	176		🇷🇺176Mb | Global Internet Solutions	89.221.203.29	443
+WORKS	YES	YES	91.217.10.63	KZ	1263	175	6	🇰🇿175Mb | Newserverlife	91.217.10.237	443
+FAIL	NO	NO			483	147		🇺🇸147Mb | Route 95	45.88.182.239	8443
+WORKS	YES	YES	84.32.248.124	LT	742	126	4	🇱🇹126Mb | Cherry Servers	84.32.51.135	443
+WORKS	NO	YES			577	117		🇳🇱117Mb | ESTOXY OU	37.49.225.52	443
+FAIL	NO	NO			708	106		🇺🇸106Mb | Route 95	us-05.avroraservice.online	8443
+FAIL	NO	NO			850	105		🇺🇸105Mb | Interserver	us12.h1cloud.net	25155
+FAIL	NO	NO			119	103		🇫🇷103Mb | OVH SAS	45.135.235.90	443
+FAIL	NO	NO			700	102		🇺🇸102Mb | Servhost Group	45.151.102.201	443
+FAIL	NO	NO			817	89		🇺🇸89Mb | Interserver	153.56.230.77	25155
+WORKS	YES	YES	217.60.94.175	DE	755	84	2	🇩🇪84Mb | HOSTES	app.streamru2.net	443
+FAIL	NO	NO			797	80		🇳🇱80Mb | H1cloud	fc82dfx.nl8.h1clayd.click	443
+WORKS	YES	YES	78.17.215.118	DE	1664	73	3	🇩🇪73Mb | Soulful Hosting	78.17.215.136	443
+FAIL	NO	NO			2413	71		🇧🇬71Mb | MAXKO doo	45.9.156.64	443
+WORKS	YES	YES	93.123.101.71	DE	708	53	1	🇩🇪53Mb | Soulful Hosting	93.123.101.198	443
