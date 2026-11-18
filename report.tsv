@@ -1,167 +1,18 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			488	480		🇷🇺480Mb | Cloudru	176.109.103.238	443
-WORKS	YES	YES	83.219.97.201	FI	633	460	14	🇫🇮460Mb | Oc Networks Limited	191.217.252.92	2053
-FAIL	NO	NO			2375	432		🇸🇪432Mb | Cloudflare	xstack.mahanfixe.workers.dev	443
-WORKS	YES	YES	96.62.224.148	DE	871	425	9	🇩🇪425Mb | Dedik Services Limited	194.55.239.195	443
-FAIL	NO	NO			4003	378		🇩🇪378Mb | GSL Networks Pty	48.103.120.10	443
-FAIL	NO	NO			406	370		🇵🇱370Mb | Fzco	177.202.76.255	443
-FAIL	NO	NO			4002	358		🇫🇮358Mb | Play2go International Limited	fi-b2.golangwikito.cfd	443
-FAIL	NO	NO			2151	354		🇩🇪354Mb | Ilia Baikov	185.18.250.2	443
-FAIL	NO	NO			4002	349		🇩🇪349Mb | GSL Networks Pty	48.103.120.8	443
-FAIL	NO	NO			130	346		🇬🇧346Mb | Aeza Group	188.114.97.6	8080
-WORKS	YES	YES	129.101.98.60	RU	752	343	15	🇷🇺343Mb | Jsc timeweb	129.101.98.60	443
-FAIL	NO	NO			475	331		🇦🇹331Mb | Interkvm Host Srl	168.113.252.145	443
-WORKS	YES	YES	82.148.251.62	GB	531	330	4	🇬🇧330Mb | NetCrafters OU	82.148.251.62	443
-FAIL	NO	NO			118	327		🇫🇷327Mb | OVH SAS	141.11.203.165	443
-FAIL	NO	NO			455	315		🇷🇺315Mb | Jsc timeweb	87.232.116.21	443
-FAIL	NO	NO			380	311		🇷🇺311Mb | Jsc timeweb	200.102.183.104	443
-FAIL	NO	NO			2164	310		🇷🇺310Mb | Cloudflare	104.19.50.28	443
-FAIL	NO	NO			470	309		🇷🇴309Mb | Interkvm Host Srl	176.108.245.73	443
-WORKS	YES	YES			136	308		🇷🇺308Mb | Cloudflare	104.19.173.68	8080
-FAIL	NO	NO			94	302		🇩🇪302Mb | Cloudflare	172.67.148.84	443
-FAIL	NO	NO			2165	298		🇩🇪298Mb | Cloudflare	188.114.97.6	80
-WORKS	YES	YES	129.101.98.60	RU	797	296	17	🇷🇺296Mb | Jsc timeweb	ru7e2bab87cc39.eu-cdn539.com	443
-FAIL	NO	NO			2110	292		🇷🇺292Mb | Cloudflare	104.16.72.70	443
-FAIL	NO	NO			2205	289		🇩🇪289Mb | Cloudflare	104.21.227.134	80
-WORKS	NO	YES			3880	288		🇩🇪288Mb | GSL Networks Pty	48.103.120.13	443
-FAIL	NO	NO			361	285		🇧🇪285Mb | VERIXI	109.69.218.160	7443
-FAIL	NO	NO			2307	285		🇩🇪285Mb | Cloudflare	104.26.13.31	8080
-FAIL	NO	NO			2200	284		🇩🇪284Mb | Cloudflare	104.18.26.94	8080
-FAIL	NO	NO			2139	282		🇷🇺282Mb | Cloudflare	45.135.235.255	443
-FAIL	NO	NO			2115	280		🇩🇪280Mb | Cloudflare	188.114.97.6	443
-FAIL	NO	NO			4003	277		🇮🇪277Mb | NetCrafters OU	83.141.91.226	443
-FAIL	NO	NO			2134	275		🇩🇪275Mb | Global Connectivity Solutions Llp	185.18.250.2	443
-FAIL	NO	NO			2145	274		🇸🇪274Mb | Cloudflare	104.18.152.233	443
-FAIL	NO	NO			2165	274		🇳🇱274Mb | Cloudflare	188.114.97.6	80
-FAIL	NO	NO			2104	273		🇸🇪273Mb | Cloudflare	172.66.47.45	2083
-FAIL	NO	NO			389	266		🇷🇺266Mb | Jsc timeweb	200.102.182.137	8443
-WORKS	YES	YES	2a02:6b40:2000:3224::1	DE	230	265	7	🇳🇱265Mb | Cloudflare	fast-route-4aa49d-gw.staging-api-05a87c.workers.dev	443
-FAIL	NO	NO			2117	264		🇩🇪264Mb | Cloudflare	104.21.32.166	443
-FAIL	NO	NO			2107	263		🇩🇪263Mb | Cloudflare	188.114.97.6	443
-WORKS	YES	YES			169	251		🇷🇺251Mb | Cloudflare	104.19.174.68	8080
-WORKS	YES	YES	141.98.235.131	NL	228	249	10	🇳🇱249Mb | Servers Tech Fzco	radar.cloudflare.com	8080
-FAIL	NO	NO			2110	247		🇫🇮247Mb | Cloudflare	154.197.64.252	443
-FAIL	NO	NO			2103	247		🇩🇪247Mb | Cloudflare	188.114.97.6	443
-FAIL	NO	NO			4003	246		🇳🇱246Mb | Play2go International Limited	nl-s-2-b1.pythonmakemigreat.wiki	443
-FAIL	NO	NO			2121	245		🇫🇮245Mb | Cloudflare	45.135.235.255	443
-WORKS	NO	YES			600	244		🇵🇱244Mb | ExpressHost	pol5.angelsleep9.com	443
-FAIL	NO	NO			316	243		🇨🇾243Mb | NetCrafters OU	185.91.52.223	444
-FAIL	NO	NO			4003	242		🇬🇧242Mb | Edge Core FZE	fi20.h1cloud.net	25090
-FAIL	NO	NO			2307	241		🇷🇺241Mb | Cloudflare	www.shopify.com	2083
-FAIL	NO	NO			304	241		🇵🇱241Mb | Packet Loss	93.88.206.70	443
-FAIL	NO	NO			2129	240		🇫🇷240Mb | Cloudflare	92.53.190.167	443
-FAIL	NO	NO			4002	239		🇩🇪239Mb | AGX Management Consultancy - FZCO	34.244.228.47	443
-FAIL	NO	NO			2215	235		🇩🇪235Mb | Cloudflare	104.21.0.1	8080
-WORKS	YES	NO			752	233		🇷🇺233Mb | Jsc timeweb	194.87.151.53	443
-FAIL	NO	NO			26	230		🇩🇪230Mb | Cloudflare	172.67.217.241	443
-WORKS	YES	YES			168	230		🇷🇺230Mb | Cloudflare	www.digitalocean.com	8080
-FAIL	NO	NO			2104	228		🇳🇱228Mb | Cloudflare	188.114.97.6	443
-FAIL	NO	NO			2184	228		🇷🇺228Mb | Cloudflare	172.64.147.85	80
-FAIL	NO	NO			3226	225		🇩🇪225Mb | Cloudflare	ip.sb	8080
-FAIL	NO	NO			2155	220		🇳🇱220Mb | Cloudflare	188.114.97.6	80
-FAIL	NO	NO			364	214		🇧🇪214Mb | VERIXI	109.69.218.210	443
-WORKS	NO	YES			525	210		🇩🇪210Mb | GSL Networks Pty	48.103.120.14	443
-WORKS	NO	YES			507	210		🇩🇪210Mb | GSL Networks Pty	48.103.120.7	443
-FAIL	NO	NO			363	209		🇷🇺209Mb | Cloudflare	185.137.235.254	443
-FAIL	NO	NO			2107	209		🇸🇪209Mb | Cloudflare	172.67.208.235	2096
-FAIL	NO	NO			2100	207		🇷🇺207Mb | Cloudflare	185.18.250.2	443
-FAIL	NO	NO			102	205		🇷🇺205Mb | Jsc timeweb	200.102.180.148	8443
-FAIL	NO	NO			825	203		🇷🇺203Mb | Jsc timeweb	200.102.183.130	443
-FAIL	NO	NO			2566	202		🇸🇪202Mb | Cloudflare	www.gov.se	8080
-WORKS	YES	YES	103.253.24.167	SG	972	202	18	🇸🇬202Mb | EN Technologies Pte	104.17.3.81	80
-FAIL	NO	NO			2099	199		🇳🇱199Mb | Cloudflare	188.114.97.3	443
-FAIL	NO	NO			2116	199		🇧🇪199Mb | Google	172.67.134.136	443
-FAIL	NO	NO			3166	198		🇳🇱198Mb | Vladislav Doniy	185.178.208.167	443
-FAIL	NO	NO			29	198		🇫🇷198Mb | OVH SAS	45.135.235.90	443
-WORKS	YES	NO			772	198		🇷🇺198Mb | Jsc timeweb	195.58.34.47	443
-FAIL	NO	NO			2102	197		🇩🇪197Mb | Ultahost	154.197.64.252	443
-FAIL	NO	NO			2107	196		🇳🇱196Mb | Cloudflare	188.114.97.6	443
-FAIL	NO	NO			2120	192		🇮🇩192Mb | PT Telekomunikasi Indonesia	188.114.97.6	443
-FAIL	NO	NO			2174	192		🇩🇪192Mb | Cloudflare	172.67.67.89	2087
-WORKS	YES	YES	217.60.27.153	DE	573	191	8	🇩🇪191Mb | Vladislav Doniy	217.60.27.153	443
-WORKS	YES	YES	50.7.95.170	NL	546	191	12	🇺🇸191Mb | FDCserversnet	app.streamru13.net	443
-FAIL	NO	NO			3399	190		🇩🇪190Mb | Cloudflare	212.113.112.239	8443
-FAIL	NO	NO			450	190		🇺🇸190Mb | Route 95	45.88.182.239	8443
-FAIL	NO	NO			2113	189		🇷🇺189Mb | Cloudflare	154.197.64.252	443
-FAIL	NO	NO			367	188		🇩🇪188Mb | Takehost Ou	201.4.73.20	443
-WORKS	YES	YES	187.54.4.42	US	639	185	3	🇧🇬185Mb | AdaptGroup	187.54.4.43	443
-FAIL	NO	NO			2103	184		🇷🇺184Mb | Cloudflare	104.18.42.54	2083
-FAIL	NO	NO			2130	179		🇷🇺179Mb | Cloudflare	104.17.53.217	443
-FAIL	NO	NO			2200	178		🇳🇱178Mb | Cloudflare	104.26.12.31	8080
-WORKS	YES	NO			744	178		🇷🇺178Mb | Global Internet Solutions	89.221.203.29	443
-WORKS	NO	YES			484	177		🇩🇪177Mb | GSL Networks Pty	48.103.120.9	443
-FAIL	NO	NO			2104	177		🇫🇮177Mb | Cloudflare	45.135.235.255	443
-FAIL	NO	NO			35	176		🇩🇪176Mb | Oracle	172.66.44.124	2096
-WORKS	NO	YES			195	176		🇺🇸176Mb | BL Networks	64.190.113.142	443
-FAIL	NO	NO			1332	175		🇧🇬175Mb | Belcloud	plaindune.com	8443
-FAIL	NO	NO			2127	174		🇺🇸174Mb | HostPapa	8.47.69.6	2083
-FAIL	NO	NO			2112	174		🇳🇱174Mb | Cloudflare	188.114.96.3	443
-FAIL	NO	NO			2122	174		🇫🇮174Mb | Cloudflare	188.164.248.61	443
-FAIL	NO	NO			614	172		🇺🇸172Mb | Route 95	us-05.avroraservice.online	8443
-WORKS	NO	YES			536	171		🇵🇱171Mb | ExpressHost	130.78.31.44	443
-FAIL	NO	NO			391	171		🇸🇪171Mb | Cloudflare	193.233.90.91	443
-WORKS	YES	NO			747	168		🇷🇺168Mb | YandexCloud	94.139.250.226	443
-FAIL	NO	NO			2330	168		🇩🇪168Mb | Cloudflare	floral-grass-aa1e.dianawpewpek1.workers.dev	2053
-WORKS	YES	YES	141.98.41.28	US	333	168	2	🇩🇪168Mb | Cloudflare	789156.xyz	443
-FAIL	NO	NO			2108	166		🇷🇺166Mb | Cloudflare	8.39.125.213	443
-FAIL	NO	NO			4002	165		🇳🇱165Mb | Play2go International Limited	2.26.2.201	443
-FAIL	NO	NO			89	164		🇮🇱164Mb | Global Connectivity Solutions Llp	193.202.11.67	443
-WORKS	NO	YES			794	162		🇺🇸162Mb | Ace Data Centers II	alb1.angelsleep9.com	443
-FAIL	NO	NO			2336	160		🇳🇱160Mb | Cloudflare	aslanbilit.ir	443
-FAIL	NO	NO			2152	157		🇺🇸157Mb | Amazoncom	104.24.30.89	443
-FAIL	NO	NO			659	156		🇸🇪156Mb | Hostup AB	se2.h1cloud.net	25191
-FAIL	NO	NO			601	152		🇵🇱152Mb | Fzco	media.study.golangwikito.cfd	8443
-WORKS	YES	YES	2605:e440:1::2:c3	DE	198	151	6	🇳🇱151Mb | WAIcore	stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev	443
-FAIL	NO	NO			2125	145		🇷🇺145Mb | Cloudflare	8.35.211.87	443
-WORKS	YES	YES	141.98.41.104	US	304	144	1	🇸🇬144Mb | Oracle	ld.235231.xyz	443
-FAIL	NO	NO			2210	143		🇳🇱143Mb | Cloudflare	172.67.75.172	8080
-FAIL	NO	NO			2138	142		🇷🇺142Mb | Cloudflare	104.18.47.140	2096
-FAIL	NO	NO			2112	141		🇩🇪141Mb | Cloudflare	104.20.63.254	443
-FAIL	NO	NO			4003	141		🇧🇬141Mb | Belcloud	78.159.250.155	8443
-FAIL	NO	NO			2105	140		🇳🇱140Mb | Cloudflare	172.66.47.202	443
-FAIL	NO	NO			2119	140		🇸🇪140Mb | Cloudflare	188.114.96.3	443
-FAIL	NO	NO			795	138		🇷🇺138Mb | Jsc timeweb	200.102.183.113	443
-FAIL	NO	NO			4002	133		🇰🇿133Mb | Newserverlife	91.217.10.237	443
-WORKS	YES	YES	132.243.163.60	GB	610	133	5	🇬🇧133Mb | Edge Core FZE	13.143.239.148	25090
-FAIL	NO	NO			2119	132		🇷🇺132Mb | Cloudflare	104.17.28.83	2087
-FAIL	NO	NO			405	130		🇩🇪130Mb | Play2go International Limited	84.21.173.183	443
-WORKS	NO	YES			1129	129		🇷🇸129Mb | Benthost	185.206.92.107	3134
-FAIL	NO	NO			2308	128		🇷🇺128Mb | Jsc timeweb	87.232.116.22	443
-FAIL	NO	NO			3178	126		🇺🇸126Mb | FDCserversnet	50.7.95.220	443
-FAIL	NO	NO			378	125		🇩🇪125Mb | dataforest	104.167.24.169	443
-FAIL	NO	NO			2108	125		🇷🇺125Mb | Cloudflare	104.19.46.30	2083
-WORKS	NO	YES			740	123		🇺🇸123Mb | Ace Data Centers II	48.103.205.57	443
-FAIL	NO	NO			404	121		🇩🇪121Mb | Cloudflare	5.42.116.33	443
-WORKS	NO	YES			668	118		🇺🇸118Mb | Servhost Group	ee.point.cookie-line.cc	443
-FAIL	NO	NO			36	118		🇳🇱118Mb | Cloudflare	104.27.109.16	443
-WORKS	NO	YES			1295	114		🇸🇬114Mb | BL Networks	69.48.229.52	443
-FAIL	NO	NO			776	114		🇺🇸114Mb | Interserver	us12.h1cloud.net	25155
-FAIL	NO	NO			348	114		🇩🇪114Mb | Dedik Services Limited	85.239.146.103	443
-FAIL	NO	NO			760	110		🇺🇸110Mb | Interserver	153.56.230.77	25155
-WORKS	NO	YES			552	108		🇯🇵108Mb | Akenai Products	31.76.91.73	443
-FAIL	NO	NO			4002	107		🇷🇸107Mb | Benthost	netherlandddtun.whooisthebest.ir	3134
-FAIL	NO	NO			1263	107		🇷🇺107Mb | Jsc timeweb	200.102.183.152	443
-WORKS	YES	YES	136.148.219.157	SE	760	107	16	🇸🇪107Mb | Hostup AB	195.206.235.122	443
-FAIL	NO	NO			2119	104		🇳🇱104Mb | U1 Digital Services	172.66.44.124	8443
-FAIL	NO	NO			2127	97		🇷🇺97Mb | Cloudflare	162.159.149.63	443
-FAIL	NO	NO			2250	97		🇷🇺97Mb | Cloudflare	epam.com	443
-FAIL	NO	NO			54	94		🇷🇺94Mb | Cloudflare	medium.com	443
-FAIL	NO	NO			2232	93		🇳🇱93Mb | Cloudflare	104.18.27.94	8080
-FAIL	NO	NO			4002	83		🇷🇺83Mb | JSC Ufanet	46.191.159.24	443
-WORKS	YES	YES	136.148.219.157	SE	1071	82	19	🇸🇪82Mb | Hostup AB	362c1eg.se1.h1clayd.click	443
-WORKS	YES	YES	13.143.175.29	NL	921	82	13	🇳🇱82Mb | Node Host Limited	83.141.93.191	443
-FAIL	NO	NO			689	74		🇵🇱74Mb | MEVSPACE sp z oo	pl9.h1cloud.net	25700
-FAIL	NO	NO			2153	73		🇺🇸73Mb | Cloudflare	103.31.4.202	443
-FAIL	NO	NO			2102	73		🇷🇺73Mb | Cloudflare	104.16.114.170	443
-FAIL	NO	NO			2326	73		🇷🇺73Mb | Cloudflare	www.speedtest.net	443
-FAIL	NO	NO			2197	72		🇩🇪72Mb | Cloudflare	162.159.249.92	443
-FAIL	NO	NO			2118	68		🇺🇸68Mb | HostPapa	172.67.75.194	8443
-FAIL	NO	NO			2136	68		🇺🇸68Mb | Amazoncom	104.24.31.89	443
-FAIL	NO	NO			2158	68		🇷🇺68Mb | BitWeb	chatgpt.com	443
-FAIL	NO	NO			4002	65		🇳🇱65Mb | Cloudflare	194.93.0.240	8443
-FAIL	NO	NO			4002	62		🇩🇪62Mb | Aeza Group	188.225.79.10	443
-FAIL	NO	NO			57	58		🇳🇱58Mb | Aeza Group	www.speedtest.net	2053
-FAIL	NO	NO			3305	57		🇩🇪57Mb | Tabunscic Anatoli	16.63.207.85	443
-WORKS	YES	YES	185.112.59.157	NL	477	56	11	🇳🇱56Mb | Digital Hosting Provider	185.112.59.157	443
-FAIL	NO	NO			4002	55		🇸🇪55Mb | Cherry Servers	185.86.145.78	443
-FAIL	NO	NO			421	52		🇳🇱52Mb | Cherry Servers	app.streamru16.net	443
+FAIL	NO	NO			3012	405		🇸🇪405Mb | Cherry Servers	84.32.154.74	443
+FAIL	NO	NO			4002	351		🇩🇪351Mb | GSL Networks Pty	48.103.120.9	443
+WORKS	NO	NO			2148	346		🇷🇺346Mb | Jsc timeweb	129.101.98.60	443
+FAIL	NO	NO			4003	340		🇩🇪340Mb | GSL Networks Pty	48.103.120.14	443
+FAIL	NO	NO			4003	294		🇩🇪294Mb | GSL Networks Pty	48.103.120.13	443
+WORKS	YES	YES	50.7.176.80	NL	401	187	2	🇺🇸187Mb | FDCserversnet	50.7.178.249	443
+FAIL	NO	NO			4002	186		🇩🇪186Mb | GSL Networks Pty	48.103.120.10	443
+WORKS	YES	YES	217.60.27.153	DE	1698	168	1	🇩🇪168Mb | Vladislav Doniy	217.60.27.153	443
+FAIL	NO	NO			894	159		🇺🇸159Mb | Unredacted	87.120.106.95	443
+FAIL	NO	NO			4002	156		🇩🇪156Mb | GSL Networks Pty	48.103.120.8	443
+FAIL	NO	NO			4002	156		🇷🇺156Mb | JSC Ufanet	dns.linllc.site	443
+FAIL	NO	NO			2318	130		🇩🇪130Mb | IP-Projects & Co KG	185.248.141.233	443
+FAIL	NO	NO			4003	130		🇫🇮130Mb | Hetzner Online	78ec29x.fi2.h1clayd.click	443
+FAIL	NO	NO			539	123		🇳🇱123Mb | ClearStack	82.148.242.249	8443
+FAIL	NO	NO			4001	99		🇫🇮99Mb | Hetzner Online	f0f0bet.fi2.h1clayd.click	443
+FAIL	NO	NO			4001	93		🇦🇪93Mb | HOSTES	31.58.213.201	443
+FAIL	NO	NO			4003	91		🇵🇱91Mb | AdaptGroup	187.54.1.75	3738
