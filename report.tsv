@@ -1,18 +1,15 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			3012	405		🇸🇪405Mb | Cherry Servers	84.32.154.74	443
-FAIL	NO	NO			4002	351		🇩🇪351Mb | GSL Networks Pty	48.103.120.9	443
-WORKS	NO	NO			2148	346		🇷🇺346Mb | Jsc timeweb	129.101.98.60	443
-FAIL	NO	NO			4003	340		🇩🇪340Mb | GSL Networks Pty	48.103.120.14	443
-FAIL	NO	NO			4003	294		🇩🇪294Mb | GSL Networks Pty	48.103.120.13	443
-WORKS	YES	YES	50.7.176.80	NL	401	187	2	🇺🇸187Mb | FDCserversnet	50.7.178.249	443
-FAIL	NO	NO			4002	186		🇩🇪186Mb | GSL Networks Pty	48.103.120.10	443
-WORKS	YES	YES	217.60.27.153	DE	1698	168	1	🇩🇪168Mb | Vladislav Doniy	217.60.27.153	443
-FAIL	NO	NO			894	159		🇺🇸159Mb | Unredacted	87.120.106.95	443
-FAIL	NO	NO			4002	156		🇩🇪156Mb | GSL Networks Pty	48.103.120.8	443
-FAIL	NO	NO			4002	156		🇷🇺156Mb | JSC Ufanet	dns.linllc.site	443
-FAIL	NO	NO			2318	130		🇩🇪130Mb | IP-Projects & Co KG	185.248.141.233	443
-FAIL	NO	NO			4003	130		🇫🇮130Mb | Hetzner Online	78ec29x.fi2.h1clayd.click	443
-FAIL	NO	NO			539	123		🇳🇱123Mb | ClearStack	82.148.242.249	8443
-FAIL	NO	NO			4001	99		🇫🇮99Mb | Hetzner Online	f0f0bet.fi2.h1clayd.click	443
-FAIL	NO	NO			4001	93		🇦🇪93Mb | HOSTES	31.58.213.201	443
-FAIL	NO	NO			4003	91		🇵🇱91Mb | AdaptGroup	187.54.1.75	3738
+FAIL	NO	NO			2268	351		🇩🇪351Mb | Hetzner Online	104.21.1.213	443
+FAIL	NO	NO			4003	189		🇬🇧189Mb | NetCrafters OU	82.148.253.246	443
+WORKS	YES	YES	50.7.177.188	NL	473	178	3	🇺🇸178Mb | FDCserversnet	50.7.176.71	443
+FAIL	NO	NO			2188	149		🇮🇩149Mb | PT Cloud Hosting Indonesia	104.17.3.81	443
+WORKS	YES	YES	13.53.216.223	SE	669	122	4	🇸🇪122Mb | Amazoncom	shop.raadshop.bond	2053
+FAIL	NO	NO			4002	107		🇷🇺107Mb | YandexCloud	94.139.250.226	443
+FAIL	NO	NO			4002	105		🇫🇮105Mb | Hetzner Online	78ec29x.fi2.h1clayd.click	443
+WORKS	NO	YES			3169	84		🇩🇪84Mb | Vladislav Doniy	217.60.27.153	443
+FAIL	NO	NO			4003	76		🇹🇼76Mb | LSHIY	2.27.174.182	5999
+FAIL	NO	NO			345	72		🇩🇪72Mb | Tabunscic Anatoli	176.124.200.148	443
+WORKS	YES	YES	91.107.186.149	DE	643	67	2	🇩🇪67Mb | Hetzner Online	45.144.49.138	1152
+WORKS	YES	YES	168.110.24.138	JP	763	67	5	🇯🇵67Mb | Oracle	sync.2ml.bid	443
+FAIL	NO	NO			47	64		🇩🇪64Mb | Servhost Group	104.18.139.67	443
+WORKS	YES	YES	94.72.100.12	GB	1108	58	1	🇬🇧58Mb | Contabo	xray-ckc68nno-swift-harbor-8.cloady.io	443
