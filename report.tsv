@@ -1,43 +1,130 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4002	473		🇷🇺473Mb | Delta	188.130.209.225	444
-WORKS	YES	YES	104.28.198.244	RU	668	429	2	🇷🇺429Mb | Cloudflare	109.107.189.69	8443
-FAIL	NO	NO			854	400		🇳🇱400Mb | Cloudflare	cf.877774.xyz	443
-FAIL	NO	NO			2090	351		🇩🇪351Mb | Hetzner Online	5.10.246.150	443
-FAIL	NO	NO			4002	350		🇷🇺350Mb | Cloudflare	support.zoom.us	80
-WORKS	YES	YES	144.31.90.232	FI	2846	339	3	🇫🇮339Mb | H2nexus Cloud Services - Fzco	144.31.90.235	443
-FAIL	NO	NO			3078	278		🇷🇺278Mb | Cloudflare	185.178.208.167	443
-FAIL	NO	NO			583	259		🇸🇨259Mb | Orion Network Limited	176.109.103.20	8453
-FAIL	NO	NO			195	259		🇳🇱259Mb | Cloudflare	mfa.gov.ua	443
-FAIL	NO	NO			297	236		🇳🇱236Mb | Uphost Solutions Limited	152.234.248.95	6443
-FAIL	NO	NO			612	226		🇺🇸226Mb | Route 95	us-05.avroraservice.online	8443
-FAIL	NO	NO			292	219		🇳🇱219Mb | Uphost Solutions Limited	152.234.248.97	6443
-FAIL	NO	NO			297	189		🇳🇱189Mb | Uphost Solutions Limited	152.234.248.93	6443
-WORKS	YES	YES	91.107.253.106	DE	493	187	1	🇩🇪187Mb | Hetzner Online	slot3.ipoxxo.online	443
-FAIL	NO	NO			293	167		🇳🇱167Mb | Uphost Solutions Limited	152.234.248.73	8443
-FAIL	NO	NO			496	164		🇩🇪164Mb | aurologic	160.5.218.130	443
-FAIL	NO	NO			649	164		🇸🇮164Mb | Pipe Networks	eu90.cdn77.icu	20084
-FAIL	NO	NO			4003	147		🇫🇮147Mb | Ilia Baikov	37.139.42.37	443
-FAIL	NO	NO			461	145		🇵🇱145Mb | H2nexus Cloud Services - Fzco	144.31.1.250	6443
-FAIL	NO	NO			438	143		🇩🇪143Mb | aurologic	37.9.13.40	443
-WORKS	NO	YES			3518	142		🇳🇱142Mb | Forestsnet	88.210.62.122	443
-FAIL	NO	NO			457	141		🇩🇪141Mb | aurologic	5.178.87.50	443
-FAIL	NO	NO			710	138		🇵🇱138Mb | Cloudflare	saas.sin.fan	443
-FAIL	NO	NO			726	130		🇬🇧130Mb | GSL Networks Pty	eu90.cdn77.icu	20029
-FAIL	NO	NO			461	123		🇬🇪123Mb | H2nexus Cloud Services - Fzco	139.100.197.164	443
-WORKS	NO	YES			630	123		🇱🇻123Mb | Versija SIA	185.220.223.78	443
-FAIL	NO	NO			133	114		🇺🇸114Mb | The Constant Company	45.32.92.77	443
-FAIL	NO	NO			450	114		🇨🇿114Mb | GamerHost sro	5.39.202.153	443
-FAIL	NO	NO			335	113		🇳🇱113Mb | Uphost Solutions Limited	nl.overgroup.cloud	6443
-FAIL	NO	NO			434	111		🇨🇾111Mb | H2nexus Cloud Services - Fzco	31.184.218.139	443
-FAIL	NO	NO			459	110		🇨🇿110Mb | GamerHost sro	czek.oblachniy.ink	443
-FAIL	NO	NO			903	95		🇳🇱95Mb | Layer7 Technologies	seedance25.neuroseti.info	443
-FAIL	NO	NO			250	90		🇫🇮90Mb | Hetzner Online	201.8.71.200	443
-FAIL	NO	NO			472	87		🇺🇸87Mb | Node Host Limited	2.26.187.226	8443
-WORKS	NO	NO			5069	80		🇫🇮80Mb | Ilia Baikov	83.166.237.124	8444
-FAIL	NO	NO			4003	72		🇸🇨72Mb | Global Connectivity Solutions Llp	45.130.127.79	443
-WORKS	NO	NO			3495	69		🇫🇮69Mb | Tabunscic Anatoli	5.59.205.83	443
-FAIL	NO	NO			659	68		🇷🇸68Mb | MAXKO doo	eu90.cdn77.icu	20058
-WORKS	YES	NO			2804	68		🇷🇺68Mb | Delta	93.88.203.43	2087
-WORKS	YES	YES			519	57		🇸🇪57Mb | Alexhost Srl	143.246.195.157	8448
-FAIL	NO	NO			423	51		🇱🇺51Mb | M247 Europe SRL	eu90.cdn77.icu	443
-FAIL	NO	NO			3485	50		🇱🇻50Mb | SIA VEESP	send.idkinc.net	443
+WORKS	YES	YES	104.28.198.244	RU	662	605	30	🇷🇺605Mb | Cloudflare	109.107.189.69	8443
+FAIL	NO	NO			2125	458		🇷🇺458Mb | Cloudflare	104.16.218.4	8443
+WORKS	YES	YES	144.31.90.232	FI	631	457	29	🇫🇮457Mb | H2nexus Cloud Services - Fzco	144.31.90.235	443
+WORKS	YES	YES	113.30.191.181	DE	68	444	3	🇷🇺444Mb | Cloudflare	172.64.147.85	80
+WORKS	YES	YES	80.79.121.154	EE	457	425	26	🇪🇪425Mb | Aktsiaselts WaveCom	80.79.121.156	443
+WORKS	YES	YES	185.104.63.83	AT	769	424	31	🇦🇹424Mb | Interkvm Host Srl	168.113.252.145	443
+WORKS	YES	YES	141.227.131.203	NL	590	406	20	🇫🇷406Mb | OVH SAS	cdn-nl.vpnserverhub.com	8080
+WORKS	YES	YES	5.231.26.195	DE	915	381	15	🇩🇪381Mb | SYNLINQ	newerson.online	443
+WORKS	NO	YES			680	379		🇷🇴379Mb | Interkvm Host Srl	176.108.245.73	443
+WORKS	YES	YES	89.124.67.139	NL	877	374	23	🇳🇱374Mb | Servers Tech Fzco	147.45.103.94	443
+WORKS	YES	YES	50.7.88.2	DE	483	372	10	🇩🇪372Mb | FDCserversnet	189.74.106.121	443
+WORKS	YES	YES	195.133.65.232	DE	95	368	5	🇷🇺368Mb | Cloudflare	188.114.98.112	80
+WORKS	YES	YES	192.124.182.154	DE	95	363	4	🇬🇧363Mb | Aeza Group	104.21.227.134	80
+WORKS	YES	YES	144.31.167.154	DE	464	358	9	🇩🇪358Mb | Play2go International Limited	144.31.167.154	443
+WORKS	YES	YES	188.245.18.100	DE	813	357	13	🇩🇪357Mb | Hetzner Online	fdn3.gmax12.ir	8080
+FAIL	NO	NO			2107	353		🇷🇺353Mb | Cloudflare	104.17.136.102	2087
+FAIL	NO	NO			2105	332		🇷🇺332Mb | Cloudflare	139.64.235.123	443
+FAIL	NO	NO			2212	328		🇩🇪328Mb | Cloudflare	104.17.99.49	443
+WORKS	YES	YES	159.100.18.123	DE	193	326	6	🇩🇪326Mb | The Constant Company	fast-route-279ca1-gw.staging-api-c694f6.workers.dev	443
+WORKS	YES	YES			67	316		🇷🇺316Mb | Cloudflare	104.19.173.68	8080
+WORKS	YES	YES	45.159.23.2	GB	578	312	2	🇺🇸312Mb | Global Transit Systems	122.8.92.7	443
+FAIL	NO	NO			24	304		🇸🇪304Mb | Cloudflare	104.21.209.174	443
+FAIL	NO	NO			2066	303		🇩🇪303Mb | Cloudflare	188.114.97.6	443
+WORKS	YES	YES			107	299		🇷🇺299Mb | Cloudflare	www.digitalocean.com	8080
+WORKS	YES	YES			69	298		🇸🇪298Mb | Cloudflare	104.26.13.31	8080
+WORKS	YES	YES	31.59.179.54	DE	817	295	14	🇩🇪295Mb | Akenai Products	185.86.145.214	12358
+FAIL	NO	NO			2065	293		🇷🇺293Mb | Cloudflare	104.18.35.180	8443
+FAIL	NO	NO			2063	286		🇳🇱286Mb | Cloudflare	188.114.97.6	443
+WORKS	YES	NO			558	283		🇸🇨283Mb | Global Connectivity Solutions Llp	45.130.127.79	443
+FAIL	NO	NO			2062	283		🇩🇪283Mb | Global Connectivity Solutions Llp	45.135.235.255	443
+WORKS	YES	YES	153.52.143.118	US	444	276	1	🌐276Mb | 🇩🇪 AetrisVPN	153.52.143.118	443
+FAIL	NO	NO			2111	275		🇸🇪275Mb | Cloudflare	104.18.26.94	8080
+FAIL	NO	NO			245	273		🇺🇸273Mb | NetCrafters OU	45.86.245.122	8444
+FAIL	NO	NO			2165	272		🇷🇺272Mb | Cloudflare	tether.dev	443
+FAIL	NO	NO			2699	272		🇸🇪272Mb | Cloudflare	www.gov.se	8080
+WORKS	YES	YES	194.154.30.254	DE	274	272	7	🇩🇪272Mb | Cloudflare	188.114.97.6	8080
+FAIL	NO	NO			28	269		🇷🇺269Mb | Cloudflare	172.67.247.113	443
+FAIL	NO	NO			423	267		🇸🇪267Mb | Fzco	48.102.172.128	443
+FAIL	NO	NO			2174	264		🇷🇺264Mb | Cloudflare	snowflake.com	443
+FAIL	NO	NO			2057	256		🇩🇪256Mb | Cloudflare	188.114.97.6	2087
+WORKS	YES	YES			69	248		🇳🇱248Mb | Cloudflare	104.21.0.1	8080
+FAIL	NO	NO			2068	247		🇷🇺247Mb | Cloudflare	172.64.67.189	443
+WORKS	NO	YES			522	246		🇩🇪246Mb | H2nexus Cloud Services - Fzco	185.125.50.21	2053
+WORKS	YES	YES	31.76.76.78	NL	108	240	19	🇸🇪240Mb | Cloudflare	radar.cloudflare.com	8080
+FAIL	NO	NO			2263	239		🇩🇪239Mb | Cloudflare	floral-grass-aa1e.dianawpewpek1.workers.dev	2053
+FAIL	NO	NO			2063	238		🇳🇱238Mb | Anton Levin	162.159.153.4	443
+WORKS	YES	YES	130.78.30.2	DE	444	237	8	🇳🇱237Mb | ExpressHost	130.78.30.2	443
+FAIL	NO	NO			2057	235		🇩🇪235Mb | Cloudflare	188.114.97.3	443
+FAIL	NO	NO			2057	232		🇷🇺232Mb | Cloudflare	104.19.58.88	443
+FAIL	NO	NO			2060	230		🇸🇪230Mb | Cloudflare	188.114.97.6	2096
+WORKS	YES	YES	188.245.18.100	DE	594	229	12	🇩🇪229Mb | Hetzner Online	65.109.248.159	8080
+FAIL	NO	NO			2058	228		🇸🇪228Mb | Cloudflare	188.114.97.3	443
+FAIL	NO	NO			25	226		🇳🇱226Mb | Cloudflare	104.24.225.89	443
+FAIL	NO	NO			2068	220		🇸🇪220Mb | Cloudflare	104.20.63.254	443
+FAIL	NO	NO			2264	215		🇷🇺215Mb | Cloudflare	www.buydomains.com	443
+FAIL	NO	NO			2055	213		🇩🇪213Mb | Cloudflare	172.67.69.86	2083
+WORKS	YES	YES	177.3.220.243	FI	550	212	27	🇫🇮212Mb | Fzco	87.121.89.165	443
+FAIL	NO	NO			2247	210		🇸🇪210Mb | Cloudflare	a2c.ir	443
+WORKS	YES	YES	104.28.219.140	NL	810	210	21	🇳🇱210Mb | Cloudflare	195.209.217.111	443
+FAIL	NO	NO			2054	200		🇷🇺200Mb | Cloudflare	172.64.152.52	443
+FAIL	NO	NO			2056	200		🇩🇪200Mb | 23M	172.67.130.187	2083
+FAIL	NO	NO			2060	198		🇩🇪198Mb | Cloudflare	188.114.96.3	443
+WORKS	YES	YES	31.97.199.38	FR	398	197	25	🇫🇷197Mb | Hostinger International Limited	31.97.199.38	8443
+WORKS	YES	YES	116.202.37.54	DE	1665	194	18	🇩🇪194Mb | Hetzner Online	iran.2freenet.ddns.info	443
+FAIL	NO	NO			2059	193		🇷🇺193Mb | Cloudflare	8.35.211.87	2096
+WORKS	YES	YES	38.180.182.128	CO	1468	191	35	🇨🇴191Mb | Scalaxy	103.252.91.140	443
+FAIL	NO	NO			316	190		🇳🇱190Mb | Moskalev Georgiy	89.125.100.150	8443
+FAIL	NO	NO			22	190		🇫🇷190Mb | OVH SAS	89.116.46.150	443
+FAIL	NO	NO			2056	190		🇷🇺190Mb | Cloudflare	104.19.47.188	8443
+FAIL	NO	NO			24	190		🇩🇪190Mb | Kamatera	172.66.44.124	2096
+FAIL	NO	NO			2833	186		🇷🇺186Mb | Cloudflare	saas.sin.fan	443
+FAIL	NO	NO			3410	186		🇸🇪186Mb | Datacamp Limited	139.100.213.31	443
+WORKS	YES	YES	157.228.66.180	AL	1140	182	34	🇦🇲182Mb | Edge Core FZE	82.202.142.227	23444
+FAIL	NO	NO			2063	182		🇺🇸182Mb | HostPapa	104.26.13.140	8443
+FAIL	NO	NO			2401	181		🇸🇪181Mb | Cloudflare	vless2.gem-audio2.us.ci	443
+FAIL	NO	NO			2059	177		🇩🇪177Mb | Aeza Group	188.114.97.6	443
+FAIL	NO	NO			2065	173		🇷🇺173Mb | Cloudflare	104.19.46.2	2083
+FAIL	NO	NO			2064	173		🇩🇪173Mb | Cherry Servers	172.67.197.170	443
+FAIL	NO	NO			3442	172		🇬🇱172Mb | Cyberzone	139.100.213.31	443
+FAIL	NO	NO			2189	167		🇷🇺167Mb | Cloudflare	www.visa.com	8443
+FAIL	NO	NO			2267	161		🇷🇺161Mb | Jsc timeweb	87.232.116.22	443
+FAIL	NO	NO			2080	159		🇳🇱159Mb | Servers Tech Fzco	104.17.148.22	8443
+FAIL	NO	NO			375	159		🇩🇪159Mb | Hetzner Online	slot3.ipoxxo.online	2083
+FAIL	NO	NO			2060	158		🇷🇺158Mb | Cloudflare	154.197.64.252	443
+FAIL	NO	NO			2207	157		🇳🇱157Mb | Cloudflare	floral-grass-aa1e.dianawpewpek1.workers.dev	8443
+FAIL	NO	NO			2059	154		🇳🇱154Mb | Cloudflare	172.67.167.179	443
+FAIL	NO	NO			2066	151		🇫🇷151Mb | Cloudflare	92.53.190.167	443
+FAIL	NO	NO			2064	150		🇷🇺150Mb | Cloudflare	172.64.147.85	443
+WORKS	YES	YES	62.233.39.2	RU	958	149	33	🇷🇺149Mb | Alex Largman	122.8.93.4	8443
+FAIL	NO	NO			2054	148		🇷🇺148Mb | Cloudflare	104.17.148.111	2053
+FAIL	NO	NO			2063	148		🇸🇪148Mb | Cloudflare	104.26.15.138	2053
+FAIL	NO	NO			2067	147		🇩🇪147Mb | Cloudflare	172.67.155.222	443
+FAIL	NO	NO			564	147		🇳🇱147Mb | Layer7 Technologies	95.163.209.247	443
+WORKS	YES	YES	31.97.199.38	FR	408	147		🇫🇷147Mb | Hostinger International Limited	31.97.199.38	8443
+FAIL	NO	NO			2162	140		🇺🇸140Mb | HostPapa	singapore.com	8443
+FAIL	NO	NO			2054	138		🇯🇵138Mb | Oracle	172.64.154.113	8443
+FAIL	NO	NO			3419	136		🇰🇿136Mb | Cyberzone	139.100.213.31	443
+FAIL	NO	NO			3057	135		🇳🇱135Mb | Cloudflare	yd.2.hhhhh.eu.org	443
+FAIL	NO	NO			2062	130		🇷🇺130Mb | Cloudflare	188.164.248.48	2083
+FAIL	NO	NO			2485	129		🇸🇪129Mb | Cloudflare	789156.xyz	443
+FAIL	NO	NO			2236	127		🇷🇺127Mb | Cloudflare	www.visa.com.sg	8443
+FAIL	NO	NO			2062	125		🇷🇺125Mb | Cloudflare	172.64.67.1	2096
+FAIL	NO	NO			2071	124		🇳🇱124Mb | Cloudflare	104.24.30.89	443
+FAIL	NO	NO			2064	111		🇸🇪111Mb | Cloudflare	104.18.28.234	2053
+FAIL	NO	NO			588	109		🇩🇪109Mb | Tabunscic Anatoli	201.24.122.189	443
+WORKS	YES	YES	157.228.163.99	BG	608	106	28	🇧🇬106Mb | First Server Sociedad Limitada	157.228.163.99	443
+FAIL	NO	NO			377	101		🇵🇱101Mb | Paul Sagov	pl9.h1cloud.net	25700
+WORKS	YES	YES	104.28.219.140	NL	1177	100	24	🇳🇱100Mb | Cloudflare	188.225.79.47	443
+FAIL	NO	NO			411	98		🇵🇱98Mb | Paul Sagov	179.254.127.211	25700
+FAIL	NO	NO			2060	94		🇷🇺94Mb | Cloudflare	104.16.114.170	443
+FAIL	NO	NO			4002	91		🇯🇵91Mb | Oracle	sync.2ml.bid	443
+WORKS	YES	YES	193.42.12.162	DE	505	90	11	🇩🇪90Mb | dataforest	de.shadowshine.cc	443
+WORKS	NO	NO			3607	87		🇸🇬87Mb | EN Technologies Pte	104.17.3.81	80
+FAIL	NO	NO			446	86		🇩🇪86Mb | Tabunscic Anatoli	marsh.moltex.click	443
+WORKS	YES	YES	85.239.146.138	DE	954	79	16	🇩🇪79Mb | Dedik Services Limited	food.ebaniyautist.com	443
+FAIL	NO	NO			2184	78		🇸🇪78Mb | Cloudflare	ld.235231.xyz	443
+FAIL	NO	NO			429	75		🇩🇪75Mb | Tabunscic Anatoli	194.87.131.9	443
+FAIL	NO	NO			2061	75		🇩🇪75Mb | Fornex Hosting SL	8.6.112.0	443
+FAIL	NO	NO			2057	75		🇺🇸75Mb | Cloudflare	103.31.4.202	443
+WORKS	YES	YES	31.76.114.5	FI	2481	75	36	🇺🇸75Mb | Servhost Group	13.143.187.220	443
+WORKS	YES	YES	193.223.107.41	DE	1045	69	17	🇹🇷69Mb | Tabunscic Anatoli	olvento.space	443
+FAIL	NO	NO			487	68		🇷🇺68Mb | Delta	93.88.203.43	2087
+WORKS	YES	YES	31.77.154.251	IT	792	63	32	🇮🇹63Mb | Akenai Products	31.129.56.229	443
+FAIL	NO	NO			786	60		🇳🇱60Mb | Layer7 Technologies	seedance25.neuroseti.info	443
+FAIL	NO	NO			501	54		🇵🇱54Mb | Moskalev Georgiy	87.242.127.51	21127
+FAIL	NO	NO			2022	52		🇯🇵52Mb | Oracle	104.18.53.172	8443
+FAIL	NO	NO			2024	52		🇯🇵52Mb | Oracle	104.21.76.96	443
+FAIL	NO	NO			3489	51		🇷🇺51Mb | Kviktel	188.225.82.103	443
+WORKS	YES	YES	104.28.219.140	NL	864	50	22	🇳🇱50Mb | Cloudflare	168.113.254.217	443
