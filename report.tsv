@@ -1,57 +1,17 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			507	426		🇸🇪426Mb | Cherry Servers	88.216.129.84	443
-WORKS	NO	NO			802	390		🇷🇺390Mb | Cloudflare	109.107.189.69	8443
-WORKS	YES	YES	2.27.29.195	DE	714	347	6	🇩🇪347Mb | Senko Digital	144.31.62.22	443
-FAIL	NO	NO			723	310		🇳🇱310Mb | FDCserversnet	50.7.221.246	9443
-WORKS	YES	YES	94.183.164.68	IR	1526	290	16	🇳🇱290Mb | Vladislav Doniy	dogklinik.growmart.site	443
-FAIL	NO	NO			3019	284		🇵🇱284Mb | BlueVPS OU	176.124.33.92	443
-FAIL	NO	NO			4002	269		🇫🇮269Mb | Play2go International Limited	2.26.52.121	443
-FAIL	NO	NO			4003	266		🇺🇸266Mb | Servhost Group	91.196.35.143	443
-FAIL	NO	NO			4001	256		🇫🇮256Mb | Play2go International Limited	fi-b2.golangwikito.cfd	443
-FAIL	NO	NO			2121	254		🇸🇪254Mb | Cloudflare	162.159.130.234	2096
-WORKS	YES	YES	94.183.164.68	IR	1625	251	17	🇳🇱251Mb | Vladislav Doniy	94.183.164.68	443
-FAIL	NO	NO			3893	248		🇷🇺248Mb | Kviktel	45.151.31.69	443
-WORKS	YES	YES	193.23.202.101	NL	693	238	8	🇺🇸238Mb | Servhost Group	193.23.202.17	443
-FAIL	NO	NO			3903	233		🇷🇺233Mb | Kviktel	45.151.31.69	443
-WORKS	YES	YES	144.31.0.101	PL	709	230	12	🇵🇱230Mb | H2nexus Cloud Services - Fzco	144.31.0.153	443
-FAIL	NO	NO			4003	229		🇩🇪229Mb | Akenai Products	185.86.147.80	9443
-FAIL	NO	NO			4002	220		🇳🇱220Mb | Play2go International Limited	2.26.83.119	443
-FAIL	NO	NO			791	206		🇹🇷206Mb | H2nexus Cloud Services - Fzco	200.96.109.11	443
-WORKS	YES	YES	93.152.213.7	NL	602	205	7	🇳🇱205Mb | Dedik Services Limited	93.152.215.186	443
-FAIL	NO	NO			520	195		🇱🇹195Mb | Baltnetos komunikacijos	176.118.198.122	4443
-FAIL	NO	NO			4002	195		🇳🇱195Mb | Play2go International Limited	nl-s-2-b1.pythonmakemigreat.wiki	443
-FAIL	NO	NO			458	184		🇩🇪184Mb | Hetzner Online	178.104.236.189	8443
-FAIL	NO	NO			743	184		🇺🇸184Mb | Route 95	us-05.avroraservice.online	8443
-FAIL	NO	NO			4002	184		🇩🇪184Mb | Akenai Products	185.86.147.80	9441
-FAIL	NO	NO			3918	183		🇷🇺183Mb | Kviktel	45.151.31.69	443
-WORKS	YES	YES	191.217.241.53	PL	806	182	13	🇺🇸182Mb | hostoff Csl	191.217.241.53	443
-FAIL	NO	NO			632	180		🇦🇱180Mb | H2nexus Cloud Services - Fzco	200.96.109.194	14443
-WORKS	YES	YES	206.245.132.219	US	420	176	1	🇺🇸176Mb | FiberState	206.245.132.182	443
-FAIL	NO	NO			756	174		🇷🇺174Mb | Cloudru	88.218.66.72	443
-FAIL	NO	NO			629	171		🇳🇴171Mb | H2nexus Cloud Services - Fzco	144.31.128.220	14443
-FAIL	NO	NO			649	171		🇦🇹171Mb | H2nexus Cloud Services - Fzco	144.31.129.72	443
-FAIL	NO	NO			4002	169		🇺🇸169Mb | Servhost Group	84.23.52.104	9079
-FAIL	NO	NO			4002	169		🇸🇪169Mb | Fzco	81.222.148.178	52443
-WORKS	YES	YES	179.254.86.139	US	611	164	2	🇺🇸164Mb | Servhost Group	150.241.83.233	443
-WORKS	YES	YES	138.124.242.57	PL	666	161	11	🇵🇱161Mb | PrefixLabs DOO	217.60.25.207	443
-FAIL	NO	NO			4003	153		🇳🇱153Mb | GTHost	138.16.206.147	9114
-FAIL	NO	NO			792	152		🇩🇪152Mb | aurologic	200.96.109.71	443
-FAIL	NO	NO			634	149		🇬🇪149Mb | H2nexus Cloud Services - Fzco	200.96.109.30	443
-WORKS	YES	YES	91.107.186.149	DE	658	143	5	🇩🇪143Mb | Hetzner Online	195.201.120.42	1152
-FAIL	NO	NO			2054	137		🇷🇺137Mb | Cloudflare	185.18.250.2	443
-WORKS	YES	YES	85.202.195.26	KZ	1484	134	15	🇰🇿134Mb | PS Internet Company LLP	blog-asia.livemusic.ac	8445
-WORKS	YES	YES	50.7.220.138	NL	704	133	9	🇳🇱133Mb | FDCserversnet	50.7.221.219	443
-FAIL	NO	NO			4003	119		🇫🇮119Mb | Orion Network Limited	107.150.93.5	443
-FAIL	NO	NO			4003	118		🇸🇬118Mb | EN Technologies Pte	104.17.3.81	80
-WORKS	YES	YES	94.183.164.105	IR	3828	112	18	🇳🇱112Mb | Vladislav Doniy	94.183.164.101	443
-FAIL	NO	NO			2044	107		🇫🇮107Mb | Cloudflare	154.197.64.252	443
-WORKS	YES	YES	177.1.192.89	PL	832	101	14	🇵🇱101Mb | Uphost Solutions Limited	177.1.192.89	443
-WORKS	YES	YES	185.191.118.199	DE	645	98	4	🇩🇪98Mb | Cherry Servers	178.248.236.229	443
-FAIL	NO	NO			4003	95		🇺🇸95Mb | GTHost	84.23.52.104	9118
-FAIL	NO	NO			4002	85		🇷🇺85Mb | Kviktel	45.151.31.69	443
-WORKS	YES	NO			1831	72		🇺🇸72Mb | Ace Data Centers II	81.222.148.87	53443
-WORKS	YES	YES	158.220.95.242	GB	984	71	3	🇬🇧71Mb | Contabo	158.220.95.242	443
-FAIL	NO	NO			2045	67		🇫🇮67Mb | Cloudflare	185.18.250.2	443
-FAIL	NO	NO			568	67		🇺🇸67Mb | Route 95	45.88.177.79	8443
-FAIL	NO	NO			1546	61		🇫🇮61Mb | Orion Network Limited	4c980ft.fi15.h1clayd.click	443
-WORKS	YES	YES	104.28.218.38	NL	2077	57	10	🇳🇱57Mb | Cloudflare	45.132.179.183	443
+FAIL	NO	NO			366	349		🇩🇪349Mb | Hetzner Online	mhcdn.sudo-network.co	2087
+WORKS	YES	YES	141.227.131.203	NL	791	336	1	🇫🇷336Mb | OVH SAS	cdn-nl.vpnserverhub.com	8080
+FAIL	NO	NO			4003	313		🇩🇪313Mb | GTHost	138.16.206.147	2096
+FAIL	NO	NO			4003	253		🇩🇪253Mb | GTHost	138.16.206.147	443
+FAIL	NO	NO			460	248		🇳🇱248Mb | Cloudflare	185.62.58.150	443
+FAIL	NO	NO			4002	233		🇩🇪233Mb | Play2go International Limited	138.16.206.147	9096
+WORKS	YES	YES			700	211		🇦🇹211Mb | FDCserversnet	189.74.115.30	443
+FAIL	NO	NO			742	197		🇫🇷197Mb | Stellar Group SAS	77.73.20.134	2100
+WORKS	YES	YES	45.248.37.50	SE	800	191	2	🇮🇱191Mb | Kamatera	swe.srv.hiddenmedia.pw	443
+FAIL	NO	NO			4003	175		🇩🇪175Mb | H2nexus Cloud Services - Fzco	191.217.215.228	2053
+FAIL	NO	NO			212	85		🇺🇸85Mb | Unredacted	176.126.122.236	443
+FAIL	NO	NO			221	84		🇺🇸84Mb | Unredacted	hiccuped-tacos.sports-streams.org	443
+FAIL	NO	NO			4002	83		🇫🇮83Mb | Hetzner Online	83.171.241.136	443
+FAIL	NO	NO			1082	77		🇳🇱77Mb | Vladislav Doniy	94.183.164.48	443
+WORKS	YES	NO			3448	62		🇩🇪62Mb | OVH SAS	files-qzgs.login.opendns.stream	443
+WORKS	YES	YES	31.76.53.226	FI	946	61	3	🇺🇸61Mb | Servhost Group	rusea1.riseservice.me	443
