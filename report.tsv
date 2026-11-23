@@ -1,39 +1,37 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4002	398		🇸🇪398Mb | AltusHost	ru.cutemedia.lol	47442
-FAIL	NO	NO			3356	348		🇺🇸348Mb | 'Ghita Telekom'	144.31.150.6	52006
-FAIL	NO	NO			3093	338		🇺🇸338Mb | 'Ghita Telekom'	13.143.179.17	52006
-WORKS	YES	YES	50.7.220.122	NL	451	336	5	🇳🇱336Mb | FDCserversnet	50.7.221.228	443
-FAIL	NO	NO			421	331		🇦🇹331Mb | FDCserversnet	189.74.115.30	443
-WORKS	YES	YES	45.140.204.77	PL	1015	320	10	🇮🇱320Mb | Global Connectivity Solutions Llp	31.129.100.159	443
-FAIL	NO	NO			353	306		🇺🇸306Mb | FDCserversnet	50.7.154.78	443
-WORKS	YES	YES	118.151.222.66	ID	949	296	9	🇸🇪296Mb | Cloudflare	kozel.cc.cd	443
-FAIL	NO	NO			3166	288		🇺🇸288Mb | Banatsync Srl	31.77.227.156	52006
-FAIL	NO	NO			775	282		🇧🇬282Mb | Belcloud	plaindune.com	8443
-FAIL	NO	NO			399	272		🇵🇱272Mb | FDCserversnet	189.74.116.41	443
-FAIL	NO	NO			412	244		🇦🇹244Mb | FDCserversnet	189.74.115.30	443
-WORKS	YES	YES	136.176.66.102	DE	977	240	3	🇩🇪240Mb | GTHost	138.16.206.147	2096
-WORKS	YES	YES	31.76.53.226	FI	615	230	8	🇺🇸230Mb | Servhost Group	144.31.249.184	443
-WORKS	YES	YES	139.64.166.114	NL	1088	227	7	🇳🇱227Mb | GTHost	138.16.206.147	9114
-FAIL	NO	NO			498	222		🇧🇬222Mb | Belcloud	78.159.240.72	8443
-FAIL	NO	NO			355	217		🇺🇸217Mb | Servhost Group	64.188.98.130	443
-WORKS	YES	YES	136.176.66.102	DE	969	217	2	🇩🇪217Mb | GTHost	138.16.206.147	443
-FAIL	NO	NO			4003	215		🇫🇷215Mb | Stellar Group SAS	77.73.20.131	8446
-WORKS	YES	YES	103.253.24.167	SG	1238	203	11	🇸🇬203Mb | EN Technologies Pte	104.17.3.81	80
-WORKS	YES	YES	194.93.61.215	NL	491	203	6	🇳🇱203Mb | Forestsnet	88.210.62.96	443
-FAIL	NO	NO			243	199		🇬🇧199Mb | Servhost Group	144.31.218.188	443
-WORKS	YES	YES	153.52.143.118	US	513	199	1	🇩🇪199Mb | ExpressHost	153.52.143.118	443
-WORKS	YES	YES	136.176.66.105	DE	2046	193	4	🇨🇭193Mb | GTHost	138.16.206.147	9096
-WORKS	YES	NO			782	185		🇩🇪185Mb | dataforest	185.22.235.212	443
-FAIL	NO	NO			4003	184		🇫🇷184Mb | Stellar Group SAS	77.73.20.131	2100
-WORKS	YES	YES	177.1.192.65	PL	1355	168	12	🇵🇱168Mb | Uphost Solutions Limited	138.16.206.147	9065
-FAIL	NO	NO			4002	139		🇷🇺139Mb | Kviktel	188.68.216.33	443
-FAIL	NO	NO			4003	131		🇷🇺131Mb | Kviktel	188.68.216.33	443
-FAIL	NO	NO			4002	116		🇷🇺116Mb | Kviktel	188.68.216.33	443
-FAIL	NO	NO			4003	109		🇫🇷109Mb | Stellar Group SAS	77.73.20.131	2099
-FAIL	NO	NO			4003	97		🇫🇷97Mb | Stellar Group SAS	77.73.20.131	8444
-FAIL	NO	NO			4003	97		🇸🇬97Mb | LEASEWEB SINGAPORE PTE	support.zoom.us	80
-FAIL	NO	NO			4002	89		🇸🇬89Mb | LEASEWEB SINGAPORE PTE	188.114.99.137	80
-FAIL	NO	NO			633	88		🇺🇸88Mb | Interserver	153.56.230.77	25155
-FAIL	NO	NO			702	75		🇺🇸75Mb | Interserver	us12.h1cloud.net	25155
-FAIL	NO	NO			3514	69		🇷🇺69Mb | Kviktel	188.68.216.33	443
-FAIL	NO	NO			440	59		🇫🇮59Mb | DpkgSoft International Limited	31.76.230.58	8846
+FAIL	NO	NO			4002	536		🇸🇪536Mb | Amazoncom	anten.ir	80
+FAIL	NO	NO			83	429		🇬🇧429Mb | YottaSrc	188.114.97.6	443
+FAIL	NO	NO			4003	370		🇳🇱370Mb | FDCserversnet	50.7.221.228	443
+FAIL	NO	NO			571	354		🇸🇪354Mb | Aeza Group	89.22.234.77	443
+WORKS	YES	YES	187.52.44.253	NL	3115	334	3	🇳🇱334Mb | ExpressHost	cvetidamam.growmart.site	443
+FAIL	NO	NO			4002	298		🇳🇱298Mb | Cloudflare	195.209.223.0	443
+FAIL	NO	NO			454	297		🇫🇮297Mb | Oc Networks Limited	64.188.76.38	2053
+FAIL	NO	NO			1384	277		🇫🇷277Mb | Servhost Group	213.176.73.38	443
+FAIL	NO	NO			1403	264		🇸🇪264Mb | Servhost Group	13.143.180.220	443
+FAIL	NO	NO			3715	256		🇷🇺256Mb | Kviktel	168.113.253.164	443
+FAIL	NO	NO			786	248		🇹🇷248Mb | Sh Online Iletisim Anonim Sirketi	tr-ist-3.koolb.org	443
+FAIL	NO	NO			429	237		🇷🇺237Mb | Aeza Group	94.228.162.99	443
+FAIL	NO	NO			4002	233		🇩🇪233Mb | GTHost	138.16.206.147	443
+FAIL	NO	NO			2573	210		🇺🇸210Mb | Metro Communications Company	www.visa.com.sg	8443
+WORKS	NO	YES			2547	188		🇪🇪188Mb | ExpressHost	31.56.187.171	443
+WORKS	YES	YES	104.28.219.140	NL	2154	172	2	🇳🇱172Mb | Cloudflare	195.209.222.4	443
+WORKS	YES	YES	31.76.53.226	FI	761	170	4	🇺🇸170Mb | Servhost Group	144.31.249.184	443
+FAIL	NO	NO			4003	164		🇩🇪164Mb | GTHost	138.16.206.147	9096
+WORKS	YES	YES	103.253.24.167	SG	944	164	5	🇸🇬164Mb | EN Technologies Pte	104.17.3.81	80
+FAIL	NO	NO			139	162		🇺🇸162Mb | Unredacted	coughed-gongs.freevideochats.org	443
+FAIL	NO	NO			4003	161		🇺🇸161Mb | B2 Net Solutions	152.232.62.85	443
+FAIL	NO	NO			2208	155		🇷🇺155Mb | Cloudflare	172.64.154.113	8443
+FAIL	NO	NO			997	140		🇺🇸140Mb | Unredacted	homestead-walloping.sports-streams.org	443
+FAIL	NO	NO			206	129		🇺🇸129Mb | Unredacted	caudal-reason.freevideochats.org	443
+WORKS	YES	YES	104.28.219.140	NL	1157	129	1	🇳🇱129Mb | Cloudflare	195.209.222.106	443
+WORKS	YES	YES	5.223.43.172	SG	2033	124	6	🇸🇬124Mb | Hetzner Online	79.174.12.251	8407
+FAIL	NO	NO			970	121		🇺🇸121Mb | Unredacted	homestead-walloping.sports-streams.org	443
+FAIL	NO	NO			4002	105		🇫🇮105Mb | Hetzner Online	a80b5386.fi2.h1clayd.click	443
+FAIL	NO	NO			3720	103		🇷🇺103Mb | Kviktel	45.132.176.150	443
+FAIL	NO	NO			957	93		🇺🇸93Mb | Unredacted	87.120.106.95	443
+FAIL	NO	NO			519	85		🇫🇮85Mb | DpkgSoft International Limited	31.76.230.58	8846
+FAIL	NO	NO			2426	81		🇵🇱81Mb | Uphost Solutions Limited	138.16.206.147	9065
+FAIL	NO	NO			4001	72		🇷🇺72Mb | Kviktel	188.68.216.33	443
+FAIL	NO	NO			135	66		🇺🇸66Mb | Unredacted	87.120.252.67	443
+FAIL	NO	NO			3361	58		🇸🇪58Mb | Cloudflare	www.speedtest.net	443
+FAIL	NO	NO			3668	56		🇭🇰56Mb | Cloudflare	151.158.0.83	8443
