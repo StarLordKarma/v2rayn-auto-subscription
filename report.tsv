@@ -1,37 +1,40 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-FAIL	NO	NO			4002	536		🇸🇪536Mb | Amazoncom	anten.ir	80
-FAIL	NO	NO			83	429		🇬🇧429Mb | YottaSrc	188.114.97.6	443
-FAIL	NO	NO			4003	370		🇳🇱370Mb | FDCserversnet	50.7.221.228	443
-FAIL	NO	NO			571	354		🇸🇪354Mb | Aeza Group	89.22.234.77	443
-WORKS	YES	YES	187.52.44.253	NL	3115	334	3	🇳🇱334Mb | ExpressHost	cvetidamam.growmart.site	443
-FAIL	NO	NO			4002	298		🇳🇱298Mb | Cloudflare	195.209.223.0	443
-FAIL	NO	NO			454	297		🇫🇮297Mb | Oc Networks Limited	64.188.76.38	2053
-FAIL	NO	NO			1384	277		🇫🇷277Mb | Servhost Group	213.176.73.38	443
-FAIL	NO	NO			1403	264		🇸🇪264Mb | Servhost Group	13.143.180.220	443
-FAIL	NO	NO			3715	256		🇷🇺256Mb | Kviktel	168.113.253.164	443
-FAIL	NO	NO			786	248		🇹🇷248Mb | Sh Online Iletisim Anonim Sirketi	tr-ist-3.koolb.org	443
-FAIL	NO	NO			429	237		🇷🇺237Mb | Aeza Group	94.228.162.99	443
-FAIL	NO	NO			4002	233		🇩🇪233Mb | GTHost	138.16.206.147	443
-FAIL	NO	NO			2573	210		🇺🇸210Mb | Metro Communications Company	www.visa.com.sg	8443
-WORKS	NO	YES			2547	188		🇪🇪188Mb | ExpressHost	31.56.187.171	443
-WORKS	YES	YES	104.28.219.140	NL	2154	172	2	🇳🇱172Mb | Cloudflare	195.209.222.4	443
-WORKS	YES	YES	31.76.53.226	FI	761	170	4	🇺🇸170Mb | Servhost Group	144.31.249.184	443
-FAIL	NO	NO			4003	164		🇩🇪164Mb | GTHost	138.16.206.147	9096
-WORKS	YES	YES	103.253.24.167	SG	944	164	5	🇸🇬164Mb | EN Technologies Pte	104.17.3.81	80
-FAIL	NO	NO			139	162		🇺🇸162Mb | Unredacted	coughed-gongs.freevideochats.org	443
-FAIL	NO	NO			4003	161		🇺🇸161Mb | B2 Net Solutions	152.232.62.85	443
-FAIL	NO	NO			2208	155		🇷🇺155Mb | Cloudflare	172.64.154.113	8443
-FAIL	NO	NO			997	140		🇺🇸140Mb | Unredacted	homestead-walloping.sports-streams.org	443
-FAIL	NO	NO			206	129		🇺🇸129Mb | Unredacted	caudal-reason.freevideochats.org	443
-WORKS	YES	YES	104.28.219.140	NL	1157	129	1	🇳🇱129Mb | Cloudflare	195.209.222.106	443
-WORKS	YES	YES	5.223.43.172	SG	2033	124	6	🇸🇬124Mb | Hetzner Online	79.174.12.251	8407
-FAIL	NO	NO			970	121		🇺🇸121Mb | Unredacted	homestead-walloping.sports-streams.org	443
-FAIL	NO	NO			4002	105		🇫🇮105Mb | Hetzner Online	a80b5386.fi2.h1clayd.click	443
-FAIL	NO	NO			3720	103		🇷🇺103Mb | Kviktel	45.132.176.150	443
-FAIL	NO	NO			957	93		🇺🇸93Mb | Unredacted	87.120.106.95	443
-FAIL	NO	NO			519	85		🇫🇮85Mb | DpkgSoft International Limited	31.76.230.58	8846
-FAIL	NO	NO			2426	81		🇵🇱81Mb | Uphost Solutions Limited	138.16.206.147	9065
-FAIL	NO	NO			4001	72		🇷🇺72Mb | Kviktel	188.68.216.33	443
-FAIL	NO	NO			135	66		🇺🇸66Mb | Unredacted	87.120.252.67	443
-FAIL	NO	NO			3361	58		🇸🇪58Mb | Cloudflare	www.speedtest.net	443
-FAIL	NO	NO			3668	56		🇭🇰56Mb | Cloudflare	151.158.0.83	8443
+FAIL	NO	NO			43	399		🇸🇪399Mb | Cloudflare	188.114.98.0	443
+FAIL	NO	NO			654	324		🇩🇪324Mb | Fzco	geminilanzerotte.live	443
+WORKS	NO	YES			1530	319		🇵🇱319Mb | MEVSPACE sp z oo	80.47.7.216	443
+WORKS	YES	YES	84.23.52.120	RU	2505	303	8	🇷🇺303Mb | VK	84.23.52.120	34443
+WORKS	NO	YES			3187	287		🇱🇻287Mb | Sia Nano IT	185.81.129.161	443
+FAIL	NO	NO			4003	280		🇦🇹280Mb | FDCserversnet	189.74.115.2	443
+FAIL	NO	NO			439	276		🇩🇪276Mb | Fzco	177.3.222.204	443
+WORKS	NO	YES			3157	275		🇱🇻275Mb | Sia Nano IT	lite.3apes.pro	443
+WORKS	YES	YES	185.81.129.167	LV	745	265	2	🇱🇻265Mb | Sia Nano IT	185.81.129.162	443
+FAIL	NO	NO			4002	261		🇱🇻261Mb | Sia Nano IT	185.81.129.197	443
+FAIL	NO	NO			2157	242		🇷🇺242Mb | Cloudflare	104.18.33.116	2053
+WORKS	YES	NO			1613	224		🇺🇸224Mb | FDCserversnet	189.74.117.15	443
+WORKS	YES	YES	185.81.129.167	LV	1430	224	5	🇱🇻224Mb | Sia Nano IT	lt.3apes.pro	443
+FAIL	NO	NO			444	223		🇳🇱223Mb | AntiDDoS Networks	144.31.225.5	443
+FAIL	NO	NO			487	219		🌐219Mb | 0140 | 🇺🇸 USA | VLESS | 📺 YT |	187.54.12.146	10455
+WORKS	YES	YES	50.7.248.122	PL	716	181	1	🇵🇱181Mb | FDCserversnet	189.74.116.30	443
+WORKS	YES	YES	167.114.59.82	CA	1383	173	4	🇨🇦173Mb | OVH SAS	92.246.138.161	443
+FAIL	NO	NO			1050	169		🇺🇸169Mb | Unredacted	87.120.106.95	443
+FAIL	NO	NO			2086	168		🇳🇱168Mb | Cloudflare	104.20.30.179	2096
+FAIL	NO	NO			2089	166		🇷🇺166Mb | Cloudflare	104.19.52.70	8443
+FAIL	NO	NO			2049	156		🇩🇪156Mb | GTT Communications	154.197.64.252	443
+FAIL	NO	NO			2069	146		🇷🇺146Mb | Cloudflare	104.19.39.229	443
+FAIL	NO	NO			2069	144		🇷🇺144Mb | Cloudflare	162.159.135.234	2083
+FAIL	NO	NO			2047	131		🇷🇺131Mb | Cloudflare	104.18.34.16	443
+FAIL	NO	NO			2052	131		🇩🇪131Mb | Oracle	45.135.235.255	443
+WORKS	NO	NO			2890	123		🇱🇻123Mb | SIA VEESP	87.239.111.174	443
+WORKS	YES	YES	31.76.91.247	JP	1666	121	6	🇯🇵121Mb | Akenai Products	185.135.82.166	443
+FAIL	NO	NO			1020	117		🇺🇸117Mb | Unredacted	87.120.106.95	443
+FAIL	NO	NO			2067	116		🇩🇪116Mb | Leaseweb Deutschland	185.18.250.2	443
+FAIL	NO	NO			590	75		🇧🇬75Mb | Neterra	newbulg.live	443
+FAIL	NO	NO			4003	74		🇮🇱74Mb | BlueVPS OU	160.5.217.235	18571
+WORKS	NO	YES			1579	74		🇱🇻74Mb | SIA VEESP	84.23.54.115	443
+FAIL	NO	NO			2051	66		🇷🇺66Mb | Cloudflare	172.64.152.52	443
+WORKS	NO	YES			965	60		🇦🇪60Mb | Cgi Global Limited	80.240.97.34	6443
+FAIL	NO	NO			427	58		🇺🇸58Mb | Timeweb LLP	186.246.20.223	443
+WORKS	YES	YES	13.143.239.90	EE	2406	57	7	🇪🇪57Mb | Astra Networks	13.143.239.90	443
+FAIL	NO	NO			541	54		🇧🇬54Mb | Neterra	87.121.112.39	443
+WORKS	YES	YES	151.243.232.250	PL	1151	50	3	🇵🇱50Mb | HZ Hosting	85.234.86.178	6443
+WORKS	NO	YES			928	49		🇫🇷49Mb | Wedeploy SAS	fr.extremumnews.com	6443
