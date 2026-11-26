@@ -1,10 +1,45 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES			746	396		🇷🇺396Mb | Jsc timeweb	147.45.98.78	443
-WORKS	YES	YES	141.227.131.203	NL	488	361	2	🇫🇷361Mb | OVH SAS	cdn-nl.vpnserverhub.com	8080
-FAIL	NO	NO			2064	196		🇸🇪196Mb | Cloudflare	188.114.98.0	443
-FAIL	NO	NO			4003	168		🇹🇼168Mb | AKILE	216.23.109.20	22510
-WORKS	YES	YES	43.229.150.44	TH	1148	166	3	🇹🇭166Mb | Siamdata Communication CoLtd	108.138.26.63	80
-WORKS	YES	YES	144.31.54.117	NL	423	162	1	🇳🇱162Mb | Play2go International Limited	144.31.203.145	443
-WORKS	YES	YES	103.253.24.167	SG	1183	151	4	🇸🇬151Mb | EN Technologies Pte	104.17.3.81	80
-FAIL	NO	NO			2049	92		🇸🇪92Mb | Cloudflare	172.64.154.113	8443
-FAIL	NO	NO			510	72		🇺🇸72Mb | Route 95	us-05.avroraservice.online	8443
+FAIL	NO	NO			441	437		🇫🇷437Mb | OVH SAS	cdn-nl.vpnserverhub.com	8080
+FAIL	NO	NO			385	421		🇫🇮421Mb | Fzco	87.121.89.165	443
+FAIL	NO	NO			3490	419		🇷🇺419Mb | Kviktel	45.132.177.16	443
+FAIL	NO	NO			644	363		🇦🇹363Mb | M247 Europe SRL	ancient-haze-d203.vpnetwork3567.workers.dev	443
+FAIL	NO	NO			3496	347		🇷🇺347Mb | Kviktel	45.132.176.123	443
+FAIL	NO	NO			3555	345		🇷🇺345Mb | Kviktel	77.223.118.5	443
+FAIL	NO	NO			2131	340		🇷🇺340Mb | Cloudflare	188.114.98.112	80
+FAIL	NO	NO			2278	328		🇷🇺328Mb | Cloudflare	www.shopify.com	2083
+FAIL	NO	NO			2061	326		🇬🇧326Mb | Aeza Group	5.35.8.37	8444
+FAIL	NO	NO			1430	317		🇷🇺317Mb | Aeza Group	130.193.35.149	8444
+FAIL	NO	NO			2149	293		🇳🇱293Mb | Cloudflare	104.21.227.134	80
+FAIL	NO	NO			2121	293		🇳🇱293Mb | Cloudflare	188.114.97.6	8080
+FAIL	NO	NO			777	286		🇷🇺286Mb | Aeza Group	hel.softriver.site	443
+FAIL	NO	NO			2157	258		🇩🇪258Mb | Cloudflare	104.18.1.1	2083
+FAIL	NO	NO			3553	245		🇵🇱245Mb | Cloud Solutions Global	31.177.111.226	443
+FAIL	NO	NO			647	230		🇷🇺230Mb | Aeza Group	193.188.22.10	443
+FAIL	NO	NO			2109	228		🇫🇷228Mb | Cgi Global Limited	104.26.7.96	8443
+FAIL	NO	NO			2103	224		🇩🇪224Mb | Cloudflare	104.26.6.109	2053
+WORKS	YES	YES	95.216.142.234	FI	650	215	3	🇫🇮215Mb | Hetzner Online	153.56.231.124	443
+FAIL	NO	NO			3441	186		🇨🇭186Mb | Cloudflare	87.120.222.199	443
+FAIL	NO	NO			4003	183		🇺🇸183Mb | Route 95	193.233.223.231	8443
+FAIL	NO	NO			2093	175		🇷🇺175Mb | Cloudflare	8.6.112.0	443
+FAIL	NO	NO			2692	171		🇷🇺171Mb | Cloudflare	ip13.shabkhosh.sbs	443
+FAIL	NO	NO			2095	170		🇯🇵170Mb | Alibaba (US) Technology Co	172.66.47.74	2083
+FAIL	NO	NO			2089	169		🇷🇺169Mb | Cloudflare	172.66.0.230	2083
+WORKS	YES	YES	103.253.24.167	SG	1969	165	4	🇸🇬165Mb | EN Technologies Pte	104.17.3.81	80
+FAIL	NO	NO			443	161		🇫🇮161Mb | Hetzner Online	77.90.10.45	8080
+WORKS	NO	NO			2580	147		🇳🇱147Mb | WAIcore	r01.vesnagate.site	8888
+FAIL	NO	NO			2089	139		🇷🇺139Mb | Cloudflare	8.35.211.36	2087
+FAIL	NO	NO			2118	138		🇷🇺138Mb | Cloudflare	162.159.130.234	8443
+FAIL	NO	NO			2753	138		🇷🇺138Mb | Cloudflare	saas.sin.fan	2096
+WORKS	YES	YES			1487	127		🇳🇱127Mb | Cloudflare	178.217.98.134	443
+FAIL	NO	NO			1807	122		🇫🇮122Mb | Edge Core FZE	78ec29x.fi16.h1clayd.click	443
+FAIL	NO	NO			2086	121		🇫🇷121Mb | Cgi Global Limited	188.114.97.26	2087
+WORKS	YES	YES	179.236.147.217	US	1093	108	1	🇺🇸108Mb | DpkgSoft International Limited	48.102.133.177	443
+WORKS	YES	YES	89.40.31.54	CA	459	107	2	🇨🇦107Mb | HosterDaddy Private Limited	89.40.31.54	443
+FAIL	NO	NO			2085	105		🇳🇱105Mb | Cloudflare	172.67.74.90	443
+FAIL	NO	NO			2089	88		🇷🇺88Mb | Cloudflare	8.35.211.188	8443
+FAIL	NO	NO			2091	83		🇷🇺83Mb | Cloudflare	104.19.56.112	443
+FAIL	NO	NO			2093	81		🇩🇪81Mb | Hetzner Online	172.67.74.177	2083
+FAIL	NO	NO			2304	80		🇷🇺80Mb | Cloudflare	saas.sin.fan	8443
+FAIL	NO	NO			2170	74		🇩🇪74Mb | Cloudflare	162.159.254.201	443
+FAIL	NO	NO			1684	65		🇩🇪65Mb | First Server Sociedad Limitada	178.253.52.151	8443
+WORKS	NO	NO			3138	58		🇫🇮58Mb | Edge Core FZE	468bc3g.fi16.h1clayd.click	443

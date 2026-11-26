@@ -1,4 +1,4 @@
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@144.31.203.145:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=MAcch2LXcj3xo0ZZQIBvxS4GptpZ9ipzFNNn2BUa6mg&sid=a54ec85c94547b17&sni=nemicro543.aidating.am#🇳🇱NL | 162Mb | 423ms | Play2go International Limited
-vless://b4ce0b7d-6e59-4f35-83b3-d921486e42c3@cdn-nl.vpnserverhub.com:8080?type=ws&path=%2Fvpn-secure-cdn&security=none#🇳🇱NL | 361Mb | 488ms | OVH SAS
-vless://05f53797-bd04-4006-8a78-41c071e67837@108.138.26.63:80?type=ws&path=%2Ftikvpn2%2F&host=d27g7kjkk3cw22.cloudfront.net#🌐TH | 166Mb | 1148ms | Siamdata Communication CoLtd
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&host=sg-vless-ws.bypass.id#🇸🇬SG | 151Mb | 1183ms | EN Technologies Pte
+vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@48.102.133.177:443?flow=xtls-rprx-vision&fp=firefox&pbk=HSJUGn3x8tOGS-8PsKu8xgmakV988XKhDGXolBmbj1M&security=reality&sid=858614add772c0d8&sni=nehor730.gangtype.com&type=raw#🇺🇸US | 108Mb | 1093ms | DpkgSoft International Limited
+vless://53cef1c5-c3db-4ba2-908f-f62351ee1c52@89.40.31.54:443?flow=xtls-rprx-vision&fp=firefox&pbk=fZZx3tJHWY0booB9erIuAbJ7lohhGx9s9q3CxsyaaRE&security=reality&sid=a085b7e1f7cbd2&sni=vesnagate.site&type=raw#🌐CA | 107Mb | 459ms | HosterDaddy Private Limited
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@153.56.231.124:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=tZoiwNSZeaVBoLJJcXe9A-GzCtbvU95fKkAJLc0vrgU&sid=6fddab1e1e358290&sni=f309e0t.fi4.h1clayd.click#🇫🇮FI | 215Mb | 650ms | Hetzner Online
+vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&sni=sg-vless-ws.bypass.id&host=sg-vless-ws.bypass.id#🇸🇬SG | 165Mb | 1969ms | EN Technologies Pte
