@@ -1,46 +1,118 @@
 status	gemini	instagram	egress_ip	country	latency_ms	upstream_speed_mbps	rank	tag	host	port
-WORKS	YES	YES	186.246.61.219	NL	791	383	10	🇷🇺383Mb | Timeweb LLP	85.193.80.59	443
-WORKS	YES	YES	5.39.202.122	CZ	631	283	15	🇨🇿283Mb | GamerHost sro	5.39.202.153	443
-WORKS	NO	YES			1248	239		🇩🇪239Mb | Hetzner Online	81.12.34.74	5565
-FAIL	NO	NO			2091	233		🇳🇱233Mb | Cloudflare	172.66.47.74	2083
-FAIL	NO	NO			4003	221		🇭🇰221Mb | Amazoncom	hk4.oh-node.com	443
-WORKS	YES	YES	5.39.202.122	CZ	646	194	16	🇨🇿194Mb | GamerHost sro	czek.oblachniy.ink	443
-WORKS	YES	YES	31.76.249.96	DE	646	190	5	🇩🇪190Mb | Akenai Products	31.76.249.96	443
-FAIL	NO	NO			4003	178		🇩🇪178Mb | Hetzner Online	mos02.electrowizard.ir	4998
-WORKS	NO	YES			1420	177		🇩🇪177Mb | Hetzner Online	test03.electrowizard.ir	5556
-WORKS	YES	YES	31.59.156.57	US	354	177	1	🇨🇦177Mb | Vladislav Doniy	31.59.156.57	443
-FAIL	NO	NO			4003	174		🇲🇾174Mb | Microsoft	my2.oh-node.com	443
-FAIL	NO	NO			4004	174		🇲🇾174Mb | Microsoft	my1.oh-node.com	443
-FAIL	NO	NO			4003	171		🇸🇬171Mb | Amazoncom	sg1.oh-node.com	443
-WORKS	YES	YES	217.60.32.33	NL	636	163	9	🇳🇱163Mb | ExpressHost	217.60.32.43	443
-WORKS	NO	YES			835	157		🇱🇹157Mb | Hostline Uab	88.119.176.64	443
-FAIL	NO	NO			4002	156		🇭🇰156Mb | Microsoft	hk6.oh-node.com	443
-WORKS	YES	YES	94.183.164.19	IR	591	156	13	🇳🇱156Mb | Vladislav Doniy	94.183.164.13	443
-WORKS	YES	YES	31.59.156.57	US	364	149	2	🇨🇦149Mb | Vladislav Doniy	canadizian.harcho.shop	443
-WORKS	YES	YES	31.77.153.102	DE	755	146	6	🇩🇪146Mb | Akenai Products	31.59.179.113	443
-FAIL	NO	NO			3878	143		🇦🇪143Mb | Geodema Group	87.242.95.83	443
-FAIL	NO	NO			4002	132		🇯🇵132Mb | Amazoncom	jp4.oh-node.com	443
-FAIL	NO	NO			4002	130		🇭🇰130Mb | Microsoft	hk5.oh-node.com	443
-WORKS	YES	YES	150.241.74.157	SE	1111	124	19	🇺🇸124Mb | Servhost Group	136.234.173.231	8881
-WORKS	YES	YES	191.217.216.109	NL	1048	120	11	🇳🇱120Mb | Akenai Products	185.86.147.80	9447
-FAIL	NO	NO			680	118		🇹🇷118Mb | G-Core Labs	trn36.mobileemdad.top	443
-WORKS	YES	YES	34.93.76.68	IN	946	118	17	🇮🇳118Mb | Google	wt2561az.thewalkingded.life	443
-WORKS	NO	YES			1028	111		🇸🇬111Mb | EN Technologies Pte	104.17.3.81	80
-WORKS	YES	YES	216.219.92.133	US	1242	105	4	🇺🇸105Mb | Interserver	e293c7t.us3.h1clayd.click	443
-FAIL	NO	NO			3060	103		🇯🇵103Mb | FDCserversnet	50.7.159.242	443
-FAIL	NO	NO			4002	97		🇯🇵97Mb | Amazoncom	jp3.oh-node.com	443
-WORKS	YES	YES	216.219.92.133	US	996	90	3	🇺🇸90Mb | Interserver	45.86.158.201	443
-FAIL	NO	NO			778	89		🇩🇪89Mb | Akenai Products	185.86.147.80	5443
-FAIL	NO	NO			672	89		🇩🇪89Mb | Hetzner Online	static.124.36.245.188.clients.your-server.de	443
-WORKS	YES	YES	94.183.164.17	IR	609	89	14	🇳🇱89Mb | Vladislav Doniy	94.183.164.11	443
-WORKS	YES	YES	31.56.18.254	DE	982	85	7	🇩🇪85Mb | Akenai Products	185.86.147.80	9441
-FAIL	NO	NO			2062	80		🇰🇷80Mb | Tencent Building Kejizhongyi Avenue	104.26.13.54	443
-WORKS	YES	YES	129.101.120.16	NL	1383	78	12	🇸🇨78Mb | Timeweb LLP	yellow-5hmq5ehr3ievlnabv8l2.concept7.ru	443
-WORKS	NO	YES			981	76		🇩🇪76Mb | Akenai Products	37.139.42.227	7443
-WORKS	YES	YES	31.56.18.155	DE	1026	71	8	🇩🇪71Mb | Akenai Products	185.86.147.80	9445
-WORKS	NO	YES			1380	69		🇩🇪69Mb | Hetzner Online	test02.electrowizard.ir	5565
-FAIL	NO	NO			2044	68		🇰🇷68Mb | Tencent Building Kejizhongyi Avenue	104.25.128.15	443
-WORKS	YES	YES	104.28.225.221	SE	964	63	18	🇸🇪63Mb | Cloudflare	92.63.193.41	443
-FAIL	NO	NO			4002	61		🇫🇮61Mb | Edge Core FZE	a80b5386.fi16.h1clayd.click	443
-FAIL	NO	NO			1050	56		🇹🇷56Mb | Big Core	raha.ertebatgoostar.ir	80
-FAIL	NO	NO			805	51		🇫🇮51Mb | Edge Core FZE	78ec29x.fi16.h1clayd.click	443
+FAIL	NO	NO			52	404		🇸🇪404Mb | Cloudflare	188.114.98.0	443
+FAIL	NO	NO			2132	386		🇸🇪386Mb | Cloudflare	104.19.173.68	8080
+WORKS	YES	YES	104.28.219.140	NL	2002	362	16	🇳🇱362Mb | Cloudflare	178.217.98.67	443
+WORKS	YES	YES	195.28.182.103	UA	1183	347	30	🇺🇦347Mb | Route 95	48.102.218.168	7444
+FAIL	NO	NO			2159	347		🇷🇺347Mb | Cloudflare	radar.cloudflare.com	8080
+WORKS	YES	YES	13.143.239.106	EE	1721	335	35	🇪🇪335Mb | Astra Networks	132.243.67.164	443
+FAIL	NO	NO			501	333		🇫🇷333Mb | Datacamp Limited	194.87.242.23	443
+WORKS	NO	NO			4248	331		🇳🇱331Mb | Digital Hosting Provider	82.202.130.117	443
+WORKS	YES	NO			1507	321		🇰🇿321Mb | PS Internet Company LLP	212.116.234.66	443
+FAIL	NO	NO			4003	320		🇳🇱320Mb | Vladislav Doniy	94.183.164.10	443
+WORKS	YES	NO			1395	314		🇷🇺314Mb | YandexCloud	84.201.130.151	443
+FAIL	NO	NO			735	302		🇫🇮302Mb | Hetzner Online	gcore.com	443
+FAIL	NO	NO			2155	299		🇸🇪299Mb | Cloudflare	www.digitalocean.com	8080
+WORKS	YES	YES	94.183.164.17	IR	2727	293	38	🇳🇱293Mb | Vladislav Doniy	94.183.164.11	443
+WORKS	YES	YES	104.28.219.140	NL	1603	290	15	🇳🇱290Mb | Cloudflare	195.209.217.222	443
+WORKS	YES	YES	51.21.171.162	SE	1150	283	29	🇸🇪283Mb | Amazoncom	ws.dhafhdtjdti.site	2053
+FAIL	NO	NO			2138	276		🇸🇪276Mb | Cloudflare	104.19.174.68	8080
+FAIL	NO	NO			4002	276		🇳🇱276Mb | Vladislav Doniy	94.183.164.13	443
+WORKS	YES	YES	144.31.187.102	DE	2118	271	11	🇩🇪271Mb | DpkgSoft International Limited	176.108.245.146	443
+WORKS	YES	YES	185.231.233.139	PT	826	254	23	🇵🇹254Mb | BrainStorm Network	84.32.108.50	443
+WORKS	YES	YES	179.236.147.217	US	1172	252	3	🇺🇸252Mb | DpkgSoft International Limited	77.239.109.24	443
+WORKS	YES	YES	95.133.240.117	GB	571	251	6	🇬🇧251Mb | Packet Star Networks Limited	95.133.240.118	2053
+FAIL	NO	NO			2323	240		🇷🇺240Mb | Cloudflare	leviko-us6278.shopingggg.ir	8443
+FAIL	NO	NO			2256	237		🇸🇪237Mb | Cloudflare	www.speedtest.net	443
+WORKS	YES	YES	84.32.189.88	NL	582	234	14	🇳🇱234Mb | Cherry Servers	84.32.96.171	443
+WORKS	YES	YES	50.7.88.235	DE	809	233	8	🇩🇪233Mb | FDCserversnet	api.setevoypriliv.cc	443
+FAIL	NO	NO			2899	228		🇸🇪228Mb | Cloudflare	ip13.shabkhosh.sbs	443
+WORKS	YES	YES	45.86.74.204	CY	1214	225	31	🇺🇸225Mb | NetCrafters OU	176.109.103.238	443
+WORKS	YES	YES	147.78.1.73	MX	1048	223	28	🇲🇽223Mb | BrainStorm Network	64.130.46.4	443
+WORKS	YES	YES	147.45.66.200	DE	1555	222	10	🇩🇪222Mb | Global Connectivity Solutions Llp	147.45.66.200	443
+FAIL	NO	NO			2787	220		🇸🇪220Mb | AdaptGroup	187.54.11.144	443
+FAIL	NO	NO			657	220		🇩🇪220Mb | AdaptGroup	130.78.23.3	443
+FAIL	NO	NO			4002	216		🇸🇬216Mb | EN Technologies Pte	104.17.3.81	80
+WORKS	YES	YES	144.31.249.159	FI	4490	214	39	🇺🇸214Mb | Servhost Group	144.31.249.159	2053
+WORKS	YES	YES	147.78.1.73	MX	1167	212		🇲🇽212Mb | BrainStorm Network	84.32.108.50	443
+WORKS	YES	YES	167.150.100.106	SG	1252	207		🇸🇬207Mb | BrainStorm Network	84.32.108.50	443
+FAIL	NO	NO			889	206		🇩🇪206Mb | Hetzner Online	81.12.34.93	5565
+WORKS	YES	YES	84.32.70.25	US	211	196	1	🇺🇸196Mb | Cherry Servers	84.32.129.127	443
+WORKS	NO	YES			330	195		🇨🇦195Mb | Vladislav Doniy	canadizian.harcho.shop	443
+WORKS	YES	YES	144.31.241.195	PL	708	193	19	🇺🇸193Mb | Servhost Group	144.31.241.8	443
+FAIL	NO	NO			2084	192		🇷🇺192Mb | Cloudflare	172.64.153.205	2087
+WORKS	NO	YES			292	189		🇨🇦189Mb | Vladislav Doniy	31.59.156.57	443
+FAIL	NO	NO			2212	187		🇳🇱187Mb | Cloudflare	www.visa.com	2083
+FAIL	NO	NO			2787	185		🇸🇪185Mb | AdaptGroup	187.54.11.143	443
+WORKS	NO	YES			665	183		🇩🇪183Mb | Cloudflare	31.76.16.155	443
+WORKS	YES	YES			724	183		🇩🇪183Mb | Salimgareyev Vladislav Pavlovich	static.lantri.buzz	443
+FAIL	NO	NO			4003	173		🇵🇱173Mb | Moskalev Georgiy	87.242.102.222	443
+FAIL	NO	NO			4003	171		🇫🇮171Mb | PowerRDP Network	31.207.77.142	443
+WORKS	YES	YES	171.22.128.149	DE	2871	171	13	🇨🇾171Mb | NetCrafters OU	83.141.86.180	443
+FAIL	NO	NO			707	170		🇵🇱170Mb | H2nexus Cloud Services - Fzco	188.225.34.220	443
+WORKS	YES	YES	85.120.252.15	MD	969	169	26	🇷🇴169Mb | Alexhost Srl	molda.thewalkingded.life	443
+WORKS	YES	YES	204.115.18.142	CA	645	169	18	🇭🇰169Mb | AdaptGroup	204.115.18.142	443
+WORKS	YES	YES	109.61.127.246	KR	1599	166		🇰🇷166Mb | G-Core Labs	84.32.108.50	443
+WORKS	YES	YES	91.192.159.151	FI	1358	163	32	🇦🇲163Mb | NetCrafters OU	91.192.158.104	443
+FAIL	NO	NO			4002	159		🇩🇪159Mb | Akenai Products	185.86.147.80	9443
+WORKS	NO	YES			835	159		🇱🇹159Mb | Hostline Uab	88.119.176.64	443
+WORKS	NO	YES			1423	156		🇺🇸156Mb | Unredacted	brooded-plod.sports-streams.org	443
+WORKS	YES	YES	187.54.4.42	US	758	156	2	🇧🇬156Mb | AdaptGroup	187.54.4.37	443
+FAIL	NO	NO			2148	152		🇸🇪152Mb | Cloudflare	www.speedtest.net	443
+FAIL	NO	NO			2788	151		🇸🇪151Mb | AdaptGroup	187.54.11.145	443
+FAIL	NO	NO			4003	149		🇩🇪149Mb | Akenai Products	31.59.179.113	443
+WORKS	YES	YES	144.31.249.159	FI	2554	145	37	🇺🇸145Mb | Servhost Group	144.31.249.159	443
+FAIL	NO	NO			2173	144		🇸🇪144Mb | Cloudflare	ip13.shabkhosh.sbs	443
+FAIL	NO	NO			2083	143		🇷🇺143Mb | Cloudflare	172.64.154.113	8443
+WORKS	YES	YES	45.81.154.16	CA	1708	141	34	🇨🇦141Mb | ZhouyiSat Communications	185.218.17.172	443
+FAIL	NO	NO			1095	140		🇺🇸140Mb | Unredacted	87.120.106.95	443
+FAIL	NO	NO			3186	139		🇸🇪139Mb | Cloudflare	saas.sin.fan	2053
+WORKS	YES	YES	187.54.4.42	US	1301	137	4	🇧🇬137Mb | AdaptGroup	187.54.4.40	443
+WORKS	YES	YES	46.16.129.37	TH	1425	135		🇹🇭135Mb | BrainStorm Network	64.130.46.4	443
+WORKS	YES	YES	217.60.148.73	IN	1020	132	27	🇮🇳132Mb | AdaptGroup	217.60.148.73	443
+WORKS	YES	YES	80.240.101.107	ZA	1584	130	33	🇿🇦130Mb | G-Core Labs	88.216.72.171	443
+WORKS	YES	YES	85.120.252.15	MD	858	129	24	🇷🇴129Mb | Alexhost Srl	85.120.252.86	443
+WORKS	YES	YES	94.183.179.239	GB	726	129	7	🇬🇧129Mb | Akenai Products	48.102.240.1	443
+WORKS	YES	YES	23.191.200.209	US	1438	127	5	🇺🇸127Mb | Unredacted	87.120.106.95	443
+WORKS	YES	YES	46.16.131.178	IE	707	123		🇮🇪123Mb | BrainStorm Network	84.32.108.50	443
+FAIL	NO	NO			4003	120		🇺🇸120Mb | Node Host Limited	150.241.87.51	443
+WORKS	NO	YES			3402	116		🇸🇪116Mb | Aeza Group	81.177.215.81	443
+FAIL	NO	NO			4002	115		🇳🇱115Mb | Salimgareyev Vladislav Pavlovich	static.lormit.digital	443
+WORKS	YES	YES	86.54.82.50	CZ	797	115		🇨🇿115Mb | BrainStorm Network	88.216.72.171	443
+FAIL	NO	NO			893	114		🇫🇮114Mb | Edge Core FZE	78ec29x.fi16.h1clayd.click	443
+WORKS	YES	NO			1791	113		🇩🇪113Mb | Salimgareyev Vladislav Pavlovich	static.amberlo.pro	443
+WORKS	YES	YES	37.143.131.52	CH	636	113		🇨🇭113Mb | BrainStorm Network	84.32.108.50	443
+FAIL	NO	NO			4002	111		🇺🇸111Mb | Servhost Group	48.102.50.103	2053
+FAIL	NO	NO			4003	111		🇷🇺111Mb | Kviktel	176.114.83.141	443
+FAIL	NO	NO			4002	110		🇩🇪110Mb | Akenai Products	185.86.147.80	9445
+WORKS	NO	YES			831	104		🇷🇴104Mb | Zergrush Srl	193.168.140.228	443
+WORKS	YES	YES	185.90.61.41	NO	711	103		🇳🇴103Mb | BrainStorm Network	84.32.108.50	443
+WORKS	YES	YES	185.246.131.70	BG	815	102		🇧🇬102Mb | BrainStorm Network	88.216.72.171	443
+FAIL	NO	NO			1423	102		🇩🇪102Mb | Hetzner Online	test03.electrowizard.ir	5556
+WORKS	NO	NO			2425	96		🇩🇪96Mb | Akenai Products	185.86.147.80	9442
+WORKS	YES	YES	185.90.61.41	NO	749	96		🇳🇴96Mb | BrainStorm Network	88.216.72.171	443
+FAIL	NO	NO			1110	94		🇩🇪94Mb | Hetzner Online	test02.electrowizard.ir	5565
+WORKS	YES	YES	103.80.48.233	TH	803	90	21	🇹🇭90Mb | PTE Group Co	103.80.48.233	443
+FAIL	NO	NO			4002	89		🇹🇷89Mb | Fiba Cloud Operation Company	103.83.87.152	443
+WORKS	YES	YES	147.45.63.144	DE	2268	84	12	🇩🇪84Mb | Digital Hosting Provider	193.233.75.77	443
+FAIL	NO	NO			4002	84		🇳🇱84Mb | Vladislav Doniy	31.59.157.24	443
+FAIL	NO	NO			522	82		🇭🇰82Mb | HKT Limited	125.230.79.123	30103
+WORKS	YES	YES	23.191.200.209	US	1484	80		🇺🇸80Mb | Unredacted	87.120.106.95	443
+WORKS	YES	YES	31.77.238.26	LT	903	80	25	🇺🇸80Mb | Servhost Group	144.31.243.187	443
+FAIL	NO	NO			1013	78		🇺🇸78Mb | Akari Networks	125.230.79.123	30701
+WORKS	YES	YES	200.96.108.89	DE	1409	77	9	🇩🇪77Mb | Salimgareyev Vladislav Pavlovich	200.96.108.89	443
+WORKS	YES	YES	103.106.231.43	AU	1857	77		🇦🇺77Mb | BrainStorm Network	88.216.72.171	443
+WORKS	YES	YES	145.249.109.248	ES	1945	76	36	🇷🇺76Mb | Global Connectivity Solutions Llp	145.249.109.248	443
+FAIL	NO	NO			4002	76		🇨🇿76Mb | GamerHost sro	czek.oblachniy.ink	443
+WORKS	NO	YES			1917	74		🇳🇱74Mb | Vladislav Doniy	31.59.157.25	443
+FAIL	NO	NO			4003	73		🇫🇮73Mb | Edge Core FZE	153.56.231.174	443
+WORKS	YES	YES	143.246.195.2	SE	820	72	22	🇸🇪72Mb | Alexhost Srl	143.246.195.83	8448
+WORKS	YES	YES	13.141.37.4	FR	779	66	20	🇳🇱66Mb | H1cloud	13.141.36.43	443
+FAIL	NO	NO			4003	63		🇫🇮63Mb | Edge Core FZE	a80b5386.fi16.h1clayd.click	443
+WORKS	NO	YES			636	63		🇳🇱63Mb | Salimgareyev Vladislav Pavlovich	185.141.34.94	443
+FAIL	NO	NO			4003	61		🇫🇮61Mb | Edge Core FZE	468bc3g.fi16.h1clayd.click	443
+WORKS	YES	YES	104.28.218.38	NL	3137	61	17	🇳🇱61Mb | Cloudflare	138.16.180.250	443
+WORKS	YES	YES	185.236.25.8	ES	4646	60	40	🇪🇸60Mb | ZhouyiSat Communications	193.233.248.231	443
+FAIL	NO	NO			494	60		🇭🇰60Mb | Akari Networks	125.230.79.123	30101
+WORKS	NO	NO			5007	58		🇳🇱58Mb | Akenai Products	185.86.147.80	9447
+FAIL	NO	NO			1603	57		🇹🇼57Mb | AKILE	125.230.79.123	30202
+WORKS	NO	YES			313	53		🇺🇸53Mb | Unredacted	176.126.122.236	443
