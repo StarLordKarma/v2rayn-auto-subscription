@@ -10,7 +10,7 @@ import time
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
-from urllib.parse import parse_qs, unquote, urlsplit, urlunsplit
+from urllib.parse import parse_qs, quote, unquote, urlsplit, urlunsplit
 
 PRIORITY_COUNTRIES = {"US": 0, "GB": 1, "DE": 2, "CH": 3, "NL": 4, "NO": 5}
 COUNTRY_FLAGS = {
@@ -52,7 +52,16 @@ def build_config(link, listen_port):
             "shortId": q1(q, "sid", ""),
             "spiderX": q1(q, "spx", ""),
         }
-    if network == "ws":
+    if security == "tls":
+        stream["tlsSettings"] = {"serverName": q1(q, "sni", host), "fingerprint": q1(q, "fp", "chrome")}
+        if q1(q, "alpn"):
+            stream["tlsSettings"]["alpn"] = q1(q, "alpn").split(",")
+    if network in {"xhttp", "splithttp"}:
+        stream["network"] = "xhttp"
+        stream["xhttpSettings"] = {"path": q1(q, "path", "/"), "host": q1(q, "host", ""), "mode": q1(q, "mode", "auto")}
+        if q1(q, "extra"):
+            stream["xhttpSettings"]["extra"] = json.loads(q1(q, "extra"))
+    elif network == "ws":
         stream["wsSettings"] = {
             "path": q1(q, "path", "/"),
             "headers": {"Host": q1(q, "host", "")} if q1(q, "host", "") else {},
@@ -80,7 +89,7 @@ def curl_probe(proxy, url, timeout, want_body=False):
     cmd = [
         "curl", "-sS", "-L", "--connect-timeout", "4", "--max-time", str(timeout),
         "-A", "Mozilla/5.0 (Macintosh; Apple Silicon Mac OS X) AppleWebKit/537.36 Chrome/151 Safari/537.36",
-        "-x", proxy,
+        "--noproxy", "", "-x", proxy,
     ]
     if want_body:
         cmd += ["-w", "\n" + fmt, url]
@@ -205,7 +214,7 @@ def retag_link(link, country, latency, original_tag):
     speed_text = f"{int(speed) if speed.is_integer() else speed:g}Mb" if speed else "?Mb"
     clean_tag = re.sub(r"^[^|]*\|\s*", "", original_tag).strip() or (u.hostname or "server")
     new_tag = f"{flag}{country or '??'} | {speed_text} | {int(round(latency * 1000))}ms | {clean_tag}"
-    return urlunsplit((u.scheme, u.netloc, u.path, u.query, new_tag))
+    return urlunsplit((u.scheme, u.netloc, u.path, u.query, quote(new_tag, safe="")))
 
 
 def main():
@@ -231,8 +240,8 @@ def main():
     good = [r for r in results if r[1] and r[2] and r[3] and r[4]]
     geo = geolocate_ips([r[4] for r in good])
     good = [r for r in good if geo.get(r[4])]
-    good = unique_by_endpoint(good)
     good.sort(key=lambda r: (PRIORITY_COUNTRIES.get(geo.get(r[4], ""), 99), r[5], -speed_value(r[7]), r[0]))
+    good = unique_by_endpoint(good)
 
     output_links = [retag_link(r[6], geo.get(r[4], ""), r[5], r[7]) for r in good]
     raw = "".join(x + "\n" for x in output_links)
